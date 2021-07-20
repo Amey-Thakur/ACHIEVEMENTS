@@ -48,6 +48,10 @@
  
   [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
   
+**University of Toronto**
+
+  [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU)
+
 **University of Virginia**
 
   [Design Thinking for Innovation](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR)
