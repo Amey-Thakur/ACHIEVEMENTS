@@ -2,13 +2,13 @@
  My Certifications and Achievements.
 
 ### COE Pune
- TechGyan COE Pune [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
+ 1. TechGyan COE Pune [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
 ### Coursera
 
 **Amazon Web Services (AWS)**
 
-  [Getting Started with AWS Machine Learning](coursera.org/verify/LTPNNKWZ3U33)
+  1. [Getting Started with AWS Machine Learning](coursera.org/verify/LTPNNKWZ3U33)
   
 **DeepLearning.AI**
 
@@ -23,10 +23,10 @@
 [AI For Everyone](coursera.org/verify/LDQXCRKND3QY)
 
 ### Google
- [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
+ 1. [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
  
 ### IBM
- IBM Training - [Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+ 1. IBM Training - [Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
  
 ### IIT Bombay
  1. [Android App Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Android%20App%20Development.pdf)
@@ -36,7 +36,7 @@
  5. [Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
 
 ### Intel
- Intel® AI Academy - [AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+ 1. Intel® AI Academy - [AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
 
 ### MathWorks
  1. [Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
@@ -44,7 +44,7 @@
  3. [Machine Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Machine%20Learning%20Onramp.pdf)
  
 ### Microsoft
- [Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
+ 1. [Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
 
 ### Research Papers
  1. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) - IJRASET-V9I7 - [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
@@ -61,4 +61,4 @@
  3. [Project Planning Management with Microsoft Project](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Project%20Planning%20Management%20with%20Microsoft%20Project.pdf)
 
 ### Udemy
- [Mobile App Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Udemy/Udemy%20Mobile%20App%20Development.pdf)
+ 1. [Mobile App Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Udemy/Udemy%20Mobile%20App%20Development.pdf)
