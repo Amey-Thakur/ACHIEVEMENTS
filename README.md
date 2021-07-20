@@ -48,6 +48,14 @@
  
   [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
   
+**University of Virginia**
+
+  [Design Thinking for Innovation](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR)
+  
+  [How Things Work: An Introduction to Physics](https://www.coursera.org/account/accomplishments/verify/CUH8YZ2P28HR)
+
+  [Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/verify/854M3U9N26P8)
+
 **Yale University**
 
   [Climate Change and Health: From Science to Action](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
