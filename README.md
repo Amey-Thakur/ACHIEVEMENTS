@@ -6,7 +6,7 @@
 
 ### Coursera
 
-**Amazon Web Services (AWS)
+**Amazon Web Services (AWS)**
 
   [Getting Started with AWS Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Amazon%20Web%20Services%20(AWS)/Coursera%20Getting%20Started%20with%20AWS%20Machine%20Learning.pdf)
 
