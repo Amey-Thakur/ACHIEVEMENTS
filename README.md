@@ -4,6 +4,10 @@
 ### COE Pune
  TechGyan COE Pune [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
+### Coursera
+ ####Amazon Web Services (AWS)
+  [Getting Started with AWS Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Amazon%20Web%20Services%20(AWS)/Coursera%20Getting%20Started%20with%20AWS%20Machine%20Learning.pdf)
+
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
  
