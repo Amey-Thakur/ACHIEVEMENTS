@@ -29,6 +29,15 @@
 ### Microsoft
  [Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
 
+### Research Papers
+ [IJRASET-V9I7 - Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
+ 
+ [IRJET-V8I6 - Chat Room using HTML, PHP, CSS, JS, AJAX](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf)
+ 
+ [IJRASET-V9I7 - Digital Bookstore](https://doi.org/10.22214/ijraset.2021.36609)
+ 
+ [IJEAST-V5I12 - White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf)
+
 ### Stanford University
  [XEE100 - 014 Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
 
