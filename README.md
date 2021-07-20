@@ -24,7 +24,7 @@
 
 **Imperial College London**
 
-  [Mathematics for Machine Learning](coursera.org/verify/specialization/YVQCTMVEVG2Q)
+  [Mathematics for Machine Learning Specialization](coursera.org/verify/specialization/YVQCTMVEVG2Q)
   
   1. [Mathematics for Machine Learning: Linear Algebra](coursera.org/verify/GQLQAYF5W5BQ)
   2. [Mathematics for Machine Learning: Multivariate Calculus](coursera.org/verify/RUVBN4MYLSUZ)
