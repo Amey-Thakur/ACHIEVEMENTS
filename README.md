@@ -21,6 +21,9 @@
  
  IITB [Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
 
+### Intel
+ Intel® AI Academy - [AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+
 ### MathWorks
  [Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
  
