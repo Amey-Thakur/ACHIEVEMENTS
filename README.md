@@ -18,6 +18,14 @@
  
  [IITB Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
 
+### MathWorks
+ [Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
+ [MATLAB Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/MATLAB%20Onramp.pdf)
+ [Machine Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Machine%20Learning%20Onramp.pdf)
+ 
+### Microsoft
+ [Mobile App Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Udemy/Udemy%20Mobile%20App%20Development.pdf)
+
 ### Stanford University
  [XEE100 - 014 Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
 
