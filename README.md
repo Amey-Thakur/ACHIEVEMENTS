@@ -13,6 +13,7 @@
 **DeepLearning.AI**
 
   [Deep Learning Specialization](coursera.org/verify/specialization/PX89ZDRRQ26Q)
+  
   1. [Neural Networks and Deep Learning](coursera.org/verify/JRHKYENFFMQG)
   2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](coursera.org/verify/E7QS9QXB8K67)
   3. [Structuring Machine Learning Projects](coursera.org/verify/XETHHMQP33K6)
@@ -25,7 +26,13 @@
 
   [Mathematics for Machine Learning](coursera.org/verify/specialization/YVQCTMVEVG2Q)
   
-  1. 
+  1. [Mathematics for Machine Learning: Linear Algebra](coursera.org/verify/GQLQAYF5W5BQ)
+  2. [Mathematics for Machine Learning: Multivariate Calculus](coursera.org/verify/RUVBN4MYLSUZ)
+  3. [Mathematics for Machine Learning: PCA](coursera.org/verify/32AKJ6T2WW28)
+
+[Building on the SIR Model](coursera.org/verify/9FZXUZEHWSBY)
+
+[Creative Thinking: Techniques and Tools for Success](coursera.org/verify/RFJN779ATXUZ)
 
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
