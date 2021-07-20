@@ -34,6 +34,10 @@
 
 [Creative Thinking: Techniques and Tools for Success](coursera.org/verify/RFJN779ATXUZ)
 
+**University of London**
+
+  [Understanding Research Methods](coursera.org/verify/N6K2A9X57ACS)
+
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
  
