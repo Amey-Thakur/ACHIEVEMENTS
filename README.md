@@ -14,82 +14,45 @@
   
 **Coursera Project Network**
 
-  [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
-  
-  [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
-  
-  [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
-  
-  [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
-  
-  [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B)
-  
-  [Build a Simple App in Android Studio with Java](https://www.coursera.org/account/accomplishments/verify/QGFJ4AA6YEP6)
-  
-  [Build an E-commerce Dashboard with Figma](https://www.coursera.org/account/accomplishments/verify/LCBRG8UVVCGA)
-  
-  [Building Candlestick Charts with Google Sheets](https://www.coursera.org/account/accomplishments/verify/PJ27769DCZYP)
-  
-  [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/AL59Q8FQVDNH)
-  
-  [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/account/accomplishments/verify/Z5EWBXLLHZJC)
-  
-  [Computer Vision - Image Basics with OpenCV and Python](https://www.coursera.org/account/accomplishments/verify/VDZDBTLSKP4U)
-  
-  [Computer Vision - Object Tracking with OpenCV and Python](https://www.coursera.org/account/accomplishments/certificate/AEC3KYW6XHCB)
-  
-  [Create Informative Presentations with Google Slides](https://www.coursera.org/account/accomplishments/verify/5BMHVF8D6WEU)
-  
-  [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/account/accomplishments/verify/GAWB9MQKHDYR)
-  
-  [Create Your First Game with Python](https://www.coursera.org/account/accomplishments/verify/MWUY3799TVXY)
-  
-  [Create Your First Python Program](https://www.coursera.org/account/accomplishments/verify/XQVGJDAMYLTA)
-  
-  [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/account/accomplishments/verify/E6L25V6Z6PZG)
-  
-  [Create a Resume and Cover Letter with Google Docs](https://www.coursera.org/account/accomplishments/verify/PPNNBBHSJ9Q7)
-  
-  [Custom Prediction Routine on Google AI Platform](https://www.coursera.org/account/accomplishments/verify/C6DHXU6GK9GR)
-  
-  [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/6GWEVATGMF99)
-  
-  [Getting Started in Google Analytics](https://www.coursera.org/account/accomplishments/verify/B5GDC8CNZ94G)
-  
-  [Google Ads for Beginners](https://www.coursera.org/account/accomplishments/verify/7RY77SNRPHCB)
-  
-  [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/8U7FDVJYGKZ3)
-  
-  [Introduction to Google Docs](https://www.coursera.org/account/accomplishments/verify/GBNPZMHLP5U9)
-  
-  [Introduction to Project Management with ClickUp](https://www.coursera.org/account/accomplishments/verify/G8UATA9RCZ6L)
-  
-  [Introduction to Project Management](https://www.coursera.org/account/accomplishments/verify/8QJ6PAER4DCR)
-  
-  [Introduction to Python](https://www.coursera.org/account/accomplishments/verify/C6P4UVEBCCH3)
-  
-  [Introduction to Relational Database and SQL](https://www.coursera.org/account/accomplishments/verify/8UWB93Q4TY4S)
-  
-  [Investment Risk Management](https://www.coursera.org/account/accomplishments/verify/WWU7P68U3Z5M)
-  
-  [Linear Regression with NumPy and Python](https://www.coursera.org/account/accomplishments/verify/PNJLQXHQZ9AA)
-  
-  [Linear Regression with Python](https://www.coursera.org/account/accomplishments/verify/3LBH4QX25WPL)
-  
-  [Object-Oriented Programming with Java](https://www.coursera.org/account/accomplishments/verify/VGU2MLNZ3TBW)
-  
-  [Predictive Modelling with Azure Machine Learning Studio](https://www.coursera.org/account/accomplishments/verify/A5C25YGT6ZRX)
-  
-  [Project: Creating Your First C++ Application](https://www.coursera.org/account/accomplishments/verify/LTX5Z995UQVY)
-  
-  [RESTful API with HTTP and JavaScript](https://www.coursera.org/account/accomplishments/verify/VEDG65RHVBFA)
-  
-  [Spreadsheets for Beginners using Google Sheets](https://www.coursera.org/account/accomplishments/verify/KFDSEY83RE8M)
-  
-  [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G)
-  
-  [Use WordPress to Create a Blog for your Business](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP)
-  
+  1. [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
+  2. [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
+  3. [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
+  4. [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
+  5. [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B)
+  6. [Build a Simple App in Android Studio with Java](https://www.coursera.org/account/accomplishments/verify/QGFJ4AA6YEP6)
+  7. [Build an E-commerce Dashboard with Figma](https://www.coursera.org/account/accomplishments/verify/LCBRG8UVVCGA)
+  8. [Building Candlestick Charts with Google Sheets](https://www.coursera.org/account/accomplishments/verify/PJ27769DCZYP)
+  9. [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/AL59Q8FQVDNH)
+  10. [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/account/accomplishments/verify/Z5EWBXLLHZJC)
+  11. [Computer Vision - Image Basics with OpenCV and Python](https://www.coursera.org/account/accomplishments/verify/VDZDBTLSKP4U)
+  12. [Computer Vision - Object Tracking with OpenCV and Python](https://www.coursera.org/account/accomplishments/certificate/AEC3KYW6XHCB)
+  13. [Create Informative Presentations with Google Slides](https://www.coursera.org/account/accomplishments/verify/5BMHVF8D6WEU)
+  14. [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/account/accomplishments/verify/GAWB9MQKHDYR)
+  15. [Create Your First Game with Python](https://www.coursera.org/account/accomplishments/verify/MWUY3799TVXY)
+  16. [Create Your First Python Program](https://www.coursera.org/account/accomplishments/verify/XQVGJDAMYLTA)
+  17. [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/account/accomplishments/verify/E6L25V6Z6PZG)
+  18. [Create a Resume and Cover Letter with Google Docs](https://www.coursera.org/account/accomplishments/verify/PPNNBBHSJ9Q7)
+  19. [Custom Prediction Routine on Google AI Platform](https://www.coursera.org/account/accomplishments/verify/C6DHXU6GK9GR)
+  20. [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/6GWEVATGMF99)
+  21. [Getting Started in Google Analytics](https://www.coursera.org/account/accomplishments/verify/B5GDC8CNZ94G)
+  22. [Google Ads for Beginners](https://www.coursera.org/account/accomplishments/verify/7RY77SNRPHCB)
+  23. [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/8U7FDVJYGKZ3)
+  24. [Introduction to Google Docs](https://www.coursera.org/account/accomplishments/verify/GBNPZMHLP5U9)
+  25. [Introduction to Project Management with ClickUp](https://www.coursera.org/account/accomplishments/verify/G8UATA9RCZ6L)
+  26. [Introduction to Project Management](https://www.coursera.org/account/accomplishments/verify/8QJ6PAER4DCR)
+  27. [Introduction to Python](https://www.coursera.org/account/accomplishments/verify/C6P4UVEBCCH3)
+  28. [Introduction to Relational Database and SQL](https://www.coursera.org/account/accomplishments/verify/8UWB93Q4TY4S)
+  29. [Investment Risk Management](https://www.coursera.org/account/accomplishments/verify/WWU7P68U3Z5M)
+  30. [Linear Regression with NumPy and Python](https://www.coursera.org/account/accomplishments/verify/PNJLQXHQZ9AA)
+  31. [Linear Regression with Python](https://www.coursera.org/account/accomplishments/verify/3LBH4QX25WPL)
+  32. [Object-Oriented Programming with Java](https://www.coursera.org/account/accomplishments/verify/VGU2MLNZ3TBW)
+  33. [Predictive Modelling with Azure Machine Learning Studio](https://www.coursera.org/account/accomplishments/verify/A5C25YGT6ZRX)
+  34. [Project: Creating Your First C++ Application](https://www.coursera.org/account/accomplishments/verify/LTX5Z995UQVY)
+  35. [RESTful API with HTTP and JavaScript](https://www.coursera.org/account/accomplishments/verify/VEDG65RHVBFA)
+  36. [Spreadsheets for Beginners using Google Sheets](https://www.coursera.org/account/accomplishments/verify/KFDSEY83RE8M)
+  37. [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G)
+  38. [Use WordPress to Create a Blog for your Business](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP)
+ 
 **DeepLearning.AI**
 
   [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q)
