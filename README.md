@@ -8,7 +8,7 @@
 
 **Amazon Web Services (AWS)**
 
-  [Getting Started with AWS Machine Learning](coursera.org/verify/LTPNNKWZ3U33)
+  [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
   
 **DeepLearning.AI**
 
