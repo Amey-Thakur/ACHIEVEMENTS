@@ -41,5 +41,12 @@
 ### Stanford University
  [XEE100 - 014 Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
 
+### Terna Engineering College
+ [Git and Github Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf)
+ 
+ [Mindful Gurukul](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Mindful%20Gurukul.pdf)
+ 
+ [Project Planning Management with Microsoft Project](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Project%20Planning%20Management%20with%20Microsoft%20Project.pdf)
+
 ### Udemy
  [Mobile App Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Udemy/Udemy%20Mobile%20App%20Development.pdf)
