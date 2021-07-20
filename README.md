@@ -2,24 +2,24 @@
  My Certifications and Achievements.
 
 ### COE Pune
- [TechGyan COE Pune Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
+ TechGyan COE Pune [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
  
 ### IBM
- [IBM Training - Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+ IBM Training - [Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
  
 ### IIT Bombay
- [IITB Android App Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Android%20App%20Development.pdf)
+ IITB [Android App Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Android%20App%20Development.pdf)
  
- [IITB Ethical Hacking Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Ethical%20Hacking.pdf)
+ IITB [Ethical Hacking Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Ethical%20Hacking.pdf)
  
- [IITB Humanoid Robotics with IOT Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Humanoid%20Robotics%20with%20IOT.pdf)
+ IITB [Humanoid Robotics with IOT Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Humanoid%20Robotics%20with%20IOT.pdf)
  
- [IITB Internet Of Things Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Internet%20Of%20Things.pdf)
+ IITB [Internet Of Things Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Internet%20Of%20Things.pdf)
  
- [IITB Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
+ IITB [Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
 
 ### MathWorks
  [Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
@@ -39,7 +39,7 @@
  IJEAST-V5I12 - [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) - [Certificate]()
 
 ### Stanford University
- [XEE100 - 014 Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
+ XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
 
 ### Terna Engineering College
  [Git and Github Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf)
