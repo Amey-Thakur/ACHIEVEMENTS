@@ -36,7 +36,11 @@
 
 **University of London**
 
-  [Understanding Research Methods](coursera.org/verify/N6K2A9X57ACS)
+  [How Computers Work](coursera.org/verify/2HBSK3TP8Z2M)
+  
+  [Introduction to Virtual Reality](coursera.org/verify/LA4JFLRL7J7B)
+ 
+  [Introduction to Virtual Reality](coursera.org/verify/N6K2A9X57ACS)
 
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
