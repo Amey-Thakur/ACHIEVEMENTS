@@ -123,7 +123,7 @@
 
 **Yale University**
 
-  [Climate Change and Health: From Science to Action](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
+  [Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
   
   1. [Introduction to Climate Change and Health](https://www.coursera.org/account/accomplishments/verify/J6C988M7KS4H)
   2. [Climate Adaptation for Human Health](https://www.coursera.org/account/accomplishments/verify/EU8K7RUSQN9G)
