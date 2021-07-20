@@ -8,7 +8,18 @@
 
 **Amazon Web Services (AWS)**
 
-  [Getting Started with AWS Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Amazon%20Web%20Services%20(AWS)/Coursera%20Getting%20Started%20with%20AWS%20Machine%20Learning.pdf)
+  [Getting Started with AWS Machine Learning](coursera.org/verify/LTPNNKWZ3U33)
+  
+**DeepLearning.AI**
+  [Deep Learning Specialization](coursera.org/verify/specialization/PX89ZDRRQ26Q)
+  
+  1. [Neural Networks and Deep Learning](coursera.org/verify/JRHKYENFFMQG)
+  2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](coursera.org/verify/E7QS9QXB8K67)
+  3. [Structuring Machine Learning Projects](coursera.org/verify/XETHHMQP33K6)
+  4. [Convolutional Neural Networks](coursera.org/verify/AGKDHVHPTT2D)
+  5. [Sequence Models](coursera.org/verify/JQ98D6UQYZY2)
+
+[AI For Everyone](coursera.org/verify/LDQXCRKND3QY)
 
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
