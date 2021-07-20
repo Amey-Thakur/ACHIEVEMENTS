@@ -12,35 +12,39 @@
   
 **DeepLearning.AI**
 
-  [Deep Learning Specialization](coursera.org/verify/specialization/PX89ZDRRQ26Q)
+  [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q)
   
-  1. [Neural Networks and Deep Learning](coursera.org/verify/JRHKYENFFMQG)
-  2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](coursera.org/verify/E7QS9QXB8K67)
-  3. [Structuring Machine Learning Projects](coursera.org/verify/XETHHMQP33K6)
-  4. [Convolutional Neural Networks](coursera.org/verify/AGKDHVHPTT2D)
-  5. [Sequence Models](coursera.org/verify/JQ98D6UQYZY2)
+  1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
+  2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
+  3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/XETHHMQP33K6)
+  4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D)
+  5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2)
 
-[AI For Everyone](coursera.org/verify/LDQXCRKND3QY)
+[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY)
 
 **Imperial College London**
 
-  [Mathematics for Machine Learning Specialization](coursera.org/verify/specialization/YVQCTMVEVG2Q)
+  [Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q)
   
-  1. [Mathematics for Machine Learning: Linear Algebra](coursera.org/verify/GQLQAYF5W5BQ)
-  2. [Mathematics for Machine Learning: Multivariate Calculus](coursera.org/verify/RUVBN4MYLSUZ)
-  3. [Mathematics for Machine Learning: PCA](coursera.org/verify/32AKJ6T2WW28)
+  1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
+  2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
+  3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/32AKJ6T2WW28)
 
-[Building on the SIR Model](coursera.org/verify/9FZXUZEHWSBY)
+[Building on the SIR Model](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY)
 
-[Creative Thinking: Techniques and Tools for Success](coursera.org/verify/RFJN779ATXUZ)
+[Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ)
+
+**INSEAD - The Business School for the World, Fontainebleau, France**
+
+  [Introduction to Blockchain Technologies](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H)
 
 **University of London**
 
-  [How Computers Work](coursera.org/verify/2HBSK3TP8Z2M)
+  [How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
   
-  [Introduction to Virtual Reality](coursera.org/verify/LA4JFLRL7J7B)
+  [Introduction to Virtual Reality](https://www.coursera.org/account/accomplishments/verify/LA4JFLRL7J7B)
  
-  [Introduction to Virtual Reality](coursera.org/verify/N6K2A9X57ACS)
+  [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
 
 ### Google
  [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
