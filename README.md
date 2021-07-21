@@ -1,6 +1,6 @@
 # ACHIEVEMENTS
 
- >My Certifications and Achievements.
+ My Certifications and Achievements.
 
  - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
  - [Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)
@@ -22,6 +22,8 @@
  - [Terna Engineering College](https://github.com/Amey-Thakur/ACHIEVEMENTS#terna-engineering-college)
  - [Udemy](https://github.com/Amey-Thakur/ACHIEVEMENTS#udemy)
  - [VIA Institute on Character](https://github.com/Amey-Thakur/ACHIEVEMENTS#via-institute-on-character)
+
+---
 
 ### COE Pune
 
