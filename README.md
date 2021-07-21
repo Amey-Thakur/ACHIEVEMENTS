@@ -394,8 +394,40 @@
    
 **Google Skillshop**
 
-  >[]() 
- 
+  >Google Skills: [Enrollment History](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20_%20Enrollment%20History.pdf)
+
+  1. [Authorized Buyers API Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Authorized%20Buyers%20API%20Basics%20_%20Google.pdf)
+  2. [Authorized Buyers Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Authorized%20Buyers%20Basics%20_%20Google.pdf)
+  3. [Authorized Buyers Brand Controls Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Authorized%20Buyers%20Brand%20Controls%20Basics%20_%20Google.pdf)
+  4. [Campaign Manager Brand Controls Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Campaign%20Manager%20Brand%20Controls%20Basics%20_%20Google.pdf)
+  5. [Campaign Manager Certification Exam](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Campaign%20Manager%20Certification%20Exam%20_%20Google.pdf)
+  6. [Creative Certification Exam](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Creative%20Certification%20Exam%20_%20Google.pdf)
+  7. [Dig into programmatic](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Dig%20into%20programmatic%20_%20Google.pdf)
+  8. [Display and Video 360 Brand Controls Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Display%20_%20Video%20360%20Brand%20Controls%20Basics%20_%20Google.pdf)
+  9. [Display and Video 360 Certification Exam](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Display%20_%20Video%20360%20Certification%20Exam%20_%20Google.pdf)
+  10. [Google Ads - Measurement Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20Ads%20-%20Measurement%20Certification%20_%20Google.pdf)
+  11. [Google Ads Display Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20Ads%20Display%20Certification%20_%20Google.pdf)
+  12. [Google Ads Search Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20Ads%20Search%20Certification%20_%20Google.pdf)
+  13. [Google Ads Video Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20Ads%20Video%20Certification%20_%20Google.pdf)
+  14. [Google Analytics Individual Qualification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20Analytics%20Individual%20Qualification%20_%20Google.pdf)
+  15. [Google My Business Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20My%20Business%20Basics%20_%20Google.pdf)
+  16. [Google Web Designer Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Google%20Web%20Designer%20Basics%20_%20Google.pdf)
+  17. [Manage campaigns in Search Ads 360](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Manage%20campaigns%20in%20Search%20Ads%20360%20_%20Google.pdf)
+  18. [Optimize bids and creatives](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Optimize%20bids%20and%20creatives%20_%20Google.pdf)
+  19. [Optimize performance in Search Ads 360](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Optimize%20performance%20in%20Search%20Ads%20360%20_%20Google.pdf)
+  20. [Optimize your Display and Video 360 campaign](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Optimize%20your%20Display%20_%20Video%20360%20campaign%20_%20Google.pdf)
+  21. [Search Ads 360 Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Search%20Ads%20360%20Basics%20_%20Google.pdf)
+  22. [Search Ads 360 Certification Exam](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Search%20Ads%20360%20Certification%20Exam%20_%20Google.pdf)
+  23. [Search Ads 360 Mobile Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Search%20Ads%20360%20Mobile%20Basics%20_%20Google.pdf)
+  24. [Shopping ads Certification ](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Shopping%20ads%20Certification%20_%20Google.pdf)
+  25. [Studio Basics](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Studio%20Basics%20_%20Google.pdf)
+  26. [Waze Ads Fundamentals](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/Waze%20Ads%20Fundamentals%20_%20Google.pdf)
+  27. [YouTube Asset Monetization](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20Asset%20Monetization%20_%20Google.pdf)
+  28. [YouTube Channel Growth](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20Channel%20Growth%20_%20Google.pdf)
+  29. [YouTube Content Ownership](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20Content%20Ownership%20_%20Google.pdf)
+  30. [YouTube Music Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20Music%20Certification%20_%20Google.pdf)
+  31. [YouTube creative essentials](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20creative%20essentials%20_%20Google.pdf)
+  
 ### Harvard Medical School
 
   >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) - Accreditation Council for Continuing Medical Education (ACCME®) 1.00 AMA PRA Category 1 Credit™
