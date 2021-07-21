@@ -61,7 +61,7 @@
  
 **DeepLearning.AI**
 
-  >[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q)
+  >[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) Specialization
   
   1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
   2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
@@ -91,7 +91,7 @@
 
 **Imperial College London**
 
-  >[Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q)
+  >[Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q) Specialization
   
   1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
   2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
@@ -111,7 +111,7 @@
 
 **Johns Hopkins University**
 
-  >[Patient Safety Specialization]()
+  >[Patient Safety]() Specialization
   
   1. [Patient Safety and Quality Improvement: Developing a Systems View (Patient Safety I)](https://www.coursera.org/account/accomplishments/verify/EXW6DZDPMDKA)
   2. [Setting the Stage for Success: An Eye on Safety Culture and Teamwork (Patient Safety II)](https://www.coursera.org/account/accomplishments/verify/JPGEM5ZFLKBE)
@@ -134,6 +134,10 @@
 **SUNY - The State University of New York**
 
   >[How to Write a Resume (Project-Centered Course)](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2)
+
+**The Linux Foundation**
+
+  >[Open Source Software Development, Linux and Git Specialization]()
 
 **University of London**
 
@@ -177,7 +181,7 @@
 
 **Yale University**
 
-  >[Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
+  >[Climate Change and Health: From Science to Action](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA) Specialization
   
   1. [Introduction to Climate Change and Health](https://www.coursera.org/account/accomplishments/verify/J6C988M7KS4H)
   2. [Climate Adaptation for Human Health](https://www.coursera.org/account/accomplishments/verify/EU8K7RUSQN9G)
