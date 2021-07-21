@@ -121,6 +121,11 @@
 
   >[Psychological First Aid](https://www.coursera.org/account/accomplishments/verify/XM6WYZSQ34JW)
 
+**McMaster University**
+
+  >[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37)
+
+  >[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V)
 
 **University of London**
 
