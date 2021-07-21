@@ -111,15 +111,16 @@
 
 **Johns Hopkins University**
 
-  >[COVID-19 Contact Tracing](https://www.coursera.org/account/accomplishments/verify/8HRJXLK2C7BK)
-
-  >[Psychological First Aid](https://www.coursera.org/account/accomplishments/verify/XM6WYZSQ34JW)
-
   >[Patient Safety Specialization]()
   
   1. [Patient Safety and Quality Improvement: Developing a Systems View (Patient Safety I)](https://www.coursera.org/account/accomplishments/verify/EXW6DZDPMDKA)
   2. [Setting the Stage for Success: An Eye on Safety Culture and Teamwork (Patient Safety II)](https://www.coursera.org/account/accomplishments/verify/JPGEM5ZFLKBE)
   3. [Planning a Patient Safety or Quality Improvement Project (Patient Safety III)](https://www.coursera.org/account/accomplishments/verify/MSHTHGEC63M7)
+
+  >[COVID-19 Contact Tracing](https://www.coursera.org/account/accomplishments/verify/8HRJXLK2C7BK)
+
+  >[Psychological First Aid](https://www.coursera.org/account/accomplishments/verify/XM6WYZSQ34JW)
+
 
 **University of London**
 
