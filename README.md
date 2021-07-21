@@ -2,6 +2,29 @@
 
  My Certifications and Achievements.
 
+>[HAVE A LOOK!](https://github.com/Amey-Thakur/ACHIEVEMENTS#readme)
+
+ - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
+ - [Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)
+ - [Eduonix](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)
+ - [Google](https://github.com/Amey-Thakur/ACHIEVEMENTS#google)
+ - [Harvard Medical School](https://github.com/Amey-Thakur/ACHIEVEMENTS#harvard-medical-school)
+ - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
+ - [IIT Bombay](https://github.com/Amey-Thakur/ACHIEVEMENTS#iit-bombay)
+ - [Intel](https://github.com/Amey-Thakur/ACHIEVEMENTS#intel)
+ - [Internships](https://github.com/Amey-Thakur/ACHIEVEMENTS#internships)
+ - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
+ - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
+ - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
+ - [Projects](https://github.com/Amey-Thakur/ACHIEVEMENTS#projects)
+ - [Quizzes](https://github.com/Amey-Thakur/ACHIEVEMENTS#quizzes)
+ - [Research Papers](https://github.com/Amey-Thakur/ACHIEVEMENTS#research-papers)
+ - [Stanford University School of Medicine](https://github.com/Amey-Thakur/ACHIEVEMENTS#stanford-university-school-of-medicine)
+ - [Stanford University](https://github.com/Amey-Thakur/ACHIEVEMENTS#stanford-university)
+ - [Terna Engineering College](https://github.com/Amey-Thakur/ACHIEVEMENTS#terna-engineering-college)
+ - [Udemy](https://github.com/Amey-Thakur/ACHIEVEMENTS#udemy)
+ - [VIA Institute on Character](https://github.com/Amey-Thakur/ACHIEVEMENTS#via-institute-on-character)
+
 ### COE Pune
 
 **TechGyan COE Pune** 
