@@ -185,7 +185,17 @@
 
   >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) - It is a simple Hangman Word Game using Applet in Java.
 
-  >[WHITE-BOX-CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) - An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. - [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+  >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) - It is a simple Web Design in HTML and CSS. - [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
+
+  >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) - A simple Python Program to Analyze Sentiments using TextBlob Python Library.
+
+  >TSF - [SUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) - Task: To predict the percentage of a student based on the number of study hours. Linear Regression is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
+
+  >TSF - [UNSUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) - Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+  >[WEB DESIGNING LAB](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - WDL [SEMESTER V]
+
+  >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) - An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. - [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
 
 ### Research Papers
 
