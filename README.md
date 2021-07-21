@@ -20,7 +20,7 @@
   
 **Coursera Project Network**
 
-  1. [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
+  <1. [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
   2. [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
   3. [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
   4. [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
@@ -57,7 +57,7 @@
   35. [RESTful API with HTTP and JavaScript](https://www.coursera.org/account/accomplishments/verify/VEDG65RHVBFA)
   36. [Spreadsheets for Beginners using Google Sheets](https://www.coursera.org/account/accomplishments/verify/KFDSEY83RE8M)
   37. [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G)
-  38. [Use WordPress to Create a Blog for your Business](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP)
+  38. [Use WordPress to Create a Blog for your Business](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP)>
  
 **DeepLearning.AI**
 
