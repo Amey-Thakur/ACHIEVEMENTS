@@ -4,13 +4,13 @@
 
 ### COE Pune
 
- TechGyan COE Pune - [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
+ >TechGyan COE Pune - [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
 ### Coursera
 
 **Amazon Web Services (AWS)**
 
-  [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
+  >[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
   
 **Coursera Project Network**
 
