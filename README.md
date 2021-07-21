@@ -8,11 +8,11 @@
 
 ### Coursera
 
-**>Amazon Web Services (AWS)**
+>**Amazon Web Services (AWS)**
 
   >[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
   
-**Coursera Project Network**
+>**Coursera Project Network**
 
   1. [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
   2. [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
