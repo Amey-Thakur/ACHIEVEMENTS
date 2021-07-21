@@ -173,6 +173,20 @@
 
   >[Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
 
+### Projects
+
+  >[CAR RENTAL SYSTEM](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) - It is a simple Car Rental Database Management System.
+
+  >[CHAT ROOM](https://github.com/Amey-Thakur/CHAT-ROOM) - It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
+
+  >[DEEPFAKE AUDIO](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) - An audio deepfake is when a “cloned” voice that is potentially indistinguishable from the real person’s is used to produce synthetic audio.
+
+  >[DIGITAL BOOKSTORE](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) - It is a responsive website of Digital Bookstore.
+
+  >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) - It is a simple Hangman Word Game using Applet in Java.
+
+  >[WHITE-BOX-CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) - An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. - [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+
 ### Research Papers
 
   >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) - IJRASET-V9I7 - [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
