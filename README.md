@@ -89,6 +89,26 @@
  
   [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
   
+  **University of Michigan**
+
+  [Applied Plotting, Charting and Data Representation in Python](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf)
+  
+  [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/SFMES8DEAJ4G)
+  
+  [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/8FC8EXKAQYFQ)
+  
+  [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA)
+  
+  [Finding Purpose and Meaning In Life Living for What Matters Most](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS)
+  
+  [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/U2Y3PRPH99HD)
+  
+  [Introduction to HTML5](https://www.coursera.org/account/accomplishments/verify/2LDGCB5FAYS8)
+  
+  [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/7NL3XWB2SKSR)
+  
+  [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/ATXR8BZDSA39)
+  
 **University of Toronto**
 
   [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU)
@@ -103,7 +123,7 @@
 
 **Yale University**
 
-  [Climate Change and Health: From Science to Action](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
+  [Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
   
   1. [Introduction to Climate Change and Health](https://www.coursera.org/account/accomplishments/verify/J6C988M7KS4H)
   2. [Climate Adaptation for Human Health](https://www.coursera.org/account/accomplishments/verify/EU8K7RUSQN9G)
