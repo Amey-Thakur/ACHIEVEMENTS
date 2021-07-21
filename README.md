@@ -1,8 +1,6 @@
 # ACHIEVEMENTS
 
- My Certifications and Achievements.
-
->[HAVE A LOOK!](https://github.com/Amey-Thakur/ACHIEVEMENTS#readme)
+ >My Certifications and Achievements.
 
  - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
  - [Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)
