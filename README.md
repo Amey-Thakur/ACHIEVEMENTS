@@ -22,11 +22,11 @@
 
   - [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
   - [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
-  3. [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
-  4. [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
-  5. [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B)
-  6. [Build a Simple App in Android Studio with Java](https://www.coursera.org/account/accomplishments/verify/QGFJ4AA6YEP6)
-  7. [Build an E-commerce Dashboard with Figma](https://www.coursera.org/account/accomplishments/verify/LCBRG8UVVCGA)
+  - [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
+  - [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
+  - [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B)
+  - [Build a Simple App in Android Studio with Java](https://www.coursera.org/account/accomplishments/verify/QGFJ4AA6YEP6)
+  - [Build an E-commerce Dashboard with Figma](https://www.coursera.org/account/accomplishments/verify/LCBRG8UVVCGA)
   8. [Building Candlestick Charts with Google Sheets](https://www.coursera.org/account/accomplishments/verify/PJ27769DCZYP)
   9. [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/AL59Q8FQVDNH)
   10. [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/account/accomplishments/verify/Z5EWBXLLHZJC)
@@ -63,11 +63,11 @@
 
   >[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) Specialization
   
-  1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
-  2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
-  3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/XETHHMQP33K6)
-  4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D)
-  5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2)
+  - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
+  - [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
+  - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/XETHHMQP33K6)
+  - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D)
+  - [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2)
 
   >[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY)
 
@@ -93,9 +93,9 @@
 
   >[Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q) Specialization
   
-  1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
-  2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
-  3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/32AKJ6T2WW28)
+  - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
+  - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
+  - [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/32AKJ6T2WW28)
 
   >[Building on the SIR Model](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY)
 
