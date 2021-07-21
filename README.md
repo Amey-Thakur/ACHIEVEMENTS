@@ -20,8 +20,8 @@
   
 **Coursera Project Network**
 
-  1. [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
-  2. [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
+  - [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
+  - [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
   3. [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
   4. [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
   5. [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B)
