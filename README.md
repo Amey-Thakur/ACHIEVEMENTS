@@ -8,9 +8,9 @@
 
 ### Coursera
 
-**Amazon Web Services (AWS)**
+**>Amazon Web Services (AWS)**
 
-  >>[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
+  >[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
   
 **Coursera Project Network**
 
