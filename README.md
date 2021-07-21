@@ -196,6 +196,21 @@
 
   >[Building Fintech Startups in Emerging Markets](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7)
 
+**University of Colorado Boulder**
+
+  >[Newborn Baby Care](https://www.coursera.org/account/accomplishments/specialization/AY7NSCZ3KN8Z) Specialization
+
+  1. [Preventative Healthcare for the Newborn Baby](https://www.coursera.org/account/accomplishments/verify/SAU2MT3VGNRJ)
+  2. [The Newborn Assessment](https://www.coursera.org/account/accomplishments/verify/BELUKHPP3V28)
+  3. [Guidance to Keep Newborn Babies Safe and Healthy](https://www.coursera.org/account/accomplishments/verify/3DS5KKDRTYYJ)
+  4. [Supporting Parents of a Newborn Baby](https://www.coursera.org/account/accomplishments/verify/GJA4E5FMYYQM)
+
+  >[Science of Exercise](https://www.coursera.org/account/accomplishments/verify/AL6263EX5L7M)
+
+**University of Florida**
+
+  >[COVID-19 - A clinical update](https://www.coursera.org/account/accomplishments/verify/GADRX8FNCW8W)
+
 **University of London**
 
   >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
@@ -204,7 +219,7 @@
  
   >[Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
   
-  **University of Michigan**
+**University of Michigan**
 
   >[Applied Plotting, Charting and Data Representation in Python](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf)
   
@@ -224,6 +239,20 @@
   
   >[Python Data Structures](https://www.coursera.org/account/accomplishments/verify/ATXR8BZDSA39)
   
+**University of Minnesota**
+
+  >[Nursing Informatics Leadership](https://www.coursera.org/account/accomplishments/specialization/J8XSHDRWFR6T) Specialization
+
+  1. [Skills for Nursing Informatics Leaders](https://www.coursera.org/account/accomplishments/verify/LEZGXMWJ2VW3)
+  2. [Nursing Informatics Leaders](https://www.coursera.org/account/accomplishments/verify/SF33UW7RSV2C)
+  3. [Nursing Informatics Leadership Theory and Practice](https://www.coursera.org/account/accomplishments/verify/MHR8UNU69TJ6)
+  4. [Nursing Informatics Training and Education](https://www.coursera.org/account/accomplishments/verify/ZU85VSKA324A)
+  5. [Leadership in Interprofessional Informatics](https://www.coursera.org/account/accomplishments/verify/CN3DUV4JGD32)
+
+**University of North Carolina at Chapel Hill**
+
+  >[Infection Prevention in Nursing Homes](https://www.coursera.org/account/accomplishments/verify/R4TSARJL8LN6)
+
 **University of Toronto**
 
   >[Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU)
