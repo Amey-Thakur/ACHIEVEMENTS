@@ -79,6 +79,16 @@
 
   >[Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/verify/8U77AS4SEKCM)
 
+**Georgia Institute of Technology**
+
+  >[Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading](https://www.coursera.org/account/accomplishments/verify/7CTL5DPH223H)
+
+  >[Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion](https://www.coursera.org/account/accomplishments/verify/B6EEZMYWG3L9)
+
+  >[Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories](https://www.coursera.org/account/accomplishments/verify/VMBRBE9TATJ5)
+
+  >[rite Professional Emails in English](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8)
+
 **Imperial College London**
 
   >[Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q)
