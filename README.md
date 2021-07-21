@@ -369,6 +369,32 @@
 **Google Digital Unlocked**
 
   >[The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
+
+**Google Play Academy**
+
+  >Academy for App Success: [Enrollment History](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Academy%20for%20App%20Success%20_%20Enrollment%20History.pdf)
+ 
+  1. [Analyze your data](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Analyze%20your%20data%20_%20Academy%20for%20App%20Success.pdf)
+  2. [Choose the right targeting and distribution](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Choose%20the%20right%20targeting%20and%20distribution%20_%20Academy%20for%20App%20Success.pdf)
+  3. [Evaluate your app's technical performance with Android Vitals](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Evaluate%20your%20app_s%20technical%20performance%20with%20Android%20Vitals%20_%20Academy%20for%20App%20Success.pdf)
+  4. [Getting started with Google Play policies](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Getting%20started%20with%20Google%20Play%20policies%20_%20Academy%20for%20App%20Success.pdf)
+  5. [Google Mobile Site Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Google%20Mobile%20Site%20Development.pdf)
+  6. [Grow your app business with subscriptions](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Grow%20your%20app%20business%20with%20subscriptions%20_%20Academy%20for%20App%20Success.pdf)
+  7. [Made for India](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Made%20for%20India%20_%20Academy%20for%20App%20Success.pdf)
+  8. [Make the most of the Android App Bundle and dynamic delivery](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Make%20the%20most%20of%20the%20Android%20App%20Bundle%20and%20dynamic%20delivery%20_%20Academy%20for%20App%20Success.pdf)
+  9. [Manage an app release](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Manage%20an%20app%20release%20_%20Academy%20for%20App%20Success.pdf)
+  10. [Manage your account](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Manage%20your%20account%20_%20Academy%20for%20App%20Success.pdf)
+  11. [Manage your store listing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Manage%20your%20store%20listing%20_%20Academy%20for%20App%20Success.pdf)
+  12. [Monetize your app](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Monetize%20your%20app%20_%20Academy%20for%20App%20Success.pdf)
+  13. [Optimize your app for sustainable business growth](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Optimize%20your%20app%20for%20sustainable%20business%20growth%20_%20Academy%20for%20App%20Success.pdf)
+  14. [Support and engage your audience](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Support%20and%20engage%20your%20audience%20_%20Academy%20for%20App%20Success.pdf)
+  15. [Test your app before release](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Test%20your%20app%20before%20release%20_%20Academy%20for%20App%20Success.pdf)
+  16. [Understand how Google Play supports you](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Understand%20how%20Google%20Play%20supports%20you%20_%20Academy%20for%20App%20Success.pdf)
+  17. [Vulnerability Disclosure Program Assessment](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Vulnerability%20Disclosure%20Program%20Assessment%20_%20Academy%20for%20App%20Success.pdf)
+   
+**Google Skillshop**
+
+  >[]() 
  
 ### Harvard Medical School
 
