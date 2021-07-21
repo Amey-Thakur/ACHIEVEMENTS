@@ -144,6 +144,28 @@
   3. [Linux Tools for Developers](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3)
   4. [Using Git for Distributed Development](https://www.coursera.org/account/accomplishments/verify/JXD7X9WQCZDR)
 
+**The University of Edinburgh**
+
+  >[Introduction to Philosophy](https://www.coursera.org/account/accomplishments/verify/PVC3PQHQU2YE)
+
+  >[Sit Less, Get Active](https://www.coursera.org/account/accomplishments/verify/CN5ESH57GYUD)
+
+  >[The Truth About Cats and Dogs](https://www.coursera.org/account/accomplishments/verify/HCD5A6VKA3LK)
+
+**University of Alberta**
+
+  >[Dino 101: Dinosaur Paleobiology](https://www.coursera.org/account/accomplishments/verify/VXM8JA9WL3F9)
+
+  >[Mountains 101](https://www.coursera.org/account/accomplishments/verify/JMKKTBNBDMZS)
+
+**University of California Irvine**
+
+  >[Concurrency in Go](https://www.coursera.org/account/accomplishments/verify/43LG9BPBN9F4)
+  
+  >[Functions, Methods, and Interfaces in Go](https://www.coursera.org/account/accomplishments/verify/AEPU275WQWJD)
+ 
+  >[Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ)
+
 **University of London**
 
   >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
