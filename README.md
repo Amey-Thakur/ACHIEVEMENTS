@@ -166,6 +166,36 @@
  
   >[Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ)
 
+**University of California San Diego**
+
+  >[Big Data Integration and Processing](https://www.coursera.org/account/accomplishments/verify/XHFE9R2V9KM5)
+  
+  >[Big Data Modeling and Management Systems](https://www.coursera.org/account/accomplishments/verify/F8J58PWD9L2D)
+ 
+  >[Graph Analytics for Big Data](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA)
+
+  >[Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/KKFRGBLN4FBQ)
+
+  >[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37)
+
+  >[Machine Learning With Big Data](https://www.coursera.org/account/accomplishments/verify/XQKZ8RHAH9Q6)
+
+**University of California, Irvine Division of Continuing Education**
+
+  >[Grammar and Punctuation](https://www.coursera.org/account/accomplishments/verify/8A8FAKP44VML)
+
+  >[Perfect Tenses and Modals](https://www.coursera.org/account/accomplishments/verify/AVESZE2TG6UJ)
+ 
+  >[Programming for the Internet of Things Project](https://www.coursera.org/account/accomplishments/verify/W778GBR4FYXF)
+
+  >[The Arduino Platform and C Programming](https://www.coursera.org/account/accomplishments/verify/HVLDN2CM2RQY)
+
+  >[The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/account/accomplishments/verify/AA5HYKYVNXGK)
+
+**University of Cape Town**
+
+  >[Building Fintech Startups in Emerging Markets](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7)
+
 **University of London**
 
   >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
