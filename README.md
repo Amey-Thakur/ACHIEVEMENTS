@@ -61,7 +61,7 @@
  
 **DeepLearning.AI**
 
-  >[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q)
+  >[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) Specialization
   
   1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
   2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
@@ -91,7 +91,7 @@
 
 **Imperial College London**
 
-  >[Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q)
+  >[Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q) Specialization
   
   1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
   2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
@@ -101,9 +101,100 @@
 
   >[Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ)
 
+**Indian School of Business (ISB)**
+
+  >[A Life of Happiness and Fulfillment](https://www.coursera.org/account/accomplishments/verify/ZDLE2UQLUUSC)
+
 **INSEAD - The Business School for the World, Fontainebleau, France**
 
   >[Introduction to Blockchain Technologies](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H)
+
+**Johns Hopkins University**
+
+  >[Patient Safety]() Specialization
+  
+  1. [Patient Safety and Quality Improvement: Developing a Systems View (Patient Safety I)](https://www.coursera.org/account/accomplishments/verify/EXW6DZDPMDKA)
+  2. [Setting the Stage for Success: An Eye on Safety Culture and Teamwork (Patient Safety II)](https://www.coursera.org/account/accomplishments/verify/JPGEM5ZFLKBE)
+  3. [Planning a Patient Safety or Quality Improvement Project (Patient Safety III)](https://www.coursera.org/account/accomplishments/verify/MSHTHGEC63M7)
+
+  >[COVID-19 Contact Tracing](https://www.coursera.org/account/accomplishments/verify/8HRJXLK2C7BK)
+
+  >[Psychological First Aid](https://www.coursera.org/account/accomplishments/verify/XM6WYZSQ34JW)
+
+**McMaster University**
+
+  >[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37)
+
+  >[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V)
+
+**Osmosis.org**
+
+  >[COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB)
+
+**SUNY - The State University of New York**
+
+  >[How to Write a Resume (Project-Centered Course)](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2)
+
+**The Linux Foundation**
+
+  >[Open Source Software Development, Linux and Git](https://www.coursera.org/account/accomplishments/specialization/3F2QH3ERB3SX) Specialization - [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png)
+
+  1. [Open Source Software Development Methods](https://www.coursera.org/account/accomplishments/verify/7YT994H2ZGVQ)
+  2. [Linux for Developers](https://www.coursera.org/account/accomplishments/verify/4MA5Z27SX6HV)
+  3. [Linux Tools for Developers](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3)
+  4. [Using Git for Distributed Development](https://www.coursera.org/account/accomplishments/verify/JXD7X9WQCZDR)
+
+**The University of Edinburgh**
+
+  >[Introduction to Philosophy](https://www.coursera.org/account/accomplishments/verify/PVC3PQHQU2YE)
+
+  >[Sit Less, Get Active](https://www.coursera.org/account/accomplishments/verify/CN5ESH57GYUD)
+
+  >[The Truth About Cats and Dogs](https://www.coursera.org/account/accomplishments/verify/HCD5A6VKA3LK)
+
+**University of Alberta**
+
+  >[Dino 101: Dinosaur Paleobiology](https://www.coursera.org/account/accomplishments/verify/VXM8JA9WL3F9)
+
+  >[Mountains 101](https://www.coursera.org/account/accomplishments/verify/JMKKTBNBDMZS)
+
+**University of California Irvine**
+
+  >[Concurrency in Go](https://www.coursera.org/account/accomplishments/verify/43LG9BPBN9F4)
+  
+  >[Functions, Methods, and Interfaces in Go](https://www.coursera.org/account/accomplishments/verify/AEPU275WQWJD)
+ 
+  >[Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ)
+
+**University of California San Diego**
+
+  >[Big Data Integration and Processing](https://www.coursera.org/account/accomplishments/verify/XHFE9R2V9KM5)
+  
+  >[Big Data Modeling and Management Systems](https://www.coursera.org/account/accomplishments/verify/F8J58PWD9L2D)
+ 
+  >[Graph Analytics for Big Data](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA)
+
+  >[Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/KKFRGBLN4FBQ)
+
+  >[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37)
+
+  >[Machine Learning With Big Data](https://www.coursera.org/account/accomplishments/verify/XQKZ8RHAH9Q6)
+
+**University of California, Irvine Division of Continuing Education**
+
+  >[Grammar and Punctuation](https://www.coursera.org/account/accomplishments/verify/8A8FAKP44VML)
+
+  >[Perfect Tenses and Modals](https://www.coursera.org/account/accomplishments/verify/AVESZE2TG6UJ)
+ 
+  >[Programming for the Internet of Things Project](https://www.coursera.org/account/accomplishments/verify/W778GBR4FYXF)
+
+  >[The Arduino Platform and C Programming](https://www.coursera.org/account/accomplishments/verify/HVLDN2CM2RQY)
+
+  >[The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/account/accomplishments/verify/AA5HYKYVNXGK)
+
+**University of Cape Town**
+
+  >[Building Fintech Startups in Emerging Markets](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7)
 
 **University of London**
 
@@ -147,7 +238,7 @@
 
 **Yale University**
 
-  >[Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
+  >[Climate Change and Health: From Science to Action](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA) Specialization
   
   1. [Introduction to Climate Change and Health](https://www.coursera.org/account/accomplishments/verify/J6C988M7KS4H)
   2. [Climate Adaptation for Human Health](https://www.coursera.org/account/accomplishments/verify/EU8K7RUSQN9G)
