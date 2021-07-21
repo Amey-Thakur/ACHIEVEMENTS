@@ -13,6 +13,10 @@
 **Amazon Web Services (AWS)**
 
   >[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
+
+**Case Western Reserve University EST.1826**
+  
+  >[Introduction to International Criminal Law](https://www.coursera.org/account/accomplishments/verify/PGMJ3JKECV7X)
   
 **Coursera Project Network**
 
@@ -66,6 +70,14 @@
   5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2)
 
   >[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY)
+
+**Duke University**
+
+  >[Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/EZ4UQX77FVFR)
+
+  >[Dog Emotion and Cognition](https://www.coursera.org/account/accomplishments/verify/567QDWF2AJCA)
+
+  >[Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/verify/8U77AS4SEKCM)
 
 **Imperial College London**
 
