@@ -127,6 +127,10 @@
 
   >[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V)
 
+**Osmosis.org**
+
+  >[COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB)
+
 **University of London**
 
   >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
