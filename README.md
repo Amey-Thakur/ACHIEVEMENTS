@@ -4,7 +4,9 @@
 
 ### COE Pune
 
- >TechGyan COE Pune - [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
+**TechGyan COE Pune** 
+
+  >[Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
 ### Coursera
 
@@ -91,7 +93,7 @@
   
   **University of Michigan**
 
-  [Applied Plotting, Charting and Data Representation in Python](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf)
+  >[Applied Plotting, Charting and Data Representation in Python](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf)
   
   >[Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/SFMES8DEAJ4G)
   
@@ -135,51 +137,57 @@
   
 ### Google
 
- >Google Digital Unlocked - [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
+**Google Digital Unlocked**
+
+  >[The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
  
 ### IBM
 
- >IBM Training - [Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+**IBM Training** 
+
+  >[Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
  
 ### IIT Bombay
 
- 1. [Android App Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Android%20App%20Development.pdf)
- 2. [Ethical Hacking Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Ethical%20Hacking.pdf)
- 3. [Humanoid Robotics with IOT Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Humanoid%20Robotics%20with%20IOT.pdf)
- 4. [Internet Of Things Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Internet%20Of%20Things.pdf)
- 5. [Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
+  1. [Android App Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Android%20App%20Development.pdf)
+  2. [Ethical Hacking Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Ethical%20Hacking.pdf)
+  3. [Humanoid Robotics with IOT Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Humanoid%20Robotics%20with%20IOT.pdf)
+  4. [Internet Of Things Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Internet%20Of%20Things.pdf)
+  5. [Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
 
 ### Intel
 
- >Intel® AI Academy - [AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+**Intel® AI Academy** 
+
+  >[AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
 
 ### MathWorks
 
- 1. [Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
- 2. [MATLAB Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/MATLAB%20Onramp.pdf)
- 3. [Machine Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Machine%20Learning%20Onramp.pdf)
+  1. [Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
+  2. [MATLAB Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/MATLAB%20Onramp.pdf)
+  3. [Machine Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Machine%20Learning%20Onramp.pdf)
  
 ### Microsoft
 
- >[Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
+  >[Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
 
 ### Research Papers
 
- 1. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) - IJRASET-V9I7 - [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
- 2. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IRJET-%20Chat%20Room%20using%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX.jpg) - IRJET-V8I6 - [Chat Room using HTML, PHP, CSS, JS, AJAX](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2106.14704)
- 3. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36609%20-%20Digital%20Bookstore.pdf) - IJRASET-V9I7 - [Digital Bookstore](https://doi.org/10.22214/ijraset.2021.36609)
- 4. [Certificate]() - IJEAST-V5I12 - [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2107.04551)
+  1. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) - IJRASET-V9I7 - [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
+  2. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IRJET-%20Chat%20Room%20using%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX.jpg) - IRJET-V8I6 - [Chat Room using HTML, PHP, CSS, JS, AJAX](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2106.14704)
+  3. [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36609%20-%20Digital%20Bookstore.pdf) - IJRASET-V9I7 - [Digital Bookstore](https://doi.org/10.22214/ijraset.2021.36609)
+  4. [Certificate]() - IJEAST-V5I12 - [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2107.04551)
 
 ### Stanford University
 
- >XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
+  >XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
 
 ### Terna Engineering College
 
- 1. [Git and Github Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf)
- 2. [Mindful Gurukul](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Mindful%20Gurukul.pdf)
- 3. [Project Planning Management with Microsoft Project](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Project%20Planning%20Management%20with%20Microsoft%20Project.pdf)
+  1. [Git and Github Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf)
+  2. [Mindful Gurukul](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Mindful%20Gurukul.pdf)
+  3. [Project Planning Management with Microsoft Project](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Project%20Planning%20Management%20with%20Microsoft%20Project.pdf)
 
 ### Udemy
 
- 1. [Mobile App Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Udemy/Udemy%20Mobile%20App%20Development.pdf)
+  1. [Mobile App Development](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Udemy/Udemy%20Mobile%20App%20Development.pdf)
