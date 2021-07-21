@@ -374,7 +374,7 @@
 
   >Academy for App Success: [Enrollment History](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Academy%20for%20App%20Success%20_%20Enrollment%20History.pdf)
  
-  1. [Analyze your data](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Analyze%20your%20data%20_%20Academy%20for%20App%20Success.pdf)
+  = [Analyze your data](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Analyze%20your%20data%20_%20Academy%20for%20App%20Success.pdf)
   2. [Choose the right targeting and distribution](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Choose%20the%20right%20targeting%20and%20distribution%20_%20Academy%20for%20App%20Success.pdf)
   3. [Evaluate your app's technical performance with Android Vitals](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Evaluate%20your%20app_s%20technical%20performance%20with%20Android%20Vitals%20_%20Academy%20for%20App%20Success.pdf)
   4. [Getting started with Google Play policies](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Play%20Academy/Getting%20started%20with%20Google%20Play%20policies%20_%20Academy%20for%20App%20Success.pdf)
