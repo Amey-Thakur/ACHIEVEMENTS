@@ -61,7 +61,7 @@
  
 **DeepLearning.AI**
 
-  >[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) Specialization
+  - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) Specialization
   
   1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
   2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
