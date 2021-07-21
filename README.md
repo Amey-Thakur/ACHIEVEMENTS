@@ -101,6 +101,10 @@
 
   >[Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ)
 
+**Indian School of Business (ISB)**
+
+  >[A Life of Happiness and Fulfillment](https://www.coursera.org/account/accomplishments/verify/ZDLE2UQLUUSC)
+
 **INSEAD - The Business School for the World, Fontainebleau, France**
 
   >[Introduction to Blockchain Technologies](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H)
