@@ -4,8 +4,7 @@
 
 ### COE Pune
 
- >TechGyan COE Pune 
-  1. [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
+ >TechGyan COE Pune - [Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
 ### Coursera
 
@@ -13,7 +12,7 @@
 
   >[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
   
->**Coursera Project Network**
+**Coursera Project Network**
 
   1. [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
   2. [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
@@ -56,7 +55,7 @@
  
 **DeepLearning.AI**
 
-  [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q)
+  >[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q)
   
   1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
   2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
@@ -64,83 +63,83 @@
   4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D)
   5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2)
 
-[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY)
+  >[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY)
 
 **Imperial College London**
 
-  [Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q)
+  >[Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q)
   
   1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
   2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
   3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/32AKJ6T2WW28)
 
-[Building on the SIR Model](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY)
+  >[Building on the SIR Model](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY)
 
-[Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ)
+  >[Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ)
 
 **INSEAD - The Business School for the World, Fontainebleau, France**
 
-  [Introduction to Blockchain Technologies](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H)
+  >[Introduction to Blockchain Technologies](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H)
 
 **University of London**
 
-  [How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
+  >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
   
-  [Introduction to Virtual Reality](https://www.coursera.org/account/accomplishments/verify/LA4JFLRL7J7B)
+  >[Introduction to Virtual Reality](https://www.coursera.org/account/accomplishments/verify/LA4JFLRL7J7B)
  
-  [Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
+  >[Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
   
   **University of Michigan**
 
   [Applied Plotting, Charting and Data Representation in Python](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf)
   
-  [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/SFMES8DEAJ4G)
+  >[Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/SFMES8DEAJ4G)
   
-  [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/8FC8EXKAQYFQ)
+  >[Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/8FC8EXKAQYFQ)
   
-  [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA)
+  >[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA)
   
-  [Finding Purpose and Meaning In Life Living for What Matters Most](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS)
+  >[Finding Purpose and Meaning In Life Living for What Matters Most](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS)
   
-  [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/U2Y3PRPH99HD)
+  >[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/U2Y3PRPH99HD)
   
-  [Introduction to HTML5](https://www.coursera.org/account/accomplishments/verify/2LDGCB5FAYS8)
+  >[Introduction to HTML5](https://www.coursera.org/account/accomplishments/verify/2LDGCB5FAYS8)
   
-  [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/7NL3XWB2SKSR)
+  >[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/7NL3XWB2SKSR)
   
-  [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/ATXR8BZDSA39)
+  >[Python Data Structures](https://www.coursera.org/account/accomplishments/verify/ATXR8BZDSA39)
   
 **University of Toronto**
 
-  [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU)
+  >[Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU)
 
 **University of Virginia**
 
-  [Design Thinking for Innovation](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR)
+  >[Design Thinking for Innovation](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR)
   
-  [How Things Work: An Introduction to Physics](https://www.coursera.org/account/accomplishments/verify/CUH8YZ2P28HR)
+  >[How Things Work: An Introduction to Physics](https://www.coursera.org/account/accomplishments/verify/CUH8YZ2P28HR)
 
-  [Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/verify/854M3U9N26P8)
+  >[Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/verify/854M3U9N26P8)
 
 **Yale University**
 
-  [Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
+  >[Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/account/accomplishments/specialization/HF4WMJCJ38FA)
   
   1. [Introduction to Climate Change and Health](https://www.coursera.org/account/accomplishments/verify/J6C988M7KS4H)
   2. [Climate Adaptation for Human Health](https://www.coursera.org/account/accomplishments/verify/EU8K7RUSQN9G)
   3. [Communicating Climate Change and Health](https://www.coursera.org/account/accomplishments/verify/ADT8RD5M879C)
 
-  [Health Behavior Change: From Evidence to Action](https://www.coursera.org/account/accomplishments/verify/XTQPT7PNZ54F)
+  >[Health Behavior Change: From Evidence to Action](https://www.coursera.org/account/accomplishments/verify/XTQPT7PNZ54F)
 
-  [The Science of Well-Being](https://www.coursera.org/account/accomplishments/verify/JTRCWTCG2AHD)
+  >[The Science of Well-Being](https://www.coursera.org/account/accomplishments/verify/JTRCWTCG2AHD)
   
 ### Google
 
- Google Digital Unlocked - [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
+ >Google Digital Unlocked - [The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
  
 ### IBM
 
- IBM Training - [Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+ >IBM Training - [Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
  
 ### IIT Bombay
 
@@ -152,7 +151,7 @@
 
 ### Intel
 
- Intel® AI Academy - [AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+ >Intel® AI Academy - [AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
 
 ### MathWorks
 
@@ -162,7 +161,7 @@
  
 ### Microsoft
 
- [Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
+ >[Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
 
 ### Research Papers
 
@@ -173,7 +172,7 @@
 
 ### Stanford University
 
- XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
+ >XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
 
 ### Terna Engineering College
 
