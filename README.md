@@ -183,6 +183,12 @@
 
   >[AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
 
+### Internships
+
+**The Sparks Foundation**
+
+  >[Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/The%20Sparks%20Foundation%20-%20Selection.png) - [Completion]()
+
 ### LTCE Webinar
 
   >[Blockchain Technology and it's Applications](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/LTCE%20Webinar/LTCE%20Webinar%20Blockchain%20Technology.pdf)
