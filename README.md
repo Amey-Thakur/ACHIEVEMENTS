@@ -131,6 +131,10 @@
 
   >[COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB)
 
+**SUNY - The State University of New York**
+
+  >[How to Write a Resume (Project-Centered Course)](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2)
+
 **University of London**
 
   >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
