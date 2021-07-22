@@ -493,7 +493,7 @@
   | CSC702 | Mobile Communication & Computing |
   | CSC703 | Artificial Intelligence & Soft Computing |
   | CSDLO7032 | Big Data Analytics |
-  | ILO 7013 | Management Information System |
+  | ILO7013 | Management Information System |
   | CSL701 | Digital Signal and Image Processing Lab |
   | CSL702 | Mobile Application Development Lab |
   | CSL703 | Artificial Intelligence & Soft Computing Lab |
