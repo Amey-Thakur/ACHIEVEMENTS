@@ -497,7 +497,7 @@
 
 ### Internships
 
-**JPMorgan Chase**
+**JPMorgan Chase & Co.**
 
   >Software Engineering Virtual Experience - [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/JPMorgan%20Chase%20%26%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
 
