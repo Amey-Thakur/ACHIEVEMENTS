@@ -399,8 +399,21 @@
 **University of Mumbai affiliated Institute Terna Engineering College**
 
   >Department of Computer Engineering
+  
+  <h3 align="center">S. E. Computer Engineering</h3>
+<center>S. E. Computer Engineering (Semester-III)</center>
 
-  | Course ID | Course Name |
+  | Course Code | Course Name |
+  | ------------- | ------------- |
+  | CSC301 | Applied Mathematics - III |
+  | CSC302 | Digital Logic Design and Analysis |
+  | CSC303 | Discrete Mathematics |
+  | CSC304 | Electronic Circuits and Communication Fundamentals |
+  | CSL305 | Data Structures |
+  | CSL301 | Digital System Lab |
+  | CSL302 | Basic Electronics Lab |
+  | CSL303 | Data structure Lab |
+  | CSL304 | OOPM(Java) Lab |
 
 ---
 
