@@ -5,12 +5,12 @@
  - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
  - [Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)
  - [Eduonix](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)
+ - [Experience](https://github.com/Amey-Thakur/ACHIEVEMENTS#internships)
  - [Google](https://github.com/Amey-Thakur/ACHIEVEMENTS#google)
  - [Harvard Medical School](https://github.com/Amey-Thakur/ACHIEVEMENTS#harvard-medical-school)
  - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
  - [IIT Bombay](https://github.com/Amey-Thakur/ACHIEVEMENTS#iit-bombay)
  - [Intel](https://github.com/Amey-Thakur/ACHIEVEMENTS#intel)
- - [Internships](https://github.com/Amey-Thakur/ACHIEVEMENTS#internships)
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
  - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
@@ -497,9 +497,16 @@
 
 ### Internships
 
+**JPMorgan Chase & Co.**
+
+  >Software Engineering Virtual Experience - [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/JPMorgan%20Chase%20%26%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
+
+**Technocolabs**
+  >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) - Data Scientist Intern - [Completion]()
+
 **The Sparks Foundation**
 
-  >[Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/The%20Sparks%20Foundation%20-%20Selection.png) - [Completion]()
+  >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) - Data Science and Business Analytics Intern - [Completion]()
 
 ---
 
