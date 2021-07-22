@@ -5,7 +5,7 @@
  - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
  - [Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)
  - [Eduonix](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)
- - [Experience](https://github.com/Amey-Thakur/ACHIEVEMENTS#internships)
+ - [Experience](https://github.com/Amey-Thakur/ACHIEVEMENTS#experience)
  - [Google](https://github.com/Amey-Thakur/ACHIEVEMENTS#google)
  - [Harvard Medical School](https://github.com/Amey-Thakur/ACHIEVEMENTS#harvard-medical-school)
  - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
