@@ -398,7 +398,7 @@
 
 **University of Mumbai affiliated Institute Terna Engineering College**
 
- Department of Computer Engineering
+  >Department of Computer Engineering
 
 ---
 
