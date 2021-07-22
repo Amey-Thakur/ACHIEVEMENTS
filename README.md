@@ -402,7 +402,7 @@
   
   <h3 align="center">S. E. Computer Engineering</h3>
 
-  | Course Code | Course Name |
+   :-: | Course Code | Course Name | :-: 
   | ------------- | ------------- |
   | CSC301 | Applied Mathematics - III |
   | CSC302 | Digital Logic Design and Analysis |
