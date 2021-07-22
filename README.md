@@ -398,6 +398,32 @@
 
 **University of Mumbai affiliated Institute Terna Engineering College**
 
+  >Department of General Engineering
+  
+  - **F. E. Computer Engineering (Semester - I)**
+
+  | Course Code | Course Name |  
+  | :-------------: | ------------- |
+  | FEC101 | Applied Mathematics - I |
+  | FEC102 | Applied Physics - I |
+  | FEC103 | Applied Chemistry - I  |
+  | FEC104 | Engineering Mechanics |
+  | FEC105 | Basic Electrical Engineering |
+  | FEC106 | Environmental studies |
+  | FEL101 | Basic Workshop Practice - I |
+
+  - **F. E. Computer Engineering (Semester - II)**
+
+  | Course Code | Course Name |  
+  | :-------------: | ------------- |
+  | FEC201 | Applied Mathematics - II |
+  | FEC202 | Applied Physics - II |
+  | FEC203 | Applied Chemistry - II  |
+  | FEC204 | Engineering Drawing |
+  | FEC205 | Structured Programming Approach |
+  | FEC206 | Communication Skills |
+  | FEL201 | Basic Workshop Practice - II |
+  
   >Department of Computer Engineering
   
   - **S. E. Computer Engineering (Semester - III)**
