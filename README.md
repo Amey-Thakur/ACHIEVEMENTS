@@ -31,6 +31,8 @@
 
   >[Artificial Intelligence Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf)
 
+---
+
 ### Coursera
 
 **Amazon Web Services (AWS)**
@@ -300,6 +302,8 @@
 
   >[The Science of Well-Being](https://www.coursera.org/account/accomplishments/verify/JTRCWTCG2AHD)
   
+---
+
 ### Eduonix
 
   - [3D Visualization in R - Step by Step eGuide for Beginners](https://www.eduonix.com/certificate/3f158657d9)
@@ -387,6 +391,8 @@
   - [Youtube Beginners Guide To A Successful Channel](https://www.eduonix.com/certificate/4fe415d16c)
   - [eGuide to Create Dynamic Maps using R Programming](https://www.eduonix.com/certificate/12e0adab0e)
 
+---
+
 ### Google
 
 **Google Digital Unlocked**
@@ -451,9 +457,13 @@
   - [YouTube Music Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20Music%20Certification%20_%20Google.pdf)
   - [YouTube creative essentials](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20Skillshop/YouTube%20creative%20essentials%20_%20Google.pdf)
  
+---
+
 ### Harvard Medical School
 
   >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) - Accreditation Council for Continuing Medical Education (ACCME®) 1.00 AMA PRA Category 1 Credit™
+
+---
 
 ### IBM
 
@@ -461,6 +471,8 @@
 
   >[Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
  
+---
+
 ### IIT Bombay
 
   >[Android App Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Android%20App%20Development.pdf)
@@ -473,17 +485,23 @@
   
   >[Android Mobile Site Development Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IIT%20Bombay/IITB%20Mobile%20Site%20Development.pdf)
 
+---
+
 ### Intel
 
 **Intel® AI Academy** 
 
   >[AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
 
+---
+
 ### Internships
 
 **The Sparks Foundation**
 
   >[Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Internships/The%20Sparks%20Foundation%20-%20Selection.png) - [Completion]()
+
+---
 
 ### LTCE Webinar
 
@@ -493,6 +511,8 @@
   
   >[Python in Depth using Keras and TensorFlow](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/LTCE%20Webinar/LTCE%20Webinar%20Python%20in%20Depth%20using%20Keras%20_%20Tensorflow.pdf)
 
+---
+
 ### MathWorks
 
   >[Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
@@ -501,9 +521,13 @@
   
   >[Machine Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Machine%20Learning%20Onramp.pdf)
  
+---
+
 ### Microsoft
 
   >[Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
+
+---
 
 ### Projects
 
@@ -528,6 +552,8 @@
   >[WEB DESIGNING LAB](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - WDL [SEMESTER V]
 
   >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) - An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. - [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+
+---
 
 ### Quizzes
 
@@ -586,6 +612,8 @@
   - [intelycare COVID-19 for Nursing Professionals](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Quizzes/intelycare%20COVID-19%20for%20Nursing%20Professionals.pdf)
   - [intelycare Donning and Doffing of PPE for COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Quizzes/intelycare%20Donning%20and%20Doffing%20of%20PPE%20for%20COVID-19.pdf)
 
+---
+
 ### Research Papers
 
   >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) - IJRASET-V9I7 - [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
@@ -596,17 +624,21 @@
   
   >[Certificate]() - IJEAST-V5I12 - [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2107.04551)
 
+---
+
 ### Stanford University School of Medicine
 
   >[Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessments](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) - Accreditation Council for Continuing Medical Education (ACCME) 1.50 AMA PRA Category 1 Credit(s)™
 
   >[Identifying Early Signs of Psychosis in Adolescents and Young Adults](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) - Accreditation Council for Continuing Medical Education (ACCME) 2.00 AMA PRA Category 1 Credit(s)™
 
-  >[]()
+---
 
 ### Stanford University
 
   >XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
+
+---
 
 ### Terna Engineering College
 
