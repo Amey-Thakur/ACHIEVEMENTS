@@ -6,7 +6,7 @@
  - [Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)
  - [Eduonix](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)
  - [Engineering]()
- - [Experience](https://github.com/Amey-Thakur/ACHIEVEMENTS#experience)          <--- Internships & Experience
+ - [Experience](https://github.com/Amey-Thakur/ACHIEVEMENTS#experience)          <--- Work Experience
  - [Google](https://github.com/Amey-Thakur/ACHIEVEMENTS#google)
  - [Harvard Medical School](https://github.com/Amey-Thakur/ACHIEVEMENTS#harvard-medical-school)
  - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
