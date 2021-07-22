@@ -400,6 +400,8 @@
 
   >Department of Computer Engineering
 
+  | Course ID | Course Name |
+
 ---
 
 ### Experience
