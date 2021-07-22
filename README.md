@@ -400,7 +400,7 @@
 
   >Department of Computer Engineering
   
-  **S. E. Computer Engineering (Semester - III)**
+  - **S. E. Computer Engineering (Semester - III)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -414,7 +414,7 @@
   | CSL303 | Data structure Lab |
   | CSL304 | OOPM(Java) Lab - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
-  **S. E. Computer Engineering (Semester - IV)**
+  - **S. E. Computer Engineering (Semester - IV)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -429,7 +429,7 @@
   | CSL404 | Operating System Lab |
   | CSL405 | Open Source Tech Lab - [Project](https://github.com/rizvihasan/COVID19IndiaVizScraper) |
   
-  **T. E. Computer Engineering (Semester - V)**
+  - **T. E. Computer Engineering (Semester - V)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -444,7 +444,7 @@
   | CSL504 | [Web Design Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - [Project](https://github.com/Amey-Thakur/CHAT-ROOM) |
   | CSL505 | Business Communication & Ethics |
 
-  **T. E. Computer Engineering (Semester - VI)**
+  - **T. E. Computer Engineering (Semester - VI)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -459,7 +459,7 @@
   | CSL604 | System Security Lab |
   | CSM605 | [Mini-Project](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
 
-  **B. E. Computer Engineering (Semester - VII)**
+  - **B. E. Computer Engineering (Semester - VII)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -474,7 +474,7 @@
   | CSL704 | Computational Lab - I |
   | CSP705 | [Major Project - I](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
-  **B. E. Computer Engineering (Semester - VIII)**
+  - **B. E. Computer Engineering (Semester - VIII)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
