@@ -401,7 +401,6 @@
   >Department of Computer Engineering
   
   <h3 align="center">S. E. Computer Engineering</h3>
-<center>S. E. Computer Engineering (Semester-III)</center>
 
   | Course Code | Course Name |
   | ------------- | ------------- |
