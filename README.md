@@ -15,9 +15,9 @@
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
  - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
- - [Projects](https://github.com/Amey-Thakur/ACHIEVEMENTS#projects)          <--- My Project Work
+ - [Projects](https://github.com/Amey-Thakur/ACHIEVEMENTS#projects)          <--- Project Work
  - [Quizzes](https://github.com/Amey-Thakur/ACHIEVEMENTS#quizzes)
- - [Research Papers](https://github.com/Amey-Thakur/ACHIEVEMENTS#research-papers)          <--- My Research Work
+ - [Research Papers](https://github.com/Amey-Thakur/ACHIEVEMENTS#research-papers)          <--- Research Work
  - [Stanford University School of Medicine](https://github.com/Amey-Thakur/ACHIEVEMENTS#stanford-university-school-of-medicine)
  - [Stanford University](https://github.com/Amey-Thakur/ACHIEVEMENTS#stanford-university)
  - [Terna Engineering College](https://github.com/Amey-Thakur/ACHIEVEMENTS#terna-engineering-college)
