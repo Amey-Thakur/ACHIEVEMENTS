@@ -1,5 +1,5 @@
 # Coursera
-  Certifications and Projects
+  My Certifications and Projects
  
 ### Coursera
 
