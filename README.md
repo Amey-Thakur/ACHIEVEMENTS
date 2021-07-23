@@ -636,7 +636,9 @@
 
 ### Kaggle
 
-  >[Data Cleaning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Kaggle/Kaggle%20Data%20Cleaning.pdf)
+ >[Kaggle Repository](https://github.com/Amey-Thakur/KAGGLE)
+
+  >[Data Cleaning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Kaggle/Kaggle%20Data%20Cleaning.pdf) - [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
 
 ---
 
