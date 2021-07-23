@@ -12,7 +12,7 @@
  - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
  - [IIT Bombay](https://github.com/Amey-Thakur/ACHIEVEMENTS#iit-bombay)
  - [Intel](https://github.com/Amey-Thakur/ACHIEVEMENTS#intel)
- - [Kaggle]()
+ - [Kaggle](https://github.com/Amey-Thakur/ACHIEVEMENTS/#kaggle)
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
  - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
