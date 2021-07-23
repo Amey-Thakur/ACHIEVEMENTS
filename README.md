@@ -12,6 +12,7 @@
  - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
  - [IIT Bombay](https://github.com/Amey-Thakur/ACHIEVEMENTS#iit-bombay)
  - [Intel](https://github.com/Amey-Thakur/ACHIEVEMENTS#intel)
+ - [Kaggle](https://github.com/Amey-Thakur/ACHIEVEMENTS/#kaggle)
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
  - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
@@ -630,6 +631,14 @@
 **Intel® AI Academy** 
 
   >[AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+
+---
+
+### Kaggle
+
+**Kaggle [Repository](https://github.com/Amey-Thakur/KAGGLE)**
+
+  >[Data Cleaning](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) - [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
 
 ---
 
