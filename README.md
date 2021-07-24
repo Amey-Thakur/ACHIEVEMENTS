@@ -643,6 +643,8 @@
 **Kaggle [Repository](https://github.com/Amey-Thakur/KAGGLE)**
 
   >[Data Cleaning](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) - [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
+  
+  >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) - [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
 
 ---
 
