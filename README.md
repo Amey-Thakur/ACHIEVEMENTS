@@ -816,7 +816,7 @@
 
   >[District Level Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) | 2ND PLACE | WINNER 
 
-  >[Reevolt Racing Skates](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) | SKATE INDIA | FINISHER 
+  >[SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) | FINISHER 
 
 ---
 
