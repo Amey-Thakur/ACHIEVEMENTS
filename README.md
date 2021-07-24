@@ -529,6 +529,10 @@
 
   >Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
 
+**KPMG International Limited**
+
+  >[Data Analytics Consulting Virtual Internship](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/KPMG%20International%20Limited/Data%20Analytics%20Consulting%20Virtual%20Internship.pdf)
+
 **Technocolabs**
   >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) | Data Scientist Intern | [Completion]()
 
