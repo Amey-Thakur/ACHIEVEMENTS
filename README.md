@@ -606,7 +606,7 @@
 
 ### Harvard Medical School
 
-  >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) | Accreditation Council for Continuing Medical Education (ACCME®) 1.00 AMA PRA Category 1 Credit™
+  >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) | Accreditation Council for Continuing Medical Education (ACCME®) | 1.00 AMA PRA Category 1 Credit™
 
 ---
 
@@ -816,15 +816,15 @@
 
   >[District Level Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) | 2ND PLACE | WINNER 
 
-  >Reevolt Racing Skates(https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) | SKATE INDIA | FINISHER 
+  >[SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) | FINISHER 
 
 ---
 
 ### Stanford University School of Medicine
 
-  >[Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessments](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) 1.50 AMA PRA Category 1 Credit(s)™
+  >[Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessments](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) | 1.50 AMA PRA Category 1 Credit(s)™
 
-  >[Identifying Early Signs of Psychosis in Adolescents and Young Adults](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) 2.00 AMA PRA Category 1 Credit(s)™
+  >[Identifying Early Signs of Psychosis in Adolescents and Young Adults](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) | 2.00 AMA PRA Category 1 Credit(s)™
 
 ---
 
@@ -858,6 +858,6 @@
 
 ### VIA Institute on Character
 
-  >[Strengths Profile - Amey Thakur (2020)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2020).pdf)
+  >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2020).pdf) | Amey Thakur | 2020
  
-  >[Strengths Profile - Amey Thakur (2021)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2021).pdf)
+  >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2021).pdf) | Amey Thakur | 2021
