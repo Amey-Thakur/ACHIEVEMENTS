@@ -817,9 +817,9 @@
 **Skating**
 
 
-  >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition
+  >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition | FINISHER
 
-  >[Aryan Roller Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) | RANK 1 | RANK 2 | QUAD: IMPORTED
+  >[Aryan Roller Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) | RANK 1 | RANK 2 | QUAD: IMPORTED | FINISHER
 
   >[District Level Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) | 2ND PLACE | WINNER 
 
