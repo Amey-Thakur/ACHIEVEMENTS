@@ -523,18 +523,18 @@
 
 **Accenture**
 
-  >Consultant Program Virtual Experience - [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Accenture/Accenture%20Consultant%20Program.pdf)
+  >Consultant Program Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Accenture/Accenture%20Consultant%20Program.pdf)
 
 **JPMorgan Chase & Co.**
 
-  >Software Engineering Virtual Experience - [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
+  >Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
 
 **Technocolabs**
-  >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) - Data Scientist Intern - [Completion]()
+  >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) | Data Scientist Intern | [Completion]()
 
 **The Sparks Foundation**
 
-  >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) - Data Science and Business Analytics Intern - [Completion]()
+  >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) | Data Science and Business Analytics Intern | [Completion]()
 
 ---
 
@@ -606,7 +606,7 @@
 
 ### Harvard Medical School
 
-  >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) - Accreditation Council for Continuing Medical Education (ACCME®) 1.00 AMA PRA Category 1 Credit™
+  >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) | Accreditation Council for Continuing Medical Education (ACCME®) 1.00 AMA PRA Category 1 Credit™
 
 ---
 
@@ -644,9 +644,9 @@
 
 **Kaggle [Repository](https://github.com/Amey-Thakur/KAGGLE)**
 
-  >[Data Cleaning](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) - [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
+  >[Data Cleaning](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
   
-  >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) - [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
+  >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
 
 ---
 
@@ -678,27 +678,27 @@
 
 ### Projects
 
-  >[CAR RENTAL SYSTEM](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) - It is a simple Car Rental Database Management System.
+  >[CAR RENTAL SYSTEM](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | It is a simple Car Rental Database Management System.
 
-  >[CHAT ROOM](https://github.com/Amey-Thakur/CHAT-ROOM) - It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
+  >[CHAT ROOM](https://github.com/Amey-Thakur/CHAT-ROOM) | It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
 
-  >[DEEPFAKE AUDIO](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) - An audio deepfake is when a “cloned” voice that is potentially indistinguishable from the real person’s is used to produce synthetic audio.
+  >[DEEPFAKE AUDIO](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) | An audio deepfake is when a “cloned” voice that is potentially indistinguishable from the real person’s is used to produce synthetic audio.
 
-  >[DIGITAL BOOKSTORE](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) - It is a responsive website of Digital Bookstore.
+  >[DIGITAL BOOKSTORE](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | It is a responsive website of Digital Bookstore.
 
-  >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) - It is a simple Hangman Word Game using Applet in Java.
+  >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | It is a simple Hangman Word Game using Applet in Java.
 
-  >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) - It is a simple Web Design in HTML and CSS. - [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
+  >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | It is a simple Web Design in HTML and CSS. | [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
 
-  >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) - A simple Python Program to Analyze Sentiments using TextBlob Python Library.
+  >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | A simple Python Program to Analyze Sentiments using TextBlob Python Library.
 
-  >TSF - [SUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) - Task: To predict the percentage of a student based on the number of study hours. Linear Regression is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
+  >TSF | [SUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | Task: To predict the percentage of a student based on the number of study hours. Linear Regression is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
 
-  >TSF - [UNSUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) - Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+  >TSF | [UNSUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) | Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
-  >[WEB DESIGNING LAB](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - WDL [SEMESTER V]
+  >[WEB DESIGNING LAB](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | WDL [SEMESTER V]
 
-  >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) - An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. - [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+  >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. | [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
 
 ---
 
@@ -763,36 +763,68 @@
 
 ### Research Papers
 
-  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) - IJRASET-V9I7 - [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
+  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) | IJRASET-V9I7 | [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
   
-  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IRJET-%20Chat%20Room%20using%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX.jpg) - IRJET-V8I6 - [Chat Room using HTML, PHP, CSS, JS, AJAX](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2106.14704)
+  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IRJET-%20Chat%20Room%20using%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX.jpg) | IRJET-V8I6 | [Chat Room using HTML, PHP, CSS, JS, AJAX](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf) | Pre-print [@arXiv](https://arxiv.org/abs/2106.14704)
   
-  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36609%20-%20Digital%20Bookstore.pdf) - IJRASET-V9I7 - [Digital Bookstore](https://doi.org/10.22214/ijraset.2021.36609)
+  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36609%20-%20Digital%20Bookstore.pdf) | IJRASET-V9I7 | [Digital Bookstore](https://doi.org/10.22214/ijraset.2021.36609)
   
-  >[Certificate]() - IJEAST-V5I12 - [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) - Pre-print [@arXiv](https://arxiv.org/abs/2107.04551)
+  >[Certificate]() | IJEAST-V5I12 | [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) | Pre-print [@arXiv](https://arxiv.org/abs/2107.04551)
 
 ---
 
 ### Sports
 
+**Badminton Camp**
+
+  >[Badminton Summer Camp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf)
+
+**EUREKA FEST**
+
+  >[Code Master](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Code%20Master.pdf)
+
+
+  >[Eureka 3X Basketball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2014%20Eureka%203X%20Basketball.pdf) | TEAM SKS
+
+
+  >[Rink Football](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf)
+
 **Interschool Basketball 🏀 Tournament**
 
-  >[Billabong High International School - Interschool Basketball Tournament](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20Interschool%20Basketball%20Tournament.pdf) - TEAM SKS
+  >[Billabong High International School - Interschool Basketball Tournament](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20Interschool%20Basketball%20Tournament.pdf) | TEAM SKS
 
-**SFA 2015 - [3RD PLACE](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) - WON BRONZE MEDAL**
+**Saraswati Secondary School**
+
+  >[Handball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2014%208th%20C%20Handball.pdf) | 1ST PLACE | WINNER
+
+  >[Volleyball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2014%208th%20C%20Volleyball.pdf) | 1ST PLACE | WINNER
+
+  >[Volleyball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2015%209th%20D%20Volleyball.pdf) | 2ND PLACE | WINNER
+
+**SFA 2015 - [3RD PLACE](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) | WON BRONZE MEDAL**
 
   - [SFA Mumbai 2015 | Basketball | Saraswati Secondary School Vs S.V.K.M.C.N.M School | Boys | U16 | R1](https://www.youtube.com/watch?v=wn2XlUVHnP4)
   - [SFA Mumbai 2015 | Basketball | Saraswati vs Podar Khar | U16 | Boys](https://www.youtube.com/watch?v=_vIuCSwDCVQ)
   - [SFA Mumbai 2015 | Basketball | P.G Garodia Vs Saraswati Secondary School | Boys | U16 | Semi Final](https://www.youtube.com/watch?v=MzYH0ijp_2o)
   - [SFA Mumbai 2015 | Basketball | Saraswati Vs Amolakh Amichand | U16 | Boys | Third Place](https://www.youtube.com/watch?v=J8T7OOXbEY4)
 
+**Skating**
+
+  >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition
+
+  >[Aryan Roller Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) | RANK 1 | RANK 2 | QUAD: IMPORTED
+
+  >[District Level Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) | 2ND PLACE | WINNER 
+
+  >Reevolt Racing Skates(https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) | SKATE INDIA | FINISHER 
+
 ---
 
 ### Stanford University School of Medicine
 
-  >[Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessments](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) - Accreditation Council for Continuing Medical Education (ACCME) 1.50 AMA PRA Category 1 Credit(s)™
+  >[Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessments](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) 1.50 AMA PRA Category 1 Credit(s)™
 
-  >[Identifying Early Signs of Psychosis in Adolescents and Young Adults](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) - Accreditation Council for Continuing Medical Education (ACCME) 2.00 AMA PRA Category 1 Credit(s)™
+  >[Identifying Early Signs of Psychosis in Adolescents and Young Adults](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) 2.00 AMA PRA Category 1 Credit(s)™
 
 ---
 
@@ -820,7 +852,7 @@
 
 ### University of Cambridge
 
-  >[ESOL Examinations](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/University%20of%20Cambridge/ESOL%20Examination.pdf) - YLE FLYERS - 12 SHIELDS
+  >[ESOL Examinations](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/University%20of%20Cambridge/ESOL%20Examination.pdf) | YLE FLYERS | 12 SHIELDS
 
 ---
 
