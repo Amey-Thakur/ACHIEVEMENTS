@@ -523,19 +523,19 @@
 
 **Accenture**
 
-  >Consultant Program Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Accenture/Accenture%20Consultant%20Program.pdf)
+  >Accenture Nordic Consultant Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Accenture/Accenture%20Consultant%20Program.pdf)
 
 **Goldman Sachs**
 
-  >Engineering Virtual Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Goldman%20Sachs/Goldman%20Sachs%20Engineering%20Virtual%20Program.pdf)
+  >Goldman Sachs Engineering Virtual Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Goldman%20Sachs/Goldman%20Sachs%20Engineering%20Virtual%20Program.pdf)
 
 **JPMorgan Chase & Co.**
 
-  >Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
+  >JPMorgan Chase Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
 
 **KPMG International Limited**
 
-  >Data Analytics Consulting Virtual Internship | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/KPMG%20International%20Limited/Data%20Analytics%20Consulting%20Virtual%20Internship.pdf)
+  >KPMG Data Analytics Virtual Experience Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/KPMG%20International%20Limited/Data%20Analytics%20Consulting%20Virtual%20Internship.pdf)
 
 **Technocolabs**
   >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) | Data Scientist Intern | [Completion]()
