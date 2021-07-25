@@ -657,6 +657,8 @@
   >[Data Visualization](https://www.kaggle.com/learn/certification/ameythakur20/data-visualization) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Visualization)
 
   >[Feature Engineering](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering)
+
+  >[Machine Learning Explainability](https://www.kaggle.com/learn/certification/ameythakur20/machine-learning-explainability) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20Explainability)
   
   >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
 
@@ -795,9 +797,7 @@
 
   >[Code Master](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Code%20Master.pdf)
 
-
   >[Eureka 3X Basketball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2014%20Eureka%203X%20Basketball.pdf) | TEAM SKS
-
 
   >[Rink Football](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf)
 
@@ -823,7 +823,6 @@
   - [SFA Mumbai 2015 | Basketball | Saraswati Vs Amolakh Amichand | U16 | Boys | Third Place](https://www.youtube.com/watch?v=J8T7OOXbEY4)
 
 **Skating**
-
 
   >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition | FINISHER
 
