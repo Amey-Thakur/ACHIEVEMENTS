@@ -525,6 +525,10 @@
 
   >Consultant Program Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Accenture/Accenture%20Consultant%20Program.pdf)
 
+**Goldman Sachs**
+
+  >Engineering Virtual Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Goldman%20Sachs/Goldman%20Sachs%20Engineering%20Virtual%20Program.pdf)
+
 **JPMorgan Chase & Co.**
 
   >Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
