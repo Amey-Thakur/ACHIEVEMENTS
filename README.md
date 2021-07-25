@@ -658,6 +658,10 @@
 
   >[Feature Engineering](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering)
 
+  >[Intro to Machine Learning](https://www.kaggle.com/learn/certification/ameythakur20/intro-to-machine-learning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning)
+
+  >[Intermediate Machine Learning](https://www.kaggle.com/learn/certification/ameythakur20/intermediate-machine-learning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning)
+
   >[Machine Learning Explainability](https://www.kaggle.com/learn/certification/ameythakur20/machine-learning-explainability) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20Explainability)
   
   >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
