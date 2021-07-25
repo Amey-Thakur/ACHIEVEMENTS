@@ -529,6 +529,10 @@
 
   >Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
 
+**KPMG International Limited**
+
+  >Data Analytics Consulting Virtual Internship | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/KPMG%20International%20Limited/Data%20Analytics%20Consulting%20Virtual%20Internship.pdf)
+
 **Technocolabs**
   >[Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) | Data Scientist Intern | [Completion]()
 
@@ -645,6 +649,8 @@
 **Kaggle [Repository](https://github.com/Amey-Thakur/KAGGLE)**
 
   >[Data Cleaning](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
+
+  >[Feature Engineering](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering)
   
   >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
 
@@ -801,7 +807,9 @@
 
   >[Volleyball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2015%209th%20D%20Volleyball.pdf) | 2ND PLACE | WINNER
 
-**SFA 2015 - [3RD PLACE](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) | WON BRONZE MEDAL**
+**SPORTS FOR ALL**
+
+  >SFA | [3RD PLACE](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) | WON BRONZE MEDAL
 
   - [SFA Mumbai 2015 | Basketball | Saraswati Secondary School Vs S.V.K.M.C.N.M School | Boys | U16 | R1](https://www.youtube.com/watch?v=wn2XlUVHnP4)
   - [SFA Mumbai 2015 | Basketball | Saraswati vs Podar Khar | U16 | Boys](https://www.youtube.com/watch?v=_vIuCSwDCVQ)
@@ -810,9 +818,10 @@
 
 **Skating**
 
-  >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition
 
-  >[Aryan Roller Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) | RANK 1 | RANK 2 | QUAD: IMPORTED
+  >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition | FINISHER
+
+  >[Aryan Roller Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) | RANK 1 | RANK 2 | QUAD: IMPORTED | FINISHER
 
   >[District Level Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) | 2ND PLACE | WINNER 
 
