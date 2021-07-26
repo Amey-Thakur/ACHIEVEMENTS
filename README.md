@@ -531,7 +531,7 @@
 
 **IIT ROPAR - Diginique Techlabs**
 
-  >Data Science Machine Learning and AI using Python | [Training](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf)
+  >Data Science Machine Learning and AI using Python | [Training](https://diginique.com/DT21070034)
 
 **JPMorgan Chase & Co.**
 
