@@ -116,7 +116,7 @@
 
   >[Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories](https://www.coursera.org/account/accomplishments/verify/VMBRBE9TATJ5)
 
-  >[rite Professional Emails in English](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8)
+  >[Write Professional Emails in English](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8)
 
 **Imperial College London**
 
