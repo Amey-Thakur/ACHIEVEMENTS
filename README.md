@@ -529,6 +529,10 @@
 
   >Goldman Sachs Engineering Virtual Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Goldman%20Sachs/Goldman%20Sachs%20Engineering%20Virtual%20Program.pdf)
 
+**IIT ROPAR - Diginique Techlabs**
+
+  >Data Science Machine Learning and AI using Python | [Training](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf)
+
 **JPMorgan Chase & Co.**
 
   >JPMorgan Chase Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
