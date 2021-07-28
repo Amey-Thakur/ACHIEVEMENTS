@@ -480,10 +480,10 @@
   | CSC601 | Software Engineering |
   | CSC602 | System Programming And Compiler Construction |
   | CSC603 | Data Warehousing and Mining |
-  | CSC604 | Cryptography and System Security |
+  | CSC604 | [Cryptography and System Security](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
   | CSDLO6021 | Machine Learning |
   | CSL601 | Software Engineering Lab - [Project](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
-  | CSL602 | System Software Lab |
+  | CSL602 | [System Software Lab](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
   | CSL603 | Data Warehousing and Mining Lab |
   | CSL604 | System Security Lab |
   | CSM605 | [Mini-Project](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
