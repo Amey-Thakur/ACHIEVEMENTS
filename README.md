@@ -467,7 +467,7 @@
   | CSC503 | Computer Network |
   | CSC504 | Theory of Computer Science |
   | CSDLO5011 | Multimedia System |
-  | CSL501 | Microprocessor Lab |
+  | CSL501 | [Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB) |
   | CSL502 | Computer Network Lab |
   | CSL503 | Database & Information System Lab - [Project](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
   | CSL504 | [Web Design Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - [Project](https://github.com/Amey-Thakur/CHAT-ROOM) |
