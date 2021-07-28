@@ -471,7 +471,7 @@
   | CSL502 | [Computer Network Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK) |
   | CSL503 | Database & Information System Lab - [Project](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
   | CSL504 | [Web Design Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - [Project](https://github.com/Amey-Thakur/CHAT-ROOM) |
-  | CSL505 | Business Communication & Ethics |
+  | CSL505 | [Business Communication & Ethics](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS) |
 
   - **T. E. Computer Engineering (Semester - VI)**
 
