@@ -497,7 +497,7 @@
   | CSC703 | Artificial Intelligence & Soft Computing |
   | CSDLO7032 | Big Data Analytics |
   | ILO7013 | Management Information System |
-  | CSL701 | Digital Signal and Image Processing Lab |
+  | CSL701 | [Digital Signal and Image Processing Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) |
   | CSL702 | Mobile Application Development Lab |
   | CSL703 | Artificial Intelligence & Soft Computing Lab |
   | CSL704 | Computational Lab - I |
