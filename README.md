@@ -464,11 +464,11 @@
   | :-------------: | ------------- |
   | CSC501 | Microprocessor |
   | CSC502 | Database Management System |
-  | CSC503 | Computer Network |
+  | CSC503 | [Computer Network](https://github.com/Amey-Thakur/COMPUTER-NETWORK) |
   | CSC504 | [Theory of Computer Science](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE) |
   | CSDLO5011 | Multimedia System |
   | CSL501 | [Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB) |
-  | CSL502 | Computer Network Lab |
+  | CSL502 | [Computer Network Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK) |
   | CSL503 | Database & Information System Lab - [Project](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
   | CSL504 | [Web Design Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - [Project](https://github.com/Amey-Thakur/CHAT-ROOM) |
   | CSL505 | Business Communication & Ethics |
