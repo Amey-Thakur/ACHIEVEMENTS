@@ -462,7 +462,7 @@
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
-  | CSC501 | Microprocessor |
+  | CSC501 | [Microprocessor](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB) |
   | CSC502 | [Database Management System](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM) |
   | CSC503 | [Computer Network](https://github.com/Amey-Thakur/COMPUTER-NETWORK) |
   | CSC504 | [Theory of Computer Science](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE) |
@@ -478,14 +478,14 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | CSC601 | Software Engineering |
-  | CSC602 | System Programming And Compiler Construction |
+  | CSC602 | [System Programming And Compiler Construction](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB) |
   | CSC603 | Data Warehousing and Mining |
   | CSC604 | [Cryptography and System Security](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
   | CSDLO6021 | Machine Learning |
   | CSL601 | Software Engineering Lab - [Project](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
-  | CSL602 | [System Software Lab](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
+  | CSL602 | [System Software Lab](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB) |
   | CSL603 | Data Warehousing and Mining Lab |
-  | CSL604 | System Security Lab |
+  | CSL604 | [System Security Lab](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
   | CSM605 | [Mini-Project](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
 
   - **B. E. Computer Engineering (Semester - VII)**
