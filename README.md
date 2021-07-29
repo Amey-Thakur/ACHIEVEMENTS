@@ -493,12 +493,12 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | CSC701 | [Digital Signal & Image Processing](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) |
-  | CSC702 | Mobile Communication & Computing |
+  | CSC702 | [Mobile Communication & Computing](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) |
   | CSC703 | Artificial Intelligence & Soft Computing |
   | CSDLO7032 | Big Data Analytics |
   | ILO7013 | Management Information System |
   | CSL701 | [Digital Signal and Image Processing Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) |
-  | CSL702 | Mobile Application Development Lab |
+  | CSL702 | [Mobile Application Development Lab](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) |
   | CSL703 | Artificial Intelligence & Soft Computing Lab |
   | CSL704 | Computational Lab - I |
   | CSP705 | [Major Project - I](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
