@@ -724,7 +724,7 @@
 
   >[WEB DESIGNING LAB](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | WDL [SEMESTER V]
 
-  >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. | [WEB APP](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
+  >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. | [WEB APPLICATION](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
 
 ---
 
