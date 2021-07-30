@@ -481,7 +481,7 @@
   | CSC602 | [System Programming And Compiler Construction](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB) |
   | CSC603 | [Data Warehousing and Mining](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB) |
   | CSC604 | [Cryptography and System Security](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
-  | CSDLO6021 | Machine Learning |
+  | CSDLO6021 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE-LEARNING) |
   | CSL601 | [Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB) - [Project](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
   | CSL602 | [System Software Lab](https://github.com/Amey-Thakur/SYSTEM-PROGRAMMING-AND-COMPILER-CONSTRUCTION-AND-SYSTEM-SOFTWARE-LAB) |
   | CSL603 | [Data Warehousing and Mining Lab](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB) |
