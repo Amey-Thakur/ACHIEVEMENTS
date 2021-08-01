@@ -1,5 +1,7 @@
 # ACHIEVEMENTS
 
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+
  My Certifications and Achievements.
 
  - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
