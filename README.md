@@ -455,7 +455,7 @@
   | CSL401 | Analysis of Algorithms Lab |
   | CSL402 | Computer Graphics Lab  - [Project](https://github.com/rizvihasan/ARStackDemo) |
   | CSL403 | Processor Architecture Lab |
-  | CSL404 | Operating System Lab |
+  | CSL404 | Operating System Lab - [Project](https://github.com/Amey-Thakur/OPERATING-SYSTEM-LAB) |
   | CSL405 | Open Source Tech Lab - [Project](https://github.com/rizvihasan/COVID19IndiaVizScraper) |
   
   - **T. E. Computer Engineering (Semester - V)**
