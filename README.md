@@ -72,6 +72,7 @@
   - [Custom Prediction Routine on Google AI Platform](https://www.coursera.org/account/accomplishments/verify/C6DHXU6GK9GR)
   - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/6GWEVATGMF99)
   - [Getting Started in Google Analytics](https://www.coursera.org/account/accomplishments/verify/B5GDC8CNZ94G)
+  - [Getting Started with Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/NRYE9EPZ9G9T)
   - [Google Ads for Beginners](https://www.coursera.org/account/accomplishments/verify/7RY77SNRPHCB)
   - [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/8U7FDVJYGKZ3)
   - [Introduction to Google Docs](https://www.coursera.org/account/accomplishments/verify/GBNPZMHLP5U9)
