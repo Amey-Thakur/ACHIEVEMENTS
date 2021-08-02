@@ -1,5 +1,7 @@
 # ACHIEVEMENTS
 
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+
  My Certifications and Achievements.
 
  - [COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)
@@ -70,6 +72,7 @@
   - [Custom Prediction Routine on Google AI Platform](https://www.coursera.org/account/accomplishments/verify/C6DHXU6GK9GR)
   - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/6GWEVATGMF99)
   - [Getting Started in Google Analytics](https://www.coursera.org/account/accomplishments/verify/B5GDC8CNZ94G)
+  - [Getting Started with Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/NRYE9EPZ9G9T)
   - [Google Ads for Beginners](https://www.coursera.org/account/accomplishments/verify/7RY77SNRPHCB)
   - [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/8U7FDVJYGKZ3)
   - [Introduction to Google Docs](https://www.coursera.org/account/accomplishments/verify/GBNPZMHLP5U9)
@@ -455,7 +458,7 @@
   | CSL401 | Analysis of Algorithms Lab |
   | CSL402 | Computer Graphics Lab  - [Project](https://github.com/rizvihasan/ARStackDemo) |
   | CSL403 | Processor Architecture Lab |
-  | CSL404 | Operating System Lab |
+  | CSL404 | Operating System Lab - [Project](https://github.com/Amey-Thakur/OPERATING-SYSTEM-LAB) |
   | CSL405 | Open Source Tech Lab - [Project](https://github.com/rizvihasan/COVID19IndiaVizScraper) |
   
   - **T. E. Computer Engineering (Semester - V)**
