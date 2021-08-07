@@ -709,6 +709,8 @@
 
 ### Projects
 
+  >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
+
   >[CAR RENTAL SYSTEM](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | It is a simple Car Rental Database Management System.
 
   >[CHAT ROOM](https://github.com/Amey-Thakur/CHAT-ROOM) | It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
