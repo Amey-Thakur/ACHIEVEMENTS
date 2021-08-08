@@ -709,9 +709,7 @@
 
 ### Projects
 
-  >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | Machine Learning Project to Predict House Prices in Bangalore.
-
- | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
+  >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | Machine Learning Project to Predict House Prices in Bangalore. | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
 
   >[CAR RENTAL SYSTEM](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | It is a simple Car Rental Database Management System.
 
