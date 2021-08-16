@@ -707,6 +707,12 @@
 
 ---
 
+### Nvidia Deep Learning Institute
+
+  >[GETTING STARTED WITH AI ON JETSON](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Nvidia%20Deep%20Learning%20Institute/NVIDIA%20GETTING%20STARTED%20WITH%20AI%20ON%20JETSON.pdf)
+
+---
+
 ### Projects
 
   >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | Machine Learning Project to Predict House Prices in Bangalore. | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
