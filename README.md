@@ -18,7 +18,7 @@
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
  - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
- - [Nvidia Deep Learning Institute](https://github.com/Amey-Thakur/ACHIEVEMENTS#nvidia-deep-learning-institute)
+ - [NVIDIA Deep Learning Institute](https://github.com/Amey-Thakur/ACHIEVEMENTS#nvidia-deep-learning-institute)
  - [Projects](https://github.com/Amey-Thakur/ACHIEVEMENTS#projects)          <--- Project Work
  - [Quizzes](https://github.com/Amey-Thakur/ACHIEVEMENTS#quizzes)
  - [Research Papers](https://github.com/Amey-Thakur/ACHIEVEMENTS#research-papers)          <--- Research Work
@@ -708,7 +708,7 @@
 
 ---
 
-### Nvidia Deep Learning Institute
+### NVIDIA Deep Learning Institute
 
   >[GETTING STARTED WITH AI ON JETSON](https://courses.nvidia.com/certificates/73f1ee6c6458478288ae4bdf31bfa276)
 
