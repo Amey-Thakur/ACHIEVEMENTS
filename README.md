@@ -18,6 +18,7 @@
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
  - [Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)
+ - [NVIDIA Deep Learning Institute](https://github.com/Amey-Thakur/ACHIEVEMENTS#nvidia-deep-learning-institute)
  - [Projects](https://github.com/Amey-Thakur/ACHIEVEMENTS#projects)          <--- Project Work
  - [Quizzes](https://github.com/Amey-Thakur/ACHIEVEMENTS#quizzes)
  - [Research Papers](https://github.com/Amey-Thakur/ACHIEVEMENTS#research-papers)          <--- Research Work
@@ -707,6 +708,12 @@
 
 ---
 
+### NVIDIA Deep Learning Institute
+
+  >[GETTING STARTED WITH AI ON JETSON](https://courses.nvidia.com/certificates/73f1ee6c6458478288ae4bdf31bfa276)
+
+---
+
 ### Projects
 
   >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | Machine Learning Project to Predict House Prices in Bangalore. | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
@@ -798,7 +805,7 @@
 
   _Follow My Research @ - [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)_
 
-  >[Certificate]() | Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis | Pre-print [@arXiv](https://arxiv.org/abs/2108.04351)
+  >[Certificate]() | IJEAST-V6I2 | [Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis](https://www.ijeast.com/papers/251-257,Tesma602,IJEAST.pdf)
  
   >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET36339%20-%20Car%20Rental%20System.pdf) | IJRASET-V9I7 | [Car Rental System](https://doi.org/10.22214/ijraset.2021.36339)
   
