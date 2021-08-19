@@ -527,11 +527,11 @@
 
 **Accenture**
 
-  >Accenture Nordic Consultant Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Accenture/Accenture%20Consultant%20Program.pdf)
+  >Accenture Nordic Consultant Program | [Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/KJGjQRHZ6eGquTKfF_Accenture%20Nordic_JtA9vXwzt8JuiqQpt_1627100582696_completion_certificate.pdf)
 
 **Goldman Sachs**
 
-  >Goldman Sachs Engineering Virtual Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Goldman%20Sachs/Goldman%20Sachs%20Engineering%20Virtual%20Program.pdf)
+  >Goldman Sachs Engineering Virtual Program | [Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_JtA9vXwzt8JuiqQpt_1627194162680_completion_certificate.pdf)
 
 **IIT ROPAR - Diginique Techlabs**
 
@@ -539,15 +539,17 @@
 
 **JPMorgan Chase & Co.**
 
-  >JPMorgan Chase Software Engineering Virtual Experience | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/JPMorgan%20Chase%20_%20Co/Software%20Engineering%20Virtual%20Experience.pdf)
+  >JPMorgan Chase Software Engineering Virtual Experience | [Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_JtA9vXwzt8JuiqQpt_1626951761146_completion_certificate.pdf)
+
+  >JPMorgan Investment Banking Virtual Experience | [Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_J.P.%20Morgan_JtA9vXwzt8JuiqQpt_1629367039154_completion_certificate.pdf)
 
 **KPMG International Limited**
 
-  >KPMG Data Analytics Virtual Experience Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/KPMG%20International%20Limited/Data%20Analytics%20Consulting%20Virtual%20Internship.pdf)
+  >KPMG Data Analytics Virtual Experience Program | [Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_JtA9vXwzt8JuiqQpt_1627153479459_completion_certificate.pdf)
 
 **Teach For Australia**
 
-  >Teach for Australia Classroom Virtual Experience Program | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Teach%20For%20Australia/Teach%20for%20Australia%20Classroom%20Virtual%20Experience%20Program.pdf)
+  >Teach for Australia Classroom Virtual Experience Program | [Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf)
 
 **Technocolabs**
   >Data Scientist Intern | [Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) | [Completion]()
