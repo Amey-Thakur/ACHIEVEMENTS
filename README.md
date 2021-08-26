@@ -818,6 +818,8 @@
   
   >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET-V9I8%20-%20Fundamentals%20of%20Neural%20Networks.pdf) | IJRASET-V9I8 | [Fundamentals of Neural Networks](https://doi.org/10.22214/ijraset.2021.37362) | Pre-print [@viXra](https://vixra.org/abs/2108.0130)
   
+  >[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Certificates/IJRASET37723%20-%20Generative%20Adverserial%20Networks.pdf) | IJRASET-V9I8 | [Generative Adverserial Networks]() | Pre-print [@]()
+  
   >[Certificate]() | IJEAST-V5I12 | [White-Box Cartoonization Using An Extended GAN Framework](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf) | Pre-print [@arXiv](https://arxiv.org/abs/2107.04551) | [Presentation](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
 
 ---
