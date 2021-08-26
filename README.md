@@ -806,7 +806,7 @@
 
 ### Research Papers
 
-  _Follow My Research @ - [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur)_
+  _Follow My Research @ - [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur) | [viXra](https://vixra.org/author/amey_thakur)_
 
   >[Certificate]() | IJEAST-V6I2 | [Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis](https://www.ijeast.com/papers/251-257,Tesma602,IJEAST.pdf) | Pre-print [@arXiv](https://arxiv.org/abs/2108.04351)
  
