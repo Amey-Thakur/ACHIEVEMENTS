@@ -541,7 +541,7 @@
 
   >Data Science Machine Learning and AI using Python 
   
-  - [Internship Training](https://diginique.com/DT21070034) 
+  - [Internship Training](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf) 
   - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Internship%20Completion%20Letter.pdf) 
   - [Project Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Project%20Completion%20Letter.pdf) 
   - Bangalore House Price Prediction - [Project](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) 
