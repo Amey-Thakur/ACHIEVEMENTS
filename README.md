@@ -565,14 +565,21 @@
 
 **Teach For Australia**
 
-  >Teach for Australia Classroom Virtual Experience Program | [Internship Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf)
+  >Teach for Australia Classroom Virtual Experience Program 
+  
+  - [Internship Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf)
 
 **Technocolabs**
-  >Data Scientist Intern | [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) | [Internship Completion]()
+  >Data Scientist Intern 
+  
+  - [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) 
 
 **The Sparks Foundation**
 
-  >Data Science and Business Analytics Intern | [Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Completion.pdf)
+  >Data Science and Business Analytics Intern 
+  
+  - [Internship Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) 
+  - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Completion.pdf)
 
 ---
 
