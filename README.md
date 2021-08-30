@@ -869,7 +869,7 @@
   
   >White-Box Cartoonization Using An Extended GAN Framework
   
-  - IJEAST | Volume 5 Issue 12 | [Published Article](https://www.ijeast.com/papers/294-298,Tesma512,IJEAST.pdf)
+  - IJEAST | Volume 5 Issue 12 | [Published Article](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
   - arXiv | [Preprint](https://arxiv.org/abs/2107.04551) 
   - [Presentation](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
 
