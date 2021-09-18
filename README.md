@@ -835,7 +835,7 @@
 
   >Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
   
-  - IJEAST 2021 | Volume 6 Issue 2 | [Published Article](https://www.ijeast.com/papers/251-257,Tesma602,IJEAST.pdf)
+  - IJEAST 2021 | Volume 6 Issue 2 | [Published Article](http://dx.doi.org/10.33564/IJEAST.2021.v06i02.037)
   - arXiv | [Preprint](https://arxiv.org/abs/2108.04351)
  
   >Bangalore House Price Prediction
