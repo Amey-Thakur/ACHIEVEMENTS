@@ -570,9 +570,13 @@
   - [Internship Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf)
 
 **Technocolabs**
+
   >Data Scientist Intern 
   
-  - [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20-%20Internship%20Offer%20Letter.pdf) 
+  - [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Offer%20Letter.pdf) 
+  - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Completion%20Letter.pdf)
+  - [Project Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Project%20Completion%20Letter.pdf)
+  - [Letter of Recommendation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Letter%20of%20Recommendation.pdf)
 
 **The Sparks Foundation**
 
