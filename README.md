@@ -544,7 +544,7 @@
   - [Internship Training](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf) 
   - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Internship%20Completion%20Letter.pdf) 
   - [Project Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Project%20Completion%20Letter.pdf) 
-  - Bangalore House Price Prediction - [Project](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) 
+  - Bangalore House Price Prediction - [Project](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | [Web Application](https://bangalorehousepriceprediction.herokuapp.com) 
   - [Letter of Recommendation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Letter%20of%20Recommendation.pdf) 
 
 **JPMorgan Chase & Co.**
@@ -576,6 +576,7 @@
   - [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Offer%20Letter.pdf) 
   - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Completion%20Letter.pdf)
   - [Project Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Project%20Completion%20Letter.pdf)
+  - Optimizing Stock Trading Strategy with Reinforcement Learning - [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://stock-trading-with-rl.herokuapp.com)
   - [Letter of Recommendation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Letter%20of%20Recommendation.pdf)
 
 **The Sparks Foundation**
