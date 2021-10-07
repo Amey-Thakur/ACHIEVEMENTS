@@ -847,6 +847,7 @@
 
   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Bangalore%20House%20Price%20Prediction/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg)
   -  IRJET | Volume 8 Issue 9 | [Published Article](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
+  -  viXra | [Preprint](https://vixra.org/abs/2110.0026)
   
   >Car Rental System
   
