@@ -519,7 +519,7 @@
   | CSL802 | Distributed Computing Lab |
   | CSL803 | Cloud Computing Lab  |
   | CSL804 | Computational Lab - II |
-  | CSP805 | Major Project - II  |
+  | CSP805 | [Major Project - II](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
 ---
 
