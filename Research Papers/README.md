@@ -52,6 +52,7 @@
   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic/IJRASET37930%20-%20Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic.pdf)
   - IJRASET | Volume 9 Issue 9 | [Published Article](https://doi.org/10.22214/ijraset.2021.37930)
   - viXra | [Preprint](https://vixra.org/abs/2109.0047)
+  - [Presentation](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
   
   >White-Box Cartoonization Using An Extended GAN Framework
   
