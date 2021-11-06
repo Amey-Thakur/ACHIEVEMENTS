@@ -691,7 +691,7 @@
 
 ---
 
-**Julia Academy**
+### Julia Academy**
 
   >[Julia Academy - Introduction to Julia (for programmers)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Julia%20Academy%20-%20Introduction%20to%20Julia%20(for%20programmers).pdf)
 
