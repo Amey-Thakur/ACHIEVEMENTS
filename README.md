@@ -14,6 +14,7 @@
  - [IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)
  - [IIT Bombay](https://github.com/Amey-Thakur/ACHIEVEMENTS#iit-bombay)
  - [Intel](https://github.com/Amey-Thakur/ACHIEVEMENTS#intel)
+ - [Julia Academy]()
  - [Kaggle](https://github.com/Amey-Thakur/ACHIEVEMENTS/#kaggle)
  - [LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)
  - [MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)
@@ -687,6 +688,12 @@
 **Intel® AI Academy** 
 
   >[AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+
+---
+
+**Julia Academy**
+
+  >[Julia Academy - Introduction to Julia (for programmers)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Julia%20Academy%20-%20Introduction%20to%20Julia%20(for%20programmers).pdf)
 
 ---
 
