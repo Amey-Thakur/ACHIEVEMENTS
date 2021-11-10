@@ -767,6 +767,8 @@
 
   >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | It is a simple Hangman Word Game using Applet in Java.
 
+  >[Optimizing Stock Trading Strategy with Reinforcement Learning](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | Machine Learning Project to optimize stock trading strategy. | [WEB APPLICATION](https://stock-trading-with-rl.herokuapp.com)
+
   >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | It is a simple Web Design in HTML and CSS. | [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
 
   >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | A simple Python Program to Analyze Sentiments using TextBlob Python Library.
@@ -894,7 +896,7 @@
   - IJRASET | Volume 9 Issue 9 | [Published Article](https://doi.org/10.22214/ijraset.2021.37930)
   - viXra | [Preprint](https://vixra.org/abs/2109.0047)
   - [Presentation](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
-  
+   
   >White-Box Cartoonization Using An Extended GAN Framework
   
   - IJEAST | Volume 5 Issue 12 | [Published Article](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
