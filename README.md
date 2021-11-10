@@ -767,7 +767,7 @@
 
   >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | It is a simple Hangman Word Game using Applet in Java.
 
-  >[Optimizing Stock Trading Strategy with Reinforcement Learning](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | Machine Learning Project to optimize stock trading strategy. | [WEB APPLICATION](https://stock-trading-with-rl.herokuapp.com)
+  >[OPTIMIZING STOCK TRADING STRATEGY WITH REINFORCEMENT LEARNING](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | Machine Learning Project to optimize stock trading strategy. | [WEB APPLICATION](https://stock-trading-with-rl.herokuapp.com)
 
   >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | It is a simple Web Design in HTML and CSS. | [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
 
