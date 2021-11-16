@@ -41,7 +41,7 @@
   - IJRASET | Volume 9 Issue 8 | [Published Article](https://doi.org/10.22214/ijraset.2021.37362) 
   - viXra | [Preprint](https://vixra.org/abs/2108.0130)
   
-  >Generative Adverserial Networks
+  >Generative Adversarial Networks
   
   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Generative%20Adversarial%20Networks/IJRASET37723%20-%20Generative%20Adverserial%20Networks.pdf) 
   - IJRASET | Volume 9 Issue 8 | [Published Article](https://doi.org/10.22214/ijraset.2021.37723)
