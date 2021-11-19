@@ -693,6 +693,8 @@
 
 ### Julia Academy
 
+  >[Getting Started With JuliaAcademy](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Getting%20Started%20With%20JuliaAcademy.pdf)
+  
   >[Introduction to Julia (for programmers)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Introduction%20to%20Julia%20(for%20programmers).pdf)
   
   >[Julia for Data Science](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Julia%20for%20Data%20Science.pdf)
