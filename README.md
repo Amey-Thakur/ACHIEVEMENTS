@@ -694,6 +694,8 @@
 ### Julia Academy
 
   >[Introduction to Julia (for programmers)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Introduction%20to%20Julia%20(for%20programmers).pdf)
+  
+  >[Julia for Data Science](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Julia%20for%20Data%20Science.pdf)
 
 ---
 
@@ -995,11 +997,3 @@
   >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2021).pdf) | Amey Thakur | 2021
 
 ---
-
-
-
-
-
-
-
-
