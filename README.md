@@ -700,6 +700,8 @@
   >[Julia for Data Science](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Julia%20for%20Data%20Science.pdf)
   
   >[The world of Machine Learning with Knet](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/The%20world%20of%20Machine%20Learning%20with%20Knet.pdf)
+  
+  >[Foundations of Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Foundations%20of%20Machine%20Learning.pdf)
 
 ---
 
