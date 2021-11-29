@@ -978,6 +978,8 @@
 
 ### Terna Engineering College
 
+  >[Entrepreneurship Awareness Drive](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Entrepreneurship%20Awareness%20Drive.pdf)
+  
   >[Git and Github Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf)
   
   >[Mindful Gurukul](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Mindful%20Gurukul.pdf)
