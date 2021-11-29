@@ -702,6 +702,8 @@
   >[The world of Machine Learning with Knet](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/The%20world%20of%20Machine%20Learning%20with%20Knet.pdf)
   
   >[Foundations of Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Foundations%20of%20Machine%20Learning.pdf)
+  
+  >[Deep Learning with Flux.jl](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Deep%20Learning%20with%20Flux.jl.pdf)
 
 ---
 
