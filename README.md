@@ -704,6 +704,8 @@
   >[Foundations of Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Foundations%20of%20Machine%20Learning.pdf)
   
   >[Deep Learning with Flux.jl](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Deep%20Learning%20with%20Flux.jl.pdf)
+  
+  >[Introduction to DataFrames.jl (v1.1.1)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf)
 
 ---
 
