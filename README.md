@@ -708,6 +708,8 @@
   >[Introduction to DataFrames.jl (v1.1.1)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf)
   
   >[Decision Making Under Uncertainty with POMDPs.jl](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.pdf)
+  
+  >[Parallel Computing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Parallel%20Computing.pdf)
 
 ---
 
