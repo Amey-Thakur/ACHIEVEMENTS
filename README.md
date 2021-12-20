@@ -710,6 +710,8 @@
   >[Decision Making Under Uncertainty with POMDPs.jl](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.pdf)
   
   >[Parallel Computing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Parallel%20Computing.pdf)
+  
+  >[Computational Modeling in Julia with Applications to the COVID-19 Pandemic](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic.pdf)
 
 ---
 
