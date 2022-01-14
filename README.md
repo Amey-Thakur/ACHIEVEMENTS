@@ -513,11 +513,11 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | CSC801 | Human Machine Interaction |
-  | CSC802 | Distributed Computing |
+  | CSC802 | [Distributed Computing](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
   | DLO8012 | Natural Language Processing |
   | ILO8022 | Finance Management |
   | CSL801 | Human Machine Interactions Lab |
-  | CSL802 | Distributed Computing Lab |
+  | CSL802 | [Distributed Computing Lab](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
   | CSL803 | [Cloud Computing Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)  |
   | CSL804 | Computational Lab - II |
   | CSP805 | [Major Project - II](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
