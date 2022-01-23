@@ -515,7 +515,7 @@
   | CSC801 | Human Machine Interaction |
   | CSC802 | [Distributed Computing](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
   | DLO8012 | Natural Language Processing |
-  | ILO8022 | Finance Management |
+  | ILO8022 | [Finance Management](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT) |
   | CSL801 | Human Machine Interactions Lab |
   | CSL802 | [Distributed Computing Lab](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
   | CSL803 | [Cloud Computing Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)  |
