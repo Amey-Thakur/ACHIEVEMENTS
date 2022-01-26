@@ -791,6 +791,8 @@
 
   >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | A simple Python Program to Analyze Sentiments using TextBlob Python Library.
 
+  >[TEXT SUMMARIZER](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
+  
   >TSF | [SUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | Task: To predict the percentage of a student based on the number of study hours. Linear Regression is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
 
   >TSF | [UNSUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) | Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
@@ -915,6 +917,12 @@
   - viXra | [Preprint](https://vixra.org/abs/2109.0047)
   - [Presentation](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
    
+  >Text Summarizer Using Julia
+  
+  - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Text%20Summarizer%20Using%20Julia/IJRASET40066%20-%20Text%20Summarizer%20Using%20Julia.pdf)
+  - IJRASET | Volume 10 Issue 1 | [Published Article](https://doi.org/10.22214/ijraset.2022.40066)
+  - [Presentation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Text%20Summarizer%20Using%20Julia/TEXT%20SUMMARIZER.pdf)
+  
   >White-Box Cartoonization Using An Extended GAN Framework
   
   - IJEAST | Volume 5 Issue 12 | [Published Article](http://dx.doi.org/10.33564/IJEAST.2021.v05i12.049)
