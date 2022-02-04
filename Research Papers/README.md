@@ -59,6 +59,7 @@
   
   - **[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Text%20Summarizer%20Using%20Julia/IJRASET40066%20-%20Text%20Summarizer%20Using%20Julia.pdf)**
   - **IJRASET | Volume 10 Issue 1 | [Published Article](https://doi.org/10.22214/ijraset.2022.40066)**
+  - **viXra | [Preprint](http://vixra.org/abs/2202.0017)**
   - **[Presentation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Text%20Summarizer%20Using%20Julia/TEXT%20SUMMARIZER.pdf)**
   
   >**White-Box Cartoonization Using An Extended GAN Framework**
