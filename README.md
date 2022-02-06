@@ -461,7 +461,7 @@
   | CSL402 | Computer Graphics Lab  - [Project](https://github.com/Amey-Thakur/AR-STACK-GAME) |
   | CSL403 | Processor Architecture Lab |
   | CSL404 | Operating System Lab - [Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
-  | CSL405 | Open Source Tech Lab - [Project](https://github.com/rizvihasan/COVID19IndiaVizScraper) |
+  | CSL405 | Open Source Tech Lab - [Project](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER) |
   
   - **T. E. Computer Engineering (Semester - V)**
 
