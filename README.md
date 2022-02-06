@@ -439,7 +439,7 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | CSC301 | [Applied Mathematics - III](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III) |
-  | CSC302 | Digital Logic Design and Analysis |
+  | CSC302 | [Digital Logic Design and Analysis](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS) |
   | CSC303 | Discrete Mathematics |
   | CSC304 | Electronic Circuits and Communication Fundamentals |
   | CSC305 | Data Structures |
