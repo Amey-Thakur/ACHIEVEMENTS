@@ -446,7 +446,7 @@
   | CSL301 | Digital System Lab |
   | CSL302 | Basic Electronics Lab |
   | CSL303 | Data structure Lab |
-  | CSL304 | OOPM(Java) Lab - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
+  | CSL304 | OOPM (Java) Lab - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
   - **S. E. Computer Engineering (Semester - IV)**
 
