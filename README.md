@@ -458,7 +458,7 @@
   | CSC404 | Computer Graphics |
   | CSC405 | Operating System |
   | CSL401 | Analysis of Algorithms Lab |
-  | CSL402 | Computer Graphics Lab  - [Project](https://github.com/rizvihasan/ARStackDemo) |
+  | CSL402 | Computer Graphics Lab  - [Project](https://github.com/Amey-Thakur/AR-STACK-GAME) |
   | CSL403 | Processor Architecture Lab |
   | CSL404 | Operating System Lab - [Project](https://github.com/Amey-Thakur/OPERATING-SYSTEM-LAB) |
   | CSL405 | Open Source Tech Lab - [Project](https://github.com/rizvihasan/COVID19IndiaVizScraper) |
