@@ -440,8 +440,8 @@
   | :-------------: | ------------- |
   | CSC301 | [Applied Mathematics - III](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III) |
   | CSC302 | [Digital Logic Design and Analysis](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS) |
-  | CSC303 | Discrete Mathematics |
-  | CSC304 | Electronic Circuits and Communication Fundamentals |
+  | CSC303 | [Discrete Mathematics](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS) |
+  | CSC304 | [Electronic Circuits and Communication Fundamentals](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS) |
   | CSC305 | Data Structures |
   | CSL301 | Digital System Lab |
   | CSL302 | Basic Electronics Lab |
