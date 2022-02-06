@@ -442,10 +442,10 @@
   | CSC302 | [Digital Logic Design and Analysis](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS) |
   | CSC303 | [Discrete Mathematics](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS) |
   | CSC304 | [Electronic Circuits and Communication Fundamentals](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS) |
-  | CSC305 | Data Structures |
-  | CSL301 | Digital System Lab |
-  | CSL302 | Basic Electronics Lab |
-  | CSL303 | Data structure Lab |
+  | CSC305 | [Data Structures](https://github.com/Amey-Thakur/DATA-STRUCTURES) |
+  | CSL301 | [Digital System Lab](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS) |
+  | CSL302 | [Basic Electronics Lab](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS) |
+  | CSL303 | [Data structure Lab](https://github.com/Amey-Thakur/DATA-STRUCTURES) |
   | CSL304 | OOPM (Java) Lab - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
   - **S. E. Computer Engineering (Semester - IV)**
