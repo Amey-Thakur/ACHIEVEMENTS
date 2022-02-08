@@ -446,7 +446,7 @@
   | CSL301 | [Digital System Lab](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB) |
   | CSL302 | [Basic Electronics Lab](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB) |
   | CSL303 | [Data structure Lab](https://github.com/Amey-Thakur/DATA-STRUCTURES-AND-DATA-STRUCTURES-LAB) |
-  | CSL304 | OOPM (Java) Lab - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
+  | CSL304 | [OOPM (Java) Lab](https://github.com/Amey-Thakur/OOPM-JAVA-LAB) - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
   - **S. E. Computer Engineering (Semester - IV)**
 
