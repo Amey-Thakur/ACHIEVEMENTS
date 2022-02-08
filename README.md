@@ -439,13 +439,13 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | CSC301 | [Applied Mathematics - III](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III) |
-  | CSC302 | [Digital Logic Design and Analysis](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS) |
+  | CSC302 | [Digital Logic Design and Analysis](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB) |
   | CSC303 | [Discrete Mathematics](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS) |
-  | CSC304 | [Electronic Circuits and Communication Fundamentals](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS) |
-  | CSC305 | [Data Structures](https://github.com/Amey-Thakur/DATA-STRUCTURES) |
-  | CSL301 | [Digital System Lab](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS) |
-  | CSL302 | [Basic Electronics Lab](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS) |
-  | CSL303 | [Data structure Lab](https://github.com/Amey-Thakur/DATA-STRUCTURES) |
+  | CSC304 | [Electronic Circuits and Communication Fundamentals](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB) |
+  | CSC305 | [Data Structures](https://github.com/Amey-Thakur/DATA-STRUCTURES-AND-DATA-STRUCTURES-LAB) |
+  | CSL301 | [Digital System Lab](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB) |
+  | CSL302 | [Basic Electronics Lab](https://github.com/Amey-Thakur/ELECTRONIC-CIRCUITS-AND-COMMUNICATION-FUNDAMENTALS-AND-BASIC-ELECTRONICS-LAB) |
+  | CSL303 | [Data structure Lab](https://github.com/Amey-Thakur/DATA-STRUCTURES-AND-DATA-STRUCTURES-LAB) |
   | CSL304 | OOPM (Java) Lab - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
   - **S. E. Computer Engineering (Semester - IV)**
