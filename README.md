@@ -453,15 +453,15 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | CSC401 | [Applied Mathematics - IV](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV) |
-  | CSC402 | [Analysis of Algorithm](https://github.com/Amey-Thakur/ANALYSIS-OF-ALGORITHM) |
-  | CSC403 | [Computer Organization and Architecture](https://github.com/Amey-Thakur/COMPUTER-ORGANIZATION-AND-ARCHITECTURE) |
-  | CSC404 | [Computer Graphics]() |
-  | CSC405 | [Operating System]() |
-  | CSL401 | [Analysis of Algorithms Lab](https://github.com/Amey-Thakur/ANALYSIS-OF-ALGORITHM) |
-  | CSL402 | [Computer Graphics Lab]()  - [Project](https://github.com/Amey-Thakur/AR-STACK-GAME) |
-  | CSL403 | [Processor Architecture Lab]() |
-  | CSL404 | [Operating System Lab]() - [Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
-  | CSL405 | [Open Source Tech Lab]() - [Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) |
+  | CSC402 | [Analysis of Algorithm](https://github.com/Amey-Thakur/ANALYSIS-OF-ALGORITHM-AND-ANALYSIS-OF-ALGORITHM-LAB) |
+  | CSC403 | [Computer Organization and Architecture](https://github.com/Amey-Thakur/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-AND-PROCESSOR-ARCHITECTURE-LAB) |
+  | CSC404 | [Computer Graphics](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB) |
+  | CSC405 | [Operating System](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) |
+  | CSL401 | [Analysis of Algorithms Lab](https://github.com/Amey-Thakur/ANALYSIS-OF-ALGORITHM-AND-ANALYSIS-OF-ALGORITHM-LAB) |
+  | CSL402 | [Computer Graphics Lab](https://github.com/Amey-Thakur/COMPUTER-GRAPHICS-AND-COMPUTER-GRAPHICS-LAB) - [Project](https://github.com/Amey-Thakur/AR-STACK-GAME) |
+  | CSL403 | [Processor Architecture Lab](https://github.com/Amey-Thakur/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-AND-PROCESSOR-ARCHITECTURE-LAB) |
+  | CSL404 | [Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) - [Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
+  | CSL405 | [Open Source Tech Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB) - [Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) |
   
   - **T. E. Computer Engineering (Semester - V)**
 
