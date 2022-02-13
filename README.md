@@ -512,14 +512,14 @@
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
-  | CSC801 | Human Machine Interaction |
+  | CSC801 | [Human Machine Interaction](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) |
   | CSC802 | [Distributed Computing](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
-  | DLO8012 | [Natural Language Processing](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING) |
+  | DLO8012 | [Natural Language Processing](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) |
   | ILO8022 | [Finance Management](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT) |
-  | CSL801 | Human Machine Interactions Lab |
+  | CSL801 | [Human Machine Interactions Lab](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) |
   | CSL802 | [Distributed Computing Lab](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
   | CSL803 | [Cloud Computing Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)  |
-  | CSL804 | Computational Lab - II |
+  | CSL804 | [Computational Lab - II](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) |
   | CSP805 | [Major Project - II](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
 ---
