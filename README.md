@@ -501,7 +501,7 @@
   | CSC702 | [Mobile Communication and Computing](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) |
   | CSC703 | [Artificial Intelligence and Soft Computing](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB) |
   | CSDLO7032 | [Big Data Analytics](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) |
-  | ILO7013 | Management Information System |
+  | ILO7013 | [Management Information System](https://github.com/Amey-Thakur/MANAGEMENT-INFORMATION-SYSTEM) |
   | CSL701 | [Digital Signal and Image Processing Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) |
   | CSL702 | [Mobile Application Development Lab](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) |
   | CSL703 | [Artificial Intelligence and Soft Computing Lab](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB) |
