@@ -1025,10 +1025,10 @@
 
 ---
 
-## 
-
 ### The Evolution of Trust
 
 People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: https://ncase.me/trust
 
 ##
+
+
