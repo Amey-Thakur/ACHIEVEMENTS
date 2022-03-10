@@ -1027,7 +1027,7 @@
 
 ### <p align="center">The Evolution of Trust </p>
 
-People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: https://ncase.me/trust
+<p align="center">People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: https://ncase.me/trust</p>
 
 ##
 
