@@ -773,25 +773,43 @@
 
 ### Projects
 
+  >[ATVM INTERFACE](https://github.com/Amey-Thakur/ATVM-INTERFACE) | It is an interface for an Automatic Ticket Vending Machine.
+  
   >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | Machine Learning Project to Predict House Prices in Bangalore. | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
 
   >[CAR RENTAL SYSTEM](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | It is a simple Car Rental Database Management System.
 
   >[CHAT ROOM](https://github.com/Amey-Thakur/CHAT-ROOM) | It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
+  
+  >[CLOUD SERVICES WEBSITE](https://github.com/Amey-Thakur/CLOUD-SERVICES-WEBSITE)
 
   >[DEEPFAKE AUDIO](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) | An audio deepfake is when a “cloned” voice that is potentially indistinguishable from the real person’s is used to produce synthetic audio.
 
   >[DIGITAL BOOKSTORE](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | It is a responsive website of Digital Bookstore.
+  
+  >[FLAPPY BIRD USING PYGAME](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME) | It is a simple Flappy Bird Game in Python using Pygame.
 
   >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | It is a simple Hangman Word Game using Applet in Java.
+  
+  >[MATH SPRINT GAME](https://github.com/Amey-Thakur/MATH-SPRINT-GAME) | The user must agree or disagree with the results of math equations in this Math Sprint Game. The amount of time the player spends making decisions is the most important factor in this game. Penalty time is imposed for each wrong answer. When all of the equations have been solved, the final result is displayed. The highest scores are saved and displayed on the home page.
+  
+  >[ONLINE CHESS GAME](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | It is an online chess game where players can play against each other in real time.
 
   >[OPTIMIZING STOCK TRADING STRATEGY WITH REINFORCEMENT LEARNING](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | Machine Learning Project to optimize stock trading strategy. | [WEB APPLICATION](https://stock-trading-with-rl.herokuapp.com)
+  
+  >[PIZZA ORDERING CHATBOT USING AMAZON LEX](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01#aws-project)
+  
+  >[PONG GAME](https://github.com/Amey-Thakur/PONG-GAME) | It is a simple Pong Game in Python using Pygame.
+ 
+  >[ROCK PAPER SCISSORS](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS) | Rock Paper Scissors Game.
 
   >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | It is a simple Web Design in HTML and CSS. | [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
 
   >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | A simple Python Program to Analyze Sentiments using TextBlob Python Library.
 
   >[TEXT SUMMARIZER](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
+  
+  >[THE MATH GAME](https://github.com/Amey-Thakur/THE-MATH-GAME) | It is a simple multiplication game to test how well we are at arithmetic.
   
   >TSF | [SUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | Task: To predict the percentage of a student based on the number of study hours. Linear Regression is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
 
