@@ -947,7 +947,7 @@
   
   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/IJRASET40861%20-%20Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex.pdf)
   - IJRASET | Volume 10 Issue 3 | [Published Article](https://doi.org/10.22214/ijraset.2022.40861)
-  - viXra | [Preprint]()
+  - viXra | [Preprint](https://vixra.org/abs/2203.0172)
   - [Presentation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/PRESENTATION%20-%20PIZZA%20ORDERING%20CHATBOT%20USING%20AMAZON%20LEX.pdf)
   
   
