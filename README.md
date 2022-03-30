@@ -773,7 +773,7 @@
 
 ### Projects
 
-  >[ATVM INTERFACE](https://github.com/Amey-Thakur/ATVM-INTERFACE) | It is an interface for an Automatic Ticket Vending Machine.
+  >[ATVM INTERFACE](https://github.com/Amey-Thakur/ATVM-INTERFACE) | It is an interface for an Automatic Ticket Vending Machine. | [WEB APPLICATION](https://amey-thakur.github.io/ATVM-INTERFACE)
   
   >[BANGLORE HOUSE PRICE PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | Machine Learning Project to Predict House Prices in Bangalore. | [WEB APPLICATION](https://bangalorehousepriceprediction.herokuapp.com)
 
@@ -781,7 +781,7 @@
 
   >[CHAT ROOM](https://github.com/Amey-Thakur/CHAT-ROOM) | It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
   
-  >[CLOUD SERVICES WEBSITE](https://github.com/Amey-Thakur/CLOUD-SERVICES-WEBSITE)
+  >[CLOUD SERVICES WEBSITE](https://github.com/Amey-Thakur/CLOUD-SERVICES-WEBSITE) | [WEB APPLICATION](https://amey-thakur.github.io/CLOUD-SERVICES-WEBSITE)
 
   >[DEEPFAKE AUDIO](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) | An audio deepfake is when a “cloned” voice that is potentially indistinguishable from the real person’s is used to produce synthetic audio.
 
@@ -791,7 +791,7 @@
 
   >[HANGMAN WORD GAME](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | It is a simple Hangman Word Game using Applet in Java.
   
-  >[MATH SPRINT GAME](https://github.com/Amey-Thakur/MATH-SPRINT-GAME) | The user must agree or disagree with the results of math equations in this Math Sprint Game. The amount of time the player spends making decisions is the most important factor in this game. Penalty time is imposed for each wrong answer. When all of the equations have been solved, the final result is displayed. The highest scores are saved and displayed on the home page.
+  >[MATH SPRINT GAME](https://github.com/Amey-Thakur/MATH-SPRINT-GAME) | It is a simple Math Sprint Game in which the user must agree or disagree with the answers to math problems in the quickest time possible. | [WEB APPLICATION](https://amey-thakur.github.io/MATH-SPRINT-GAME)
   
   >[ONLINE CHESS GAME](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | It is an online chess game where players can play against each other in real time.
 
@@ -801,21 +801,19 @@
   
   >[PONG GAME](https://github.com/Amey-Thakur/PONG-GAME) | It is a simple Pong Game in Python using Pygame.
  
-  >[ROCK PAPER SCISSORS](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS) | Rock Paper Scissors Game.
+  >[ROCK PAPER SCISSORS](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS) | Rock Paper Scissors Game. | [WEB APPLICATION](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS)
 
   >[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | It is a simple Web Design in HTML and CSS. | [WEBSITE](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
 
   >[SENTIMENT ANALYZER](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | A simple Python Program to Analyze Sentiments using TextBlob Python Library.
 
-  >[TEXT SUMMARIZER](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization.
+  >[TEXT SUMMARIZER](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | In this project, we propose to implement a web application that can summarize a text or a Wikipedia link. We have additionally been given an opportunity to compare different methods of summarization. | [WEB APPLICATION](http://textssummarizer.herokuapp.com)
   
-  >[THE MATH GAME](https://github.com/Amey-Thakur/THE-MATH-GAME) | It is a simple multiplication game to test how well we are at arithmetic.
+  >[THE MATH GAME](https://github.com/Amey-Thakur/THE-MATH-GAME) | It is a simple multiplication game to test how well we are at arithmetic. | [WEB APPLICATION](https://github.com/Amey-Thakur/THE-MATH-GAME)
   
   >TSF | [SUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | Task: To predict the percentage of a student based on the number of study hours. Linear Regression is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
 
   >TSF | [UNSUPERVISED MACHINE LEARNING](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) | Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-
-  >[WEB DESIGNING LAB](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | WDL [SEMESTER V]
 
   >[WHITE-BOX CARTOONIZATION using TensorFlow.js](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap. | [WEB APPLICATION](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
 
