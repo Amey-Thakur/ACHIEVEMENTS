@@ -793,7 +793,7 @@
   
   >[MATH SPRINT GAME](https://github.com/Amey-Thakur/MATH-SPRINT-GAME) | It is a simple Math Sprint Game in which the user must agree or disagree with the answers to math problems in the quickest time possible. | [WEB APPLICATION](https://amey-thakur.github.io/MATH-SPRINT-GAME)
   
-  >[ONLINE CHESS GAME](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | It is an online chess game where players can play against each other in real time.
+  >[ONLINE CHESS GAME](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | It is an online chess game where players can play against each other in real-time. | [WEB APPLICATION](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME)
 
   >[OPTIMIZING STOCK TRADING STRATEGY WITH REINFORCEMENT LEARNING](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | Machine Learning Project to optimize stock trading strategy. | [WEB APPLICATION](https://stock-trading-with-rl.herokuapp.com)
   
