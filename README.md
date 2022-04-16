@@ -882,6 +882,10 @@
 
   _Follow My Research @ - [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur) | [viXra](https://vixra.org/author/amey_thakur)_
 
+  >A Comparative Study on Distributed File Systems
+  
+  - [Presentation](http://dx.doi.org/10.13140/RG.2.2.31450.82887)
+
 
   >Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
   
@@ -912,6 +916,14 @@
   - [Poster](http://dx.doi.org/10.13140/RG.2.2.19421.95203)
   
   
+  >Clock Synchronization in Distributed Systems
+  
+  - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg)
+  - IRJET | Volume 9 Issue 3 | [Published Article](https://www.irjet.net/archives/V9/i3/IRJET-V9I3350.pdf)
+  - viXra | [Preprint]()
+  - [Presentation](http://dx.doi.org/10.13140/RG.2.2.31450.82887)
+  
+  
   >Digital Bookstore
   
   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf)
@@ -939,6 +951,17 @@
   - IJRASET | Volume 9 Issue 9 | [Published Article](https://doi.org/10.22214/ijraset.2021.37930)
   - viXra | [Preprint](https://vixra.org/abs/2109.0047)
   - [Presentation](http://dx.doi.org/10.13140/RG.2.2.14965.09444)
+  
+  
+   >Online Chess Game
+  
+  - [Technical Report](http://dx.doi.org/10.13140/RG.2.2.28183.85920)
+  - [Presentation](http://dx.doi.org/10.13140/RG.2.2.21472.97284)
+  
+  
+  >Optimizing Stock Trading Strategy With Reinforcement Learning
+  
+  - [Technical Report](http://dx.doi.org/10.13140/RG.2.2.13054.05440)
   
   
    >Pizza Ordering Chatbot Using Amazon Lex
