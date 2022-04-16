@@ -93,6 +93,12 @@
   
   ---
   
+  >**Optimizing Stock Trading Strategy With Reinforcement Learning**
+  
+  - **[Technical Report](http://dx.doi.org/10.13140/RG.2.2.13054.05440)**
+  
+  ---
+  
   >**Pizza Ordering Chatbot Using Amazon Lex**
   
   - **[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex/IJRASET40861%20-%20Pizza%20Ordering%20Chatbot%20Using%20Amazon%20Lex.pdf)**
