@@ -920,7 +920,7 @@
   
   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg)
   - IRJET | Volume 9 Issue 3 | [Published Article](https://www.irjet.net/archives/V9/i3/IRJET-V9I3350.pdf)
-  - viXra | [Preprint]()
+  - viXra | [Preprint](http://viXra.org/abs/2204.0094)
   - [Presentation](http://dx.doi.org/10.13140/RG.2.2.31450.82887)
   
   
