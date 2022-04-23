@@ -404,7 +404,7 @@
 
 ### Engineering
 
-**University of Mumbai affiliated Institute Terna Engineering College**
+**University of Mumbai Affiliated Institute Terna Engineering College**
 
   >Department of General Engineering
   
