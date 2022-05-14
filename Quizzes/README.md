@@ -1,9 +1,5 @@
 # Quizzes
 
- My Certifications
-
-### Quizzes
-
   - [BARBICIDE Covid-19 Certification](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Quizzes/BARBICIDE%20Covid-19%20Certification.pdf)
   - [BARBICIDE Doctorate Course](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Quizzes/BARBICIDE%20Doctorate%20Course.pdf)
   - [BARBICIDE](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Quizzes/BARBICIDE.pdf)
