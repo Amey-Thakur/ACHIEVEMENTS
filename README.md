@@ -988,6 +988,13 @@
 
 ---
 
+### Simplilearn
+
+ - [R Programming for Beginners](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Simplilearn/R%20Programming%20for%20Beginners%20-%20Skillup%20by%20Simplilearn.pdf)
+ - [Data Science with R programming](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Simplilearn/Data%20Science%20with%20R%20programming%20-%20Skillup%20by%20Simplilearn.pdf)
+
+---
+
 ### Sports
 
 **Badminton Camp**
