@@ -420,6 +420,7 @@
   | FEC106 | Environmental studies |
   | FEL101 | Basic Workshop Practice - I |
 
+
   - **F. E. Computer Engineering (Semester - II)**
 
   | Course Code | Course Name |  
@@ -431,6 +432,7 @@
   | FEC205 | Structured Programming Approach |
   | FEC206 | Communication Skills |
   | FEL201 | Basic Workshop Practice - II |
+  
   
   >Department of Computer Engineering
   
@@ -448,6 +450,7 @@
   | CSL303 | [Data structure Lab](https://github.com/Amey-Thakur/DATA-STRUCTURES-AND-DATA-STRUCTURES-LAB) |
   | CSL304 | [OOPM (Java) Lab](https://github.com/Amey-Thakur/OOPM-JAVA-LAB) - [Project](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 
+
   - **S. E. Computer Engineering (Semester - IV)**
 
   | Course Code | Course Name |  
@@ -462,6 +465,7 @@
   | CSL403 | [Processor Architecture Lab](https://github.com/Amey-Thakur/COMPUTER-ORGANIZATION-AND-ARCHITECTURE-AND-PROCESSOR-ARCHITECTURE-LAB) |
   | CSL404 | [Operating System Lab](https://github.com/Amey-Thakur/OPERATING-SYSTEM-AND-OPERATING-SYSTEM-LAB) - [Project](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) |
   | CSL405 | [Open Source Tech Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB) - [Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) |
+  
   
   - **T. E. Computer Engineering (Semester - V)**
 
@@ -478,6 +482,7 @@
   | CSL504 | [Web Design Lab](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) - [Project](https://github.com/Amey-Thakur/CHAT-ROOM) |
   | CSL505 | [Business Communication & Ethics](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS) |
 
+
   - **T. E. Computer Engineering (Semester - VI)**
 
   | Course Code | Course Name |  
@@ -493,6 +498,7 @@
   | CSL604 | [System Security Lab](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB) |
   | CSM605 | [Mini-Project](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
 
+
   - **B. E. Computer Engineering (Semester - VII)**
 
   | Course Code | Course Name |  
@@ -505,8 +511,9 @@
   | CSL701 | [Digital Signal and Image Processing Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB) |
   | CSL702 | [Mobile Application Development Lab](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB) |
   | CSL703 | [Artificial Intelligence and Soft Computing Lab](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB) |
-  | CSL704 | [Computational Lab - I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) |
+  | CSL704 | [Computational Lab - I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) - [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
   | CSP705 | [Major Project - I](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
+
 
   - **B. E. Computer Engineering (Semester - VIII)**
 
