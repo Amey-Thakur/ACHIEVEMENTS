@@ -523,10 +523,10 @@
   | CSC802 | [Distributed Computing](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
   | DLO8012 | [Natural Language Processing](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) |
   | ILO8022 | [Finance Management](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT) |
-  | CSL801 | [Human Machine Interaction Lab](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) |
+  | CSL801 | [Human Machine Interaction Lab](https://github.com/Amey-Thakur/HUMAN-MACHINE-INTERACTION-AND-HUMAN-MACHINE-INTERACTION-LAB) - [Project](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) |
   | CSL802 | [Distributed Computing Lab](https://github.com/Amey-Thakur/DISTRIBUTED-COMPUTING-AND-DISTRIBUTED-COMPUTING-LAB) |
-  | CSL803 | [Cloud Computing Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB)  |
-  | CSL804 | [Computational Lab - II](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) |
+  | CSL803 | [Cloud Computing Lab](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) - [Project](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) |
+  | CSL804 | [Computational Lab - II](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) - [Project](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
   | CSP805 | [Major Project - II](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
 ---
