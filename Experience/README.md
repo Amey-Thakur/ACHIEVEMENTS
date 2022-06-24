@@ -7,6 +7,13 @@
   - [Internship Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/KJGjQRHZ6eGquTKfF_Accenture%20Nordic_JtA9vXwzt8JuiqQpt_1627100582696_completion_certificate.pdf)
 
 
+**Edureka**
+
+  >Data Science & Machine Learning Internship Program
+  
+  - [Internship Demo Session](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Edureka/Data%20Science%20%26%20Machine%20Learning%20Internship%20Program%20Demo%20Session%20by%20Edureka.pdf)
+
+
 **Goldman Sachs**
 
   >Goldman Sachs Engineering Virtual Program 
