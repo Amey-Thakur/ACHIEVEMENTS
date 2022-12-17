@@ -1,5 +1,31 @@
 # Experience
 
+**HDFC ERGO General Insurance Company**
+
+  >Software Developer Intern
+  
+  - [Internship Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/HDFC%20ERGO%20General%20Insurance%20Company/HDFC%20ERGO%20Internship%20Completion%20Letter.pdf)
+
+
+**Technocolabs**
+
+  >Data Scientist Intern 
+  
+  - [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Offer%20Letter.pdf) 
+  - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Completion%20Letter.pdf)
+  - [Project Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Project%20Completion%20Letter.pdf)
+  - Optimizing Stock Trading Strategy with Reinforcement Learning - [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://stock-trading-with-rl.herokuapp.com)
+  - [Letter of Recommendation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Letter%20of%20Recommendation.pdf)
+
+
+**The Sparks Foundation**
+
+  >Data Science and Business Analytics Intern 
+  
+  - [Internship Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) 
+  - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Completion.pdf)
+
+
 **Accenture**
 
   >Accenture Nordic Consultant Program 
@@ -55,22 +81,3 @@
   >Teach for Australia Classroom Virtual Experience Program 
   
   - [Internship Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf)
-
-
-**Technocolabs**
-
-  >Data Scientist Intern 
-  
-  - [Internship Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Offer%20Letter.pdf) 
-  - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Completion%20Letter.pdf)
-  - [Project Completion Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Project%20Completion%20Letter.pdf)
-  - Optimizing Stock Trading Strategy with Reinforcement Learning - [Project](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web Application](https://stock-trading-with-rl.herokuapp.com)
-  - [Letter of Recommendation](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Letter%20of%20Recommendation.pdf)
-
-
-**The Sparks Foundation**
-
-  >Data Science and Business Analytics Intern 
-  
-  - [Internship Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) 
-  - [Internship Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Completion.pdf)
