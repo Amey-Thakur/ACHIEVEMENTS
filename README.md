@@ -1118,6 +1118,7 @@
   
   >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2022).pdf) | Amey Thakur | 2022
 
+
 ---
 
 ### <p align="center">The Evolution of Trust </p>
