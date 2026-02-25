@@ -1,19 +1,42 @@
-# Standardized Git Attributes for Scholarly Archiving
+# ACHIEVEMENTS REPOSITORY ATTRIBUTES
+# ----------------------------------
+# Standardized Git attributes for consistent rendering, text normalization,
+# and structured tracking of institutional documents and certificates.
 
-# Handle line endings automatically for files detected as text
-# and perform LF normalization on checkin.
+# Default text processing behavior for all tracked items
 * text=auto eol=lf
 
-# Explicitly mark source files as text
-*.md text
-*.txt text
+# ----------------------------------------------------------------------------
+# Text and Documentation
+# ----------------------------------------------------------------------------
+# Explicitly identify text-based formats for consistent line ending application
+*.md text diff
+*.txt text diff
+*.csv text diff
+*.json text diff
 
-# Mark binary files
-*.jpg binary
+# Classify markdown files as documentation for repository metrics
+*.md linguist-documentation
+
+# ----------------------------------------------------------------------------
+# Binary Credentials and Media Storage
+# ----------------------------------------------------------------------------
+# Protect binary assets from text normalization and corruption.
+# This repository primarily warehouses scanned certificates and visual evidence.
+*.pdf binary
 *.png binary
+*.jpg binary
+*.jpeg binary
 *.gif binary
 *.ico binary
-*.pdf binary
+*.webp binary
 
-# Academic/Scholarly classification
-*.md linguist-documentation
+# ----------------------------------------------------------------------------
+# Archive Formats
+# ----------------------------------------------------------------------------
+# Prevent corruption of archived credentials
+*.zip binary
+*.tar binary
+*.gz binary
+*.rar binary
+*.7z binary

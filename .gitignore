@@ -1,11 +1,40 @@
-# OS Files
-.DS_Store
-Thumbs.db
-Desktop.ini
-~$*
+# ACHIEVEMENTS REPOSITORY IGNORE LIST
+# -----------------------------------
+# This file specifies intentionally untracked files to ignore.
+# It is designed specifically for the structured storage of 
+# institutional certificates, credentials, and portfolios.
 
-# Temporary/Backup Files
+# Operating System Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# Temporary and Backup Files
 *.bak
 *.swp
 *.swo
 *.tmp
+*~
+
+# Archival Extraction Artifacts
+__MACOSX/
+
+# Local Configuration
+.env
+.env.local
+
+# IDE and Editor Data
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
