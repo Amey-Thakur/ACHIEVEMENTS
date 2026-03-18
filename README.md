@@ -224,14 +224,15 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **How to Write a Resume (Project-Centered Course)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/SUNY%20-%20The%20State%20University%20of%20New%20York/Coursera%20How%20to%20Write%20a%20Resume%20(Project-Centered%20Course).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2) |
 
-**The Linux Foundation**
+#### The Linux Foundation
 
-  >[Open Source Software Development, Linux and Git](https://www.coursera.org/account/accomplishments/specialization/3F2QH3ERB3SX) Specialization - [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png)
-
-  - [Open Source Software Development Methods](https://www.coursera.org/account/accomplishments/verify/7YT994H2ZGVQ)
-  - [Linux for Developers](https://www.coursera.org/account/accomplishments/verify/4MA5Z27SX6HV)
-  - [Linux Tools for Developers](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3)
-  - [Using Git for Distributed Development](https://www.coursera.org/account/accomplishments/verify/JXD7X9WQCZDR)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| - | **Open Source Software Development, Linux and Git Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Open%20Source%20Software%20Development%2C%20Linux%20and%20Git.pdf) • [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png) | [Verify](https://www.coursera.org/account/accomplishments/specialization/3F2QH3ERB3SX) |
+| 1 | **Open Source Software Development Methods** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Open%20Source%20Software%20Development%20Methods.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/7YT994H2ZGVQ) |
+| 2 | **Linux for Developers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Linux%20for%20Developers.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/4MA5Z27SX6HV) |
+| 3 | **Linux Tools for Developers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Linux%20Tools%20for%20Developers.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3) |
+| 4 | **Using Git for Distributed Development** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Using%20Git%20for%20Distributed%20Development.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JXD7X9WQCZDR) |
 
 **The University of Edinburgh**
 
