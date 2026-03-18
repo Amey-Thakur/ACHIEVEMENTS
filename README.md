@@ -176,9 +176,12 @@
 | 4 | **Building on the SIR Model** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Building%20on%20the%20SIR%20Model.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY) |
 | 5 | **Creative Thinking: Techniques and Tools for Success** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Creative%20Thinking%20Techniques%20and%20Tools%20for%20Success.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ) |
 
-**Indian School of Business (ISB)**
 
-  >[A Life of Happiness and Fulfillment](https://www.coursera.org/account/accomplishments/verify/ZDLE2UQLUUSC)
+#### Indian School of Business (ISB)
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **A Life of Happiness and Fulfillment** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Indian%20School%20of%20Business%20(ISB)/Coursera%20A%20Life%20of%20Happiness%20and%20Fulfillment.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/ZDLE2UQLUUSC) |
 
 **INSEAD - The Business School for the World, Fontainebleau, France**
 
