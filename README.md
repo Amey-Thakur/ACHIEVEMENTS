@@ -202,11 +202,13 @@
 | 4 | **COVID-19 Contact Tracing** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Johns%20Hopkins%20University/Coursera%20COVID-19%20Contact%20Tracing.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8HRJXLK2C7BK) |
 | 5 | **Psychological First Aid** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Johns%20Hopkins%20University/Coursera%20Psychological%20First%20Aid.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XM6WYZSQ34JW) |
 
-**McMaster University**
 
-  >[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37)
+#### McMaster University
 
-  >[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Learning How to Learn: Powerful mental tools to help you master tough subjects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/McMaster%20University/Coursera%20Learning%20How%20to%20Learn%20Powerful%20mental%20tools%20to%20help%20you%20master%20tough%20subjects.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37) |
+| 2 | **Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/McMaster%20University/Coursera%20Mindshift%20Break%20Through%20Obstacles%20to%20Learning%20and%20Discover%20Your%20Hidden%20Potential.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V) |
 
 **Osmosis.org**
 
