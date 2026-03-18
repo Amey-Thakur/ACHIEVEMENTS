@@ -39,9 +39,31 @@
 
 ### Ankur Warikoo
 
-| Topic | Resource |
+| Topic | Notes | Certificate |
+| :--- | :--- | :--- |
+| **Take Charge of Your Time** | [Notes](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Take%20charge%20of%20your%20time%20by%20Ankur%20Warikoo.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Certificate%20-%20Take%20charge%20of%20your%20time.pdf) |
+
+---
+
+### Anthropic courses
+
+| Topic | Certificate |
 | :--- | :--- |
-| **Take Charge of Your Time** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Certificate%20-%20Take%20charge%20of%20your%20time.pdf) \| [Notes](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Take%20charge%20of%20your%20time%20by%20Ankur%20Warikoo.pdf) |
+| **AI Fluency for educators** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency%20for%20educators.pdf) \| [Verification](https://verify.skilljar.com/c/qteo2nkjtrhp) |
+| **AI Fluency for nonprofits** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency%20for%20nonprofits.pdf) \| [Verification](https://verify.skilljar.com/c/i5pueehh68uv) |
+| **AI Fluency for students** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency%20for%20students.pdf) \| [Verification](https://verify.skilljar.com/c/2t46zznf8d6c) |
+| **AI Fluency-Framework & Foundations** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency-Framework%20&%20Foundations.pdf) \| [Verification](https://verify.skilljar.com/c/9hxb9b5rtg3p) |
+| **Building with the Claude API** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Building%20with%20the%20Claude%20API.pdf) \| [Verification](https://verify.skilljar.com/c/ydxcdgiomob6) |
+| **Claude 101** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Claude%20101.pdf) \| [Verification](https://verify.skilljar.com/c/za6zqtc6jkt6) |
+| **Claude Code in Action** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Claude%20Code%20in%20Action.pdf) \| [Verification](https://verify.skilljar.com/c/m96ks77aqbfb) |
+| **Claude with Amazon Bedrock** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Claude%20with%20Amazon%20Bedrock.pdf) \| [Verification](https://verify.skilljar.com/c/r5bdeunp9gf3) |
+| **Claude with Google Cloud's Vertex AI** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Claude%20with%20Google%20Cloud's%20Vertex%20AI.pdf) \| [Verification](https://verify.skilljar.com/c/jho47okswydj) |
+| **Introduction to agent skills** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20agent%20skills.pdf) \| [Verification](https://verify.skilljar.com/c/2jxpxwmqdcyp) |
+| **Introduction to Model Context Protocol** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20Model%20Context%20Protocol.pdf) \| [Verification](https://verify.skilljar.com/c/mbuap2cnv3pp) |
+| **Model Context Protocol-Advanced Topics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Model%20Context%20Protocol-Advanced%20Topics.pdf) \| [Verification](https://verify.skilljar.com/c/ktyatn8th58j) |
+| **Teaching AI Fluency** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Teaching%20AI%20Fluency.pdf) \| [Verification](https://verify.skilljar.com/c/qsd5j744a2pc) |
+
+---
 
 ### COE Pune
 
