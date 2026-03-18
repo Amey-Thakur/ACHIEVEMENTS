@@ -164,17 +164,17 @@
 | 3 | **Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Mechanics%20of%20Materials%20IV%20Deflections%2C%20Buckling%2C%20Combined%20Loading%20_%20Failure%20Theories.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VMBRBE9TATJ5) |
 | 4 | **Write Professional Emails in English** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Write%20Professional%20Emails%20in%20English.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8) |
 
-**Imperial College London**
 
-  >[Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q) Specialization
-  
-  - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ)
-  - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ)
-  - [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/32AKJ6T2WW28)
+#### Imperial College London
 
-  >[Building on the SIR Model](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY)
-
-  >[Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| - | **Mathematics for Machine Learning Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Mathematics%20for%20Machine%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/specialization/YVQCTMVEVG2Q) |
+| 1 | **Mathematics for Machine Learning: Linear Algebra** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Mathematics%20for%20Machine%20Learning%20Linear%20Algebra.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GQLQAYF5W5BQ) |
+| 2 | **Mathematics for Machine Learning: Multivariate Calculus** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Mathematics%20for%20Machine%20Learning%20Multivariate%20Calculus.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/RUVBN4MYLSUZ) |
+| 3 | **Mathematics for Machine Learning: PCA** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Mathematics%20for%20Machine%20Learning%20PCA.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/32AKJ6T2WW28) |
+| 4 | **Building on the SIR Model** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Building%20on%20the%20SIR%20Model.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY) |
+| 5 | **Creative Thinking: Techniques and Tools for Success** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Creative%20Thinking%20Techniques%20and%20Tools%20for%20Success.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ) |
 
 **Indian School of Business (ISB)**
 
