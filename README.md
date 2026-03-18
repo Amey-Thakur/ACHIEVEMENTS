@@ -40,7 +40,7 @@
 ### Ankur Warikoo
 
 | Topic | Notes | Certificate |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | **Take Charge of Your Time** | [Notes](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Take%20charge%20of%20your%20time%20by%20Ankur%20Warikoo.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Certificate%20-%20Take%20charge%20of%20your%20time.pdf) |
 
 ---
@@ -48,7 +48,7 @@
 ### Anthropic courses
 
 | Topic | Certificate | Verification |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | **AI Fluency for educators** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency%20for%20educators.pdf) | [Verify](https://verify.skilljar.com/c/qteo2nkjtrhp) |
 | **AI Fluency for nonprofits** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency%20for%20nonprofits.pdf) | [Verify](https://verify.skilljar.com/c/i5pueehh68uv) |
 | **AI Fluency for students** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20AI%20Fluency%20for%20students.pdf) | [Verify](https://verify.skilljar.com/c/2t46zznf8d6c) |
