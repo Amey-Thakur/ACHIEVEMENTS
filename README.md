@@ -210,9 +210,12 @@
 | 1 | **Learning How to Learn: Powerful mental tools to help you master tough subjects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/McMaster%20University/Coursera%20Learning%20How%20to%20Learn%20Powerful%20mental%20tools%20to%20help%20you%20master%20tough%20subjects.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37) |
 | 2 | **Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/McMaster%20University/Coursera%20Mindshift%20Break%20Through%20Obstacles%20to%20Learning%20and%20Discover%20Your%20Hidden%20Potential.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V) |
 
-**Osmosis.org**
 
-  >[COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB)
+#### Osmosis.org
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **COVID-19: What You Need to Know (CME Eligible)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Osmosis.org/Coursera%20COVID-19%20What%20You%20Need%20to%20Know%20(CME%20Eligible).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB) |
 
 **SUNY - The State University of New York**
 
