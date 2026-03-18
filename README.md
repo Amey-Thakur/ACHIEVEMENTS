@@ -75,15 +75,18 @@
 
 ### Coursera
 
-#### **Amazon Web Services (AWS)**
+#### Amazon Web Services (AWS)
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Getting Started with AWS Machine Learning** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Amazon%20Web%20Services%20(AWS)/Coursera%20AWS%20Machine%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33) |
 
-**Case Western Reserve University EST.1826**
-  
-  >[Introduction to International Criminal Law](https://www.coursera.org/account/accomplishments/verify/PGMJ3JKECV7X)
+
+#### Case Western Reserve University EST.1826
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Introduction to International Criminal Law** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Case%20Western%20Reserve%20University/Coursera%20Introduction%20to%20International%20Criminal%20Law.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PGMJ3JKECV7X) |
   
 **Coursera Project Network**
 
