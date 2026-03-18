@@ -39,8 +39,8 @@
 
 ### Ankur Warikoo
 
-| # | Topic | Notes | Certification |
-| :---: | :--- | :---: | :---: |
+| # | Topic | Documentation | Certification |
+| :---: | :---: | :---: | :---: |
 | 1 | **Take Charge of Your Time** | [Notes](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Take%20charge%20of%20your%20time%20by%20Ankur%20Warikoo.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Ankur%20Warikoo/Certificate%20-%20Take%20charge%20of%20your%20time.pdf) |
 
 ---
