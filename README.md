@@ -226,9 +226,13 @@
 
 #### The Linux Foundation
 
+<p align="center">
+  <img src="https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png?raw=true" width="180" alt="The Linux Foundation Specialization Badge" />
+</p>
+
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
-| - | **Open Source Software Development, Linux and Git Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Open%20Source%20Software%20Development%2C%20Linux%20and%20Git.pdf) • [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png) | [Verify](https://www.coursera.org/account/accomplishments/specialization/3F2QH3ERB3SX) |
+| - | **Open Source Software Development, Linux and Git Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Open%20Source%20Software%20Development%2C%20Linux%20and%20Git.pdf) | [Verify](https://www.coursera.org/account/accomplishments/specialization/3F2QH3ERB3SX) |
 | 1 | **Open Source Software Development Methods** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Open%20Source%20Software%20Development%20Methods.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/7YT994H2ZGVQ) |
 | 2 | **Linux for Developers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Linux%20for%20Developers.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/4MA5Z27SX6HV) |
 | 3 | **Linux Tools for Developers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Linux%20Tools%20for%20Developers.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3) |
