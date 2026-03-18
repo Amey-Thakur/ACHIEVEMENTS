@@ -132,18 +132,18 @@
 | 37 | **Spreadsheets for Beginners using Google Sheets** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Spreadsheets%20for%20Beginners%20using%20Google%20Sheets.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KFDSEY83RE8M) |
 | 38 | **Use Canva to Create Social Media Marketing Designs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20Canva%20to%20Create%20Social%20Media%20Marketing%20Designs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G) |
 | 39 | **Use WordPress to Create a Blog for your Business** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20WordPress%20to%20Create%20a%20Blog%20for%20your%20Business.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP) |
- 
-**DeepLearning.AI**
 
-  >[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) Specialization
-  
-  - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG)
-  - [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67)
-  - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/XETHHMQP33K6)
-  - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D)
-  - [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2)
+#### DeepLearning.AI
 
-  >[AI For Everyone](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| - | **Deep Learning Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Deep%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) |
+| 1 | **Neural Networks and Deep Learning** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Neural%20Networks%20and%20Deep%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG) |
+| 2 | **Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67) |
+| 3 | **Structuring Machine Learning Projects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Structuring%20Machine%20Learning%20Projects.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XETHHMQP33K6) |
+| 4 | **Convolutional Neural Networks** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Convolutional%20Neural%20Networks.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D) |
+| 5 | **Sequence Models** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Sequence%20Models.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2) |
+| 6 | **AI For Everyone** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20AI%20For%20Everyone.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY) |
 
 **Duke University**
 
