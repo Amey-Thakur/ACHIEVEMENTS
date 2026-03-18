@@ -217,9 +217,12 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **COVID-19: What You Need to Know (CME Eligible)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Osmosis.org/Coursera%20COVID-19%20What%20You%20Need%20to%20Know%20(CME%20Eligible).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB) |
 
-**SUNY - The State University of New York**
 
-  >[How to Write a Resume (Project-Centered Course)](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2)
+#### SUNY - The State University of New York
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **How to Write a Resume (Project-Centered Course)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/SUNY%20-%20The%20State%20University%20of%20New%20York/Coursera%20How%20to%20Write%20a%20Resume%20(Project-Centered%20Course).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2) |
 
 **The Linux Foundation**
 
