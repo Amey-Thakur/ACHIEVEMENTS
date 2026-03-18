@@ -88,47 +88,50 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Introduction to International Criminal Law** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Case%20Western%20Reserve%20University/Coursera%20Introduction%20to%20International%20Criminal%20Law.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PGMJ3JKECV7X) |
   
-**Coursera Project Network**
 
-  - [Beginning SQL Server](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS)
-  - [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX)
-  - [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF)
-  - [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L)
-  - [Build a Full Website using WordPress](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B)
-  - [Build a Simple App in Android Studio with Java](https://www.coursera.org/account/accomplishments/verify/QGFJ4AA6YEP6)
-  - [Build an E-commerce Dashboard with Figma](https://www.coursera.org/account/accomplishments/verify/LCBRG8UVVCGA)
-  - [Building Candlestick Charts with Google Sheets](https://www.coursera.org/account/accomplishments/verify/PJ27769DCZYP)
-  - [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/AL59Q8FQVDNH)
-  - [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/account/accomplishments/verify/Z5EWBXLLHZJC)
-  - [Computer Vision - Image Basics with OpenCV and Python](https://www.coursera.org/account/accomplishments/verify/VDZDBTLSKP4U)
-  - [Computer Vision - Object Tracking with OpenCV and Python](https://www.coursera.org/account/accomplishments/certificate/AEC3KYW6XHCB)
-  - [Create Informative Presentations with Google Slides](https://www.coursera.org/account/accomplishments/verify/5BMHVF8D6WEU)
-  - [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/account/accomplishments/verify/GAWB9MQKHDYR)
-  - [Create Your First Game with Python](https://www.coursera.org/account/accomplishments/verify/MWUY3799TVXY)
-  - [Create Your First Python Program](https://www.coursera.org/account/accomplishments/verify/XQVGJDAMYLTA)
-  - [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/account/accomplishments/verify/E6L25V6Z6PZG)
-  - [Create a Resume and Cover Letter with Google Docs](https://www.coursera.org/account/accomplishments/verify/PPNNBBHSJ9Q7)
-  - [Custom Prediction Routine on Google AI Platform](https://www.coursera.org/account/accomplishments/verify/C6DHXU6GK9GR)
-  - [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/6GWEVATGMF99)
-  - [Getting Started in Google Analytics](https://www.coursera.org/account/accomplishments/verify/B5GDC8CNZ94G)
-  - [Getting Started with Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/NRYE9EPZ9G9T)
-  - [Google Ads for Beginners](https://www.coursera.org/account/accomplishments/verify/7RY77SNRPHCB)
-  - [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/8U7FDVJYGKZ3)
-  - [Introduction to Google Docs](https://www.coursera.org/account/accomplishments/verify/GBNPZMHLP5U9)
-  - [Introduction to Project Management with ClickUp](https://www.coursera.org/account/accomplishments/verify/G8UATA9RCZ6L)
-  - [Introduction to Project Management](https://www.coursera.org/account/accomplishments/verify/8QJ6PAER4DCR)
-  - [Introduction to Python](https://www.coursera.org/account/accomplishments/verify/C6P4UVEBCCH3)
-  - [Introduction to Relational Database and SQL](https://www.coursera.org/account/accomplishments/verify/8UWB93Q4TY4S)
-  - [Investment Risk Management](https://www.coursera.org/account/accomplishments/verify/WWU7P68U3Z5M)
-  - [Linear Regression with NumPy and Python](https://www.coursera.org/account/accomplishments/verify/PNJLQXHQZ9AA)
-  - [Linear Regression with Python](https://www.coursera.org/account/accomplishments/verify/3LBH4QX25WPL)
-  - [Object-Oriented Programming with Java](https://www.coursera.org/account/accomplishments/verify/VGU2MLNZ3TBW)
-  - [Predictive Modelling with Azure Machine Learning Studio](https://www.coursera.org/account/accomplishments/verify/A5C25YGT6ZRX)
-  - [Project: Creating Your First C++ Application](https://www.coursera.org/account/accomplishments/verify/LTX5Z995UQVY)
-  - [RESTful API with HTTP and JavaScript](https://www.coursera.org/account/accomplishments/verify/VEDG65RHVBFA)
-  - [Spreadsheets for Beginners using Google Sheets](https://www.coursera.org/account/accomplishments/verify/KFDSEY83RE8M)
-  - [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G)
-  - [Use WordPress to Create a Blog for your Business](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP)
+#### Coursera Project Network
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Beginning SQL Server** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Beginning%20SQL%20Server.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/A9P39G7ZC5DS) |
+| 2 | **Build Random Forests in R with Azure ML Studio** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Build%20Random%20Forests%20in%20R%20with%20Azure%20ML%20Studio.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/Z872ESQJ5EAX) |
+| 3 | **Build Your Portfolio Website with HTML and CSS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Build%20Your%20Portfolio%20Website%20with%20HTML%20and%20CSS.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/2HDAB9Z43VLF) |
+| 4 | **Build a Data Science Web App with Streamlit and Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Build%20a%20Data%20Science%20Web%20App%20with%20Streamlit%20and%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KA7UBGBV4P9L) |
+| 5 | **Build a Full Website using WordPress** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Build%20a%20Full%20Website%20using%20WordPress.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/FTB7H97XVD9B) |
+| 6 | **Build a Simple App in Android Studio with Java** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Build%20a%20Simple%20App%20in%20Android%20Studio%20with%20Java.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/QGFJ4AA6YEP6) |
+| 7 | **Build an E-commerce Dashboard with Figma** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Build%20an%20E-commerce%20Dashboard%20with%20Figma.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LCBRG8UVVCGA) |
+| 8 | **Building Candlestick Charts with Google Sheets** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Building%20Candlestick%20Charts%20with%20Google%20Sheets.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PJ27769DCZYP) |
+| 9 | **COVID19 Data Analysis Using Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20COVID19%20Data%20Analysis%20Using%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AL59Q8FQVDNH) |
+| 10 | **Clustering Geolocation Data Intelligently in Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Clustering%20Geolocation%20Data%20Intelligently%20in%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/Z5EWBXLLHZJC) |
+| 11 | **Computer Vision - Image Basics with OpenCV and Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Computer%20Vision%20-%20Image%20Basics%20with%20OpenCV%20and%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VDZDBTLSKP4U) |
+| 12 | **Computer Vision - Object Tracking with OpenCV and Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Computer%20Vision%20-%20Object%20Tracking%20with%20OpenCV%20and%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/certificate/AEC3KYW6XHCB) |
+| 13 | **Create Informative Presentations with Google Slides** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Create%20Informative%20Presentations%20with%20Google%20Slides.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/5BMHVF8D6WEU) |
+| 14 | **Create Your First Chatbot with Rasa and Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Create%20Your%20First%20Chatbot%20with%20Rasa%20and%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GAWB9MQKHDYR) |
+| 15 | **Create Your First Game with Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Create%20Your%20First%20Game%20with%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/MWUY3799TVXY) |
+| 16 | **Create Your First Python Program** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Create%20Your%20First%20Python%20Program.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XQVGJDAMYLTA) |
+| 17 | **Create a Business Marketing Brand Kit Using Canva** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Create%20a%20Business%20Marketing%20Brand%20Kit%20Using%20Canva.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/E6L25V6Z6PZG) |
+| 18 | **Create a Resume and Cover Letter with Google Docs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Create%20a%20Resume%20and%20Cover%20Letter%20with%20Google%20Docs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PPNNBBHSJ9Q7) |
+| 19 | **Custom Prediction Routine on Google AI Platform** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Custom%20Prediction%20Routine%20on%20Google%20AI%20Platform.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/C6DHXU6GK9GR) |
+| 20 | **Facial Expression Recognition with Keras** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Facial%20Expression%20Recognition%20with%20Keras.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6GWEVATGMF99) |
+| 21 | **Getting Started in Google Analytics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Getting%20Started%20in%20Google%20Analytics.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B5GDC8CNZ94G) |
+| 22 | **Getting Started with Azure DevOps Boards** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Getting%20Started%20with%20Azure%20DevOps%20Boards.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/NRYE9EPZ9G9T) |
+| 23 | **Google Ads for Beginners** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Google%20Ads%20for%20Beginners.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/7RY77SNRPHCB) |
+| 24 | **Image Classification with CNNs using Keras** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Image%20Classification%20with%20CNNs%20using%20Keras.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8U7FDVJYGKZ3) |
+| 25 | **Introduction to Google Docs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Introduction%20to%20Google%20Docs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GBNPZMHLP5U9) |
+| 26 | **Introduction to Project Management with ClickUp** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Introduction%20to%20Project%20Management%20with%20ClickUp.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/G8UATA9RCZ6L) |
+| 27 | **Introduction to Project Management** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Introduction%20to%20Project%20Management.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8QJ6PAER4DCR) |
+| 28 | **Introduction to Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Introduction%20to%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/C6P4UVEBCCH3) |
+| 29 | **Introduction to Relational Database and SQL** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Introduction%20to%20Relational%20Database%20and%20SQL.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8UWB93Q4TY4S) |
+| 30 | **Investment Risk Management** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Investment%20Risk%20Management.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/WWU7P68U3Z5M) |
+| 31 | **Linear Regression with NumPy and Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Linear%20Regression%20with%20NumPy%20and%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PNJLQXHQZ9AA) |
+| 32 | **Linear Regression with Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Linear%20Regression%20with%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/3LBH4QX25WPL) |
+| 33 | **Object-Oriented Programming with Java** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Object-Oriented%20Programming%20with%20Java.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VGU2MLNZ3TBW) |
+| 34 | **Predictive Modelling with Azure Machine Learning Studio** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Predictive%20Modelling%20with%20Azure%20Machine%20Learning%20Studio.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/A5C25YGT6ZRX) |
+| 35 | **Project: Creating Your First C++ Application** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Project%20Creating%20Your%20First%20C%2B%2B%20Application.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LTX5Z995UQVY) |
+| 36 | **RESTful API with HTTP and JavaScript** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20RESTful%20API%20with%20HTTP%20and%20JavaScript.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VEDG65RHVBFA) |
+| 37 | **Spreadsheets for Beginners using Google Sheets** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Spreadsheets%20for%20Beginners%20using%20Google%20Sheets.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KFDSEY83RE8M) |
+| 38 | **Use Canva to Create Social Media Marketing Designs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20Canva%20to%20Create%20Social%20Media%20Marketing%20Designs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G) |
+| 39 | **Use WordPress to Create a Blog for your Business** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20WordPress%20to%20Create%20a%20Blog%20for%20your%20Business.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP) |
  
 **DeepLearning.AI**
 
