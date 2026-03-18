@@ -1,35 +1,39 @@
 # ACHIEVEMENTS
 
-<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<img align="right" width="400" src="docs/Programmer.gif" />
 
  **My Certifications and Achievements**
 
- - **[COE Pune](https://github.com/Amey-Thakur/ACHIEVEMENTS#coe-pune)**
- - **[Coursera](https://github.com/Amey-Thakur/ACHIEVEMENTS#coursera)**
- - **[Eduonix](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)**
- - **[Engineering](https://github.com/Amey-Thakur/ACHIEVEMENTS/#engineering)          <--- Throughout Courses**
- - **[Experience](https://github.com/Amey-Thakur/ACHIEVEMENTS#experience)          <--- Work Experience**
- - **[Google](https://github.com/Amey-Thakur/ACHIEVEMENTS#google)**
- - **[Harvard Medical School](https://github.com/Amey-Thakur/ACHIEVEMENTS#harvard-medical-school)**
- - **[IBM](https://github.com/Amey-Thakur/ACHIEVEMENTS#ibm)**
- - **[IIT Bombay](https://github.com/Amey-Thakur/ACHIEVEMENTS#iit-bombay)**
- - **[Intel](https://github.com/Amey-Thakur/ACHIEVEMENTS#intel)**
- - **[Julia Academy](https://github.com/Amey-Thakur/ACHIEVEMENTS#julia-academy)**
- - **[Kaggle](https://github.com/Amey-Thakur/ACHIEVEMENTS/#kaggle)**
- - **[LTCE Webinar](https://github.com/Amey-Thakur/ACHIEVEMENTS#ltce-webinar)**
- - **[MathWorks](https://github.com/Amey-Thakur/ACHIEVEMENTS#mathworks)**
- - **[Microsoft](https://github.com/Amey-Thakur/ACHIEVEMENTS#microsoft)**
- - **[NVIDIA Deep Learning Institute](https://github.com/Amey-Thakur/ACHIEVEMENTS#nvidia-deep-learning-institute)**
- - **[Projects](https://github.com/Amey-Thakur/ACHIEVEMENTS#projects)          <--- Project Work**
- - **[Quizzes](https://github.com/Amey-Thakur/ACHIEVEMENTS#quizzes)**
- - **[Research Papers](https://github.com/Amey-Thakur/ACHIEVEMENTS#research-papers)          <--- Research Work**
- - **[Sports](https://github.com/Amey-Thakur/ACHIEVEMENTS/#sports)          <--- Sports Activities**
- - **[Stanford University School of Medicine](https://github.com/Amey-Thakur/ACHIEVEMENTS#stanford-university-school-of-medicine)**
- - **[Stanford University](https://github.com/Amey-Thakur/ACHIEVEMENTS#stanford-university)**
- - **[Terna Engineering College](https://github.com/Amey-Thakur/ACHIEVEMENTS#terna-engineering-college)**
- - **[Udemy](https://github.com/Amey-Thakur/ACHIEVEMENTS#udemy)**
- - **[University of Cambridge](https://github.com/Amey-Thakur/ACHIEVEMENTS/#university-of-cambridge)**
- - **[VIA Institute on Character](https://github.com/Amey-Thakur/ACHIEVEMENTS#via-institute-on-character)**
+ - **[Ankur Warikoo](#ankur-warikoo)**
+ - **[Anthropic courses](#anthropic-courses)**
+ - **[COE Pune](#coe-pune)**
+ - **[Colgate Oral Health Network](#colgate-oral-health-network)**
+ - **[Coursera](#coursera)**
+ - **[Eduonix](#eduonix)**
+ - **[Engineering](#engineering)**          ⟶ Throughout Courses
+ - **[Experience](#experience)**          ⟶ Work Experience
+ - **[Google](#google)**
+ - **[Harvard Medical School](#harvard-medical-school)**
+ - **[IBM](#ibm)**
+ - **[IIT Bombay](#iit-bombay)**
+ - **[Intel](#intel)**
+ - **[Julia Academy](#julia-academy)**
+ - **[Kaggle](#kaggle)**
+ - **[LTCE Webinar](#ltce-webinar)**
+ - **[MathWorks](#mathworks)**
+ - **[Microsoft](#microsoft)**
+ - **[NVIDIA Deep Learning Institute](#nvidia-deep-learning-institute)**
+ - **[Projects](#projects)**          ⟶ Project Work
+ - **[Quizzes](#quizzes)**
+ - **[Research Papers](#research-papers)**          ⟶ Research Work
+ - **[Simplilearn](#simplilearn)**
+ - **[Sports](#sports)**          ⟶ Sports Activities
+ - **[Stanford University](#stanford-university)**
+ - **[Stanford University School of Medicine](#stanford-university-school-of-medicine)**
+ - **[Terna Engineering College](#terna-engineering-college)**
+ - **[Udemy](#udemy)**
+ - **[University of Cambridge](#university-of-cambridge)**
+ - **[VIA Institute on Character](#via-institute-on-character)**
 
 ---
 
