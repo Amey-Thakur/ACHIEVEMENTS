@@ -139,19 +139,20 @@
 | :---: | :--- | :---: | :---: |
 | - | **Deep Learning Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Deep%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/specialization/PX89ZDRRQ26Q) |
 | 1 | **Neural Networks and Deep Learning** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Neural%20Networks%20and%20Deep%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JRHKYENFFMQG) |
-| 2 | **Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67) |
+| 2 | **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/E7QS9QXB8K67) |
 | 3 | **Structuring Machine Learning Projects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Structuring%20Machine%20Learning%20Projects.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XETHHMQP33K6) |
 | 4 | **Convolutional Neural Networks** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Convolutional%20Neural%20Networks.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AGKDHVHPTT2D) |
 | 5 | **Sequence Models** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Sequence%20Models.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2) |
 | 6 | **AI For Everyone** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20AI%20For%20Everyone.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY) |
 
-**Duke University**
 
-  >[Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/EZ4UQX77FVFR)
+#### Duke University
 
-  >[Dog Emotion and Cognition](https://www.coursera.org/account/accomplishments/verify/567QDWF2AJCA)
-
-  >[Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/verify/8U77AS4SEKCM)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Data Science Math Skills** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Data%20Science%20Math%20Skills.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/EZ4UQX77FVFR) |
+| 2 | **Dog Emotion and Cognition** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Dog%20Emotion%20and%20Cognition.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/567QDWF2AJCA) |
+| 3 | **Programming Foundations with JavaScript, HTML and CSS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8U77AS4SEKCM) |
 
 **Georgia Institute of Technology**
 
