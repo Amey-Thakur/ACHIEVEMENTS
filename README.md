@@ -154,15 +154,15 @@
 | 2 | **Dog Emotion and Cognition** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Dog%20Emotion%20and%20Cognition.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/567QDWF2AJCA) |
 | 3 | **Programming Foundations with JavaScript, HTML and CSS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8U77AS4SEKCM) |
 
-**Georgia Institute of Technology**
 
-  >[Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading](https://www.coursera.org/account/accomplishments/verify/7CTL5DPH223H)
+#### Georgia Institute of Technology
 
-  >[Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion](https://www.coursera.org/account/accomplishments/verify/B6EEZMYWG3L9)
-
-  >[Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories](https://www.coursera.org/account/accomplishments/verify/VMBRBE9TATJ5)
-
-  >[Write Professional Emails in English](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Mechanics%20of%20Materials%20I%20Fundamentals%20of%20Stress%20_%20Strain%20and%20Axial%20Loading.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/7CTL5DPH223H) |
+| 2 | **Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Mechanics%20of%20Materials%20II%20Thin-Walled%20Pressure%20Vessels%20and%20Torsion.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B6EEZMYWG3L9) |
+| 3 | **Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Mechanics%20of%20Materials%20IV%20Deflections%2C%20Buckling%2C%20Combined%20Loading%20_%20Failure%20Theories.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VMBRBE9TATJ5) |
+| 4 | **Write Professional Emails in English** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Write%20Professional%20Emails%20in%20English.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8) |
 
 **Imperial College London**
 
