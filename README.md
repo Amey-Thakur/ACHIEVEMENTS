@@ -183,9 +183,12 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **A Life of Happiness and Fulfillment** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Indian%20School%20of%20Business%20(ISB)/Coursera%20A%20Life%20of%20Happiness%20and%20Fulfillment.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/ZDLE2UQLUUSC) |
 
-**INSEAD - The Business School for the World, Fontainebleau, France**
 
-  >[Introduction to Blockchain Technologies](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H)
+#### INSEAD - The Business School for the World, Fontainebleau, France
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Introduction to Blockchain Technologies** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/INSEAD%20-%20The%20Business%20School%20for%20the%20World%2C%20Fontainebleau%2C%20France/Coursera%20Introduction%20to%20Blockchain%20Technologies.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H) |
 
 **Johns Hopkins University**
 
