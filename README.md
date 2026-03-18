@@ -75,9 +75,11 @@
 
 ### Coursera
 
-**Amazon Web Services (AWS)**
+#### **Amazon Web Services (AWS)**
 
-  >[Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Getting Started with AWS Machine Learning** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Amazon%20Web%20Services%20(AWS)/Coursera%20AWS%20Machine%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33) |
 
 **Case Western Reserve University EST.1826**
   
