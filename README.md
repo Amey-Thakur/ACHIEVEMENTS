@@ -1355,17 +1355,19 @@
 | 3 | **District Skating (2014)** | 2nd Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) |
 | 4 | **SKATE INDIA (2013)** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) |
 
-#### ⚙️ Technical Sports & Gaming
+#### 🧠 Technical Sports & Gaming
 | # | Event | Achievement | Artifact |
 | :---: | :--- | :---: | :---: |
 | 1 | **Eureka Fest: Code Master** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Code%20Master.pdf) |
+
 ---
 
 ### Stanford University School of Medicine
 
-  >[Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessments](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) | 1.50 AMA PRA Category 1 Credit(s)™
-
-  >[Identifying Early Signs of Psychosis in Adolescents and Young Adults](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) | Accreditation Council for Continuing Medical Education (ACCME) | 2.00 AMA PRA Category 1 Credit(s)™
+| # | Topic | Accreditation | Certification |
+| :---: | :--- | :--- | :---: |
+| 1 | **Dementia and Diversity in Primary Care: A Primer** | ACCME® \| 1.50 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
+| 2 | **Identifying Early Signs of Psychosis** | ACCME® \| 2.00 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
 
 ---
 
