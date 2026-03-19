@@ -664,6 +664,9 @@
 
 ##### Student Support & Professional Resources
 
+> [!TIP]
+> Targeted support systems and professional development resources dedicated to health, career strategic planning, and collaborative academic research during the graduate tenure.
+
 | Category | Resource Title | Repository | Description |
 |:---------|:---------------|:----------:|:------------|
 | **Health & Wellness** | **Health & Wellness (OHIP)** | [Open](https://github.com/Amey-Thakur/HEALTH-AND-WELLNESS-OHIP) | Essential health services and insurance enrollment for international students. |
