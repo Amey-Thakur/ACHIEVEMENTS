@@ -1339,7 +1339,7 @@
 | 6 | **Rink Football** | TEAM SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf) |
 | 7 | **SFA Mumbai 2015** | 3rd Place | [Bronze Medal](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) |
 
-#### 📺 Athletic Demonstrations (SFA Mumbai)
+#### 📺 Tournament Coverage (SFA Mumbai)
 | # | Matchup | Coverage | Portal |
 | :---: | :--- | :---: | :---: |
 | 1 | **Saraswati vs S.V.K.M.C.N.M** | U16 R1 | [YouTube Video](https://www.youtube.com/watch?v=wn2XlUVHnP4) |
