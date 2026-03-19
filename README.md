@@ -870,9 +870,11 @@
 
 ### Intel
 
-**Intel® AI Academy** 
+#### Intel® AI Academy
 
-  >[AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **AI From the Data Center to the Edge** <br> Optimized Path Using Intel® Architecture | [Certificate](Intel/Intel%20AI.pdf) |
 
 ---
 
