@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=20&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Computer+Engineer;Research+Scholar;" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Amey-Thakur&color=blue&style=flat&label=PROFILE+VIEWS)
 
 </div>
