@@ -765,9 +765,7 @@
 ### Google
 
 ### Google Digital Unlocked
-  
->Verified digital literacy and fundamental knowledge in marketing and technology via the Google Digital Unlocked curriculum.
-  
+
 | Milestone | Certificate |
 |:----------|:------------:|
 | **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) |
