@@ -34,6 +34,9 @@
  - **[Udemy](#udemy)**
  - **[University of Cambridge](#university-of-cambridge)**
  - **[VIA Institute on Character](#via-institute-on-character)**
+ 
+> [!NOTE]
+> People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: [**The Evolution of Trust**](#-the-evolution-of-trust)
 
 ---
 
