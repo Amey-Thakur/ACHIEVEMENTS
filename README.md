@@ -75,7 +75,7 @@
 
 ### Colgate Oral Health Network
 
-| # | Topic | ADA-CERP | AGD-PACE |
+| # | Topic | ADA CERP®<br>Continuing Education Recognition Program | AGD PACE<br>Academy of General Dentistry Program Approval for Continuing Education |
 | :---: | :--- | :---: | :---: |
 | 1 | **Aerosol and IC Management in the COVID-19 Era** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20AEROSOL%20AND%20IC%20MANAGEMENT%20IN%20THE%20COVID-19%20ERA%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20AEROSOL%20AND%20IC%20MANAGEMENT%20IN%20THE%20COVID-19%20ERA%20AGD-PACE.pdf) |
 | 2 | **Are Your Vaccinations Up-to-Date? A Discussion of Vaccination Recommendations for Dental Professionals and Their Patients** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20ARE%20YOUR%20VACCINATIONS%20UP-TO%20DATE%20A%20DISCUSSION%20OF%20VACCINATION%20RECOMMENDATIONS%20FOR%20DENTAL%20PROFESSIONALS%20AND%20THEIR%20PATIENTS%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20ARE%20YOUR%20VACCINATIONS%20UP-TO%20DATE%20A%20DISCUSSION%20OF%20VACCINATION%20RECOMMENDATIONS%20FOR%20DENTAL%20PROFESSIONALS%20AND%20THEIR%20PATIENTS%20AGD-PACE.pdf) |
