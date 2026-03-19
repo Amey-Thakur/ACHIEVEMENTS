@@ -945,11 +945,13 @@
 
 ### MathWorks
 
-  >[Deep Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Deep%20Learning%20Onramp.pdf)
-  
-  >[MATLAB Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/MATLAB%20Onramp.pdf)
-  
-  >[Machine Learning Onramp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/MathWorks/Machine%20Learning%20Onramp.pdf)
+#### MATLAB Academy
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **MATLAB Onramp** | [Certificate](MathWorks/MATLAB%20Onramp.pdf) |
+| 2 | **Machine Learning Onramp** | [Certificate](MathWorks/Machine%20Learning%20Onramp.pdf) |
+| 3 | **Deep Learning Onramp** | [Certificate](MathWorks/Deep%20Learning%20Onramp.pdf) |
  
 ---
 
