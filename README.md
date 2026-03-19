@@ -764,11 +764,11 @@
 
 ### Google
 
-### Google Digital Unlocked
+#### Google Digital Unlocked
 
-| Milestone | Certificate |
-|:----------|:------------:|
-| **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) |
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) | — |
 <br>
 
 **Google Play Academy**
