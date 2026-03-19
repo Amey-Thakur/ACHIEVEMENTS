@@ -751,7 +751,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/KPMG International Limited/"><img height="60" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-logo.png"></a></p>
+<p align="center"><a href="Experience/KPMG International Limited/"><img height="60" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-premium-logo.jpg"></a></p>
 <div align="center">
 <p>**KPMG International Limited**</p>
 
