@@ -324,26 +324,21 @@
 | 2 | **Introduction to Virtual Reality** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20London/Coursera%20Introduction%20to%20Virtual%20Reality.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LA4JFLRL7J7B) |
 | 3 | **Understanding Research Methods** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20London/Coursera%20Understanding%20Research%20Methods.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS) |
   
-**University of Michigan**
 
-  >[Applied Plotting, Charting and Data Representation in Python](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf)
-  
-  >[Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/SFMES8DEAJ4G)
-  
-  >[Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/8FC8EXKAQYFQ)
-  
-  >[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA)
-  
-  >[Finding Purpose and Meaning In Life Living for What Matters Most](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS)
-  
-  >[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/U2Y3PRPH99HD)
-  
-  >[Introduction to HTML5](https://www.coursera.org/account/accomplishments/verify/2LDGCB5FAYS8)
-  
-  >[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/7NL3XWB2SKSR)
-  
-  >[Python Data Structures](https://www.coursera.org/account/accomplishments/verify/ATXR8BZDSA39)
-  
+#### University of Michigan
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Introduction to HTML5** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Introduction%20to%20HTML5.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/2LDGCB5FAYS8) |
+| 2 | **Programming for Everybody (Getting Started with Python)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/7NL3XWB2SKSR) |
+| 3 | **Python Data Structures** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Python%20Data%20Structures.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/ATXR8BZDSA39) |
+| 4 | **Introduction to Data Science in Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Introduction%20to%20Data%20Science%20in%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/U2Y3PRPH99HD) |
+| 5 | **Applied Plotting, Charting and Data Representation in Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Plotting%2C%20Charting%20_%20Data%20Representation%20in%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PVC3PQHQU2YE) |
+| 6 | **Applied Text Mining in Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Text%20Mining%20in%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8FC8EXKAQYFQ) |
+| 7 | **Applied Social Network Analysis in Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Applied%20Social%20Network%20Analysis%20in%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/SFMES8DEAJ4G) |
+| 8 | **Capstone: Retrieving, Processing, and Visualizing Data with Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA) |
+| 9 | **Finding Purpose and Meaning In Life Living for What Matters Most** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Finding%20Purpose%20and%20Meaning%20In%20Life%20Living%20for%20What%20Matters%20Most.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS) |
+
 **University of Minnesota**
 
   >[Nursing Informatics Leadership](https://www.coursera.org/account/accomplishments/specialization/J8XSHDRWFR6T) Specialization
