@@ -762,7 +762,9 @@
 
 ---
 
-<h3 align="center">Google Digital Unlocked</h3>
+### Google
+
+### Google Digital Unlocked
   
 >Verified digital literacy and fundamental knowledge in marketing and technology via the Google Digital Unlocked curriculum.
   
