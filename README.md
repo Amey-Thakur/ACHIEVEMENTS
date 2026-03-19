@@ -908,25 +908,25 @@
 
 #### Kaggle Academy
 
-| # | Topic | Certification | Mirror |
-| :---: | :--- | :---: | :---: |
-| 1 | **Intro to Programming** | [Certificate](Kaggle/01_Intro_to_Programming.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 2 | **Python** | [Certificate](Kaggle/02_Python.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 3 | **Intro to Machine Learning** | [Certificate](Kaggle/03_Intro_to_Machine_Learning.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 4 | **Pandas** | [Certificate](Kaggle/04_Pandas.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 5 | **Intermediate Machine Learning** | [Certificate](Kaggle/05_Intermediate_Machine_Learning.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 6 | **Data Visualization** | [Certificate](Kaggle/06_Data_Visualization.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 7 | **Feature Engineering** | [Certificate](Kaggle/07_Feature_Engineering.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 8 | **Intro to SQL** | [Certificate](Kaggle/08_Intro_to_SQL.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 9 | **Advanced SQL** | [Certificate](Kaggle/09_Advanced_SQL.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 10 | **Intro to Deep Learning** | [Certificate](Kaggle/10_Intro_to_Deep_Learning.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 11 | **Computer Vision** | [Certificate](Kaggle/11_Computer_Vision.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 12 | **Time Series** | [Certificate](Kaggle/12_Time_Series.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 13 | **Data Cleaning** | [Certificate](Kaggle/13_Data_Cleaning.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 14 | **Intro to AI Ethics** | [Certificate](Kaggle/14_Intro_to_AI_Ethics.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 15 | **Geospatial Analysis** | [Certificate](Kaggle/15_Geospatial_Analysis.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 16 | **Machine Learning Explainability** | [Certificate](Kaggle/16_Machine_Learning_Explainability.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
-| 17 | **Game AI and Reinforcement Learning** | [Certificate](Kaggle/17_Intro_to_Game_AI_and_Reinforcement_Learning.png) | [Module](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS/tree/main/Kaggle%20Courses) |
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Intro to Programming** | [Certificate](Kaggle/01_Intro_to_Programming.png) |
+| 2 | **Python** | [Certificate](Kaggle/02_Python.png) |
+| 3 | **Intro to Machine Learning** | [Certificate](Kaggle/03_Intro_to_Machine_Learning.png) |
+| 4 | **Pandas** | [Certificate](Kaggle/04_Pandas.png) |
+| 5 | **Intermediate Machine Learning** | [Certificate](Kaggle/05_Intermediate_Machine_Learning.png) |
+| 6 | **Data Visualization** | [Certificate](Kaggle/06_Data_Visualization.png) |
+| 7 | **Feature Engineering** | [Certificate](Kaggle/07_Feature_Engineering.png) |
+| 8 | **Intro to SQL** | [Certificate](Kaggle/08_Intro_to_SQL.png) |
+| 9 | **Advanced SQL** | [Certificate](Kaggle/09_Advanced_SQL.png) |
+| 10 | **Intro to Deep Learning** | [Certificate](Kaggle/10_Intro_to_Deep_Learning.png) |
+| 11 | **Computer Vision** | [Certificate](Kaggle/11_Computer_Vision.png) |
+| 12 | **Time Series** | [Certificate](Kaggle/12_Time_Series.png) |
+| 13 | **Data Cleaning** | [Certificate](Kaggle/13_Data_Cleaning.png) |
+| 14 | **Intro to AI Ethics** | [Certificate](Kaggle/14_Intro_to_AI_Ethics.png) |
+| 15 | **Geospatial Analysis** | [Certificate](Kaggle/15_Geospatial_Analysis.png) |
+| 16 | **Machine Learning Explainability** | [Certificate](Kaggle/16_Machine_Learning_Explainability.png) |
+| 17 | **Game AI and Reinforcement Learning** | [Certificate](Kaggle/17_Intro_to_Game_AI_and_Reinforcement_Learning.png) |
 
 ---
 
