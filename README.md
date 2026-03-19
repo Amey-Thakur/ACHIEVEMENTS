@@ -23,11 +23,11 @@
  - **[MathWorks](#mathworks)**
  - **[Microsoft](#microsoft)**
  - **[NVIDIA Deep Learning Institute](#nvidia-deep-learning-institute)**
- - **[Projects](#projects)**          ⟶ Project Work
+ - **[Projects](#project-engineering--applied-research-portfolio)**          ⟶ Project Work
  - **[Quizzes](#quizzes)**
  - **[Research Papers](#research-papers)**          ⟶ Research Work
  - **[Simplilearn](#simplilearn)**
- - **[Sports](#sports)**          ⟶ Sports Activities
+ - **[Sports](#sports--athletic-achievements)**          ⟶ Sports Activities
  - **[Stanford University](#stanford-university)**
  - **[Stanford University School of Medicine](#stanford-university-school-of-medicine)**
  - **[Terna Engineering College](#terna-engineering-college)**
@@ -70,6 +70,31 @@
 | # | Topic | Certification |
 | :---: | :--- | :---: |
 | 1 | **Artificial Intelligence Workshop** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/COE%20Pune/Techgyan%20Pune%20Artificial%20Intelligence.pdf) |
+
+---
+
+### Colgate Oral Health Network
+
+| # | Topic | ADA-CERP | AGD-PACE |
+| :---: | :--- | :---: | :---: |
+| 1 | **Aerosol and IC Management in the COVID-19 Era** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20AEROSOL%20AND%20IC%20MANAGEMENT%20IN%20THE%20COVID-19%20ERA%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20AEROSOL%20AND%20IC%20MANAGEMENT%20IN%20THE%20COVID-19%20ERA%20AGD-PACE.pdf) |
+| 2 | **Are Your Vaccinations Up-to-Date? A Discussion of Vaccination Recommendations for Dental Professionals and Their Patients** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20ARE%20YOUR%20VACCINATIONS%20UP-TO%20DATE%20A%20DISCUSSION%20OF%20VACCINATION%20RECOMMENDATIONS%20FOR%20DENTAL%20PROFESSIONALS%20AND%20THEIR%20PATIENTS%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20ARE%20YOUR%20VACCINATIONS%20UP-TO%20DATE%20A%20DISCUSSION%20OF%20VACCINATION%20RECOMMENDATIONS%20FOR%20DENTAL%20PROFESSIONALS%20AND%20THEIR%20PATIENTS%20AGD-PACE.pdf) |
+| 3 | **Back to Work** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20BACK%20TO%20WORK%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20BACK%20TO%20WORK%20AGD-PACE.pdf) |
+| 4 | **Building Your Practice with Teledentistry** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20BUILDING%20YOUR%20PRACTICE%20WITH%20TELEDENTISTRY%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20CE%20Certificate%20BUILDING%20YOUR%20PRACTICE%20WITH%20TELEDENTISTRY%20AGD-PACE.pdf) |
+| 5 | **Communicating with Patients Remotely** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20COMMUNICATING%20WITH%20PATIENTS%20REMOTELY%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20COMMUNICATING%20WITH%20PATIENTS%20REMOTELY%20AGD-PACE.pdf) |
+| 6 | **Dental and Dental Hygiene Education and Challenges** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20DENTAL%20AND%20DENTAL%20HYGIENE%20EDUCATION%20AND%20CHALLENGES%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20DENTAL%20AND%20DENTAL%20HYGIENE%20EDUCATION%20AND%20CHALLENGES%20AGD-PACE.pdf) |
+| 7 | **Dental Office Restrictions** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20DENTAL%20OFFICE%20RESTRICTIONS%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20DENTAL%20OFFICE%20RESTRICTIONS%20AGD-PACE.pdf) |
+| 8 | **Hand Hygiene and PPE during COVID-19** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20HAND%20HYGIENE%20AND%20PPE%20DURING%20COVID-19%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20HAND%20HYGIENE%20AND%20PPE%20DURING%20COVID-19%20AGD-PACE.pdf) |
+| 9 | **Handling Patient Fears** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20HANDLING%20PATIENT%20FEARS%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20HANDLING%20PATIENT%20FEARS%20AGD-PACE.pdf) |
+| 10 | **Making Decisions for Emergent vs. Urgent Dental Treatment during the COVID-19 Pandemic** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20MAKING%20DECISIONS%20FOR%20EMERGENT%20VS.%20URGENT%20DENTAL%20TREATMENT%20DURING%20THE%20COVID-19%20PANDEMIC%20ADA-CERP.pdf) | - |
+| 11 | **Managing Infectious Diseases in the Dental Office** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20MANAGING%20INFECTIOUS%20DISEASES%20IN%20THE%20DENTAL%20OFFICE%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20MANAGING%20INFECTIOUS%20DISEASES%20IN%20THE%20DENTAL%20OFFICE%20AGD-PACE.pdf) |
+| 12 | **Measles, Mumps, Rubella – Oh My! What You Need to Know about Vaccinations** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20MEASLES%2C%20MUMPS%2C%20RUBELLA%20%E2%80%93%20OH%20MY!%20WHAT%20YOU%20NEED%20TO%20KNOW%20ABOUT%20VACCINATIONS%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20MEASLES%2C%20MUMPS%2C%20RUBELLA%20%E2%80%93%20OH%20MY!%20WHAT%20YOU%20NEED%20TO%20KNOW%20ABOUT%20VACCINATIONS%20AGD-PACE.pdf) |
+| 13 | **Pre-Procedural Rinsing to Reduce Aerosolized Microbial Loads** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20PRE-PROCEDURAL%20RINSING%20TO%20REDUCE%20AEROSOLIZED%20MICROBIAL%20LOADS%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20PRE-PROCEDURAL%20RINSING%20TO%20REDUCE%20AEROSOLIZED%20MICROBIAL%20LOADS%20AGD-PACE.pdf) |
+| 14 | **Reviewing the Management of Clinical Contact Surfaces** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20REVIEWING%20THE%20MANAGEMENT%20OF%20CLINICAL%20CONTACT%20SURFACES%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20REVIEWING%20THE%20MANAGEMENT%20OF%20CLINICAL%20CONTACT%20SURFACES%20AGD-PACE.pdf) |
+| 15 | **SARS-COV-2 and COVID-19: What We Know** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20SARS-COV-2%20AND%20COVID-19%20%20WHAT%20WE%20KNOW%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20SARS-COV-2%20AND%20COVID-19%20WHAT%20WE%20KNOW%20AGD-PACE.pdf) |
+| 16 | **Telehealth, Telemedicine and Teledentistry** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20TELEHEALTH%2C%20TELEMEDICINE%20AND%20TELEDENTISTRY%20ADA-CERP.pdf) | - |
+| 17 | **The Clinician’s Guide to Dental Insurance** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20THE%20CLINICIAN%E2%80%99S%20GUIDE%20TO%20DENTAL%20INSURANCE%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20THE%20CLINICIAN%E2%80%99S%20GUIDE%20TO%20DENTAL%20INSURANCE%20AGD-PACE.pdf) |
+| 18 | **What to do with Dental Unit Waterlines if You are/were Closed** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20WHAT%20TO%20DO%20WITH%20DENTAL%20UNIT%20WATERLINES%20IF%20YOU%20ARE-WERE%20CLOSED%20ADA-CERP.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Colgate%20Oral%20Health%20Network/CE%20Certificate%20WHAT%20TO%20DO%20WITH%20DENTAL%20UNIT%20WATERLINES%20IF%20YOU%20ARE-WERE%20CLOSED%20AGD-PACE.pdf) |
 
 ---
 
@@ -1366,6 +1391,14 @@
 
 ---
 
+### Stanford University
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Introduction to Internet of Things** <br> XEE100 - 014 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf) |
+
+---
+
 ### Stanford University School of Medicine
 
 | # | Topic | Certification |
@@ -1373,13 +1406,6 @@
 | 1 | **Dementia and Diversity in Primary Care: A Primer** <br> Accredited by ACCME® \| 1.50 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
 | 2 | **Identifying Early Signs of Psychosis in Adolescents and Young Adults** <br> Accredited by ACCME® \| 2.00 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
 
----
-
-### Stanford University
-
-| # | Topic | Certification |
-| :---: | :--- | :---: |
-| 1 | **Introduction to Internet of Things** <br> XEE100 - 014 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf) |
 
 ---
 
