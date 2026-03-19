@@ -483,7 +483,14 @@
 
 ### Engineering
 
+<div align="center">
+
+<a href="https://github.com/Amey-Thakur/COMPUTER-ENGINEERING" title="Bachelor of Engineering · Graduated Feb 23, 2023"><img src="docs/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/></a>
+
 ### [Bachelor of Engineering (B.E.) · Computer Engineering](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+</div>
+
 **University of Mumbai** · Affiliated Institute **Terna Engineering College**
 *Duration: 2018 — 2022*
 
@@ -607,7 +614,14 @@
 
 <p align="center">🎓 <b>Progressing to Advanced Graduate Research and Specialized Engineering</b> 🎓</p>
 
+<div align="center">
+
+<a href="https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING" title="Master of Engineering · Graduated Jun 06, 2024"><img src="docs/university-of-windsor-logo.png" alt="University of Windsor" width="400"/></a>
+
 ### [Master of Engineering (M.Eng.) · Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+</div>
+
 **University of Windsor** · Department of Electrical and Computer Engineering
 *Duration: 2023 — 2024*
 
@@ -618,14 +632,14 @@
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8000 | **Engineering Technical Communications** | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [UN SDG Solution](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
+| GENG 8000 | **Engineering Technical Communications** | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [UN SDG Sustainable Engineering Solutions](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
 | GENG 8010 | **Engineering Mathematics** | [Course](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) | — |
 
 ##### Semester II
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8020 | **Engineering Project Management** | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [Strategic Case Studies](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
+| GENG 8020 | **Engineering Project Management** | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [Strategic Project Management Case Studies](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
 | GENG 8030 | **Computational Methods and Modeling** | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 ##### Semester III
@@ -640,8 +654,8 @@
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| ELEC 8330 | **Computational Intelligence** | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [CI Algorithms](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE?tab=readme-ov-file#matlab-programs) |
-| ELEC 8900 | **Digital Communications** | [Course](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Simulink Models](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects) |
+| ELEC 8330 | **Computational Intelligence** | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [Computational Intelligence Algorithms](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE?tab=readme-ov-file#matlab-programs) |
+| ELEC 8900 | **Digital Communications** | [Course](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Simulink Digital Communication Models](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects) |
 
 ---
 
