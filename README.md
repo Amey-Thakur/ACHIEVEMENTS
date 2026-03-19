@@ -1036,7 +1036,7 @@
 | 48 | **Lunar Design Studio** | [Repository](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO) | — |
 | 49 | **Achievements** | [Repository](https://github.com/Amey-Thakur/ACHIEVEMENTS) | — |
 | 50 | **Zero-Shot Video Generation** | [Repository](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) | [YouTube](https://youtu.be/za9hId6UPoY) |
-| 51 | **Adaptive Cruise Control** | [Repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) | [YouTube](https://youtu.be/cK3v-19Tf_k) |
+| 51 | **Adaptive Cruise Control** | [Repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) | — |
 | 52 | **Binary Pulse Amplitude Modulation (BPAM)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
 | 53 | **M-ary Pulse Amplitude Modulation (MPAM)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
 | 54 | **Phase Shift Keying (PSK)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
