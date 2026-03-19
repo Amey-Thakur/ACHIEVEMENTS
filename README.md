@@ -315,13 +315,14 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **COVID-19 - A clinical update** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Florida/Coursera%20COVID-19%20-%20A%20clinical%20update.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GADRX8FNCW8W) |
 
-**University of London**
 
-  >[How Computers Work](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M)
-  
-  >[Introduction to Virtual Reality](https://www.coursera.org/account/accomplishments/verify/LA4JFLRL7J7B)
- 
-  >[Understanding Research Methods](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS)
+#### University of London
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **How Computers Work** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20London/Coursera%20How%20Computers%20Work.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/2HBSK3TP8Z2M) |
+| 2 | **Introduction to Virtual Reality** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20London/Coursera%20Introduction%20to%20Virtual%20Reality.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LA4JFLRL7J7B) |
+| 3 | **Understanding Research Methods** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20London/Coursera%20Understanding%20Research%20Methods.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/N6K2A9X57ACS) |
   
 **University of Michigan**
 
