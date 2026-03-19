@@ -602,7 +602,45 @@
 | CSL804 | **Computational Lab - II** | [Lab](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | [Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
 | CSP805 | **Major Project - II** | — | [Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
+
 >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+
+#### Master of Engineering (M.Eng.) · Computer Engineering
+**University of Windsor** · Department of Electrical and Computer Engineering
+*Duration: 2023 — 2024*
+
+> [!TIP]
+> An archival record of graduate-level research, advanced engineering coursework, and technical models completed during the Master of Engineering program at the University of Windsor. Each registry entry is mapped to its dedicated repository for scholarly verification and reference.
+
+##### Semester I
+
+| Code | Course Title | Repository | Project |
+|:----:|:-------------|:----------:|:-------:|
+| GENG-8000 | **Engineering Technical Communications** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8000%20ENGINEERING-TECHNICAL-COMMUNICATIONS) | [UN SDG Solution](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/blob/main/GENG-8000%20ENGINEERING-TECHNICAL-COMMUNICATIONS/Team%201%20Presentation%20Slides-GENG8000-01-Summer2023.pptx) |
+| GENG-8010 | **Engineering Mathematics** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8010%20ENGINEERING-MATHEMATICS) | — |
+| MECH-8290 | **Directed Study: Fundamentals of Automotive Engineering** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/MECH-8290%20DIRECTED-STUDY-FUNDAMENTALS-OF-AUTOMOTIVE-ENGINEERING) | — |
+
+##### Semester II
+
+| Code | Course Title | Repository | Project |
+|:----:|:-------------|:----------:|:-------:|
+| ELEC-8280 | **Digital Communications** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8280%20DIGITAL-COMMUNICATIONS) | [Simulink Models](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8280%20DIGITAL-COMMUNICATIONS/Simulink%20Models) |
+| ELEC-8290 | **Discrete Time Signal Processing** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8290%20DISCRETE-TIME-SIGNAL-PROCESSING) | — |
+
+##### Semester III
+
+| Code | Course Title | Repository | Project |
+|:----:|:-------------|:----------:|:-------:|
+| GENG-8020 | **Engineering Management** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8020%20ENGINEERING-MANAGEMENT) | — |
+| GENG-8030 | **Computational Methods and Modeling for Engineering Applications** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8030%20COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Numerical Solutions](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8030%20COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS/Assignment-01) |
+| VIP-CSL | **Experiential Learning: Video Generation with Multi-Resolution Diffusion Model** | [Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/VIP-CSL%20EXPERIENTIAL-LEARNING) | [Letter of Completion](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/blob/main/VIP-CSL%20EXPERIENTIAL-LEARNING/VIP%20Experiential%20Learning%20Completion%20Letter.pdf) |
+
+##### Semester IV
+
+| Code | Course Title | Repository | Project |
+|:----:|:-------------|:----------:|:-------:|
+| ELEC-8230 | **Advanced Signal Processing** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8230%20ADVANCED-SIGNAL-PROCESSING) | — |
+| ELEC-8270 | **Advanced Software Engineering** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8270%20ADVANCED-SOFTWARE-ENGINEERING) | — |
 
 ---
 
