@@ -339,15 +339,17 @@
 | 8 | **Capstone: Retrieving, Processing, and Visualizing Data with Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA) |
 | 9 | **Finding Purpose and Meaning In Life Living for What Matters Most** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Finding%20Purpose%20and%20Meaning%20In%20Life%20Living%20for%20What%20Matters%20Most.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS) |
 
-**University of Minnesota**
 
-  >[Nursing Informatics Leadership](https://www.coursera.org/account/accomplishments/specialization/J8XSHDRWFR6T) Specialization
+#### University of Minnesota
 
-  - [Skills for Nursing Informatics Leaders](https://www.coursera.org/account/accomplishments/verify/LEZGXMWJ2VW3)
-  - [Nursing Informatics Leaders](https://www.coursera.org/account/accomplishments/verify/SF33UW7RSV2C)
-  - [Nursing Informatics Leadership Theory and Practice](https://www.coursera.org/account/accomplishments/verify/MHR8UNU69TJ6)
-  - [Nursing Informatics Training and Education](https://www.coursera.org/account/accomplishments/verify/ZU85VSKA324A)
-  - [Leadership in Interprofessional Informatics](https://www.coursera.org/account/accomplishments/verify/CN3DUV4JGD32)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| - | **Nursing Informatics Leadership Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Nursing%20Informatics%20Leadership.pdf) | [Verify](https://www.coursera.org/account/accomplishments/specialization/J8XSHDRWFR6T) |
+| 1 | **Skills for Nursing Informatics Leaders** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Skills%20for%20Nursing%20Informatics%20Leaders.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LEZGXMWJ2VW3) |
+| 2 | **Nursing Informatics Leaders** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Nursing%20Informatics%20Leaders.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/SF33UW7RSV2C) |
+| 3 | **Nursing Informatics Leadership Theory and Practice** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Nursing%20Informatics%20Leadership%20Theory%20and%20Practice.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/MHR8UNU69TJ6) |
+| 4 | **Nursing Informatics Training and Education** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Nursing%20Informatics%20Training%20and%20Education.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/ZU85VSKA324A) |
+| 5 | **Leadership in Interprofessional Informatics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Leadership%20in%20Interprofessional%20Informatics.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CN3DUV4JGD32) |
 
 **University of North Carolina at Chapel Hill**
 
