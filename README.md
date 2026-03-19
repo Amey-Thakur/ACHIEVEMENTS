@@ -1298,7 +1298,7 @@
 | **Preprint (viXra)** | [viXra: 2204.0094](http://viXra.org/abs/2204.0094) |
 | **Presentation** | [DOI: 10.13140/RG.2.2.31450.82887](http://dx.doi.org/10.13140/RG.2.2.31450.82887) |
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg) |
-| **Authors** | **Amey Thakur** |
+| **Authors** | **Amey Thakur**, Mega Satish |
 
 #### 17. Online Chess Game
 
