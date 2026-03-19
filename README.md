@@ -618,31 +618,30 @@
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG-8000 | **Engineering Technical Communications** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8000%20ENGINEERING-TECHNICAL-COMMUNICATIONS) | [UN SDG Solution](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/blob/main/GENG-8000%20ENGINEERING-TECHNICAL-COMMUNICATIONS/Team%201%20Presentation%20Slides-GENG8000-01-Summer2023.pptx) |
-| GENG-8010 | **Engineering Mathematics** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8010%20ENGINEERING-MATHEMATICS) | — |
-| MECH-8290 | **Directed Study: Fundamentals of Automotive Engineering** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/MECH-8290%20DIRECTED-STUDY-FUNDAMENTALS-OF-AUTOMOTIVE-ENGINEERING) | — |
+| GENG 8000 | **Engineering Technical Communications** | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [UN SDG Solution](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
+| GENG 8010 | **Engineering Mathematics** | [Course](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) | — |
 
 ##### Semester II
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| ELEC-8280 | **Digital Communications** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8280%20DIGITAL-COMMUNICATIONS) | [Simulink Models](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8280%20DIGITAL-COMMUNICATIONS/Simulink%20Models) |
-| ELEC-8290 | **Discrete Time Signal Processing** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8290%20DISCRETE-TIME-SIGNAL-PROCESSING) | — |
+| GENG 8020 | **Engineering Project Management** | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [Strategic Case Studies](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
+| GENG 8030 | **Computational Methods and Modeling** | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 ##### Semester III
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG-8020 | **Engineering Management** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8020%20ENGINEERING-MANAGEMENT) | — |
-| GENG-8030 | **Computational Methods and Modeling for Engineering Applications** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8030%20COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Numerical Solutions](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/GENG-8030%20COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS/Assignment-01) |
-| VIP-CSL | **Experiential Learning: Video Generation with Multi-Resolution Diffusion Model** | [Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/VIP-CSL%20EXPERIENTIAL-LEARNING) | [Letter of Completion](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/blob/main/VIP-CSL%20EXPERIENTIAL-LEARNING/VIP%20Experiential%20Learning%20Completion%20Letter.pdf) |
+| ELEC 8560 | **Computer Networks** | [Course](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) | — |
+| ELEC 8900 | **Machine Learning** | [Course](https://github.com/Amey-Thakur/MACHINE--LEARNING) | [Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) |
+| VIP-CSL | **VIP - Community Service Learning** | [Open](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) | [View Certificate](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023/blob/main/Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate%20.pdf) |
 
 ##### Semester IV
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| ELEC-8230 | **Advanced Signal Processing** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8230%20ADVANCED-SIGNAL-PROCESSING) | — |
-| ELEC-8270 | **Advanced Software Engineering** | [Course](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/tree/main/ELEC-8270%20ADVANCED-SOFTWARE-ENGINEERING) | — |
+| ELEC 8330 | **Computational Intelligence** | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [CI Algorithms](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE?tab=readme-ov-file#matlab-programs) |
+| ELEC 8900 | **Digital Communications** | [Course](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Simulink Models](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects) |
 
 ---
 
