@@ -483,7 +483,7 @@
 
 ### Engineering
 
-#### Bachelor of Engineering (B.E.) · Computer Engineering
+### [Bachelor of Engineering (B.E.) · Computer Engineering](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 **University of Mumbai** · Affiliated Institute **Terna Engineering College**
 *Duration: 2018 — 2022*
 
@@ -605,7 +605,9 @@
 
 >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
 
-#### Master of Engineering (M.Eng.) · Computer Engineering
+<p align="center">🎓 <b>Progressing to Advanced Graduate Research and Specialized Engineering</b> 🎓</p>
+
+### [Master of Engineering (M.Eng.) · Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 **University of Windsor** · Department of Electrical and Computer Engineering
 *Duration: 2023 — 2024*
 
