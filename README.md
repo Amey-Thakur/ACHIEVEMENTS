@@ -489,10 +489,10 @@
 
 ### [Bachelor of Engineering (B.E.) · Computer Engineering](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-</div>
-
 **University of Mumbai** · Affiliated Institute **Terna Engineering College**
 *Duration: 2018 — 2022*
+
+</div>
 
 > [!TIP]
 > An archival record of academic coursework, laboratory implementations, and applied research projects completed during the four-year baccalaureate program at Terna Engineering College. Each subject is mapped to its dedicated technical repository for scholarly verification and reference.
@@ -609,8 +609,7 @@
 | CSL804 | **Computational Lab - II** | [Lab](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | [Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
 | CSP805 | **Major Project - II** | — | [Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
-
->**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+>**[<img src="docs/youtube-icon.png" alt="YouTube" width="24" align="middle">](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn) Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
 
 <p align="center">🎓 <b>Progressing to Advanced Graduate Research and Specialized Engineering</b> 🎓</p>
 
@@ -620,10 +619,10 @@
 
 ### [Master of Engineering (M.Eng.) · Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
-</div>
-
 **University of Windsor** · Department of Electrical and Computer Engineering
 *Duration: 2023 — 2024*
+
+</div>
 
 > [!TIP]
 > An archival record of graduate-level research, advanced engineering coursework, and technical models completed during the Master of Engineering program at the University of Windsor. Each registry entry is mapped to its dedicated repository for scholarly verification and reference.
