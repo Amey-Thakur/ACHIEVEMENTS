@@ -365,13 +365,14 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Mind Control: Managing Your Mental Health During COVID-19** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Toronto/Coursera%20Mind%20Control%20Managing%20Your%20Mental%20Health%20During%20COVID-19.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU) |
 
-**University of Virginia**
 
-  >[Design Thinking for Innovation](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR)
-  
-  >[How Things Work: An Introduction to Physics](https://www.coursera.org/account/accomplishments/verify/CUH8YZ2P28HR)
+#### University of Virginia
 
-  >[Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/verify/854M3U9N26P8)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Design Thinking for Innovation** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Virginia/Coursera%20Design%20Thinking%20for%20Innovation.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR) |
+| 2 | **How Things Work: An Introduction to Physics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Virginia/Coursera%20How%20Things%20Work%20An%20Introduction%20to%20Physics.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CUH8YZ2P28HR) |
+| 3 | **Introduction to Personal Branding** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Virginia/Coursera%20Introduction%20to%20Personal%20Branding.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/854M3U9N26P8) |
 
 **Yale University**
 
