@@ -249,11 +249,13 @@
 | 2 | **Sit Less, Get Active** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20Sit%20Less%2C%20Get%20Active.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CN5ESH57GYUD) |
 | 3 | **The Truth About Cats and Dogs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20The%20Truth%20About%20Cats%20and%20Dogs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/HCD5A6VKA3LK) |
 
-**University of Alberta**
 
-  >[Dino 101: Dinosaur Paleobiology](https://www.coursera.org/account/accomplishments/verify/VXM8JA9WL3F9)
+#### University of Alberta
 
-  >[Mountains 101](https://www.coursera.org/account/accomplishments/verify/JMKKTBNBDMZS)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Dino 101: Dinosaur Paleobiology** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Alberta/Coursera%20Dino%20101%20Dinosaur%20Paleobiology.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VXM8JA9WL3F9) |
+| 2 | **Mountains 101** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Alberta/Coursera%20Mountains%20101.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JMKKTBNBDMZS) |
 
 **University of California Irvine**
 
