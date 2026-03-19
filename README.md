@@ -1331,7 +1331,7 @@
 #### 🏀 Basketball & Team Sports
 
 > [!IMPORTANT]
-> [🥉](# "Achievement Unlocked: SFA Mumbai 2015 Bronze Medalist") **Honors: SFA Mumbai 2015 Bronze Medalist**
+> [🥉](# "Achievement Unlocked: SFA Mumbai 2015 Bronze Medalist") **Award: SFA Mumbai 2015 Bronze Medalist**
 
 | # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
