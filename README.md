@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://www.x.com/iameythakur"><img src="docs/X.png" alt="X" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/iameythakur"><img src="docs/Instagram.png" alt="Instagram" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://iameythakur.medium.com/"><img src="docs/Medium-White.svg" alt="Medium" width="50" height="50"/></a>
+<a href="https://iameythakur.medium.com/"><img src="docs/Medium.svg" alt="Medium" width="50" height="50"/></a>
 </p>
 
 ---
