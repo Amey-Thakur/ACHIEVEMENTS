@@ -14,23 +14,23 @@
 
 ### 🔗 Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/amey-thakur"><img src="docs/LinkedIn.png" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Amey-Thakur"><img src="docs/GitHub.png" alt="GitHub" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/ameythakur"><img src="docs/HuggingFace.png" alt="HuggingFace" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/ameythakur20"><img src="docs/Kaggle.png" alt="Kaggle" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://g.dev/ameythakur"><img src="docs/GoogleDevelopers.png" alt="Google Developers" width="50" height="50"/></a>
+<a href="https://www.linkedin.com/in/amey-thakur"><img src="docs/LinkedIn.png" alt="LinkedIn" title="Connect with Amey Thakur on LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Amey-Thakur"><img src="docs/GitHub.png" alt="GitHub" title="Explore Amey-Thakur's Repositories on GitHub" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/ameythakur"><img src="docs/HuggingFace.png" alt="HuggingFace" title="View ameythakur's AI Models on HuggingFace" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/ameythakur20"><img src="docs/Kaggle.png" alt="Kaggle" title="Check ameythakur20's Data Science Work on Kaggle" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://g.dev/ameythakur"><img src="docs/GoogleDevelopers.png" alt="Google Developers" title="Visit ameythakur's Google Developer Profile" width="50" height="50"/></a>
 </p>
 <p align="center">
-<a href="https://scholar.google.com/citations?user=0inooPgAAAAJ"><img src="docs/GoogleScholar.png" alt="Google Scholar" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="docs/ResearchGate.png" alt="ResearchGate" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://orcid.org/0000-0001-5644-1575"><img src="docs/ORCID.png" alt="ORCID" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://arxiv.org/a/thakur_a_3.html"><img src="docs/arXiv.jpg" alt="arXiv" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://vixra.org/author/amey_thakur"><img src="docs/viXra.jpg" alt="viXra" width="50" height="50"/></a>
+<a href="https://scholar.google.com/citations?user=0inooPgAAAAJ"><img src="docs/GoogleScholar.png" alt="Google Scholar" title="Read Research Publications by Amey Thakur (0inooPgAAAAJ)" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="docs/ResearchGate.png" alt="ResearchGate" title="Follow Amey-Thakur's Research on ResearchGate" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0001-5644-1575"><img src="docs/ORCID.png" alt="ORCID" title="Verify Amey Thakur's Professional Researcher ID (0000-0001-5644-1575)" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://arxiv.org/a/thakur_a_3.html"><img src="docs/arXiv.jpg" alt="arXiv" title="Access Preprints and Papers by thakur_a_3 on arXiv" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vixra.org/author/amey_thakur"><img src="docs/viXra.jpg" alt="viXra" title="Browse Research Papers by amey_thakur on viXra" width="50" height="50"/></a>
 </p>
 <p align="center">
-<a href="https://www.x.com/iameythakur"><img src="docs/X.png" alt="X" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/iameythakur"><img src="docs/Instagram.png" alt="Instagram" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://iameythakur.medium.com/"><img src="docs/Medium.svg" alt="Medium" width="50" height="50"/></a>
+<a href="https://www.x.com/iameythakur"><img src="docs/X.png" alt="X" title="Follow iameythakur's Updates on X" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/iameythakur"><img src="docs/Instagram.png" alt="Instagram" title="Connect with iameythakur on Instagram" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://iameythakur.medium.com/"><img src="docs/Medium-White.svg" alt="Medium" title="Read Insights and Stories by iameythakur on Medium" width="50" height="50"/></a>
 </p>
 
 ---
