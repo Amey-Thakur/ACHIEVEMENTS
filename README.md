@@ -278,17 +278,16 @@
 | 5 | **Graph Analytics for Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Graph%20Analytics%20for%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA) |
 
 
-**University of California, Irvine Division of Continuing Education**
 
-  >[Grammar and Punctuation](https://www.coursera.org/account/accomplishments/verify/8A8FAKP44VML)
+#### University of California, Irvine Division of Continuing Education
 
-  >[Perfect Tenses and Modals](https://www.coursera.org/account/accomplishments/verify/AVESZE2TG6UJ)
- 
-  >[Programming for the Internet of Things Project](https://www.coursera.org/account/accomplishments/verify/W778GBR4FYXF)
-
-  >[The Arduino Platform and C Programming](https://www.coursera.org/account/accomplishments/verify/HVLDN2CM2RQY)
-
-  >[The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/account/accomplishments/verify/AA5HYKYVNXGK)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Grammar and Punctuation** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20Grammar%20and%20Punctuation.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8A8FAKP44VML) |
+| 2 | **Perfect Tenses and Modals** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20Perfect%20Tenses%20and%20Modals.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AVESZE2TG6UJ) |
+| 3 | **Programming for the Internet of Things Project** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20Programming%20for%20the%20Internet%20of%20Things%20Project.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/W778GBR4FYXF) |
+| 4 | **The Arduino Platform and C Programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20The%20Arduino%20Platform%20and%20C%20Programming.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/HVLDN2CM2RQY) |
+| 5 | **The Raspberry Pi Platform and Python Programming for the Raspberry Pi** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20The%20Raspberry%20Pi%20Platform%20and%20Python%20Programming%20for%20the%20Raspberry%20Pi.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AA5HYKYVNXGK) |
 
 **University of Cape Town**
 
