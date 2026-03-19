@@ -1130,7 +1130,10 @@
 
 ### Research Papers
  
- _Follow My Research @ - [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur) | [viXra](https://vixra.org/author/amey_thakur)_
+> [!TIP]
+> **Follow My Research @**
+> 
+> [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur) | [viXra](https://vixra.org/author/amey_thakur)
 
 #### 1. Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
 
