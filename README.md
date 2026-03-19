@@ -1404,7 +1404,9 @@
 
 ### University of Cambridge
 
-  >[ESOL Examinations](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/University%20of%20Cambridge/ESOL%20Examination.pdf) | YLE FLYERS | 12 SHIELDS
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **ESOL Examinations** <br> YLE FLYERS \| 12 SHIELDS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/University%20of%20Cambridge/ESOL%20Examination.pdf) |
 
 ---
 
