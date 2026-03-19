@@ -609,7 +609,11 @@
 | CSL804 | **Computational Lab - II** | [Lab](https://github.com/Amey-Thakur/NATURAL-LANGUAGE-PROCESSING-AND-COMPUTATIONAL-LAB-II) | [Text Summarizer](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
 | CSP805 | **Major Project - II** | — | [Quadtree Visualizer](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 
->**[<img src="docs/youtube-icon.png" alt="YouTube" width="24" align="middle">](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn) Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+<div align="center">
+
+[<img src="docs/youtube-icon.png" alt="YouTube" width="40" align="middle">](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn) &nbsp; **[Engineering Projects - YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+
+</div>
 
 <p align="center">🎓 <b>Progressing to Advanced Graduate Research and Specialized Engineering</b> 🎓</p>
 
