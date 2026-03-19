@@ -1328,7 +1328,7 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Badminton Summer Camp** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf) |
 
-#### 🏀 Basketball & Team Sports
+#### 🏀 Basketball
 
 > [!IMPORTANT]
 > [🥉](# "Achievement Unlocked: SFA Mumbai 2015 Bronze Medalist") **Award: Sports For All (SFA) Mumbai 2015 Bronze Medalist**
