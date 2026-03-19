@@ -358,9 +358,12 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Infection Prevention in Nursing Homes** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20North%20Carolina%20at%20Chapel%20Hill/Coursera%20Infection%20Prevention%20in%20Nursing%20Homes.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/R4TSARJL8LN6) |
 
-**University of Toronto**
 
-  >[Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU)
+#### University of Toronto
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Mind Control: Managing Your Mental Health During COVID-19** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Toronto/Coursera%20Mind%20Control%20Managing%20Your%20Mental%20Health%20During%20COVID-19.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU) |
 
 **University of Virginia**
 
