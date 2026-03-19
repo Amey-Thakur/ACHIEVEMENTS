@@ -662,6 +662,14 @@
 | ELEC 8330 | **Computational Intelligence** | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [Computational Intelligence Algorithms](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE?tab=readme-ov-file#matlab-programs) |
 | ELEC 8900 | **Digital Communications** | [Course](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Simulink Digital Communication Models](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects) |
 
+##### Student Support & Professional Resources
+
+| Category | Resource Title | Repository | Description |
+|:---------|:---------------|:----------:|:------------|
+| **Health & Wellness** | **Health & Wellness (OHIP)** | [Open](https://github.com/Amey-Thakur/HEALTH-AND-WELLNESS-OHIP) | Essential health services and insurance enrollment for international students. |
+| **Career Development** | **Career Development Resource** | [Open](https://github.com/Amey-Thakur/CAREER-DEVELOPMENT-RESOURCE) | Strategic career planning, internship sourcing, and professional networking. |
+| **Academic Research** | **MITACS Research** | [Open](https://github.com/Amey-Thakur/MITACS-RESEARCH) | Collaborative research opportunities and specialized project documentation. |
+
 ---
 
 ### Experience
