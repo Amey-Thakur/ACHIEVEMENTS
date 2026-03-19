@@ -1493,3 +1493,15 @@
 <p align="center">
   <a href="#-my-achievements-and-certifications-">↑ Back to Top</a>
 </p>
+
+---
+
+<div align="center">
+
+<i>Every idea I open-source is a spark handed to someone I may never meet. That is the whole point.</i>
+
+<b>— Amey Thakur</b>
+
+<i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
+
+</div>
