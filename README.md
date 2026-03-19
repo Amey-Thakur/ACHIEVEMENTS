@@ -899,14 +899,12 @@
 
 ### Kaggle
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ameythakur20)
-
 > [!TIP]
-> **Track my Notebooks @ [Kaggle](https://www.kaggle.com/ameythakur20)**
+> **Track my Notebooks @ [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ameythakur20)**
 >
-> **[KAGGLE-COMPETITIONS](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS)** — Professional solutions for various Kaggle competitions.
+> **[KAGGLE-COMPETITIONS](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS)** — Solutions for competitions.
 >
-> **[KAGGLE-COURSES](https://github.com/Amey-Thakur/KAGGLE-COURSES)** — High-fidelity archive of core Data Science, Machine Learning, and Data Manipulation mastery.
+> **[KAGGLE-COURSES](https://github.com/Amey-Thakur/KAGGLE-COURSES)** — Archive of core certifications.
 
 #### Kaggle Academy
 
