@@ -744,7 +744,7 @@
 |:-----|:----------------:|:------------:|
 | **Classroom Virtual Experience** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf) |
 
-<a href="Experience/Edureka/"><img height="100" title="Data Science & ML Internship at Edureka" src="docs/edureka-logo.png"></a>
+<a href="Experience/Edureka/"><img height="100" title="Data Science & ML Internship at Edureka" src="docs/edureka-premium-logo.webp"></a>
 **Edureka**
 
 | Role | Project / Links | Verification |
