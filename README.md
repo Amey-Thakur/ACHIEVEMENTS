@@ -984,85 +984,86 @@
 > - **[Engineering Project Demonstrations](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)** — Official Engineering Projects YouTube Playlist.
 > - **[AWS Cloud Practitioner Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** — Comprehensive AWS Architectural Guide.
 
-### Graduate Research & Applied Engineering (M.Eng.)
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **Zero-Shot Video Generation** | [Repository](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) | [YouTube](https://youtu.be/Fm39e5XF_5w) |
-| 2 | **Adaptive Cruise Control** | [Repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) | [YouTube](https://youtu.be/cK3v-19Tf_k) |
-| 3 | **Sustainable Home Insulation (UN SDG)** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [Presentation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
-| 4 | **Strategic Project Management Case Studies** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [Documentation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
-| 5 | **VIP - Community Service Learning (ACWR)** | [Repository](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) | [Certificate](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023/blob/main/Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate%20.pdf) |
-
-### Cloud Architecture & Infrastructure (AWS)
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **Pizza Ordering Chatbot (Amazon Lex)** | [Repository](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | [YouTube](https://youtu.be/6iLgN_1e4DU) |
-| 2 | **EC2 & Cost Analysis (IaaS)** | [Repository](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | [YouTube](https://youtu.be/y-oACtu8djc) |
-| 3 | **S3 & EBS Storage (PaaS)** | [Repository](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | [YouTube](https://youtu.be/CnM07Vg7pW8) |
-| 4 | **RDS, VPC & Load Balancing** | [Repository](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | [YouTube](https://youtu.be/EhV8I2ElVRk) |
-| 5 | **Cloud Services Full-Stack Website** | [Repository](https://github.com/Amey-Thakur/CLOUD-SERVICES-WEBSITE) | [Web App](https://amey-thakur.github.io/CLOUD-SERVICES-WEBSITE) |
-
-### Artificial Intelligence & Neural Systems
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **Deepfake Audio Synthesis (SV2TTS)** | [Repository](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) | [YouTube](https://youtu.be/e_Y0R8E-j9k) |
-| 1 | **Depression Detection in Social Media** | [Repository](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS) | [YouTube](https://youtu.be/p6fQy50Hw9w) |
-| 2 | **Neural Sentiment Analyzer Engine** | [Repository](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | [YouTube](https://youtu.be/8I6-n_V-G8Y) |
-| 3 | **White-Box Cartoonization (GAN)** | [Repository](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | [Web App](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION) |
-| 4 | **Computational Intelligence Algorithms** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-
-### Engineering Capstone & Major Systems
-
 | # | Topic | Project Repository | Demonstration |
 | :---: | :--- | :---: | :---: |
 | 1 | **Quadtree Visualizer (Capstone)** | [Repository](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) | [YouTube](https://youtu.be/fM5mS30hD_w) |
-| 2 | **Online Chess Game (HMI)** | [Repository](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | [YouTube](https://youtu.be/u88rF-v_r_o) |
-| 3 | **Digital Bookstore (Software Engineering)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | [YouTube](https://youtu.be/k6uY9-q_yXk) |
-| 4 | **Car Rental System (DBMS)** | [Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | [YouTube](https://youtu.be/y3u_e_w_z_k) |
-| 5 | **Chat Room (Web Socket/PHP)** | [Repository](https://github.com/Amey-Thakur/CHAT-ROOM) | [YouTube](https://youtu.be/u8u_o_w_z_k) |
-
-### Machine Learning & Predictive Analytics
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **K-Means Stock Trading Optimization** | [Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) | [YouTube](https://youtu.be/v7u_e_w_y_k) |
-| 2 | **Reinforcement Learning Trading Strategy** | [Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | [Web App](https://stock-trading-with-rl.herokuapp.com) |
-| 3 | **Bangalore House Price Prediction** | [Repository](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | [Web App](https://bangalorehousepriceprediction.herokuapp.com) |
-| 4 | **Supervised ML (Linear Regression)** | [Repository](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | [Documentation](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) |
-| 5 | **Unsupervised ML (Clustering)** | [Repository](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) | [Documentation](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) |
-
-### Full Stack Engineering & Distributed Systems
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **Tic-Tac-Toe (Angular Framework)** | [Repository](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK) | [YouTube](https://youtu.be/y7u_e_w_z_k) |
-| 2 | **React Todo App (SPA Architecture)** | [Repository](https://github.com/Amey-Thakur/REACT-TODO-APP) | [Web App](https://github.com/Amey-Thakur/REACT-TODO-APP) |
-| 3 | **Hangman in Django (RESTful API)** | [Repository](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON) | [YouTube](https://youtu.be/u8u_o_z_x_k) |
-| 4 | **Big Data Frameworks (Hadoop)** | [Repository](https://github.com/Amey-Thakur/HADOOP) | [Implementation](https://github.com/Amey-Thakur/HADOOP) |
-| 5 | **Ruby on Rails FriendsApp (MVC)** | [Repository](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP) | [Implementation](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP) |
-
-### Scientific Computing & Simulation
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **Simulink Digital Communication Models** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects) |
-| 2 | **Computational Intelligence (MATLAB)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 3 | **Text Summarizer (Julia & NLP)** | [Repository](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | [Web App](http://textssummarizer.herokuapp.com) |
-| 4 | **8086 Assembly Programming** | [Repository](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) | [Implementation](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) |
-| 5 | **Statistical Computing (R Programming)** | [Repository](https://github.com/Amey-Thakur/R) | [Documentation](https://github.com/Amey-Thakur/R) |
-
-### Computer Vision & UX/UI Engineering
-
-| # | Topic | Project Repository | Demonstration |
-| :---: | :--- | :---: | :---: |
-| 1 | **AR Stack Game (ARCore/Unity)** | [Repository](https://github.com/Amey-Thakur/AR-STACK-GAME) | [YouTube](https://youtu.be/y7u_r_w_z_k) |
-| 2 | **ATVM Vending Machine Interface** | [Repository](https://github.com/Amey-Thakur/ATVM-INTERFACE) | [Web App](https://amey-thakur.github.io/ATVM-INTERFACE) |
-| 3 | **Math Sprint Game (Interactive UI)** | [Repository](https://github.com/Amey-Thakur/MATH-SPRINT-GAME) | [Web App](https://amey-thakur.github.io/MATH-SPRINT-GAME) |
-| 4 | **COVID-19 Real-Time Web Scraper** | [Repository](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) | [YouTube](https://youtu.be/u8u_p_w_z_k) |
-| 5 | **Flappy Bird (Pygame Physics)** | [Repository](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME) | [YouTube](https://youtu.be/y7u_p_w_z_k) |
+| 2 | **AWS Certified Cloud Practitioner** | [Repository](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | [YouTube](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs) |
+| 3 | **Text Summarizer** | [Repository](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | — |
+| 4 | **Online Chess Game** | [Repository](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | [YouTube](https://youtu.be/u88rF-v_r_o) |
+| 5 | **K-Means Stock Trading** | [Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) | — |
+| 6 | **White-Box Cartoonization** | [Repository](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | — |
+| 7 | **Digital Bookstore** | [Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | [YouTube](https://youtu.be/k6uY9-q_yXk) |
+| 8 | **Car Rental System** | [Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | [YouTube](https://youtu.be/y3u_e_w_z_k) |
+| 9 | **Chat Room** | [Repository](https://github.com/Amey-Thakur/CHAT-ROOM) | [YouTube](https://youtu.be/u8u_o_w_z_k) |
+| 10 | **8086 ASM** | [Repository](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) | — |
+| 11 | **COVID-19 Web Scraper** | [Repository](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) | — |
+| 12 | **Interest Calculator** | [Repository](https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR) | — |
+| 13 | **AR Stack Game** | [Repository](https://github.com/Amey-Thakur/AR-STACK-GAME) | — |
+| 14 | **Hangman Word Game** | [Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | — |
+| 15 | **ResearchGate Archive** | [Repository](https://github.com/Amey-Thakur/RESEARCHGATE) | — |
+| 16 | **Deepfake Audio Synthesis** | [Repository](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) | [YouTube](https://youtu.be/e_Y0R8E-j9k) |
+| 17 | **Sentiment Analyzer** | [Repository](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | [YouTube](https://youtu.be/8I6-n_V-G8Y) |
+| 18 | **Depression Detection** | [Repository](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS) | [YouTube](https://youtu.be/p6fQy50Hw9w) |
+| 19 | **Stock Trading Strategy RL** | [Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | — |
+| 20 | **Reinforcement Learning Strategy** | [Repository](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST) | — |
+| 21 | **Kaggle Courses** | [Repository](https://github.com/Amey-Thakur/KAGGLE-COURSES) | — |
+| 22 | **House Price Prediction** | [Repository](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | — |
+| 23 | **Unsupervised ML** | [Repository](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) | — |
+| 24 | **Supervised ML** | [Repository](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | — |
+| 25 | **React Todo App** | [Repository](https://github.com/Amey-Thakur/REACT-TODO-APP) | — |
+| 26 | **Tic-Tac-Toe in Angular** | [Repository](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK) | — |
+| 27 | **JavaScript Frameworks** | [Repository](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS) | — |
+| 28 | **Hangman in Django** | [Repository](https://github.com/Amey-Thakur/HANGMAN-GAME-IN-DJANGO-PYTHON) | — |
+| 29 | **Hadoop** | [Repository](https://github.com/Amey-Thakur/HADOOP) | — |
+| 30 | **30 Days of Ruby** | [Repository](https://github.com/Amey-Thakur/RUBY) | — |
+| 31 | **Hangman in Ruby** | [Repository](https://github.com/Amey-Thakur/HANGMAN-IN-RUBY) | — |
+| 32 | **Tic-Tac-Toe in Ruby** | [Repository](https://github.com/Amey-Thakur/TIC-TAC-TOE-IN-RUBY) | — |
+| 33 | **Ruby on Rails FriendsApp** | [Repository](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP) | — |
+| 34 | **RailsFriends** | [Repository](https://github.com/Amey-Thakur/RAILSFRIENDS) | — |
+| 35 | **Python Shorts** | [Repository](https://github.com/Amey-Thakur/PYTHON-SHORTS) | — |
+| 36 | **Python Crash Course** | [Repository](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE) | — |
+| 37 | **30 Days of R** | [Repository](https://github.com/Amey-Thakur/R) | — |
+| 38 | **50 Days of Julia** | [Repository](https://github.com/Amey-Thakur/JULIA) | — |
+| 39 | **The Math Game** | [Repository](https://github.com/Amey-Thakur/THE-MATH-GAME) | — |
+| 40 | **Math Sprint Game** | [Repository](https://github.com/Amey-Thakur/MATH-SPRINT-GAME) | — |
+| 41 | **Rock Paper Scissors** | [Repository](https://github.com/Amey-Thakur/ROCK-PAPER-SCISSORS) | — |
+| 42 | **ATVM Interface** | [Repository](https://github.com/Amey-Thakur/ATVM-INTERFACE) | — |
+| 43 | **Flappy Bird** | [Repository](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME) | — |
+| 44 | **Pong Game** | [Repository](https://github.com/Amey-Thakur/PONG-GAME) | — |
+| 45 | **Android Studio Flashlight** | [Repository](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT) | — |
+| 46 | **Android Studio Calculator** | [Repository](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR) | — |
+| 47 | **Search Space Explore Extent** | [Repository](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | — |
+| 48 | **Lunar Design Studio** | [Repository](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO) | — |
+| 49 | **Achievements** | [Repository](https://github.com/Amey-Thakur/ACHIEVEMENTS) | — |
+| 50 | **Zero-Shot Video Generation** | [Repository](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) | [YouTube](https://youtu.be/Fm39e5XF_5w) |
+| 51 | **Adaptive Cruise Control** | [Repository](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) | [YouTube](https://youtu.be/cK3v-19Tf_k) |
+| 52 | **Binary Pulse Amplitude Modulation (BPAM)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
+| 53 | **M-ary Pulse Amplitude Modulation (MPAM)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
+| 54 | **Phase Shift Keying (PSK)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
+| 55 | **Quadrature Amplitude Modulation (QAM)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
+| 56 | **Offset QPSK (OQPSK)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
+| 57 | **Convolutional Neural Network (CNN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 58 | **Self-Organizing Maps (SOM)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 59 | **Radial Basis Function Network (RBFN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 60 | **Radial Basis Function Optimization (RBFO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 61 | **Learning Vector Quantization (LVQ)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 62 | **Bidirectional Associative Memory (BAM)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 63 | **Generalized Hopfield Network (GHN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 64 | **Fuzzy Logic & Reasoning (FLR)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 65 | **Fuzzy Reasoning System (FRS)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 66 | **Fuzzy Set Theory (FST)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 67 | **Fuzzy Set Operations (FSO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 68 | **Genetic Algorithm Optimization (GAO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 69 | **Genetic Algorithm Implementation (GAI)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 70 | **Genetic Algorithm Variant I (GAV-I)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 71 | **Genetic Algorithm Variant II (GAV-II)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 72 | **Binary to Decimal Conversion (B2D)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 73 | **Decimal to Binary Conversion (D2B)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 74 | **Project Management Software Evaluation** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
+| 75 | **Global Green Books Case Study** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
+| 76 | **E-KYC Platform Implementation** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
+| 77 | **Efficient Home Insulation (UN SDG)** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | — |
+| 78 | **VIP - Community Service Learning (ACWR)** | [Repository](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) | — |
 
 ---
 
