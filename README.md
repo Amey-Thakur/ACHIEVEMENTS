@@ -991,7 +991,7 @@
 | 3 | **Text Summarizer** | [Repository](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) | [YouTube](https://youtu.be/2drrqsSB1Bc) |
 | 4 | **Online Chess Game** | [Repository](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) | [YouTube](https://youtu.be/CCbrTQwYyE8) |
 | 5 | **K-Means Stock Trading** | [Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) | [YouTube](https://youtu.be/Q82a93hjxJE) |
-| 6 | **White-Box Cartoonization** | [Repository](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | — |
+| 6 | **White-Box Cartoonization** | [Repository](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) | [YouTube](https://youtu.be/8VNc8p6AKmw) |
 | 7 | **Digital Bookstore** | [Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | [YouTube](https://youtu.be/k6uY9-q_yXk) |
 | 8 | **Car Rental System** | [Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | [YouTube](https://youtu.be/y3u_e_w_z_k) |
 | 9 | **Chat Room** | [Repository](https://github.com/Amey-Thakur/CHAT-ROOM) | [YouTube](https://youtu.be/u8u_o_w_z_k) |
