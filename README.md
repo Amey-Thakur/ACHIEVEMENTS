@@ -967,9 +967,12 @@
 
 ### NVIDIA Deep Learning Institute
 
-  >[GETTING STARTED WITH AI ON JETSON](https://courses.nvidia.com/certificates/73f1ee6c6458478288ae4bdf31bfa276)
- 
-  >[GETTING STARTED WITH DEEPSTREAM FOR VIDEO ANALYTICS ON JETSON NANO](https://courses.nvidia.com/certificates/44a9bbf5b9e2451e97cdd66075aae9ff)
+#### NVIDIA Training
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Getting Started with AI on Jetson** | [Certificate](Nvidia%20Deep%20Learning%20Institute/NVIDIA%20GETTING%20STARTED%20WITH%20AI%20ON%20JETSON.pdf) |
+| 2 | **Getting Started with DeepStream for Video Analytics on Jetson Nano** | [Certificate](Nvidia%20Deep%20Learning%20Institute/NVIDIA%20GETTING%20STARTED%20WITH%20DEEPSTREAM%20FOR%20VIDEO%20ANALYTICS%20ON%20JETSON%20NANO.pdf) |
 
 ---
 
