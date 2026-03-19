@@ -257,13 +257,14 @@
 | 1 | **Dino 101: Dinosaur Paleobiology** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Alberta/Coursera%20Dino%20101%20Dinosaur%20Paleobiology.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VXM8JA9WL3F9) |
 | 2 | **Mountains 101** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Alberta/Coursera%20Mountains%20101.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JMKKTBNBDMZS) |
 
-**University of California Irvine**
 
-  >[Concurrency in Go](https://www.coursera.org/account/accomplishments/verify/43LG9BPBN9F4)
-  
-  >[Functions, Methods, and Interfaces in Go](https://www.coursera.org/account/accomplishments/verify/AEPU275WQWJD)
- 
-  >[Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ)
+#### University of California Irvine
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Concurrency in Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Concurrency%20in%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/43LG9BPBN9F4) |
+| 2 | **Functions, Methods, and Interfaces in Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AEPU275WQWJD) |
+| 3 | **Getting Started with Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Getting%20Started%20with%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ) |
 
 **University of California San Diego**
 
