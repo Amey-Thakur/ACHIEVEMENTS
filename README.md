@@ -1143,7 +1143,7 @@
 | **Published Article** | [DOI: 10.33564/IJEAST.2021.v06i02.037](http://dx.doi.org/10.33564/IJEAST.2021.v06i02.037) |
 | **Preprint (arXiv)** | [arXiv: 2108.04351](https://arxiv.org/abs/2108.04351) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353158066_Adversarial_Open_Domain_Adaption_Framework_AODA_Sketch-to-Photo_Synthesis) |
-| **Authors** | **Amey Thakur** |
+| **Authors** | **Amey Thakur**, Mega Satish |
 
 #### 2. A Comparative Study on Distributed File Systems
 
