@@ -11,7 +11,7 @@
  - **[Coursera](#coursera)**
  - **[Eduonix](#eduonix)**
  - **[Engineering](#engineering)**          ⟶ Throughout Courses
- - **[Experience](#experience)**          ⟶ Work Experience
+ - **[Experience](#professional-experience)**          ⟶ Work Experience
  - **[Google](#google)**
  - **[Harvard Medical School](#harvard-medical-school)**
  - **[IBM](#ibm)**
@@ -675,7 +675,7 @@
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 > [!TIP]
 > An archival record of applied engineering impact, technical internships, and virtual professional experiences completed across global finance, insurance, and research sectors. Each registry entry is mapped to its dedicated technical project and cloud-hosted verification for scholarly reference.
