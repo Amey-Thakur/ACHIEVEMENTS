@@ -1381,13 +1381,12 @@
 
 ### Terna Engineering College
 
-  >[Entrepreneurship Awareness Drive](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Entrepreneurship%20Awareness%20Drive.pdf)
-  
-  >[Git and Github Workshop](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf)
-  
-  >[Mindful Gurukul](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Mindful%20Gurukul.pdf)
-  
-  >[Project Planning Management with Microsoft Project](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Project%20Planning%20Management%20with%20Microsoft%20Project.pdf)
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Entrepreneurship Awareness Drive** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Entrepreneurship%20Awareness%20Drive.pdf) |
+| 2 | **Git and Github Workshop** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Git%20and%20Github%20Workshop.pdf) |
+| 3 | **Mindful Gurukul** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Mindful%20Gurukul.pdf) |
+| 4 | **Project Planning Management with Microsoft Project** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Terna%20Engineering%20College/Project%20Planning%20Management%20with%20Microsoft%20Project.pdf) |
 
 ---
 
