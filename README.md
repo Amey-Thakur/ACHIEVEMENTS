@@ -1364,10 +1364,10 @@
 
 ### Stanford University School of Medicine
 
-| # | Topic | Accreditation | Certification |
-| :---: | :--- | :--- | :---: |
-| 1 | **Dementia and Diversity in Primary Care: A Primer** | ACCME® \| 1.50 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
-| 2 | **Identifying Early Signs of Psychosis** | ACCME® \| 2.00 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Dementia and Diversity in Primary Care: A Primer** <br> Accredited by ACCME® \| 1.50 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
+| 2 | **Identifying Early Signs of Psychosis in Adolescents and Young Adults** <br> Accredited by ACCME® \| 2.00 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
 
 ---
 
