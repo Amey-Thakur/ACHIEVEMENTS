@@ -669,9 +669,9 @@
 
 | Category | Resource Title | Repository |
 |:---------|:---------------|:----------:|
-| **International Support** | **International Student Centre** | [Open Repo](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) |
-| **Academic Advising** | **Engineering International Student Advising** | [Open Repo](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) |
-| **Academic Skills** | **Writing Support** | [Open Repo](https://github.com/Amey-Thakur/WRITING-SUPPORT) |
+| **International Support** | **International Student Centre** | [Open](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) |
+| **Academic Advising** | **Engineering International Student Advising** | [Open](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) |
+| **Academic Skills** | **Writing Support** | [Open](https://github.com/Amey-Thakur/WRITING-SUPPORT) |
 
 ---
 
