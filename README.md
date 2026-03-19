@@ -266,19 +266,17 @@
 | 2 | **Functions, Methods, and Interfaces in Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AEPU275WQWJD) |
 | 3 | **Getting Started with Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Getting%20Started%20with%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ) |
 
-**University of California San Diego**
 
-  >[Big Data Integration and Processing](https://www.coursera.org/account/accomplishments/verify/XHFE9R2V9KM5)
-  
-  >[Big Data Modeling and Management Systems](https://www.coursera.org/account/accomplishments/verify/F8J58PWD9L2D)
- 
-  >[Graph Analytics for Big Data](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA)
+#### University of California San Diego
 
-  >[Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/KKFRGBLN4FBQ)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Introduction to Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Introduction%20to%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KKFRGBLN4FBQ) |
+| 2 | **Big Data Modeling and Management Systems** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Big%20Data%20Modeling%20and%20Management%20Systems.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/F8J58PWD9L2D) |
+| 3 | **Big Data Integration and Processing** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Big%20Data%20Integration%20and%20Processing.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XHFE9R2V9KM5) |
+| 4 | **Machine Learning With Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Machine%20Learning%20With%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XQKZ8RHAH9Q6) |
+| 5 | **Graph Analytics for Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Graph%20Analytics%20for%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA) |
 
-  >[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37)
-
-  >[Machine Learning With Big Data](https://www.coursera.org/account/accomplishments/verify/XQKZ8RHAH9Q6)
 
 **University of California, Irvine Division of Continuing Education**
 
