@@ -1321,51 +1321,44 @@
 
 ---
 
-### Sports
+### Sports & Athletic Achievements
 
-**Badminton Camp**
+#### 🏸 Badminton
+| # | Event | Achievement | Artifact |
+| :---: | :--- | :---: | :---: |
+| 1 | **Badminton Summer Camp** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf) |
 
-  >[Badminton Summer Camp](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf)
+#### 🏀 Basketball & Team Sports
+| # | Event | Achievement | Artifact |
+| :---: | :--- | :---: | :---: |
+| 1 | **Billabong High Interschool** | Team SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20Interschool%20Basketball%20Tournament.pdf) |
+| 2 | **Eureka 3X Basketball** | Team SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2014%20Eureka%203X%20Basketball.pdf) |
+| 3 | **Saraswati Handball** | 1st Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2014%208th%20C%20Handball.pdf) |
+| 4 | **Saraswati Volleyball** | 1st Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2014%208th%20C%20Volleyball.pdf) |
+| 5 | **Saraswati Volleyball (2015)** | 2nd Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2015%209th%20D%20Volleyball.pdf) |
+| 6 | **Rink Football** | TEAM SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf) |
+| 7 | **SFA Mumbai 2015** | 3rd Place | [Bronze Medal](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) |
 
-**EUREKA FEST**
+#### 📺 Athletic Demonstrations (SFA Mumbai)
+| # | Matchup | Coverage | Portal |
+| :---: | :--- | :---: | :---: |
+| 1 | **Saraswati vs S.V.K.M.C.N.M** | U16 R1 | [YouTube Video](https://www.youtube.com/watch?v=wn2XlUVHnP4) |
+| 2 | **Saraswati vs Podar Khar** | U16 Boys | [YouTube Video](https://www.youtube.com/watch?v=_vIuCSwDCVQ) |
+| 3 | **P.G Garodia vs Saraswati** | Semi-Final | [YouTube Video](https://www.youtube.com/watch?v=MzYH0ijp_2o) |
+| 4 | **Saraswati vs Amolakh Amichand** | 3rd Place | [YouTube Video](https://www.youtube.com/watch?v=J8T7OOXbEY4) |
 
-  >[Code Master](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Code%20Master.pdf)
+#### 🛼 Skating
+| # | Event | Achievement | Artifact |
+| :---: | :--- | :---: | :---: |
+| 1 | **IIIRD SKATE INDIA** | District Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) |
+| 2 | **Aryan Roller Skating** | Rank 1 & 2 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) |
+| 3 | **District Skating (2014)** | 2nd Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) |
+| 4 | **SKATE INDIA (2013)** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) |
 
-  >[Eureka 3X Basketball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2014%20Eureka%203X%20Basketball.pdf) | TEAM SKS
-
-  >[Rink Football](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf)
-
-**Interschool Basketball 🏀 Tournament**
-
-  >[Billabong High International School - Interschool Basketball Tournament](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20Interschool%20Basketball%20Tournament.pdf) | TEAM SKS
-
-**Saraswati Secondary School**
-
-  >[Handball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2014%208th%20C%20Handball.pdf) | 1ST PLACE | WINNER
-
-  >[Volleyball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2014%208th%20C%20Volleyball.pdf) | 1ST PLACE | WINNER
-
-  >[Volleyball](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Saraswati%20Secondary%20School/2015%209th%20D%20Volleyball.pdf) | 2ND PLACE | WINNER
-
-**SPORTS FOR ALL MUMBAI**
-
-  >SFA | [3RD PLACE](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) | WON BRONZE MEDAL
-
-  - [SFA Mumbai 2015 | Basketball | Saraswati Secondary School Vs S.V.K.M.C.N.M School | Boys | U16 | R1](https://www.youtube.com/watch?v=wn2XlUVHnP4)
-  - [SFA Mumbai 2015 | Basketball | Saraswati vs Podar Khar | U16 | Boys](https://www.youtube.com/watch?v=_vIuCSwDCVQ)
-  - [SFA Mumbai 2015 | Basketball | P.G Garodia Vs Saraswati Secondary School | Boys | U16 | Semi Final](https://www.youtube.com/watch?v=MzYH0ijp_2o)
-  - [SFA Mumbai 2015 | Basketball | Saraswati Vs Amolakh Amichand | U16 | Boys | Third Place](https://www.youtube.com/watch?v=J8T7OOXbEY4)
-
-**Skating**
-
-  >[IIIRD SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) | District Level Skating Competition | FINISHER
-
-  >[Aryan Roller Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) | RANK 1 | RANK 2 | QUAD: IMPORTED | FINISHER
-
-  >[District Level Skating Competition](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) | 2ND PLACE | WINNER 
-
-  >[SKATE INDIA](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) | FINISHER 
-
+#### ⚙️ Technical Sports & Gaming
+| # | Event | Achievement | Artifact |
+| :---: | :--- | :---: | :---: |
+| 1 | **Eureka Fest: Code Master** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Code%20Master.pdf) |
 ---
 
 ### Stanford University School of Medicine
