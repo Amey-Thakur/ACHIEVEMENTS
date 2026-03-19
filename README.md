@@ -957,7 +957,11 @@
 
 ### Microsoft
 
-  >[Microsoft AI Classroom Series](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Microsoft/Microsoft%20AI%20Classroom%20Series.pdf)
+#### Microsoft Training
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Microsoft AI Classroom Series** | [Certificate](Microsoft/Microsoft%20AI%20Classroom%20Series.pdf) |
 
 ---
 
