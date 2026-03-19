@@ -737,7 +737,7 @@
 |:-----|:----------------:|:------------:|
 | **Data Analytics Program** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_JtA9vXwzt8JuiqQpt_1627153479459_completion_certificate.pdf) |
 
-<a href="Experience/Teach For Australia/"><img height="100" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-logo.jpg"></a>
+<a href="Experience/Teach For Australia/"><img height="100" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-premium-logo.png"></a>
 **Teach For Australia**
 
 | Role | Project / Links | Verification |
