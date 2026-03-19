@@ -296,16 +296,17 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Building Fintech Startups in Emerging Markets** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Cape%20Town/Coursera%20Building%20Fintech%20Startups%20in%20Emerging%20Markets.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7) |
 
-**University of Colorado Boulder**
 
-  >[Newborn Baby Care](https://www.coursera.org/account/accomplishments/specialization/AY7NSCZ3KN8Z) Specialization
+#### University of Colorado Boulder
 
-  - [Preventative Healthcare for the Newborn Baby](https://www.coursera.org/account/accomplishments/verify/SAU2MT3VGNRJ)
-  - [The Newborn Assessment](https://www.coursera.org/account/accomplishments/verify/BELUKHPP3V28)
-  - [Guidance to Keep Newborn Babies Safe and Healthy](https://www.coursera.org/account/accomplishments/verify/3DS5KKDRTYYJ)
-  - [Supporting Parents of a Newborn Baby](https://www.coursera.org/account/accomplishments/verify/GJA4E5FMYYQM)
-
-  >[Science of Exercise](https://www.coursera.org/account/accomplishments/verify/AL6263EX5L7M)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| - | **Newborn Baby Care Specialization** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Newborn%20Baby%20Care.pdf) | [Verify](https://www.coursera.org/account/accomplishments/specialization/AY7NSCZ3KN8Z) |
+| 1 | **Preventative Healthcare for the Newborn Baby** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Preventative%20Healthcare%20for%20the%20Newborn%20Baby.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/SAU2MT3VGNRJ) |
+| 2 | **The Newborn Assessment** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20The%20Newborn%20Assessment.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BELUKHPP3V28) |
+| 3 | **Guidance to Keep Newborn Babies Safe and Healthy** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Guidance%20to%20Keep%20Newborn%20Babies%20Safe%20and%20Healthy.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/3DS5KKDRTYYJ) |
+| 4 | **Supporting Parents of a Newborn Baby** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Supporting%20Parents%20of%20a%20Newborn%20Baby.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GJA4E5FMYYQM) |
+| 5 | **Science of Exercise** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Science%20of%20Exercise.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AL6263EX5L7M) |
 
 **University of Florida**
 
