@@ -1031,7 +1031,7 @@
 | 43 | **Flappy Bird** | [Repository](https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME) | — |
 | 44 | **Pong Game** | [Repository](https://github.com/Amey-Thakur/PONG-GAME) | — |
 | 45 | **Android Studio Flashlight** | [Repository](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT-APP) | [YouTube](https://youtu.be/83z8sHEzDC0) |
-| 46 | **Android Studio Calculator** | [Repository](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR) | — |
+| 46 | **Android Studio Calculator** | [Repository](https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR) | [YouTube](https://youtu.be/g0uc8xAfdFk) |
 | 47 | **Search Space Explore Extent** | [Repository](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT) | — |
 | 48 | **Lunar Design Studio** | [Repository](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO) | — |
 | 49 | **Achievements** | [Repository](https://github.com/Amey-Thakur/ACHIEVEMENTS) | — |
