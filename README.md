@@ -388,92 +388,95 @@
   
 ---
 
+
 ### Eduonix
 
-  - [3D Visualization in R - Step by Step eGuide for Beginners](https://www.eduonix.com/certificate/3f158657d9)
-  - [A Complete Guide For Effective Business Communication](https://www.eduonix.com/certificate/86f95fbb9f)
-  - [Advance JavaScript for Coders Learn OOP in JavaScript](https://www.eduonix.com/certificate/d4b5aef8e6)
-  - [Algorithms and Software Engineering for Professionals](https://www.eduonix.com/certificate/c98cab0852)
-  - [Be A White Hat Hacker and Pen Tester](https://www.eduonix.com/certificate/ebf4567d1f)
-  - [Become A Certified Web Developer From Scratch](https://www.eduonix.com/certificate/89f12df796)
-  - [Become A Copywriter Pro from Ground Up](https://www.eduonix.com/certificate/425351749f)
-  - [Become A Digital Marketing Maestro From Scratch](https://www.eduonix.com/certificate/0f1707f3df)
-  - [Beginners Guide to Modeling with Maya](https://www.eduonix.com/certificate/576b4b7f7d)
-  - [Build A Board Game Predictor Using Machine Learning](https://www.eduonix.com/certificate/466e630e7a)
-  - [Build A Video Gallery WordPress Plugin](https://www.eduonix.com/certificate/b94c39e580)
-  - [CCNA Routing and Switching - The Easy Certification Guide](https://www.eduonix.com/certificate/183a94f477)
-  - [COVID-19 Know Everything About Novel Coronavirus Outbreak](https://www.eduonix.com/certificate/feb6990771)
-  - [Complete Beginners Course to Master Microsoft Excel](https://www.eduonix.com/certificate/cbc08e533f)
-  - [Complete eGuide to GGplot2 Learn How to Create Dynamic Maps](https://www.eduonix.com/certificate/7229d8998f)
-  - [Continuous integration with Jenkins](https://www.eduonix.com/certificate/f922c9a7b8)
-  - [Create a jQuery Mobile App](https://www.eduonix.com/certificate/ae40344e67)
-  - [Create and Sell Online Courses in Website with WordPress LMS - Learning management system](https://www.eduonix.com/certificate/e549cf6cb5)
-  - [Data Wrangling and Data Visualization in R - Short eGuide](https://www.eduonix.com/certificate/5df424ff38)
-  - [Design a Portfolio Gallery using jQuery](https://www.eduonix.com/certificate/5a53a1b078)
-  - [Google Remarketing: Learn To Retarget Your Customers](https://www.eduonix.com/certificate/2c7ddc8f43)
-  - [Interview Preparation Guide for Social Media Marketing](https://www.eduonix.com/certificate/811979785f)
-  - [Learn Adobe Illustrator Course From Scratch](https://www.eduonix.com/certificate/4384788684)
-  - [Learn Apache Cassandra from Scratch](https://www.eduonix.com/certificate/1d5a51daaf)
-  - [Learn Bootstrap Development By Building 10 Projects](https://www.eduonix.com/certificate/ac671225dc)
-  - [Learn C Sharp Programming From Scratch](https://www.eduonix.com/certificate/e9436f5e9a)
-  - [Learn Database Design using PostgreSQL](https://www.eduonix.com/certificate/7b0ea545ba)
-  - [Learn Django and Python Development By Building Projects](https://www.eduonix.com/certificate/f1abdc6dad)
-  - [Learn HTML and CSS3 by making pricing tables with SASS](https://www.eduonix.com/certificate/90cb768f91)
-  - [Learn HTML and CSS3 with an animated bootstrap template](https://www.eduonix.com/certificate/74fafff83e)
-  - [Learn HTML5 Mobile Todo App](https://www.eduonix.com/certificate/7d73383d43)
-  - [Learn HTML5 Quiz Application](https://www.eduonix.com/certificate/0cae55e157)
-  - [Learn How To Optimize Your Google My Business Page In 2018](https://www.eduonix.com/certificate/65c81e7aea)
-  - [Learn How to Build Ecommerce Website From Scratch](https://www.eduonix.com/certificate/4e3c342c9d)
-  - [Learn How to Build a Game Using Java](https://www.eduonix.com/certificate/cefaab9b80)
-  - [Learn How to Create a TextEditor with Java](https://www.eduonix.com/certificate/26da0dd9cd)
-  - [Learn JQuery by making a Tic Tac Toe Game](https://www.eduonix.com/certificate/9a7d17973c)
-  - [Learn JavaScript By Building a Simple Quiz](https://www.eduonix.com/certificate/90bdcd0534)
-  - [Learn Javascript And JQuery From Scratch](https://www.eduonix.com/certificate/b233ad3902)
-  - [Learn MEAN Stack By Building A ToDo App](https://www.eduonix.com/certificate/f275d718f1)
-  - [Learn NoSQL Database Design With CouchDB](https://www.eduonix.com/certificate/bf556676be)
-  - [Learn Object Oriented PHP By Building a Complete Website](https://www.eduonix.com/certificate/5ed2aa32dd)
-  - [Learn Projects In JavaScript And JQuery](https://www.eduonix.com/certificate/3ac168b6d5)
-  - [Learn Python programming From Scratch](https://www.eduonix.com/certificate/7447af391c)
-  - [Learn Redis from Scratch](https://www.eduonix.com/certificate/b472f31b8b)
-  - [Learn Socket Programming Tutorial in C from Scratch](https://www.eduonix.com/certificate/892b98ce14)
-  - [Learn To Build A Financial App in iOS](https://www.eduonix.com/certificate/78c37a357e)
-  - [Learn To Build A Google Map App Using Angular 2](https://www.eduonix.com/certificate/e07ebe9e04)
-  - [Learn To Build A User Login System Using NodeJS](https://www.eduonix.com/certificate/4ed0002586)
-  - [Learn To Build Microservices Driven Apps](https://www.eduonix.com/certificate/fa80cf0235)
-  - [Learn To Build WordPress Plugins By Creating A Movie Plugin](https://www.eduonix.com/certificate/27992ee2df)
-  - [Learn To Build Your First Professional iOS App](https://www.eduonix.com/certificate/24091f87a2)
-  - [Learn To Build a WordPress Theme for Corporate Websites](https://www.eduonix.com/certificate/b60e51ed9b)
-  - [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/certificate/151e2e45b2)
-  - [Learn how to make a pure CSS3 image Slider](https://www.eduonix.com/certificate/2ba67f9251)
-  - [Learn iOS Programming Building a To-Do Utility App](https://www.eduonix.com/certificate/bbba58568a)
-  - [Learn jQuery Ajax and PHP by creating a Shoutbox application](https://www.eduonix.com/certificate/3670b2229d)
-  - [Learn jQuery and JavaScript by creating an apple style thumb Slider](https://www.eduonix.com/certificate/7df41cb551)
-  - [Learn jQuery by making a Content Slider](https://www.eduonix.com/certificate/789dbefb9f)
-  - [Learn jQuery by making a complete jQuery Plugin](https://www.eduonix.com/certificate/33df73ff71)
-  - [Learn the Basics of C Programming Language](https://www.eduonix.com/certificate/794ff1eec4)
-  - [Learn to Build Apps Using Neo4J](https://www.eduonix.com/certificate/ec34bfc091)
-  - [Learn to Build Mobile Games using Unity3D](https://www.eduonix.com/certificate/0e939111f1)
-  - [Learn to Build a Shopping Cart using NodeJS](https://www.eduonix.com/certificate/91084fbcac)
-  - [Learn to build an Auth0 App using Angular 2](https://www.eduonix.com/certificate/d8cde11c20)
-  - [Learn to create a jQuery Accordion Slider](https://www.eduonix.com/certificate/a650ae82f7)
-  - [Learn to create an HTML5 and CSS3 transition dropdown menu](https://www.eduonix.com/certificate/f23840c51b)
-  - [Learn to design a CSS3 timeline](https://www.eduonix.com/certificate/c7171f8905)
-  - [Learn to design an animated car using HTML and CSS3](https://www.eduonix.com/certificate/c1ed17c29d)
-  - [Learn to make a functional CSS3 image gallery](https://www.eduonix.com/certificate/b5024ef655)
-  - [Linux For Absolute Beginners](https://www.eduonix.com/certificate/d633515a2c)
-  - [Logo Design Course for Beginners](https://www.eduonix.com/certificate/9a466c9afc)
-  - [Quick and Easy Guide to Microsoft Word](https://www.eduonix.com/certificate/aea4e4a553)
-  - [Quick eGuide to Learn Exploratory Data Analysis in R](https://www.eduonix.com/certificate/31e5c82352)
-  - [Reactjs Interview Practice Guide](https://www.eduonix.com/certificate/3b5de72b7f)
-  - [Running webinars on a shoestring](https://www.eduonix.com/certificate/f8f3811208)
-  - [The Complete Guide To CompTIA A+ Certification](https://www.eduonix.com/certificate/9a1cbc46cc)
-  - [The Developers Guide to Python 3 Programming](https://www.eduonix.com/certificate/517565d9b6)
-  - [The Ultimate Guide to RHCSA Certification Exam](https://www.eduonix.com/certificate/42eb935254)
-  - [Ultimate Java Development and Certification Cours](https://www.eduonix.com/certificate/ab101c57cf)
-  - [WordPress Plugin Development - Build A Facebook Footer Link](https://www.eduonix.com/certificate/528674af69)
-  - [Youtube An Advance Guide For A Successful Youtube Channel](https://www.eduonix.com/certificate/aca055a6ac)
-  - [Youtube Beginners Guide To A Successful Channel](https://www.eduonix.com/certificate/4fe415d16c)
-  - [eGuide to Create Dynamic Maps using R Programming](https://www.eduonix.com/certificate/12e0adab0e)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **3D Visualization in R - Step by Step eGuide for Beginners** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%203D%20Visualization%20in%20R%20-%20Step%20by%20Step%20eGuide%20for%20Beginners.pdf) | [Verify](https://www.eduonix.com/certificate/3f158657d9) |
+| 2 | **A Complete Guide For Effective Business Communication** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20A%20Complete%20Guide%20For%20Effective%20Business%20Communication.pdf) | [Verify](https://www.eduonix.com/certificate/86f95fbb9f) |
+| 3 | **Advance JavaScript for Coders Learn OOP in JavaScript** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Advance%20JavaScript%20for%20Coders%20Learn%20OOP%20in%20JavaScript.pdf) | [Verify](https://www.eduonix.com/certificate/d4b5aef8e6) |
+| 4 | **Algorithms and Software Engineering for Professionals** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Algorithms%20and%20Software%20Engineering%20for%20Professionals.pdf) | [Verify](https://www.eduonix.com/certificate/c98cab0852) |
+| 5 | **Be A White Hat Hacker and Pen Tester** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Be%20A%20White%20Hat%20Hacker%20and%20Pen%20Tester.pdf) | [Verify](https://www.eduonix.com/certificate/ebf4567d1f) |
+| 6 | **Become A Certified Web Developer From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Become%20A%20Certified%20Web%20Developer%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/89f12df796) |
+| 7 | **Become A Copywriter Pro from Ground Up** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Become%20A%20Copywriter%20Pro%20from%20Ground%20Up.pdf) | [Verify](https://www.eduonix.com/certificate/425351749f) |
+| 8 | **Become A Digital Marketing Maestro From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Become%20A%20Digital%20Marketing%20Maestro%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/0f1707f3df) |
+| 9 | **Beginners Guide to Modeling with Maya** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Beginners%20Guide%20to%20Modeling%20with%20Maya.pdf) | [Verify](https://www.eduonix.com/certificate/576b4b7f7d) |
+| 10 | **Build A Board Game Predictor Using Machine Learning** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Build%20A%20Board%20Game%20Predictor%20Using%20Machine%20Learning.pdf) | [Verify](https://www.eduonix.com/certificate/466e630e7a) |
+| 11 | **Build A Video Gallery WordPress Plugin** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Build%20A%20Video%20Gallery%20WordPress%20Plugin.pdf) | [Verify](https://www.eduonix.com/certificate/b94c39e580) |
+| 12 | **CCNA Routing and Switching - The Easy Certification Guide** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20CCNA%20Routing%20and%20Switching%20-%20The%20Easy%20Certification%20Guide.pdf) | [Verify](https://www.eduonix.com/certificate/183a94f477) |
+| 13 | **COVID-19 Know Everything About Novel Coronavirus Outbreak** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20COVID-19%20Know%20Everything%20About%20Novel%20Coronavirus%20Outbreak.pdf) | [Verify](https://www.eduonix.com/certificate/feb6990771) |
+| 14 | **Complete Beginners Course to Master Microsoft Excel** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Complete%20Beginners%20Course%20to%20Master%20Microsoft%20Excel.pdf) | [Verify](https://www.eduonix.com/certificate/cbc08e533f) |
+| 15 | **Complete eGuide to GGplot2 Learn How to Create Dynamic Maps** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Complete%20eGuide%20to%20GGplot2%20Learn%20How%20to%20Create%20Dynamic%20Maps.pdf) | [Verify](https://www.eduonix.com/certificate/7229d8998f) |
+| 16 | **Continuous integration with Jenkins** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Continuous%20integration%20with%20Jenkins.pdf) | [Verify](https://www.eduonix.com/certificate/f922c9a7b8) |
+| 17 | **Create a jQuery Mobile App** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Create%20a%20jQuery%20Mobile%20App.pdf) | [Verify](https://www.eduonix.com/certificate/ae40344e67) |
+| 18 | **Create and Sell Online Courses in Website with WordPress LMS - Learning management system** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Create%20and%20Sell%20Online%20Courses%20in%20Website%20with%20WordPress%20LMS%20-%20Learning%20management%20system.pdf) | [Verify](https://www.eduonix.com/certificate/e549cf6cb5) |
+| 19 | **Data Wrangling and Data Visualization in R - Short eGuide** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Data%20Wrangling%20and%20Data%20Visualization%20in%20R%20-%20Short%20eGuide.pdf) | [Verify](https://www.eduonix.com/certificate/5df424ff38) |
+| 20 | **Design a Portfolio Gallery using jQuery** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Design%20a%20Portfolio%20Gallery%20using%20jQuery.pdf) | [Verify](https://www.eduonix.com/certificate/5a53a1b078) |
+| 21 | **Google Remarketing: Learn To Retarget Your Customers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Google%20Remarketing%20Learn%20To%20Retarget%20Your%20Customers.pdf) | [Verify](https://www.eduonix.com/certificate/2c7ddc8f43) |
+| 22 | **Interview Preparation Guide for Social Media Marketing** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Interview%20Preparation%20Guide%20for%20Social%20Media%20Marketing.pdf) | [Verify](https://www.eduonix.com/certificate/811979785f) |
+| 23 | **Learn Adobe Illustrator Course From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Adobe%20Illustrator%20Course%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/4384788684) |
+| 24 | **Learn Apache Cassandra from Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Apache%20Cassandra%20from%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/1d5a51daaf) |
+| 25 | **Learn Bootstrap Development By Building 10 Projects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Bootstrap%20Development%20By%20Building%2010%20Projects.pdf) | [Verify](https://www.eduonix.com/certificate/ac671225dc) |
+| 26 | **Learn C Sharp Programming From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20C%20Sharp%20Programming%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/e9436f5e9a) |
+| 27 | **Learn Database Design using PostgreSQL** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Database%20Design%20using%20PostgreSQL.pdf) | [Verify](https://www.eduonix.com/certificate/7b0ea545ba) |
+| 28 | **Learn Django and Python Development By Building Projects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Django%20and%20Python%20Development%20By%20Building%20Projects.pdf) | [Verify](https://www.eduonix.com/certificate/f1abdc6dad) |
+| 29 | **Learn HTML and CSS3 by making pricing tables with SASS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20HTML%20and%20CSS3%20by%20making%20pricing%20tables%20with%20SASS.pdf) | [Verify](https://www.eduonix.com/certificate/90cb768f91) |
+| 30 | **Learn HTML and CSS3 with an animated bootstrap template** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20HTML%20and%20CSS3%20with%20an%20animated%20bootstrap%20template.pdf) | [Verify](https://www.eduonix.com/certificate/74fafff83e) |
+| 31 | **Learn HTML5 Mobile Todo App** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20HTML5%20Mobile%20Todo%20App.pdf) | [Verify](https://www.eduonix.com/certificate/7d73383d43) |
+| 32 | **Learn HTML5 Quiz Application** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20HTML5%20Quiz%20Application.pdf) | [Verify](https://www.eduonix.com/certificate/0cae55e157) |
+| 33 | **Learn How To Optimize Your Google My Business Page In 2018** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20How%20To%20Optimize%20Your%20Google%20My%20Business%20Page%20In%202018.pdf) | [Verify](https://www.eduonix.com/certificate/65c81e7aea) |
+| 34 | **Learn How to Build Ecommerce Website From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20How%20to%20Build%20Ecommerce%20Website%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/4e3c342c9d) |
+| 35 | **Learn How to Build a Game Using Java** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20How%20to%20Build%20a%20Game%20Using%20Java.pdf) | [Verify](https://www.eduonix.com/certificate/cefaab9b80) |
+| 36 | **Learn How to Create a TextEditor with Java** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20How%20to%20Create%20a%20TextEditor%20with%20Java.pdf) | [Verify](https://www.eduonix.com/certificate/26da0dd9cd) |
+| 37 | **Learn JQuery by making a Tic Tac Toe Game** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20JQuery%20by%20making%20a%20Tic%20Tac%20Toe%20Game.pdf) | [Verify](https://www.eduonix.com/certificate/9a7d17973c) |
+| 38 | **Learn JavaScript By Building a Simple Quiz** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20JavaScript%20By%20Building%20a%20Simple%20Quiz.pdf) | [Verify](https://www.eduonix.com/certificate/90bdcd0534) |
+| 39 | **Learn Javascript And JQuery From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Javascript%20And%20JQuery%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/b233ad3902) |
+| 40 | **Learn MEAN Stack By Building A ToDo App** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20MEAN%20Stack%20By%20Building%20A%20ToDo%20App.pdf) | [Verify](https://www.eduonix.com/certificate/f275d718f1) |
+| 41 | **Learn NoSQL Database Design With CouchDB** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20NoSQL%20Database%20Design%20With%20CouchDB.pdf) | [Verify](https://www.eduonix.com/certificate/bf556676be) |
+| 42 | **Learn Object Oriented PHP By Building a Complete Website** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Object%20Oriented%20PHP%20By%20Building%20a%20Complete%20Website.pdf) | [Verify](https://www.eduonix.com/certificate/5ed2aa32dd) |
+| 43 | **Learn Projects In JavaScript And JQuery** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Projects%20In%20JavaScript%20And%20JQuery.pdf) | [Verify](https://www.eduonix.com/certificate/3ac168b6d5) |
+| 44 | **Learn Python programming From Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Python%20programming%20From%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/7447af391c) |
+| 45 | **Learn Redis from Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Redis%20from%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/b472f31b8b) |
+| 46 | **Learn Socket Programming Tutorial in C from Scratch** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Socket%20Programming%20Tutorial%20in%20C%20from%20Scratch.pdf) | [Verify](https://www.eduonix.com/certificate/892b98ce14) |
+| 47 | **Learn To Build A Financial App in iOS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20A%20Financial%20App%20in%20iOS.pdf) | [Verify](https://www.eduonix.com/certificate/78c37a357e) |
+| 48 | **Learn To Build A Google Map App Using Angular 2** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20A%20Google%20Map%20App%20Using%20Angular%202.pdf) | [Verify](https://www.eduonix.com/certificate/e07ebe9e04) |
+| 49 | **Learn To Build A User Login System Using NodeJS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20A%20User%20Login%20System%20Using%20NodeJS.pdf) | [Verify](https://www.eduonix.com/certificate/4ed0002586) |
+| 50 | **Learn To Build Microservices Driven Apps** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20Microservices%20Driven%20Apps.pdf) | [Verify](https://www.eduonix.com/certificate/fa80cf0235) |
+| 51 | **Learn To Build WordPress Plugins By Creating A Movie Plugin** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20WordPress%20Plugins%20By%20Creating%20A%20Movie%20Plugin.pdf) | [Verify](https://www.eduonix.com/certificate/27992ee2df) |
+| 52 | **Learn To Build Your First Professional iOS App** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20Your%20First%20Professional%20iOS%20App.pdf) | [Verify](https://www.eduonix.com/certificate/24091f87a2) |
+| 53 | **Learn To Build a WordPress Theme for Corporate Websites** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20To%20Build%20a%20WordPress%20Theme%20for%20Corporate%20Websites.pdf) | [Verify](https://www.eduonix.com/certificate/b60e51ed9b) |
+| 54 | **Learn Top Ten Frameworks In PHP By Building Projects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20Top%20Ten%20Frameworks%20In%20PHP%20By%20Building%20Projects.pdf) | [Verify](https://www.eduonix.com/certificate/151e2e45b2) |
+| 55 | **Learn how to make a pure CSS3 image Slider** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20how%20to%20make%20a%20pure%20CSS3%20image%20Slider.pdf) | [Verify](https://www.eduonix.com/certificate/2ba67f9251) |
+| 56 | **Learn iOS Programming Building a To-Do Utility App** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20iOS%20Programming%20Building%20a%20To-Do%20Utility%20App.pdf) | [Verify](https://www.eduonix.com/certificate/bbba58568a) |
+| 57 | **Learn jQuery Ajax and PHP by creating a Shoutbox application** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20jQuery%20Ajax%20and%20PHP%20by%20creating%20a%20Shoutbox%20application.pdf) | [Verify](https://www.eduonix.com/certificate/3670b2229d) |
+| 58 | **Learn jQuery and JavaScript by creating an apple style thumb Slider** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20jQuery%20and%20JavaScript%20by%20creating%20an%20apple%20style%20thumb%20Slider.pdf) | [Verify](https://www.eduonix.com/certificate/7df41cb551) |
+| 59 | **Learn jQuery by making a Content Slider** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20jQuery%20by%20making%20a%20Content%20Slider.pdf) | [Verify](https://www.eduonix.com/certificate/789dbefb9f) |
+| 60 | **Learn jQuery by making a complete jQuery Plugin** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20jQuery%20by%20making%20a%20complete%20jQuery%20Plugin.pdf) | [Verify](https://www.eduonix.com/certificate/33df73ff71) |
+| 61 | **Learn the Basics of C Programming Language** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20the%20Basics%20of%20C%20Programming%20Language.pdf) | [Verify](https://www.eduonix.com/certificate/794ff1eec4) |
+| 62 | **Learn to Build Apps Using Neo4J** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20Build%20Apps%20Using%20Neo4J.pdf) | [Verify](https://www.eduonix.com/certificate/ec34bfc091) |
+| 63 | **Learn to Build Mobile Games using Unity3D** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20Build%20Mobile%20Games%20using%20Unity3D.pdf) | [Verify](https://www.eduonix.com/certificate/0e939111f1) |
+| 64 | **Learn to Build a Shopping Cart using NodeJS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20Build%20a%20Shopping%20Cart%20using%20NodeJS.pdf) | [Verify](https://www.eduonix.com/certificate/91084fbcac) |
+| 65 | **Learn to build an Auth0 App using Angular 2** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20build%20an%20Auth0%20App%20using%20Angular%202.pdf) | [Verify](https://www.eduonix.com/certificate/d8cde11c20) |
+| 66 | **Learn to create a jQuery Accordion Slider** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20create%20a%20jQuery%20Accordion%20Slider.pdf) | [Verify](https://www.eduonix.com/certificate/a650ae82f7) |
+| 67 | **Learn to create an HTML5 and CSS3 transition dropdown menu** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20create%20an%20HTML5%20and%20CSS3%20transition%20dropdown%20menu.pdf) | [Verify](https://www.eduonix.com/certificate/f23840c51b) |
+| 68 | **Learn to design a CSS3 timeline** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20design%20a%20CSS3%20timeline.pdf) | [Verify](https://www.eduonix.com/certificate/c7171f8905) |
+| 69 | **Learn to design an animated car using HTML and CSS3** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20design%20an%20animated%20car%20using%20HTML%20and%20CSS3.pdf) | [Verify](https://www.eduonix.com/certificate/c1ed17c29d) |
+| 70 | **Learn to make a functional CSS3 image gallery** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Learn%20to%20make%20a%20functional%20CSS3%20image%20gallery.pdf) | [Verify](https://www.eduonix.com/certificate/b5024ef655) |
+| 71 | **Linux For Absolute Beginners** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Linux%20For%20Absolute%20Beginners.pdf) | [Verify](https://www.eduonix.com/certificate/d633515a2c) |
+| 72 | **Logo Design Course for Beginners** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Logo%20Design%20Course%20for%20Beginners.pdf) | [Verify](https://www.eduonix.com/certificate/9a466c9afc) |
+| 73 | **Quick and Easy Guide to Microsoft Word** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Quick%20and%20Easy%20Guide%20to%20Microsoft%20Word.pdf) | [Verify](https://www.eduonix.com/certificate/aea4e4a553) |
+| 74 | **Quick eGuide to Learn Exploratory Data Analysis in R** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Quick%20eGuide%20to%20Learn%20Exploratory%20Data%20Analysis%20in%20R.pdf) | [Verify](https://www.eduonix.com/certificate/31e5c82352) |
+| 75 | **Reactjs Interview Practice Guide** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Reactjs%20Interview%20Practice%20Guide.pdf) | [Verify](https://www.eduonix.com/certificate/3b5de72b7f) |
+| 76 | **Running webinars on a shoestring** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Running%20webinars%20on%20a%20shoestring.pdf) | [Verify](https://www.eduonix.com/certificate/f8f3811208) |
+| 77 | **The Complete Guide To CompTIA A+ Certification** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20The%20Complete%20Guide%20To%20CompTIA%20A+%20Certification.pdf) | [Verify](https://www.eduonix.com/certificate/9a1cbc46cc) |
+| 78 | **The Developers Guide to Python 3 Programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20The%20Developers%20Guide%20to%20Python%203%20Programming.pdf) | [Verify](https://www.eduonix.com/certificate/517565d9b6) |
+| 79 | **The Ultimate Guide to RHCSA Certification Exam** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20The%20Ultimate%20Guide%20to%20RHCSA%20Certification%20Exam.pdf) | [Verify](https://www.eduonix.com/certificate/42eb935254) |
+| 80 | **Ultimate Java Development and Certification Course** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Ultimate%20Java%20Development%20and%20Certification%20Course.pdf) | [Verify](https://www.eduonix.com/certificate/ab101c57cf) |
+| 81 | **WordPress Plugin Development - Build A Facebook Footer Link** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20WordPress%20Plugin%20Development%20-%20Build%20A%20Facebook%20Footer%20Link.pdf) | [Verify](https://www.eduonix.com/certificate/528674af69) |
+| 82 | **Youtube An Advance Guide For A Successful Youtube Channel** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Youtube%20An%20Advance%20Guide%20For%20A%20Successful%20Youtube%20Channel.pdf) | [Verify](https://www.eduonix.com/certificate/aca055a6ac) |
+| 83 | **Youtube Beginners Guide To A Successful Channel** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20Youtube%20Beginners%20Guide%20To%20A%20Successful%20Channel.pdf) | [Verify](https://www.eduonix.com/certificate/4fe415d16c) |
+| 84 | **eGuide to Create Dynamic Maps using R Programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20eGuide%20to%20Create%20Dynamic%20Maps%20using%20R%20Programming.pdf) | [Verify](https://www.eduonix.com/certificate/12e0adab0e) |
 
 ---
 
