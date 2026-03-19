@@ -717,8 +717,8 @@
 
 | Role | Verification |
 |:-----|:------------:|
-| **Software Engineering** | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_JtA9vXwzt8JuiqQpt_1626951761146_completion_certificate.pdf) |
-| **Investment Banking** | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_J.P.%20Morgan_JtA9vXwzt8JuiqQpt_1629367039154_completion_certificate.pdf) |
+| **Software Engineering** | [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_JtA9vXwzt8JuiqQpt_1626951761146_completion_certificate.pdf) |
+| **Investment Banking** | [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_J.P.%20Morgan_JtA9vXwzt8JuiqQpt_1629367039154_completion_certificate.pdf) |
 <br>
 
 <p align="center"><a href="Experience/Accenture/"><img height="100" title="Nordic Consultant Program at Accenture" src="docs/accenture-logo.jpg"></a></p>
@@ -726,7 +726,7 @@
 
 | Role | Verification |
 |:-----|:------------:|
-| **Nordic Consultant Program** | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/KJGjQRHZ6eGquTKfF_Accenture%20Nordic_JtA9vXwzt8JuiqQpt_1627100582696_completion_certificate.pdf) |
+| **Nordic Consultant Program** | [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/KJGjQRHZ6eGquTKfF_Accenture%20Nordic_JtA9vXwzt8JuiqQpt_1627100582696_completion_certificate.pdf) |
 <br>
 
 <p align="center"><a href="Experience/Goldman Sachs/"><img height="100" title="Engineering Virtual Program at Goldman Sachs" src="docs/goldman-sachs-logo.png"></a></p>
@@ -734,7 +734,7 @@
 
 | Role | Verification |
 |:-----|:------------:|
-| **Engineering Virtual Program** | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_JtA9vXwzt8JuiqQpt_1627194162680_completion_certificate.pdf) |
+| **Engineering Virtual Program** | [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_JtA9vXwzt8JuiqQpt_1627194162680_completion_certificate.pdf) |
 <br>
 
 <p align="center"><a href="Experience/KPMG International Limited/"><img height="100" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-premium-logo.jpg"></a></p>
@@ -742,7 +742,7 @@
 
 | Role | Verification |
 |:-----|:------------:|
-| **Data Analytics Program** | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_JtA9vXwzt8JuiqQpt_1627153479459_completion_certificate.pdf) |
+| **Data Analytics Program** | [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_JtA9vXwzt8JuiqQpt_1627153479459_completion_certificate.pdf) |
 <br>
 
 <p align="center"><a href="Experience/Teach For Australia/"><img height="100" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-premium-logo.png"></a></p>
