@@ -1373,7 +1373,9 @@
 
 ### Stanford University
 
-  >XEE100 - 014 [Introduction to Internet of Things](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf)
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Introduction to Internet of Things** <br> XEE100 - 014 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University/IOT%20Course%20Record%20of%20Completion%20by%20Standford%20University.pdf) |
 
 ---
 
