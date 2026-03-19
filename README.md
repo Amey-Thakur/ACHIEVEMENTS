@@ -713,7 +713,7 @@
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
-| **Software Engineering** | [Task Repo](https://github.com/Amey-Thakur/JPMC-FORAGE) | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_JtA9vXwzt8JuiqQpt_1626951761146_completion_certificate.pdf) |
+| **Software Engineering** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_JtA9vXwzt8JuiqQpt_1626951761146_completion_certificate.pdf) |
 | **Investment Banking** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_J.P.%20Morgan_JtA9vXwzt8JuiqQpt_1629367039154_completion_certificate.pdf) |
 
 <p align="center"><a href="Experience/Accenture/"><img height="100" title="Nordic Consultant Program at Accenture" src="docs/accenture-logo.jpg"></a></p>
