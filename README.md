@@ -1418,17 +1418,16 @@
 | 2 | **Strengths Profile** | 2021 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2021).pdf) |
 | 3 | **Strengths Profile** | 2022 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2022).pdf) |
 
-
 ---
 
+### 🤝🏻 The Evolution of Trust
+
 > [!TIP]
-> **🤝🏻 The Evolution of Trust**
->
 > People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: 
 > https://ncase.me/trust
 
 ---
 
 <p align="center">
-  <a href="#-my-achievements-and-certifications-">↑ Back to Top ↑</a>
+  <a href="#-my-achievements-and-certifications-">↑ Back to Top</a>
 </p>
