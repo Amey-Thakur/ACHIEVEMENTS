@@ -932,11 +932,14 @@
 
 ### LTCE Webinar
 
-  >[Blockchain Technology and it's Applications](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/LTCE%20Webinar/LTCE%20Webinar%20Blockchain%20Technology.pdf)
-  
-  >[Future Prediction using Machine Learning Algorithm](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/LTCE%20Webinar/LTCE%20Webinar%20Future%20Prediction%20using%20Machine%20Learning%20Algorithm.pdf)
-  
-  >[Python in Depth using Keras and TensorFlow](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/LTCE%20Webinar/LTCE%20Webinar%20Python%20in%20Depth%20using%20Keras%20_%20Tensorflow.pdf)
+#### Technical Seminars
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Blockchain Technology and its Applications** | [Certificate](LTCE%20Webinar/LTCE%20Webinar%20Blockchain%20Technology.pdf) |
+| 2 | **Future Prediction using Machine Learning Algorithm** | [Certificate](LTCE%20Webinar/LTCE%20Webinar%20Future%20Prediction%20using%20Machine%20Learning%20Algorithm.pdf) |
+| 3 | **Python in Depth using Keras & TensorFlow** | [Certificate](LTCE%20Webinar/LTCE%20Webinar%20Python%20in%20Depth%20using%20Keras%20_%20Tensorflow.pdf) |
+
 
 ---
 
