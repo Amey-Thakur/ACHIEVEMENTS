@@ -35,7 +35,7 @@
 
 ---
 
-## 🏆 My Certifications and Achievements
+## <span title="Amey Thakur: Celebrating Milestones of Continuous Learning and Excellence">🏆</span> My Certifications and Achievements
 
  - **[Ankur Warikoo](#ankur-warikoo)**
  - **[Anthropic courses](#anthropic-courses)**
@@ -1491,7 +1491,7 @@
 ---
 
 <p align="center">
-  <a href="#-my-achievements-and-certifications-">↑ Back to Top</a>
+  <a href="#-my-achievements-and-certifications-" title="Amey Thakur: Returning to the Roadmap of Excellence">↑ Back to Top</a>
 </p>
 
 ---
