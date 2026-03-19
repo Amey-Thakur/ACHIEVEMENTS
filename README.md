@@ -40,6 +40,28 @@
 
 ---
 
+### 🔗 Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/amey-thakur"><img src="docs/LinkedIn.png" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Amey-Thakur"><img src="docs/GitHub.png" alt="GitHub" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/ameythakur"><img src="docs/HuggingFace.png" alt="HuggingFace" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/ameythakur20"><img src="docs/Kaggle.png" alt="Kaggle" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://g.dev/ameythakur"><img src="docs/GoogleDevelopers.png" alt="Google Developers" width="50" height="50"/></a>
+</p>
+<p align="center">
+<a href="https://scholar.google.com/citations?user=0inooPgAAAAJ"><img src="docs/GoogleScholar.png" alt="Google Scholar" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Amey-Thakur"><img src="docs/ResearchGate.png" alt="ResearchGate" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0001-5644-1575"><img src="docs/ORCID.png" alt="ORCID" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://arxiv.org/a/thakur_a_3.html"><img src="docs/arXiv.jpg" alt="arXiv" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vixra.org/author/amey_thakur"><img src="docs/viXra.jpg" alt="viXra" width="50" height="50"/></a>
+</p>
+<p align="center">
+<a href="https://www.x.com/iameythakur"><img src="docs/X.png" alt="X" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/iameythakur"><img src="docs/Instagram.png" alt="Instagram" width="50" height="50"/></a>
+</p>
+
+---
+
 ### Ankur Warikoo
 
 | # | Topic | Documentation | Certification |
