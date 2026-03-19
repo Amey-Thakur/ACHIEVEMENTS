@@ -481,7 +481,9 @@
 ---
 
 
-### 🎓 Engineering
+### Engineering
+
+<p align="center">🎓 <b>Foundational Baccalaureate Studies and Applied Engineering Research</b> 🎓</p>
 
 <div align="center">
 
