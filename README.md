@@ -899,23 +899,20 @@
 
 ### Kaggle
 
-  _Track my Notebooks @ [Kaggle](https://www.kaggle.com/ameythakur20)_
+> [!TIP]
+> **Track my Notebooks @ [Kaggle](https://www.kaggle.com/ameythakur20)**
 
-**Kaggle [Repository](https://github.com/Amey-Thakur/KAGGLE)**
+#### Kaggle Learn
 
-  >[Data Cleaning](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning)
-
-  >[Data Visualization](https://www.kaggle.com/learn/certification/ameythakur20/data-visualization) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Visualization)
-
-  >[Feature Engineering](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering)
-
-  >[Intro to Machine Learning](https://www.kaggle.com/learn/certification/ameythakur20/intro-to-machine-learning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning)
-
-  >[Intermediate Machine Learning](https://www.kaggle.com/learn/certification/ameythakur20/intermediate-machine-learning) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning)
-
-  >[Machine Learning Explainability](https://www.kaggle.com/learn/certification/ameythakur20/machine-learning-explainability) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20Explainability)
-  
-  >[Pandas](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Course Exercises](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas)
+| # | Topic | Certification | Mirror |
+| :---: | :--- | :---: | :---: |
+| 1 | **Data Cleaning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning) |
+| 2 | **Data Visualization** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/data-visualization) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Visualization) |
+| 3 | **Feature Engineering** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering) |
+| 4 | **Intro to Machine Learning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/intro-to-machine-learning) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning) |
+| 5 | **Intermediate Machine Learning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/intermediate-machine-learning) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning) |
+| 6 | **Machine Learning Explainability** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/machine-learning-explainability) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20Explainability) |
+| 7 | **Pandas** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas) |
 
 ---
 
