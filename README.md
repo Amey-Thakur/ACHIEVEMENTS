@@ -194,6 +194,7 @@
 | 38 | **Use Canva to Create Social Media Marketing Designs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20Canva%20to%20Create%20Social%20Media%20Marketing%20Designs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G) |
 | 39 | **Use WordPress to Create a Blog for your Business** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20WordPress%20to%20Create%20a%20Blog%20for%20your%20Business.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP) |
 
+
 #### DeepLearning.AI
 
 | # | Topic | Certification | Verification |
@@ -285,6 +286,7 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **How to Write a Resume (Project-Centered Course)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/SUNY%20-%20The%20State%20University%20of%20New%20York/Coursera%20How%20to%20Write%20a%20Resume%20(Project-Centered%20Course).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2) |
 
+
 #### The Linux Foundation
 
 <p align="center">
@@ -337,7 +339,6 @@
 | 3 | **Big Data Integration and Processing** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Big%20Data%20Integration%20and%20Processing.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XHFE9R2V9KM5) |
 | 4 | **Machine Learning With Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Machine%20Learning%20With%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XQKZ8RHAH9Q6) |
 | 5 | **Graph Analytics for Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Graph%20Analytics%20for%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA) |
-
 
 
 #### University of California, Irvine Division of Continuing Education
@@ -449,7 +450,6 @@
   
 ---
 
-
 ### Eduonix
 
 | # | Topic | Certification | Verification |
@@ -540,7 +540,6 @@
 | 84 | **eGuide to Create Dynamic Maps using R Programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Eduonix/Eduonix%20eGuide%20to%20Create%20Dynamic%20Maps%20using%20R%20Programming.pdf) | [Verify](https://www.eduonix.com/certificate/12e0adab0e) |
 
 ---
-
 
 ### Engineering
 
@@ -831,6 +830,7 @@
 | :---: | :--- | :---: |
 | 1 | **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) |
 
+
 #### Google Play Academy
 
 > [!TIP]
@@ -855,7 +855,8 @@
 | 15 | **Test your app before release** | [Certificate](Google/Google%20Play%20Academy/Test%20your%20app%20before%20release%20_%20Academy%20for%20App%20Success.pdf) |
 | 16 | **Understand how Google Play supports you** | [Certificate](Google/Google%20Play%20Academy/Understand%20how%20Google%20Play%20supports%20you%20_%20Academy%20for%20App%20Success.pdf) |
 | 17 | **Vulnerability Disclosure Program Assessment** | [Certificate](Google/Google%20Play%20Academy/Vulnerability%20Disclosure%20Program%20Assessment%20_%20Academy%20for%20App%20Success.pdf) |
-  
+
+
 #### Google Skillshop
 
 > [!TIP]
@@ -1000,7 +1001,6 @@
 | 1 | **Blockchain Technology and its Applications** | [Certificate](LTCE%20Webinar/LTCE%20Webinar%20Blockchain%20Technology.pdf) |
 | 2 | **Future Prediction using Machine Learning Algorithm** | [Certificate](LTCE%20Webinar/LTCE%20Webinar%20Future%20Prediction%20using%20Machine%20Learning%20Algorithm.pdf) |
 | 3 | **Python in Depth using Keras & TensorFlow** | [Certificate](LTCE%20Webinar/LTCE%20Webinar%20Python%20in%20Depth%20using%20Keras%20_%20Tensorflow.pdf) |
-
 
 ---
 
@@ -1196,6 +1196,7 @@
 > 
 > [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur) | [viXra](https://vixra.org/author/amey_thakur)
 
+
 #### 1. Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
 
 | Feature | Scholarly Asset |
@@ -1206,6 +1207,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353158066_Adversarial_Open_Domain_Adaption_Framework_AODA_Sketch-to-Photo_Synthesis) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
+
 #### 2. A Comparative Study on Distributed File Systems
 
 | Feature | Scholarly Asset |
@@ -1214,6 +1216,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354322981_A_Comparative_Study_on_Distributed_File_Systems) |
 | **Project Portal** | [ResearchGate Project](https://www.researchgate.net/project/A-Comparative-Study-on-Distributed-File-Systems) |
 | **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
+
 
 #### 3. Bangalore House Price Prediction
 
@@ -1227,6 +1230,7 @@
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Bangalore%20House%20Price%20Prediction/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
+
 #### 4. QuadTree Visualizer
 
 | Feature | Scholarly Asset |
@@ -1237,6 +1241,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 | **Demonstration** | [YouTube Video](https://youtu.be/8un0Qu8ibNk) |
 | **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
+
 
 #### 5. Text Summarizer
 
@@ -1250,6 +1255,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/2drrqsSB1Bc) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
+
 #### 6. Optimizing Stock Trading Strategy With Reinforcement Learning
 
 | Feature | Scholarly Asset |
@@ -1259,6 +1265,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
 | **Demonstration** | [YouTube Video](https://youtu.be/Q82a93hjxJE) |
 | **Authors** | **Amey Thakur** |
+
 
 #### 7. White-Box Cartoonization Using An Extended GAN Framework
 
@@ -1272,6 +1279,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/8VNc8p6AKmw) |
 | **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
 
+
 #### 8. Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
 
 | Feature | Scholarly Asset |
@@ -1282,6 +1290,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
 | **Authors** | **Amey Thakur**, Karan Dhiman & Mayuresh Phansikar |
 
+
 #### 9. Generative Adversarial Networks
 
 | Feature | Scholarly Asset |
@@ -1291,6 +1300,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
+
 #### 10. Fundamentals of Neural Networks
 
 | Feature | Scholarly Asset |
@@ -1299,6 +1309,7 @@
 | **Published Article** | [DOI: 10.22214/ijraset.2021.37362](http://dx.doi.org/10.22214/ijraset.2021.37362) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) |
 | **Authors** | **Amey Thakur**, Archit Konde |
+
 
 #### 11. Pizza Ordering Chatbot Using Amazon Lex
 
@@ -1311,6 +1322,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
+
 #### 12. Digital Bookstore
 
 | Feature | Scholarly Asset |
@@ -1320,6 +1332,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
 | **Demonstration** | [YouTube Video](https://youtu.be/JuUix8olOC8) |
 | **Authors** | **Amey Thakur**, Mega Satish |
+
 
 #### 13. Chat Room using HTML, PHP, CSS, JS, AJAX
 
@@ -1332,6 +1345,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/Aem0k2Dl9fU) |
 | **Authors** | **Amey Thakur**, Karan Dhiman |
 
+
 #### 14. Car Rental Database System
 
 | Feature | Scholarly Asset |
@@ -1341,6 +1355,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
 | **Authors** | **Amey Thakur** |
 
+
 #### 15. Hangman Word Game
 
 | Feature | Scholarly Asset |
@@ -1349,6 +1364,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 | **Demonstration** | [YouTube Video](https://youtu.be/JsT9KYKPUgs) |
 | **Authors** | **Amey Thakur**, Mega Satish & Saakshi Deokar |
+
 
 #### 16. Clock Synchronization in Distributed Systems
 
@@ -1360,6 +1376,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.31450.82887](http://dx.doi.org/10.13140/RG.2.2.31450.82887) |
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg) |
 | **Authors** | **Amey Thakur**, Mega Satish |
+
 
 #### 17. Online Chess Game
 
@@ -1389,6 +1406,7 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Badminton Summer Camp** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf) |
 
+
 #### 🏀 Basketball
 
 > [!IMPORTANT]
@@ -1404,6 +1422,7 @@
 | 6 | **Rink Football** | TEAM SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf) |
 | 7 | **SFA Mumbai 2015** | 3rd Place | [Bronze Medal](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) |
 
+
 #### 📺 Tournament Coverage (SFA Mumbai)
 | # | Matchup | Coverage | Portal |
 | :---: | :--- | :---: | :---: |
@@ -1412,6 +1431,7 @@
 | 3 | **P.G Garodia vs Saraswati** | Semi-Final | [YouTube Video](https://www.youtube.com/watch?v=MzYH0ijp_2o) |
 | 4 | **Saraswati vs Amolakh Amichand** | 3rd Place | [YouTube Video](https://www.youtube.com/watch?v=J8T7OOXbEY4) |
 
+
 #### 🛼 Skating
 | # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
@@ -1419,6 +1439,7 @@
 | 2 | **Aryan Roller Skating** | Rank 1 & 2 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) |
 | 3 | **District Skating (2014)** | 2nd Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) |
 | 4 | **SKATE INDIA (2013)** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) |
+
 
 #### 🧠 Technical Sports
 | # | Event | Achievement | Certification |
@@ -1441,7 +1462,6 @@
 | :---: | :--- | :---: |
 | 1 | **Dementia and Diversity in Primary Care: A Primer** <br> Accredited by ACCME® \| 1.50 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Dementia%20and%20Diversity%20in%20Primary%20Care%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
 | 2 | **Identifying Early Signs of Psychosis in Adolescents and Young Adults** <br> Accredited by ACCME® \| 2.00 AMA PRA Category 1 Credit(s)™ | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Stanford%20University%20School%20of%20Medicine/Identifying%20Early%20Signs%20of%20Psychosis%20in%20Adolescents%20and%20Young%20Adults%20by%20Stanford%20University%20School%20of%20Medicine.pdf) |
-
 
 ---
 
