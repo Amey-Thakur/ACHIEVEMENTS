@@ -487,9 +487,8 @@
 **University of Mumbai** · Affiliated Institute **Terna Engineering College**
 *Duration: 2018 — 2022*
 
-An archival record of academic coursework, laboratory implementations, and applied research projects completed during the four-year baccalaureate program at Terna Engineering College. Each subject is mapped to its dedicated technical repository for scholarly verification and reference.
-
----
+> [!TIP]
+> An archival record of academic coursework, laboratory implementations, and applied research projects completed during the four-year baccalaureate program at Terna Engineering College. Each subject is mapped to its dedicated technical repository for scholarly verification and reference.
 
 ##### Semester I
 
