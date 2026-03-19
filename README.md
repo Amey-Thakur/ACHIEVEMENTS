@@ -680,72 +680,72 @@
 > [!TIP]
 > An archival record of applied engineering impact, technical internships, and virtual professional experiences completed across global finance, insurance, and research sectors. Each registry entry is mapped to its dedicated technical project and cloud-hosted verification for scholarly reference.
 
-<a href="Experience/HDFC ERGO General Insurance Company/"><img height="100" title="Software Developer Intern at HDFC ERGO General Insurance" src="docs/hdfc-ergo-logo.png"></a>
-**HDFC ERGO General Insurance Company**
+<p align="center"><a href="Experience/HDFC ERGO General Insurance Company/"><img height="100" title="Software Developer Intern at HDFC ERGO General Insurance" src="docs/hdfc-ergo-logo.png"></a></p>
+<p align="center">**HDFC ERGO General Insurance Company**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Software Developer Intern** | — | [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/HDFC%20ERGO%20General%20Insurance%20Company/HDFC%20ERGO%20Internship%20Completion%20Letter.pdf) |
 
-<a href="Experience/Technocolabs/"><img height="100" title="Data Scientist Intern at Technocolabs Software" src="docs/technocolabs-software-logo.png"></a>
-**Technocolabs Software**
+<p align="center"><a href="Experience/Technocolabs/"><img height="100" title="Data Scientist Intern at Technocolabs Software" src="docs/technocolabs-software-logo.png"></a></p>
+<p align="center">**Technocolabs Software**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Data Scientist Intern** | [Stock Trading RL](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) • [Web Application](https://stock-trading-with-rl.herokuapp.com) | [Offer Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Offer%20Letter.pdf) • [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Internship%20Completion%20Letter.pdf) • [Project Cert](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Project%20Completion%20Letter.pdf) • [L.O.R.](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Technocolabs/Technocolabs%20Software%20-%20Data%20Scientist%20-%20Letter%20of%20Recommendation.pdf) |
 
-<a href="Experience/The Sparks Foundation/"><img height="100" title="Data Science & Business Analytics Intern at The Sparks Foundation" src="docs/the-sparks-foundation-logo.jpg"></a>
-**The Sparks Foundation**
+<p align="center"><a href="Experience/The Sparks Foundation/"><img height="100" title="Data Science & Business Analytics Intern at The Sparks Foundation" src="docs/the-sparks-foundation-logo.jpg"></a></p>
+<p align="center">**The Sparks Foundation**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Data Science & Business Analytics** | — | [Selection](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Internship%20Offer%20Letter.pdf) • [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/The%20Sparks%20Foundation/The%20Sparks%20Foundation%20-%20Completion.pdf) |
 
-<a href="Experience/IIT ROPAR - Diginique Techlabs/"><img height="100" title="Data Science & ML/AI Intern at IIT Ropar - Diginique Techlabs" src="docs/diginique-techlabs-logo.png"></a>
-**IIT Ropar - Diginique Techlabs**
+<p align="center"><a href="Experience/IIT ROPAR - Diginique Techlabs/"><img height="100" title="Data Science & ML/AI Intern at IIT Ropar - Diginique Techlabs" src="docs/diginique-techlabs-logo.png"></a></p>
+<p align="center">**IIT Ropar - Diginique Techlabs**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Data Science & ML/AI** | [House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) • [Web Application](https://bangalorehousepriceprediction.herokuapp.com) | [Training](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf) • [Completion](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Internship%20Completion%20Letter.pdf) • [Project Cert](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Project%20Completion%20Letter.pdf) • [L.O.R.](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Letter%20of%20Recommendation.pdf) |
 
-<a href="Experience/JPMorgan Chase _ Co/"><img height="100" title="Software Engineering & IB Experiences at JPMorgan Chase & Co." src="docs/jpmorgan-chase-logo.jpg"></a>
-**JPMorgan Chase & Co.**
+<p align="center"><a href="Experience/JPMorgan Chase _ Co/"><img height="100" title="Software Engineering & IB Experiences at JPMorgan Chase & Co." src="docs/jpmorgan-chase-logo.jpg"></a></p>
+<p align="center">**JPMorgan Chase & Co.**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Software Engineering** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_JtA9vXwzt8JuiqQpt_1626951761146_completion_certificate.pdf) |
 | **Investment Banking** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_J.P.%20Morgan_JtA9vXwzt8JuiqQpt_1629367039154_completion_certificate.pdf) |
 
-<a href="Experience/Accenture/"><img height="100" title="Nordic Consultant Program at Accenture" src="docs/accenture-logo.jpg"></a>
-**Accenture**
+<p align="center"><a href="Experience/Accenture/"><img height="100" title="Nordic Consultant Program at Accenture" src="docs/accenture-logo.jpg"></a></p>
+<p align="center">**Accenture**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Nordic Consultant Program** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/KJGjQRHZ6eGquTKfF_Accenture%20Nordic_JtA9vXwzt8JuiqQpt_1627100582696_completion_certificate.pdf) |
 
-<a href="Experience/Goldman Sachs/"><img height="100" title="Engineering Virtual Program at Goldman Sachs" src="docs/goldman-sachs-logo.png"></a>
-**Goldman Sachs**
+<p align="center"><a href="Experience/Goldman Sachs/"><img height="100" title="Engineering Virtual Program at Goldman Sachs" src="docs/goldman-sachs-logo.png"></a></p>
+<p align="center">**Goldman Sachs**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Engineering Virtual Program** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_JtA9vXwzt8JuiqQpt_1627194162680_completion_certificate.pdf) |
 
-<a href="Experience/KPMG International Limited/"><img height="100" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-premium-logo.jpg"></a>
-**KPMG International Limited**
+<p align="center"><a href="Experience/KPMG International Limited/"><img height="100" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-premium-logo.jpg"></a></p>
+<p align="center">**KPMG International Limited**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Data Analytics Program** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_JtA9vXwzt8JuiqQpt_1627153479459_completion_certificate.pdf) |
 
-<a href="Experience/Teach For Australia/"><img height="100" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-premium-logo.png"></a>
-**Teach For Australia**
+<p align="center"><a href="Experience/Teach For Australia/"><img height="100" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-premium-logo.png"></a></p>
+<p align="center">**Teach For Australia**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
 | **Classroom Virtual Experience** | — | [Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/Teach%20for%20Australia/S2fumwGye5YrE5WsM_Teach%20for%20Australia_JtA9vXwzt8JuiqQpt_1627276843194_completion_certificate.pdf) |
 
-<a href="Experience/Edureka/"><img height="100" title="Data Science & ML Internship at Edureka" src="docs/edureka-premium-logo.webp"></a>
-**Edureka**
+<p align="center"><a href="Experience/Edureka/"><img height="100" title="Data Science & ML Internship at Edureka" src="docs/edureka-premium-logo.webp"></a></p>
+<p align="center">**Edureka**</p>
 
 | Role | Project / Links | Verification |
 |:-----|:----------------:|:------------:|
