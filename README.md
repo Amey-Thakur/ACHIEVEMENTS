@@ -1324,12 +1324,12 @@
 ### Sports & Athletic Achievements
 
 #### 🏸 Badminton
-| # | Event | Achievement | Artifact |
+| # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Badminton Summer Camp** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf) |
 
 #### 🏀 Basketball & Team Sports
-| # | Event | Achievement | Artifact |
+| # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Billabong High Interschool** | Team SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20Interschool%20Basketball%20Tournament.pdf) |
 | 2 | **Eureka 3X Basketball** | Team SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2014%20Eureka%203X%20Basketball.pdf) |
@@ -1348,7 +1348,7 @@
 | 4 | **Saraswati vs Amolakh Amichand** | 3rd Place | [YouTube Video](https://www.youtube.com/watch?v=J8T7OOXbEY4) |
 
 #### 🛼 Skating
-| # | Event | Achievement | Artifact |
+| # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
 | 1 | **IIIRD SKATE INDIA** | District Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20District%20Level%20Skating%20Competition.pdf) |
 | 2 | **Aryan Roller Skating** | Rank 1 & 2 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) |
@@ -1356,7 +1356,7 @@
 | 4 | **SKATE INDIA (2013)** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) |
 
 #### 🧠 Technical Sports & Gaming
-| # | Event | Achievement | Artifact |
+| # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Eureka Fest: Code Master** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Code%20Master.pdf) |
 
