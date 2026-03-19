@@ -1152,7 +1152,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.31450.82887](http://dx.doi.org/10.13140/RG.2.2.31450.82887) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354322981_A_Comparative_Study_on_Distributed_File_Systems) |
 | **Project Portal** | [ResearchGate Project](https://www.researchgate.net/project/A-Comparative-Study-on-Distributed-File-Systems) |
-| **Authors** | **Amey Thakur** |
+| **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
 
 #### 3. Bangalore House Price Prediction
 
