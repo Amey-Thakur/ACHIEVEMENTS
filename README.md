@@ -878,27 +878,22 @@
 
 ---
 
-### Julia Academy
+### Julia
 
-  >[Getting Started With JuliaAcademy](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Getting%20Started%20With%20JuliaAcademy.pdf)
-  
-  >[Introduction to Julia (for programmers)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Introduction%20to%20Julia%20(for%20programmers).pdf)
-  
-  >[Julia for Data Science](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Julia%20for%20Data%20Science.pdf)
-  
-  >[The world of Machine Learning with Knet](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/The%20world%20of%20Machine%20Learning%20with%20Knet.pdf)
-  
-  >[Foundations of Machine Learning](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Foundations%20of%20Machine%20Learning.pdf)
-  
-  >[Deep Learning with Flux.jl](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Deep%20Learning%20with%20Flux.jl.pdf)
-  
-  >[Introduction to DataFrames.jl (v1.1.1)](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf)
-  
-  >[Decision Making Under Uncertainty with POMDPs.jl](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.pdf)
-  
-  >[Parallel Computing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Parallel%20Computing.pdf)
-  
-  >[Computational Modeling in Julia with Applications to the COVID-19 Pandemic](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Julia%20Academy/Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic.pdf)
+#### Julia Academy
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Getting Started With JuliaAcademy** | [Certificate](Julia%20Academy/Getting%20Started%20With%20JuliaAcademy.pdf) |
+| 2 | **Introduction to Julia (for programmers)** | [Certificate](Julia%20Academy/Introduction%20to%20Julia%20(for%20programmers).pdf) |
+| 3 | **Julia for Data Science** | [Certificate](Julia%20Academy/Julia%20for%20Data%20Science.pdf) |
+| 4 | **The world of Machine Learning with Knet** | [Certificate](Julia%20Academy/The%20world%20of%20Machine%20Learning%20with%20Knet.pdf) |
+| 5 | **Foundations of Machine Learning** | [Certificate](Julia%20Academy/Foundations%20of%20Machine%20Learning.pdf) |
+| 6 | **Deep Learning with Flux.jl** | [Certificate](Julia%20Academy/Deep%20Learning%20with%20Flux.jl.pdf) |
+| 7 | **Introduction to DataFrames.jl (v1.1.1)** | [Certificate](Julia%20Academy/Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf) |
+| 8 | **Decision Making Under Uncertainty with POMDPs.jl** | [Certificate](Julia%20Academy/Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.pdf) |
+| 9 | **Parallel Computing** | [Certificate](Julia%20Academy/Parallel%20Computing.pdf) |
+| 10 | **Computational Modeling in Julia with Applications to the COVID-19 Pandemic** | [Certificate](Julia%20Academy/Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic.pdf) |
 
 ---
 
