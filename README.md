@@ -667,11 +667,11 @@
 > [!TIP]
 > Targeted support systems and professional development resources dedicated to health, career strategic planning, and collaborative academic research during the graduate tenure.
 
-| Category | Resource Title | Repository | Description |
-|:---------|:---------------|:----------:|:------------|
-| **International Support** | **International Student Centre** | [Open](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) | Support for international students. |
-| **Academic Advising** | **Engineering International Student Advising** | [Open](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) | Academic guidance. |
-| **Academic Skills** | **Writing Support** | [Open](https://github.com/Amey-Thakur/WRITING-SUPPORT) | Academic writing assistance. |
+| Resource Title | Repository |
+|:---------------|:----------:|
+| **International Student Centre** | [Open Registry](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) |
+| **Engineering International Student Advising** | [Open Registry](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) |
+| **Writing Support** | [Open Registry](https://github.com/Amey-Thakur/WRITING-SUPPORT) |
 
 ---
 
