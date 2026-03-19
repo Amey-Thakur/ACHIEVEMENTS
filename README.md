@@ -1002,8 +1002,8 @@
 | 14 | **Hangman Word Game** | [Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) | [YouTube](https://youtu.be/JsT9KYKPUgs) |
 | 15 | **ResearchGate Archive** | [Repository](https://github.com/Amey-Thakur/RESEARCHGATE) | — |
 | 16 | **Deepfake Audio Synthesis** | [Repository](https://github.com/Amey-Thakur/DEEPFAKE-AUDIO) | [YouTube](https://youtu.be/i3wnBcbHDbs) |
-| 17 | **Sentiment Analyzer** | [Repository](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | [YouTube](https://youtu.be/8I6-n_V-G8Y) |
-| 18 | **Depression Detection** | [Repository](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS) | [YouTube](https://youtu.be/p6fQy50Hw9w) |
+| 17 | **Sentiment Analyzer** | [Repository](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER) | — |
+| 18 | **Depression Detection** | [Repository](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS) | — |
 | 19 | **Stock Trading Strategy RL** | [Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) | — |
 | 20 | **Reinforcement Learning Strategy** | [Repository](https://github.com/Amey-Thakur/Optimizing-Stock-Trading-Using-Reinforcement-Learning-DST) | — |
 | 21 | **Kaggle Courses** | [Repository](https://github.com/Amey-Thakur/KAGGLE-COURSES) | — |
