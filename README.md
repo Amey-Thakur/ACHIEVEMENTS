@@ -984,7 +984,7 @@
 > - **[Engineering Project Demonstrations](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)** — Official Engineering Projects YouTube Playlist.
 > - **[AWS Cloud Practitioner Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** — Comprehensive AWS Architectural Guide.
 
-| # | Topic | Project Repository | Demonstration |
+| # | Project | Source Code | Demonstration |
 | :---: | :--- | :---: | :---: |
 | 1 | **Quadtree Visualizer (Capstone)** | [Repository](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) | [YouTube](https://youtu.be/8un0Qu8ibNk) |
 | 2 | **AWS Certified Cloud Practitioner** | [Repository](https://github.com/Amey-Thakur/AWS-CERTIFIED-CLOUD-PRACTITIONER-CLF-C01) | [YouTube](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs) |
