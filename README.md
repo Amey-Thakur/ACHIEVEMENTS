@@ -227,7 +227,9 @@
 #### The Linux Foundation
 
 <p align="center">
-  <img src="https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png?raw=true" width="180" alt="The Linux Foundation Specialization Badge" />
+  <a href="https://www.coursera.org/account/accomplishments/specialization/3F2QH3ERB3SX">
+    <img src="https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/open-source-software-development-linux-and-git-specialization.png?raw=true" width="180" alt="The Linux Foundation Specialization Badge" />
+  </a>
 </p>
 
 | # | Topic | Certification | Verification |
