@@ -1421,8 +1421,17 @@
 
 ---
 
-### <p align="center">The Evolution of Trust </p>
+### <p align="center"> 🤝🏻 The Evolution of Trust </p>
 
-<p align="center">People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: https://ncase.me/trust</p>
+<p align="center"> 
+People no longer trust each other. Why? And how can we fix it? An interactive guide to the game theory of trust: <br> 
+https://ncase.me/trust
+</p>
+
+---
+
+<p align="center">
+  <a href="#-my-achievements-and-certifications-">↑ Back to Top ↑</a>
+</p>
 
 ## 
