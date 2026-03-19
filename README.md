@@ -35,7 +35,7 @@
 
 ---
 
- **My Certifications and Achievements**
+## 🏆 My Certifications and Achievements
 
  - **[Ankur Warikoo](#ankur-warikoo)**
  - **[Anthropic courses](#anthropic-courses)**
