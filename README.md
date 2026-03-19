@@ -838,7 +838,9 @@
 
 ### Harvard Medical School
 
-  >[Silent Spreaders: Children and COVID-19](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) | Accreditation Council for Continuing Medical Education (ACCME®) | 1.00 AMA PRA Category 1 Credit™
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Silent Spreaders: Children and COVID-19** <br> Accredited by ACCME® \| 1.00 AMA PRA Category 1 Credit™ | [Certificate](Harvard%20Medical%20School/Silent%20Spreaders%20Children%20and%20COVID-19%20by%20Harvard%20Medical%20School.pdf) |
 
 ---
 
