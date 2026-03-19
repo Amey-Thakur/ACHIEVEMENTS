@@ -289,9 +289,12 @@
 | 4 | **The Arduino Platform and C Programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20The%20Arduino%20Platform%20and%20C%20Programming.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/HVLDN2CM2RQY) |
 | 5 | **The Raspberry Pi Platform and Python Programming for the Raspberry Pi** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20The%20Raspberry%20Pi%20Platform%20and%20Python%20Programming%20for%20the%20Raspberry%20Pi.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AA5HYKYVNXGK) |
 
-**University of Cape Town**
 
-  >[Building Fintech Startups in Emerging Markets](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7)
+#### University of Cape Town
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Building Fintech Startups in Emerging Markets** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Cape%20Town/Coursera%20Building%20Fintech%20Startups%20in%20Emerging%20Markets.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7) |
 
 **University of Colorado Boulder**
 
