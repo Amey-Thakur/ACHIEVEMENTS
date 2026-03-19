@@ -979,9 +979,10 @@
 ## Project Engineering & Applied Research Portfolio
 
 > [!TIP]
-> **Industrial Project Infrastructure**:
+> **Project Engineering & Applied Research Hub**:
 > - **[Advancing Ideas @ AmeyArc_](https://amey-thakur.github.io/)** — Research space for technical notes and scholarly reflections.
-> - **[Project Demonstrations](https://www.youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** — Engineering Projects YouTube Playlist.
+> - **[Engineering Project Demonstrations](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)** — Official Engineering Projects YouTube Playlist.
+> - **[AWS Cloud Practitioner Tutorials](https://youtube.com/playlist?list=PLGOc13Pt03SZuZA2eS79J4EUtBBgR0JCs)** — Comprehensive AWS Architectural Guide.
 
 ### Graduate Research & Applied Engineering (M.Eng.)
 
