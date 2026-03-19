@@ -1412,11 +1412,11 @@
 
 ### VIA Institute on Character
 
-  >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2020).pdf) | Amey Thakur | 2020
- 
-  >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2021).pdf) | Amey Thakur | 2021
-  
-  >[Strengths Profile](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2022).pdf) | Amey Thakur | 2022
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Strengths Profile** <br> Amey Thakur \| 2020 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2020).pdf) |
+| 2 | **Strengths Profile** <br> Amey Thakur \| 2021 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2021).pdf) |
+| 3 | **Strengths Profile** <br> Amey Thakur \| 2022 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/VIA%20Institute%20on%20Character/Strengths%20Profile%20-%20Amey%20Thakur%20(2022).pdf) |
 
 
 ---
