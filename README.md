@@ -1009,7 +1009,7 @@
 | 21 | **Kaggle Courses** | [Repository](https://github.com/Amey-Thakur/KAGGLE-COURSES) | — |
 | 22 | **House Price Prediction** | [Repository](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | [YouTube](https://youtu.be/HaiXYHBPHVg) |
 | 23 | **Unsupervised ML** | [Repository](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING) | — |
-| 24 | **Supervised ML** | [Repository](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | — |
+| 24 | **Supervised ML** | [Repository](https://github.com/Amey-Thakur/TSF-SUPERVISED-MACHINE-LEARNING) | [YouTube](https://youtu.be/qsO9GyGNWf0) |
 | 25 | **React Todo App** | [Repository](https://github.com/Amey-Thakur/REACT-TODO-APP) | — |
 | 26 | **Tic-Tac-Toe in Angular** | [Repository](https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK) | — |
 | 27 | **JavaScript Frameworks** | [Repository](https://github.com/Amey-Thakur/JAVASCRIPT-FRAMEWORKS) | — |
