@@ -308,9 +308,12 @@
 | 4 | **Supporting Parents of a Newborn Baby** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Supporting%20Parents%20of%20a%20Newborn%20Baby.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GJA4E5FMYYQM) |
 | 5 | **Science of Exercise** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Science%20of%20Exercise.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AL6263EX5L7M) |
 
-**University of Florida**
 
-  >[COVID-19 - A clinical update](https://www.coursera.org/account/accomplishments/verify/GADRX8FNCW8W)
+#### University of Florida
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **COVID-19 - A clinical update** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Florida/Coursera%20COVID-19%20-%20A%20clinical%20update.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GADRX8FNCW8W) |
 
 **University of London**
 
