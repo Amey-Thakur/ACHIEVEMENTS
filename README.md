@@ -773,7 +773,7 @@
 #### Google Play Academy
 
 > [!TIP]
-> **Academy for App Success: Enrollment History** | [Certificate](Google/Google%20Play%20Academy/Academy%20for%20App%20Success%20_%20Enrollment%20History.pdf)
+> [**Academy for App Success: Enrollment History**](Google/Google%20Play%20Academy/Academy%20for%20App%20Success%20_%20Enrollment%20History.pdf)
 
 | # | Topic | Certification |
 | :---: | :--- | :---: |
