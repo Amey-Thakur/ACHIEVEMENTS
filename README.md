@@ -1308,7 +1308,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.21472.97284](http://dx.doi.org/10.13140/RG.2.2.21472.97284) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) |
 | **Demonstration** | [YouTube Video](https://youtu.be/CCbrTQwYyE8) |
-| **Authors** | **Amey Thakur** |
+| **Authors** | **Amey Thakur**, Mega Satish |
 
 ---
 
