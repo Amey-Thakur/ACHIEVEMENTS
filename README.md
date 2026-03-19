@@ -759,7 +759,6 @@
 | Role | Verification |
 |:-----|:------------:|
 | **Data Science & ML Internship** | [Demo Letter](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/Edureka/Data%20Science%20%26%20Machine%20Learning%20Internship%20Program%20Demo%20Session%20by%20Edureka.pdf) |
-<br>
 
 ---
 
