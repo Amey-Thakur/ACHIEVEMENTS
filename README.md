@@ -669,9 +669,9 @@
 
 | Category | Resource Title | Repository | Description |
 |:---------|:---------------|:----------:|:------------|
-| **Health & Wellness** | **Health & Wellness (OHIP)** | [Open](https://github.com/Amey-Thakur/HEALTH-AND-WELLNESS-OHIP) | Essential health services and insurance enrollment for international students. |
-| **Career Development** | **Career Development Resource** | [Open](https://github.com/Amey-Thakur/CAREER-DEVELOPMENT-RESOURCE) | Strategic career planning, internship sourcing, and professional networking. |
-| **Academic Research** | **MITACS Research** | [Open](https://github.com/Amey-Thakur/MITACS-RESEARCH) | Collaborative research opportunities and specialized project documentation. |
+| **International Support** | **International Student Centre** | [Open](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) | Support for international students. |
+| **Academic Advising** | **Engineering International Student Advising** | [Open](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING) | Academic guidance. |
+| **Academic Skills** | **Writing Support** | [Open](https://github.com/Amey-Thakur/WRITING-SUPPORT) | Academic writing assistance. |
 
 ---
 
