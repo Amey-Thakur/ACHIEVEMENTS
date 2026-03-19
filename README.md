@@ -900,7 +900,7 @@
 ### Kaggle
 
 > [!TIP]
-> **Track my Notebooks @ [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ameythakur20)**
+> **Track my Notebooks @ [![Kaggle](https://img.shields.io/badge/Kaggle-ameythakur20-20BEFF?style=square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ameythakur20)**
 >
 > **[KAGGLE-COMPETITIONS](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS)** — Solutions for competitions.
 >
