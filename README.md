@@ -1314,10 +1314,10 @@
 
 ### Simplilearn
 
-| # | Certification | Organizing Body | Certified Artifact |
-| :---: | :--- | :---: | :---: |
-| 1 | **R Programming for Beginners** | Simplilearn | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Simplilearn/R%20Programming%20for%20Beginners%20-%20Skillup%20by%20Simplilearn.pdf) |
-| 2 | **Data Science with R programming** | Simplilearn | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Simplilearn/Data%20Science%20with%20R%20programming%20-%20Skillup%20by%20Simplilearn.pdf) |
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **R Programming for Beginners** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Simplilearn/R%20Programming%20for%20Beginners%20-%20Skillup%20by%20Simplilearn.pdf) |
+| 2 | **Data Science with R programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Simplilearn/Data%20Science%20with%20R%20programming%20-%20Skillup%20by%20Simplilearn.pdf) |
 
 ---
 
