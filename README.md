@@ -899,20 +899,28 @@
 
 ### Kaggle
 
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ameythakur20)
+
 > [!TIP]
 > **Track my Notebooks @ [Kaggle](https://www.kaggle.com/ameythakur20)**
+>
+> **[KAGGLE-COMPETITIONS](https://github.com/Amey-Thakur/KAGGLE-COMPETITIONS)**
+> A comprehensive repository featuring high-performance solutions, scholarly explanations, and curated datasets for various Kaggle competitions, ranging from various techniques to advanced deep learning models.
+>
+> **[KAGGLE-COURSES](https://github.com/Amey-Thakur/KAGGLE-COURSES)**
+> Kaggle Courses: A comprehensive archive of completed Data Science, Machine Learning, and Data Manipulation courses. This repository documents mastery of the Python ecosystem through structured Kaggle exercises and certifications.
 
 #### Kaggle Learn
 
 | # | Topic | Certification | Mirror |
 | :---: | :--- | :---: | :---: |
-| 1 | **Data Cleaning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Cleaning) |
-| 2 | **Data Visualization** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/data-visualization) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Visualization) |
-| 3 | **Feature Engineering** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Feature%20Engineering) |
-| 4 | **Intro to Machine Learning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/intro-to-machine-learning) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning) |
-| 5 | **Intermediate Machine Learning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/intermediate-machine-learning) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning) |
-| 6 | **Machine Learning Explainability** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/machine-learning-explainability) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Machine%20Learning%20Explainability) |
-| 7 | **Pandas** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Module](https://github.com/Amey-Thakur/KAGGLE/tree/main/Data%20Manipulation/Pandas) |
+| 1 | **Data Cleaning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/data-cleaning) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Data%20Cleaning) |
+| 2 | **Data Visualization** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/data-visualization) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Data%20Visualization) |
+| 3 | **Feature Engineering** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/feature-engineering) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Feature%20Engineering) |
+| 4 | **Intro to Machine Learning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/intro-to-machine-learning) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intro%20to%20Machine%20Learning) |
+| 5 | **Intermediate Machine Learning** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/intermediate-machine-learning) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Machine%20Learning%20-%20Intro%20and%20Intermediate/Intermediate%20Machine%20Learning) |
+| 6 | **Machine Learning Explainability** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/machine-learning-explainability) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Machine%20Learning%20Explainability) |
+| 7 | **Pandas** | [Certificate](https://www.kaggle.com/learn/certification/ameythakur20/pandas) | [Module](https://github.com/Amey-Thakur/KAGGLE-COURSES/tree/main/Data%20Manipulation/Pandas) |
 
 ---
 
