@@ -1042,23 +1042,23 @@
 | 54 | **Phase Shift Keying (PSK)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
 | 55 | **Quadrature Amplitude Modulation (QAM)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
 | 56 | **Offset QPSK (OQPSK)** | [Repository](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | — |
-| 57 | **Convolutional Neural Network (CNN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 58 | **Self-Organizing Maps (SOM)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 59 | **Radial Basis Function Network (RBFN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 60 | **Radial Basis Function Optimization (RBFO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 61 | **Learning Vector Quantization (LVQ)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 62 | **Bidirectional Associative Memory (BAM)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 63 | **Generalized Hopfield Network (GHN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 64 | **Fuzzy Logic & Reasoning (FLR)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 65 | **Fuzzy Reasoning System (FRS)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 66 | **Fuzzy Set Theory (FST)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 67 | **Fuzzy Set Operations (FSO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 68 | **Genetic Algorithm Optimization (GAO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 69 | **Genetic Algorithm Implementation (GAI)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 70 | **Genetic Algorithm Variant I (GAV-I)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 71 | **Genetic Algorithm Variant II (GAV-II)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 72 | **Binary to Decimal Conversion (B2D)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
-| 73 | **Decimal to Binary Conversion (D2B)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [YouTube](https://youtu.be/p3v8T-v_nZc) |
+| 57 | **Convolutional Neural Network (CNN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 58 | **Self-Organizing Maps (SOM)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 59 | **Radial Basis Function Network (RBFN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 60 | **Radial Basis Function Optimization (RBFO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 61 | **Learning Vector Quantization (LVQ)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 62 | **Bidirectional Associative Memory (BAM)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 63 | **Generalized Hopfield Network (GHN)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 64 | **Fuzzy Logic & Reasoning (FLR)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 65 | **Fuzzy Reasoning System (FRS)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 66 | **Fuzzy Set Theory (FST)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 67 | **Fuzzy Set Operations (FSO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 68 | **Genetic Algorithm Optimization (GAO)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 69 | **Genetic Algorithm Implementation (GAI)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 70 | **Genetic Algorithm Variant I (GAV-I)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 71 | **Genetic Algorithm Variant II (GAV-II)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 72 | **Binary to Decimal Conversion (B2D)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
+| 73 | **Decimal to Binary Conversion (D2B)** | [Repository](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | — |
 | 74 | **Project Management Software Evaluation** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
 | 75 | **Global Green Books Case Study** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
 | 76 | **E-KYC Platform Implementation** | [Repository](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
