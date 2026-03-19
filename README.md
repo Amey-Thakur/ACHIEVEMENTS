@@ -762,11 +762,14 @@
 
 ---
 
-### Google
-
-**Google Digital Unlocked**
-
-  >[The Fundamentals of Digital Marketing](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf)
+<h3 align="center">Google Digital Unlocked</h3>
+  
+>Verified digital literacy and fundamental knowledge in marketing and technology via the Google Digital Unlocked curriculum.
+  
+| Milestone | Certificate |
+|:----------|:------------:|
+| **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) |
+<br>
 
 **Google Play Academy**
 
