@@ -1,4 +1,6 @@
-# ACHIEVEMENTS
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+I'm+Amey+Thakur!;+Computer+Engineer;+Research+Scholar; " />
+</h1>
 
 <img align="right" width="400" src="docs/Programmer.gif" />
 
