@@ -766,10 +766,9 @@
 
 #### Google Digital Unlocked
 
-| # | Topic | Certification | Verification |
-| :---: | :--- | :---: | :---: |
-| 1 | **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) | — |
-<br>
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) |
 
 **Google Play Academy**
 
