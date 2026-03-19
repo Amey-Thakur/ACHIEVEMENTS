@@ -846,9 +846,11 @@
 
 ### IBM
 
-**IBM Training** 
+#### IBM Training
 
-  >[Artificial Intelligence Concepts](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf)
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Artificial Intelligence Concepts** | [Certificate](IBM/Artificial%20Intelligence%20Concepts%20by%20IBM.pdf) |
  
 ---
 
