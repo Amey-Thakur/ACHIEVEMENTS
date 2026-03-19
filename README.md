@@ -238,13 +238,14 @@
 | 3 | **Linux Tools for Developers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Linux%20Tools%20for%20Developers.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3) |
 | 4 | **Using Git for Distributed Development** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Using%20Git%20for%20Distributed%20Development.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JXD7X9WQCZDR) |
 
-**The University of Edinburgh**
 
-  >[Introduction to Philosophy](https://www.coursera.org/account/accomplishments/verify/PVC3PQHQU2YE)
+#### The University of Edinburgh
 
-  >[Sit Less, Get Active](https://www.coursera.org/account/accomplishments/verify/CN5ESH57GYUD)
-
-  >[The Truth About Cats and Dogs](https://www.coursera.org/account/accomplishments/verify/HCD5A6VKA3LK)
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Introduction to Philosophy** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20Introduction%20to%20Philosophy.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/PVC3PQHQU2YE) |
+| 2 | **Sit Less, Get Active** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20Sit%20Less%2C%20Get%20Active.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CN5ESH57GYUD) |
+| 3 | **The Truth About Cats and Dogs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20The%20Truth%20About%20Cats%20and%20Dogs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/HCD5A6VKA3LK) |
 
 **University of Alberta**
 
