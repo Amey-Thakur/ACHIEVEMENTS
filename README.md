@@ -680,7 +680,7 @@
 > [!TIP]
 > An archival record of applied engineering impact, technical internships, and virtual professional experiences completed across global finance, insurance, and research sectors. Each registry entry is mapped to its dedicated technical project and cloud-hosted verification for scholarly reference.
 
-<p align="center"><a href="Experience/HDFC ERGO General Insurance Company/"><img height="60" title="Software Developer Intern at HDFC ERGO General Insurance" src="docs/hdfc-ergo-logo.png"></a></p>
+<p align="center"><a href="Experience/HDFC ERGO General Insurance Company/"><img height="100" title="Software Developer Intern at HDFC ERGO General Insurance" src="docs/hdfc-ergo-logo.png"></a></p>
 <div align="center">
 <p>**HDFC ERGO General Insurance Company**</p>
 
@@ -690,7 +690,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/Technocolabs/"><img height="60" title="Data Scientist Intern at Technocolabs Software" src="docs/technocolabs-software-logo.png"></a></p>
+<p align="center"><a href="Experience/Technocolabs/"><img height="100" title="Data Scientist Intern at Technocolabs Software" src="docs/technocolabs-software-logo.png"></a></p>
 <div align="center">
 <p>**Technocolabs Software**</p>
 
@@ -700,7 +700,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/The Sparks Foundation/"><img height="60" title="Data Science & Business Analytics Intern at The Sparks Foundation" src="docs/the-sparks-foundation-logo.jpg"></a></p>
+<p align="center"><a href="Experience/The Sparks Foundation/"><img height="100" title="Data Science & Business Analytics Intern at The Sparks Foundation" src="docs/the-sparks-foundation-logo.jpg"></a></p>
 <div align="center">
 <p>**The Sparks Foundation**</p>
 
@@ -710,7 +710,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/IIT ROPAR - Diginique Techlabs/"><img height="60" title="Data Science & ML/AI Intern at IIT Ropar - Diginique Techlabs" src="docs/diginique-techlabs-logo.png"></a></p>
+<p align="center"><a href="Experience/IIT ROPAR - Diginique Techlabs/"><img height="100" title="Data Science & ML/AI Intern at IIT Ropar - Diginique Techlabs" src="docs/diginique-techlabs-logo.png"></a></p>
 <div align="center">
 <p>**IIT Ropar - Diginique Techlabs**</p>
 
@@ -720,7 +720,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/JPMorgan Chase _ Co/"><img height="60" title="Software Engineering & IB Experiences at JPMorgan Chase & Co." src="docs/jpmorgan-chase-logo.jpg"></a></p>
+<p align="center"><a href="Experience/JPMorgan Chase _ Co/"><img height="100" title="Software Engineering & IB Experiences at JPMorgan Chase & Co." src="docs/jpmorgan-chase-logo.jpg"></a></p>
 <div align="center">
 <p>**JPMorgan Chase & Co.**</p>
 
@@ -731,7 +731,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/Accenture/"><img height="60" title="Nordic Consultant Program at Accenture" src="docs/accenture-logo.jpg"></a></p>
+<p align="center"><a href="Experience/Accenture/"><img height="100" title="Nordic Consultant Program at Accenture" src="docs/accenture-logo.jpg"></a></p>
 <div align="center">
 <p>**Accenture**</p>
 
@@ -741,7 +741,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/Goldman Sachs/"><img height="60" title="Engineering Virtual Program at Goldman Sachs" src="docs/goldman-sachs-logo.png"></a></p>
+<p align="center"><a href="Experience/Goldman Sachs/"><img height="100" title="Engineering Virtual Program at Goldman Sachs" src="docs/goldman-sachs-logo.png"></a></p>
 <div align="center">
 <p>**Goldman Sachs**</p>
 
@@ -751,7 +751,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/KPMG International Limited/"><img height="60" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-premium-logo.jpg"></a></p>
+<p align="center"><a href="Experience/KPMG International Limited/"><img height="100" title="Data Analytics Program at KPMG International Limited" src="docs/kpmg-premium-logo.jpg"></a></p>
 <div align="center">
 <p>**KPMG International Limited**</p>
 
@@ -761,7 +761,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/Teach For Australia/"><img height="60" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-logo.jpg"></a></p>
+<p align="center"><a href="Experience/Teach For Australia/"><img height="100" title="Classroom Virtual Experience Program at Teach For Australia" src="docs/teach-for-australia-logo.jpg"></a></p>
 <div align="center">
 <p>**Teach For Australia**</p>
 
@@ -771,7 +771,7 @@
 
 </div>
 
-<p align="center"><a href="Experience/Edureka/"><img height="60" title="Data Science & ML Internship at Edureka" src="docs/edureka-logo.png"></a></p>
+<p align="center"><a href="Experience/Edureka/"><img height="100" title="Data Science & ML Internship at Edureka" src="docs/edureka-logo.png"></a></p>
 <div align="center">
 <p>**Edureka**</p>
 
