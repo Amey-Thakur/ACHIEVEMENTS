@@ -976,7 +976,7 @@
 
 ---
 
-## Engineered Project Portfolio
+## Project Engineering & Applied Research Portfolio
 
 > [!TIP]
 > **Industrial Project Infrastructure**:
