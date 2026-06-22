@@ -56,6 +56,7 @@
  - **[MathWorks](#mathworks)**
  - **[Microsoft](#microsoft)**
  - **[NVIDIA Deep Learning Institute](#nvidia-deep-learning-institute)**
+ - **[OpenAI Academy](#openai-academy)**
  - **[Projects](#project-engineering--applied-research-portfolio)**          ⟶ Project Work
  - **[Quizzes](#quizzes)**
  - **[Research Papers](#research-papers)**          ⟶ Research Work
@@ -1040,6 +1041,16 @@
 | :---: | :--- | :---: |
 | 1 | **Getting Started with AI on Jetson** | [Certificate](Nvidia%20Deep%20Learning%20Institute/NVIDIA%20GETTING%20STARTED%20WITH%20AI%20ON%20JETSON.pdf) |
 | 2 | **Getting Started with DeepStream for Video Analytics on Jetson Nano** | [Certificate](Nvidia%20Deep%20Learning%20Institute/NVIDIA%20GETTING%20STARTED%20WITH%20DEEPSTREAM%20FOR%20VIDEO%20ANALYTICS%20ON%20JETSON%20NANO.pdf) |
+
+---
+
+### OpenAI Academy
+
+| # | Topic | Certification | Verification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Agents and Workflows** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/OpenAI%20Academy/Certificate%20-%20Agents%20and%20Workflows.pdf) | [Verify](https://academy.openai.com/home/certificate/2l2mhv23xg) |
+| 2 | **AI Foundations** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/OpenAI%20Academy/Certificate%20-%20AI%20Foundations.pdf) | [Verify](https://academy.openai.com/home/certificate/rp7900axtg) |
+| 3 | **Applied AI Foundations** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/OpenAI%20Academy/Certificate%20-%20Applied%20AI%20Foundations.pdf) | [Verify](https://academy.openai.com/home/certificate/mn561u3v7q) |
 
 ---
 
