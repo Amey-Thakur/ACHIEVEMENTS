@@ -111,10 +111,10 @@
 
 ### Apple
 
-| # | Topic | Report | Certification |
-| :---: | :--- | :---: | :---: |
-| 1 | **Apple Ads Certification** | — | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/Apple_Ads_Certification.pdf) |
-| 2 | **Apple Teacher** | [Report](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/AppleTeacherReport.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/AppleTeacherCertificate.pdf) |
+| # | Topic | Report | Certification | Verification |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | **Apple Ads Certification** | — | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/Apple_Ads_Certification.pdf) | [Verify](https://certification-ads.apple.com/certificate/863IXIsY89) |
+| 2 | **Apple Teacher** | [Report](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/AppleTeacherReport.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/AppleTeacherCertificate.pdf) | — |
 
 ---
 
