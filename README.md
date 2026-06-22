@@ -39,6 +39,7 @@
 
  - **[Ankur Warikoo](#ankur-warikoo)**
  - **[Anthropic courses](#anthropic-courses)**
+ - **[Apple](#apple)**
  - **[COE Pune](#coe-pune)**
  - **[Colgate Oral Health Network](#colgate-oral-health-network)**
  - **[Coursera](#coursera)**
@@ -105,6 +106,15 @@
 | 17 | **Introduction to subagents** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20subagents.pdf) | [Verify](https://verify.skilljar.com/c/yrz3errg7n2g) |
 | 18 | **Model Context Protocol-Advanced Topics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Model%20Context%20Protocol-Advanced%20Topics.pdf) | [Verify](https://verify.skilljar.com/c/ktyatn8th58j) |
 | 19 | **Teaching AI Fluency** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Teaching%20AI%20Fluency.pdf) | [Verify](https://verify.skilljar.com/c/qsd5j744a2pc) |
+
+---
+
+### Apple
+
+| # | Topic | Report | Certification |
+| :---: | :--- | :---: | :---: |
+| 1 | **Apple Ads Certification** | — | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/Apple_Ads_Certification.pdf) |
+| 2 | **Apple Teacher** | [Report](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/AppleTeacherReport.pdf) | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Apple/AppleTeacherCertificate.pdf) |
 
 ---
 
