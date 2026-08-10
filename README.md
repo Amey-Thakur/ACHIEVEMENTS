@@ -1539,6 +1539,18 @@
   | 6 | **Excel Statistics Essential Training: 2** | [Certificate](Linkedin%20Learning/Excel%20Statistics%20Essential%20Training_%202.pdf) |
   | 7 | **Statistical Analysis with Wolfram Language** | [Certificate](Linkedin%20Learning/Statistical%20Analysis%20with%20Wolfram%20Language.pdf) |
 
+### Zendesk
+#### Zendesk Customer Service Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Zendesk%20Customer%20Service%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Customer Service Foundations** | [LinkedIn Learning](Linkedin%20Learning/Customer%20Service%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Customer%20Service%20Foundations%20(PMI).pdf) |
+  | 2 | **Customer Service: Problem-Solving and Troubleshooting** | [Certificate](Linkedin%20Learning/Customer%20Service_%20Problem-Solving%20and%20Troubleshooting.pdf) |
+  | 3 | **Building Rapport with Customers** | [Certificate](Linkedin%20Learning/Building%20Rapport%20with%20Customers.pdf) |
+  | 4 | **Customer Service: Handling Abusive Customers** | [Certificate](Linkedin%20Learning/Customer%20Service_%20Handling%20Abusive%20Customers.pdf) |
+  | 5 | **Creating Positive Conversations with Challenging Customers** | [Certificate](Linkedin%20Learning/Creating%20Positive%20Conversations%20with%20Challenging%20Customers.pdf) |
+  | 6 | **Serving Customers Using Social Media** | [Certificate](Linkedin%20Learning/Serving%20Customers%20Using%20Social%20Media.pdf) |
+
 ---
 
 ### LTCE Webinar
