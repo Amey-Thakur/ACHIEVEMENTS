@@ -991,6 +991,7 @@
 > - **CompTIA**: Computing Technology Industry Association
 > - **HRCI**: HR Certification Institute
 > - **IIBA**: International Institute of Business Analysis
+> - **ISC2**: International Information System Security Certification Consortium
 > - **NASBA**: National Association of State Boards of Accountancy
 > - **PMI**: Project Management Institute
 > - **SHRM**: Society for Human Resource Management
@@ -1455,6 +1456,16 @@
   | 2 | **Process Mining for Robotic Process Automation** | [Certificate](Linkedin%20Learning/Process%20Mining%20for%20Robotic%20Process%20Automation.pdf) |
   | 3 | **Process Discovery for Robotic Process Automation** | [Certificate](Linkedin%20Learning/Process%20Discovery%20for%20Robotic%20Process%20Automation.pdf) |
   | 4 | **Intelligent Automation Foundations** | [Certificate](Linkedin%20Learning/Intelligent%20Automation%20Foundations.pdf) |
+
+### ServiceNow
+#### ServiceNow IT Leadership Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/ServiceNow%20IT%20Leadership%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Succeeding as a First-Time Tech Manager** | [CompTIA](Linkedin%20Learning/Succeeding%20as%20a%20First-Time%20Tech%20Manager%20(CompTIA).pdf) <br> [ISC2](Linkedin%20Learning/Succeeding%20as%20a%20First-Time%20Tech%20Manager%20(ISC2).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/Succeeding%20as%20a%20First-Time%20Tech%20Manager%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Succeeding%20as%20a%20First-Time%20Tech%20Manager%20(PMI).pdf) |
+  | 2 | **Program Management for IT Professionals** | [CompTIA](Linkedin%20Learning/Program%20Management%20for%20IT%20Professionals%20(CompTIA).pdf) <br> [HRCI](Linkedin%20Learning/Program%20Management%20for%20IT%20Professionals%20(HRCI).pdf) <br> [ISC2](Linkedin%20Learning/Program%20Management%20for%20IT%20Professionals%20(ISC2).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/Program%20Management%20for%20IT%20Professionals%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Program%20Management%20for%20IT%20Professionals%20(PMI).pdf) <br> [SHRM](Linkedin%20Learning/Program%20Management%20for%20IT%20Professionals%20(SHRM).pdf) |
+  | 3 | **Introduction to IT Architecture** | [CompTIA](Linkedin%20Learning/Introduction%20to%20IT%20Architecture%20(CompTIA).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20IT%20Architecture%20(LinkedIn%20Learning).pdf) |
+  | 4 | **Creating Your IT Strategy** | [Certificate](Linkedin%20Learning/Creating%20Your%20IT%20Strategy.pdf) |
 
 ---
 
