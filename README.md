@@ -1319,6 +1319,19 @@
   | 5 | **An Introduction to AI and Sustainability** | [Certificate](Linkedin%20Learning/An%20Introduction%20to%20AI%20and%20Sustainability.pdf) |
   | 6 | **Introduction to ESG: Environmental, Social, and Governance** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(PMI).pdf) |
   | 7 | **Performing a Sustainability Audit with Microsoft Sustainability Manager** | [Certificate](Linkedin%20Learning/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.pdf) |
+
+#### Human Skills in the Age of AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Human%20Skills%20in%20the%20Age%20of%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Investing in Human Skills in the Age of AI** | [LinkedIn Learning](Linkedin%20Learning/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI%20(PMI).pdf) |
+  | 2 | **Building an Adaptability Mindset in the Age of AI** | [LinkedIn Learning](Linkedin%20Learning/Building%20an%20Adaptability%20Mindset%20in%20the%20Age%20of%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Building%20an%20Adaptability%20Mindset%20in%20the%20Age%20of%20AI%20(PMI).pdf) |
+  | 3 | **Amplify Your Communication Skills with Generative AI** | [Certificate](Linkedin%20Learning/Amplify%20Your%20Communication%20Skills%20with%20Generative%20AI.pdf) |
+  | 4 | **Leveraging the Power of Social Intelligence in the Age of AI** | [LinkedIn Learning](Linkedin%20Learning/Leveraging%20the%20Power%20of%20Social%20Intelligence%20in%20the%20Age%20of%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Leveraging%20the%20Power%20of%20Social%20Intelligence%20in%20the%20Age%20of%20AI%20(PMI).pdf) |
+  | 5 | **Amplify Your Critical Thinking with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(PMI).pdf) |
+  | 6 | **Strengthen Your Decision-Making with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI%20(PMI).pdf) |
+  | 7 | **Integrating Generative AI into the Creative Process** | [Certificate](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.pdf) |
+
 #### Microsoft 365 Copilot Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
