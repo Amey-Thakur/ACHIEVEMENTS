@@ -1502,6 +1502,19 @@
   | 3 | **Agile Testing** | [Certificate](Linkedin%20Learning/Agile%20Testing.pdf) |
   | 4 | **Succeeding in Software Testing** | [Certificate](Linkedin%20Learning/Succeeding%20in%20Software%20Testing.pdf) |
 
+### Toastmasters International
+#### Public Speaking Skills Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Public%20Speaking%20Skills%20Professional%20Certificate%20by%20Toastmasters%20International.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Public Speaking Foundations** | [LinkedIn Learning](Linkedin%20Learning/Public%20Speaking%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Public%20Speaking%20Foundations%20(PMI).pdf) |
+  | 2 | **Writing and Delivering Speeches** | [Certificate](Linkedin%20Learning/Writing%20and%20Delivering%20Speeches.pdf) |
+  | 3 | **Communicating with Confidence** | [LinkedIn Learning](Linkedin%20Learning/Communicating%20with%20Confidence%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Communicating%20with%20Confidence%20(PMI).pdf) |
+  | 4 | **Body Language for Leaders and Managers** | [LinkedIn Learning](Linkedin%20Learning/Body%20Language%20for%20Leaders%20and%20Managers%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Body%20Language%20for%20Leaders%20and%20Managers%20(PMI).pdf) |
+  | 5 | **Establishing Credibility as a Speaker** | [LinkedIn Learning](Linkedin%20Learning/Establishing%20Credibility%20as%20a%20Speaker%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Establishing%20Credibility%20as%20a%20Speaker%20(PMI).pdf) |
+  | 6 | **Presenting Technical Information with Stories** | [Certificate](Linkedin%20Learning/Presenting%20Technical%20Information%20with%20Stories.pdf) |
+  | 7 | **Impromptu Speaking** | [Certificate](Linkedin%20Learning/Impromptu%20Speaking.pdf) |
+
 ---
 
 ### LTCE Webinar
