@@ -162,7 +162,6 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Getting Started with AWS Machine Learning** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Amazon%20Web%20Services%20(AWS)/Coursera%20AWS%20Machine%20Learning.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LTPNNKWZ3U33) |
 
-
 #### Case Western Reserve University EST.1826
 
 | # | Topic | Certification | Verification |
@@ -214,7 +213,6 @@
 | 38 | **Use Canva to Create Social Media Marketing Designs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20Canva%20to%20Create%20Social%20Media%20Marketing%20Designs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/YVP7KQZ4PC7G) |
 | 39 | **Use WordPress to Create a Blog for your Business** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Coursera%20Project%20Network/Coursera%20Use%20WordPress%20to%20Create%20a%20Blog%20for%20your%20Business.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/N7WPDT8E5SRP) |
 
-
 #### DeepLearning.AI
 
 | # | Topic | Certification | Verification |
@@ -227,7 +225,6 @@
 | 5 | **Sequence Models** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20Sequence%20Models.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JQ98D6UQYZY2) |
 | 6 | **AI For Everyone** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/DeepLearning.AI/Coursera%20AI%20For%20Everyone.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/LDQXCRKND3QY) |
 
-
 #### Duke University
 
 | # | Topic | Certification | Verification |
@@ -235,7 +232,6 @@
 | 1 | **Data Science Math Skills** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Data%20Science%20Math%20Skills.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/EZ4UQX77FVFR) |
 | 2 | **Dog Emotion and Cognition** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Dog%20Emotion%20and%20Cognition.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/567QDWF2AJCA) |
 | 3 | **Programming Foundations with JavaScript, HTML and CSS** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Duke%20University/Coursera%20Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8U77AS4SEKCM) |
-
 
 #### Georgia Institute of Technology
 
@@ -245,7 +241,6 @@
 | 2 | **Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Mechanics%20of%20Materials%20II%20Thin-Walled%20Pressure%20Vessels%20and%20Torsion.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B6EEZMYWG3L9) |
 | 3 | **Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Mechanics%20of%20Materials%20IV%20Deflections%2C%20Buckling%2C%20Combined%20Loading%20_%20Failure%20Theories.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VMBRBE9TATJ5) |
 | 4 | **Write Professional Emails in English** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Georgia%20Institute%20of%20Technology/Coursera%20Write%20Professional%20Emails%20in%20English.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BCXKEMRD2MX8) |
-
 
 #### Imperial College London
 
@@ -258,20 +253,17 @@
 | 4 | **Building on the SIR Model** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Building%20on%20the%20SIR%20Model.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/9FZXUZEHWSBY) |
 | 5 | **Creative Thinking: Techniques and Tools for Success** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Imperial%20College%20London/Coursera%20Creative%20Thinking%20Techniques%20and%20Tools%20for%20Success.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/RFJN779ATXUZ) |
 
-
 #### Indian School of Business (ISB)
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **A Life of Happiness and Fulfillment** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Indian%20School%20of%20Business%20(ISB)/Coursera%20A%20Life%20of%20Happiness%20and%20Fulfillment.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/ZDLE2UQLUUSC) |
 
-
 #### INSEAD - The Business School for the World, Fontainebleau, France
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Introduction to Blockchain Technologies** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/INSEAD%20-%20The%20Business%20School%20for%20the%20World%2C%20Fontainebleau%2C%20France/Coursera%20Introduction%20to%20Blockchain%20Technologies.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/QRPTJ44CJE9H) |
-
 
 #### Johns Hopkins University
 
@@ -284,7 +276,6 @@
 | 4 | **COVID-19 Contact Tracing** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Johns%20Hopkins%20University/Coursera%20COVID-19%20Contact%20Tracing.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/8HRJXLK2C7BK) |
 | 5 | **Psychological First Aid** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Johns%20Hopkins%20University/Coursera%20Psychological%20First%20Aid.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XM6WYZSQ34JW) |
 
-
 #### McMaster University
 
 | # | Topic | Certification | Verification |
@@ -292,20 +283,17 @@
 | 1 | **Learning How to Learn: Powerful mental tools to help you master tough subjects** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/McMaster%20University/Coursera%20Learning%20How%20to%20Learn%20Powerful%20mental%20tools%20to%20help%20you%20master%20tough%20subjects.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6ERLLRK8DB37) |
 | 2 | **Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/McMaster%20University/Coursera%20Mindshift%20Break%20Through%20Obstacles%20to%20Learning%20and%20Discover%20Your%20Hidden%20Potential.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BFF8KBZWGJ3V) |
 
-
 #### Osmosis.org
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **COVID-19: What You Need to Know (CME Eligible)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/Osmosis.org/Coursera%20COVID-19%20What%20You%20Need%20to%20Know%20(CME%20Eligible).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/3S6VYTCAW7LB) |
 
-
 #### SUNY - The State University of New York
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **How to Write a Resume (Project-Centered Course)** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/SUNY%20-%20The%20State%20University%20of%20New%20York/Coursera%20How%20to%20Write%20a%20Resume%20(Project-Centered%20Course).pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CGXK3AZ3AFX2) |
-
 
 #### The Linux Foundation
 
@@ -323,7 +311,6 @@
 | 3 | **Linux Tools for Developers** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Linux%20Tools%20for%20Developers.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/B97FGWQB9VW3) |
 | 4 | **Using Git for Distributed Development** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20Linux%20Foundation/Coursera%20Using%20Git%20for%20Distributed%20Development.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JXD7X9WQCZDR) |
 
-
 #### The University of Edinburgh
 
 | # | Topic | Certification | Verification |
@@ -332,14 +319,12 @@
 | 2 | **Sit Less, Get Active** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20Sit%20Less%2C%20Get%20Active.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CN5ESH57GYUD) |
 | 3 | **The Truth About Cats and Dogs** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/The%20University%20of%20Edinburgh/Coursera%20The%20Truth%20About%20Cats%20and%20Dogs.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/HCD5A6VKA3LK) |
 
-
 #### University of Alberta
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Dino 101: Dinosaur Paleobiology** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Alberta/Coursera%20Dino%20101%20Dinosaur%20Paleobiology.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/VXM8JA9WL3F9) |
 | 2 | **Mountains 101** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Alberta/Coursera%20Mountains%20101.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/JMKKTBNBDMZS) |
-
 
 #### University of California Irvine
 
@@ -348,7 +333,6 @@
 | 1 | **Concurrency in Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Concurrency%20in%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/43LG9BPBN9F4) |
 | 2 | **Functions, Methods, and Interfaces in Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AEPU275WQWJD) |
 | 3 | **Getting Started with Go** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20Irvine/Coursera%20Getting%20Started%20with%20Go.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/6D7LH29ZUBQZ) |
-
 
 #### University of California San Diego
 
@@ -360,7 +344,6 @@
 | 4 | **Machine Learning With Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Machine%20Learning%20With%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/XQKZ8RHAH9Q6) |
 | 5 | **Graph Analytics for Big Data** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%20San%20Diego/Coursera%20Graph%20Analytics%20for%20Big%20Data.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BM3429U9VMCA) |
 
-
 #### University of California, Irvine Division of Continuing Education
 
 | # | Topic | Certification | Verification |
@@ -371,13 +354,11 @@
 | 4 | **The Arduino Platform and C Programming** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20The%20Arduino%20Platform%20and%20C%20Programming.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/HVLDN2CM2RQY) |
 | 5 | **The Raspberry Pi Platform and Python Programming for the Raspberry Pi** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20California%2C%20Irvine%20Division%20of%20Continuing%20Education/Coursera%20The%20Raspberry%20Pi%20Platform%20and%20Python%20Programming%20for%20the%20Raspberry%20Pi.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AA5HYKYVNXGK) |
 
-
 #### University of Cape Town
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Building Fintech Startups in Emerging Markets** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Cape%20Town/Coursera%20Building%20Fintech%20Startups%20in%20Emerging%20Markets.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/KUYKPXNBW2C7) |
-
 
 #### University of Colorado Boulder
 
@@ -390,13 +371,11 @@
 | 4 | **Supporting Parents of a Newborn Baby** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Supporting%20Parents%20of%20a%20Newborn%20Baby.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GJA4E5FMYYQM) |
 | 5 | **Science of Exercise** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Colorado%20Boulder/Coursera%20Science%20of%20Exercise.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/AL6263EX5L7M) |
 
-
 #### University of Florida
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **COVID-19 - A clinical update** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Florida/Coursera%20COVID-19%20-%20A%20clinical%20update.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/GADRX8FNCW8W) |
-
 
 #### University of London
 
@@ -421,7 +400,6 @@
 | 8 | **Capstone: Retrieving, Processing, and Visualizing Data with Python** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/UPQWWKQ6UMWA) |
 | 9 | **Finding Purpose and Meaning In Life Living for What Matters Most** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Michigan/Coursera%20Finding%20Purpose%20and%20Meaning%20In%20Life%20Living%20for%20What%20Matters%20Most.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/BX7RV8JFBDKS) |
 
-
 #### University of Minnesota
 
 | # | Topic | Certification | Verification |
@@ -433,20 +411,17 @@
 | 4 | **Nursing Informatics Training and Education** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Nursing%20Informatics%20Training%20and%20Education.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/ZU85VSKA324A) |
 | 5 | **Leadership in Interprofessional Informatics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Minnesota/Coursera%20Leadership%20in%20Interprofessional%20Informatics.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CN3DUV4JGD32) |
 
-
 #### University of North Carolina at Chapel Hill
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Infection Prevention in Nursing Homes** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20North%20Carolina%20at%20Chapel%20Hill/Coursera%20Infection%20Prevention%20in%20Nursing%20Homes.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/R4TSARJL8LN6) |
 
-
 #### University of Toronto
 
 | # | Topic | Certification | Verification |
 | :---: | :--- | :---: | :---: |
 | 1 | **Mind Control: Managing Your Mental Health During COVID-19** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Toronto/Coursera%20Mind%20Control%20Managing%20Your%20Mental%20Health%20During%20COVID-19.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/UYPJEELASMGU) |
-
 
 #### University of Virginia
 
@@ -455,7 +430,6 @@
 | 1 | **Design Thinking for Innovation** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Virginia/Coursera%20Design%20Thinking%20for%20Innovation.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/4433UKVAKPLR) |
 | 2 | **How Things Work: An Introduction to Physics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Virginia/Coursera%20How%20Things%20Work%20An%20Introduction%20to%20Physics.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/CUH8YZ2P28HR) |
 | 3 | **Introduction to Personal Branding** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Coursera/University%20of%20Virginia/Coursera%20Introduction%20to%20Personal%20Branding.pdf) | [Verify](https://www.coursera.org/account/accomplishments/verify/854M3U9N26P8) |
-
 
 #### Yale University
 
@@ -850,7 +824,6 @@
 | :---: | :--- | :---: |
 | 1 | **The Fundamentals of Digital Marketing** | [Certificate](Google/Google%20The%20Fundamentals%20of%20Digital%20Marketing.pdf) |
 
-
 #### Google Play Academy
 
 > [!TIP]
@@ -875,7 +848,6 @@
 | 15 | **Test your app before release** | [Certificate](Google/Google%20Play%20Academy/Test%20your%20app%20before%20release%20_%20Academy%20for%20App%20Success.pdf) |
 | 16 | **Understand how Google Play supports you** | [Certificate](Google/Google%20Play%20Academy/Understand%20how%20Google%20Play%20supports%20you%20_%20Academy%20for%20App%20Success.pdf) |
 | 17 | **Vulnerability Disclosure Program Assessment** | [Certificate](Google/Google%20Play%20Academy/Vulnerability%20Disclosure%20Program%20Assessment%20_%20Academy%20for%20App%20Success.pdf) |
-
 
 #### Google Skillshop
 
@@ -1014,28 +986,252 @@
 
 ### Linkedin Learning
 
-#### Professional Certificates
+> [!NOTE]
+> **Accreditation Key:**
+> - **IIBA**: International Institute of Business Analysis
+> - **PMI**: Project Management Institute
 
-| # | Topic | Certification |
-| :---: | :--- | :---: |
-| 1 | **Become a Data Analyst** | [Certificate](Linkedin%20Learning/Become%20a%20Data%20Analyst.pdf) |
+### Adobe
+#### Essential Skills in Generative AI for Creatives &ndash; [Professional Certificate](Linkedin%20Learning/Essential%20Skills%20in%20Generative%20AI%20for%20Creatives%20by%20Adobe.pdf)
 
-#### Courses
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **What Is Generative AI?** | [Certificate](Linkedin%20Learning/What%20Is%20Generative%20AI_.pdf) |
+  | 2 | **Generative AI Imaging: What Creative Pros Need to Know** | [Certificate](Linkedin%20Learning/Generative%20AI%20Imaging_%20What%20Creative%20Pros%20Need%20to%20Know.pdf) |
+  | 3 | **Leveraging AI in Adobe Photoshop and Creative Cloud** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Adobe%20Photoshop%20and%20Creative%20Cloud.pdf) |
+  | 4 | **Generative AI: Business and Legal Concerns for Creatives** | [Certificate](Linkedin%20Learning/Generative%20AI_%20Business%20and%20Legal%20Concerns%20for%20Creatives.pdf) |
 
-| # | Topic | Certification |
-| :---: | :--- | :---: |
-| 1 | **Complete Guide to R: Wrangling, Visualizing, and Modeling Data** | [Certificate](Linkedin%20Learning/Complete%20Guide%20to%20R_%20Wrangling,%20Visualizing,%20and%20Modeling%20Data.pdf) |
-| 2 | **Data Cleaning in Python Essential Training** | [Certificate](Linkedin%20Learning/Data%20Cleaning%20in%20Python%20Essential%20Training.pdf) |
-| 3 | **Data Literacy: Exploring and Describing Data in an AI World** | [Certificate](Linkedin%20Learning/Data%20Literacy_%20Exploring%20and%20Describing%20Data%20in%20an%20AI%20World.pdf) |
-| 4 | **Learning Data Analytics: 1 Foundations** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics_%201%20Foundations.pdf) |
-| 5 | **Learning Data Analytics Part 2: Extending and Applying Core Knowledge** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics%20Part%202_%20Extending%20and%20Applying%20Core%20Knowledge.pdf) |
-| 6 | **Learning Data Visualization** | [Certificate](Linkedin%20Learning/Learning%20Data%20Visualization.pdf) |
-| 7 | **Learning Excel: Data Analysis** | [Certificate](Linkedin%20Learning/Learning%20Excel_%20Data%20Analysis.pdf) |
-| 8 | **Power BI Essential Training** | [Certificate](Linkedin%20Learning/Power%20BI%20Essential%20Training.pdf) |
-| 9 | **Predictive Analytics Essential Training: Data Mining** | [Certificate](Linkedin%20Learning/Predictive%20Analytics%20Essential%20Training_%20Data%20Mining.pdf) |
-| 10 | **SQL: Data Reporting and Analysis** | [Certificate](Linkedin%20Learning/SQL_%20Data%20Reporting%20and%20Analysis.pdf) |
-| 11 | **Tableau 2024.1: Essential Training** | [Certificate](Linkedin%20Learning/Tableau%202024.1_%20Essential%20Training.pdf) |
-| 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
+### Aha!
+#### Product Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Aha!%20Product%20Management%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Product Management First Steps** | [LinkedIn Learning](Linkedin%20Learning/Product%20Management%20First%20Steps%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Product%20Management%20First%20Steps%20(IIBA).pdf) <br> [PMI](Linkedin%20Learning/Product%20Management%20First%20Steps%20(PMI).pdf) |
+  | 2 | **Technical Product Management** | [LinkedIn Learning](Linkedin%20Learning/Technical%20Product%20Management%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Technical%20Product%20Management%20(IIBA).pdf) <br> [PMI](Linkedin%20Learning/Technical%20Product%20Management%20(PMI).pdf) |
+  | 3 | **Product Management: Building a Product Strategy** | [LinkedIn Learning](Linkedin%20Learning/Product%20Management_%20Building%20a%20Product%20Strategy%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Product%20Management_%20Building%20a%20Product%20Strategy%20(PMI).pdf) |
+  | 4 | **Product Management: Building a Product Roadmap** | [LinkedIn Learning](Linkedin%20Learning/Product%20Management_%20Building%20a%20Product%20Roadmap%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Product%20Management_%20Building%20a%20Product%20Roadmap%20(PMI).pdf) |
+  | 5 | **Product Management: Customer Development** | [LinkedIn Learning](Linkedin%20Learning/Product%20Management_%20Customer%20Development%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Product%20Management_%20Customer%20Development%20(IIBA).pdf) <br> [PMI](Linkedin%20Learning/Product%20Management_%20Customer%20Development%20(PMI).pdf) |
+
+### All Tech Is Human
+#### Responsible AI Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Governing Agentic AI Systems by All Tech Is Human** | [Certificate](Linkedin%20Learning/Governing%20Agentic%20AI%20Systems%20by%20All%20Tech%20Is%20Human.pdf) |
+  | 2 | **History of Responsible AI: From Principles to Professionalization by All Tech Is Human** | [Certificate](Linkedin%20Learning/History%20of%20Responsible%20AI_%20From%20Principles%20to%20Professionalization%20by%20All%20Tech%20Is%20Human.pdf) |
+  | 3 | **Operationalizing AI Governance: Strategy and Foundations by All Tech Is Human** | [Certificate](Linkedin%20Learning/Operationalizing%20AI%20Governance_%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.pdf) |
+  | 4 | **Principles of Responsible AI: Identifying, Understanding, and Mitigating Risks by All Tech Is Human** | [Certificate](Linkedin%20Learning/Principles%20of%20Responsible%20AI_%20Identifying,%20Understanding,%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.pdf) |
+
+### American Marketing Association
+#### Generative AI for Marketing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20Professional%20Certificate%20by%20the%20American%20Marketing%20Association.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Everyday AI Concepts** | [Certificate](Linkedin%20Learning/Everyday%20AI%20Concepts.pdf) |
+  | 2 | **Introduction to Prompt Engineering for Generative AI** | [Certificate](Linkedin%20Learning/Introduction%20to%20Prompt%20Engineering%20for%20Generative%20AI.pdf) |
+  | 3 | **A Content Marketer's Guide to Responsible AI** | [Certificate](Linkedin%20Learning/A%20Content%20Marketer%27s%20Guide%20to%20Responsible%20AI.pdf) |
+  | 4 | **Generative AI for Digital Marketers** | [LinkedIn Learning](Linkedin%20Learning/Generative%20AI%20for%20Digital%20Marketers%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Generative%20AI%20for%20Digital%20Marketers%20(PMI).pdf) |
+  | 5 | **Writing Great Content with Gen AI That Doesn't Sound Fake** | [Certificate](Linkedin%20Learning/Writing%20Great%20Content%20with%20Gen%20AI%20That%20Doesn%27t%20Sound%20Fake.pdf) |
+  | 6 | **Build Your Generative AI Plan for Marketing Success** | [Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.pdf) |
+
+### Anaconda
+#### Anaconda Python for Data Science Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Introduction to Data Science** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20Data%20Science%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Introduction%20to%20Data%20Science%20(PMI).pdf) |
+  | 2 | **Statistics Foundations 1: The Basics** | [Certificate](Linkedin%20Learning/Statistics%20Foundations%201_%20The%20Basics.pdf) |
+  | 3 | **Statistics Foundations 3: Using Data Sets** | [Certificate](Linkedin%20Learning/Statistics%20Foundations%203_%20Using%20Data%20Sets.pdf) |
+  | 4 | **Learning Python (2021)** | [Certificate](Linkedin%20Learning/Learning%20Python%20(2021).pdf) |
+  | 5 | **Python Data Analysis (2020)** | [Certificate](Linkedin%20Learning/Python%20Data%20Analysis%20(2020).pdf) |
+
+#### Machine Learning with Python Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python%20Professional%20Certificate%20by%20Anaconda.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Artificial Intelligence Foundations: Machine Learning** | [Certificate](Linkedin%20Learning/Artificial%20Intelligence%20Foundations_%20Machine%20Learning.pdf) |
+  | 2 | **Machine Learning with Python: Foundations** | [Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python_%20Foundations.pdf) |
+  | 3 | **Machine Learning with Python: Decision Trees** | [Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python_%20Decision%20Trees.pdf) |
+  | 4 | **Machine Learning with Python: Logistic Regression** | [Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python_%20Logistic%20Regression.pdf) |
+  | 5 | **Machine Learning with Python: k-Means Clustering** | [Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python_%20k-Means%20Clustering.pdf) |
+  | 6 | **Processing Text with Python Essential Training** | [Certificate](Linkedin%20Learning/Processing%20Text%20with%20Python%20Essential%20Training.pdf) |
+
+### Astronomer
+#### Data Engineering Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Engineering%20Foundations%20Professional%20Certificate%20by%20Astronomer.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Learning SQL Programming** | [Certificate](Linkedin%20Learning/Learning%20SQL%20Programming.pdf) |
+  | 2 | **Complete Guide to Python for Data Engineering: From Beginner to Advanced** | [Certificate](Linkedin%20Learning/Complete%20Guide%20to%20Python%20for%20Data%20Engineering_%20From%20Beginner%20to%20Advanced.pdf) |
+  | 3 | **Hands-On Introduction: Data Engineering** | [Certificate](Linkedin%20Learning/Hands-On%20Introduction_%20Data%20Engineering.pdf) |
+  | 4 | **Learning Apache Airflow (2023)** | [Certificate](Linkedin%20Learning/Learning%20Apache%20Airflow%20(2023).pdf) |
+  | 5 | **Introduction to Data Warehouses** | [Certificate](Linkedin%20Learning/Introduction%20to%20Data%20Warehouses.pdf) |
+  | 6 | **Learning Data Governance** | [Certificate](Linkedin%20Learning/Learning%20Data%20Governance.pdf) |
+
+### Atlassian
+#### Atlassian Agile Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Atlassian%20Agile%20Project%20Management%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Agile Foundations** | [LinkedIn Learning](Linkedin%20Learning/Agile%20Foundations%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Agile%20Foundations%20(IIBA).pdf) <br> [PMI](Linkedin%20Learning/Agile%20Foundations%20(PMI).pdf) |
+  | 2 | **Scrum: The Basics** | [LinkedIn Learning](Linkedin%20Learning/Scrum_%20The%20Basics%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Scrum_%20The%20Basics%20(PMI).pdf) |
+  | 3 | **Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues** | [LinkedIn Learning](Linkedin%20Learning/Agile%20Project%20Management%20with%20Jira%20Cloud_%201%20Projects,%20Boards,%20and%20Issues%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Agile%20Project%20Management%20with%20Jira%20Cloud_%201%20Projects,%20Boards,%20and%20Issues%20(PMI).pdf) |
+  | 4 | **Agile Project Management with Jira Cloud: 2 Lean and Agile Processes** | [LinkedIn Learning](Linkedin%20Learning/Agile%20Project%20Management%20with%20Jira%20Cloud_%202%20Lean%20and%20Agile%20Processes%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Agile%20Project%20Management%20with%20Jira%20Cloud_%202%20Lean%20and%20Agile%20Processes%20(PMI).pdf) |
+  | 5 | **Agile Project Management with Jira Cloud: 3 Advanced Topics** | [LinkedIn Learning](Linkedin%20Learning/Agile%20Project%20Management%20with%20Jira%20Cloud_%203%20Advanced%20Topics%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Agile%20Project%20Management%20with%20Jira%20Cloud_%203%20Advanced%20Topics%20(PMI).pdf) |
+  | 6 | **Mistakes to Avoid in Agile Project Management** | [LinkedIn Learning](Linkedin%20Learning/Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management%20(PMI).pdf) |
+
+#### Atlassian IT Service Management (ITSM) Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Atlassian%20IT%20Service%20Management%20(ITSM)%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **IT Service Desk: Service Management** | [Certificate](Linkedin%20Learning/IT%20Service%20Desk_%20Service%20Management.pdf) |
+  | 2 | **IT Service Management Foundations: Problem Management** | [Certificate](Linkedin%20Learning/IT%20Service%20Management%20Foundations_%20Problem%20Management.pdf) |
+  | 3 | **IT Service Management Foundations: Change Management** | [Certificate](Linkedin%20Learning/IT%20Service%20Management%20Foundations_%20Change%20Management.pdf) |
+  | 4 | **IT Service Desk: Monitoring and Metrics Fundamentals** | [Certificate](Linkedin%20Learning/IT%20Service%20Desk_%20Monitoring%20and%20Metrics%20Fundamentals.pdf) |
+
+### Canonical
+#### Ubuntu Linux Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Ubuntu%20Linux%20Professional%20Certificate%20by%20Canonical.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Learning Linux Command Line** | [Certificate](Linkedin%20Learning/Learning%20Linux%20Command%20Line.pdf) |
+  | 2 | **Ubuntu Linux: Operating System Basics** | [Certificate](Linkedin%20Learning/Ubuntu%20Linux_%20Operating%20System%20Basics.pdf) |
+  | 3 | **Ubuntu Linux: Storage Management** | [Certificate](Linkedin%20Learning/Ubuntu%20Linux_%20Storage%20Management.pdf) |
+  | 4 | **Ubuntu Linux: User and Group Management** | [Certificate](Linkedin%20Learning/Ubuntu%20Linux_%20User%20and%20Group%20Management.pdf) |
+
+### ChurnZero
+#### Customer Success Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Customer%20Success%20Foundations%20Professional%20Certificate%20by%20ChurnZero.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Move into a Customer Success Career** | [Certificate](Linkedin%20Learning/Move%20into%20a%20Customer%20Success%20Career.pdf) |
+  | 2 | **Developing a Service Mindset** | [LinkedIn Learning](Linkedin%20Learning/Developing%20a%20Service%20Mindset%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Developing%20a%20Service%20Mindset%20(PMI).pdf) |
+  | 3 | **Building Rapport with Customers** | [Certificate](Linkedin%20Learning/Building%20Rapport%20with%20Customers.pdf) |
+  | 4 | **Customer Success Foundations** | [Certificate](Linkedin%20Learning/Customer%20Success%20Foundations.pdf) |
+  | 5 | **Onboard New Customers for Loyalty, Engagement, and Expansion** | [Certificate](Linkedin%20Learning/Onboard%20New%20Customers%20for%20Loyalty,%20Engagement,%20and%20Expansion.pdf) |
+  | 6 | **Customer Experience: Journey Mapping** | [Certificate](Linkedin%20Learning/Customer%20Experience_%20Journey%20Mapping.pdf) |
+  | 7 | **Customer Retention** | [Certificate](Linkedin%20Learning/Customer%20Retention.pdf) |
+  | 8 | **Customer Experience Leadership** | [Certificate](Linkedin%20Learning/Customer%20Experience%20Leadership.pdf) |
+
+### Docker
+#### Docker Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Docker%20Foundations%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Learning Docker** | [Certificate](Linkedin%20Learning/Learning%20Docker.pdf) |
+  | 2 | **Docker: Your First Project** | [Certificate](Linkedin%20Learning/Docker_%20Your%20First%20Project.pdf) |
+  | 3 | **Learning Docker Compose** | [Certificate](Linkedin%20Learning/Learning%20Docker%20Compose.pdf) |
+
+### GitHub
+#### Career Essentials in GitHub Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20GitHub%20Copilot%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **AI Pair Programming with GitHub Copilot** | [Certificate](Linkedin%20Learning/AI%20Pair%20Programming%20with%20GitHub%20Copilot.pdf) |
+  | 2 | **Supercharge the Development Process with GitHub Extensions for Copilot Chat** | [Certificate](Linkedin%20Learning/Supercharge%20the%20Development%20Process%20with%20GitHub%20Extensions%20for%20Copilot%20Chat.pdf) |
+  | 3 | **Refactoring with GitHub Copilot** | [Certificate](Linkedin%20Learning/Refactoring%20with%20GitHub%20Copilot.pdf) |
+  | 4 | **Responsible GitHub Copilot: Creating Reliable Code Ethically** | [Certificate](Linkedin%20Learning/Responsible%20GitHub%20Copilot_%20Creating%20Reliable%20Code%20Ethically.pdf) |
+
+#### Career Essentials in GitHub Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20GitHub%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Practical GitHub Actions** | [Certificate](Linkedin%20Learning/Practical%20GitHub%20Actions.pdf) |
+  | 2 | **Practical GitHub Project Management and Collaboration** | [LinkedIn Learning](Linkedin%20Learning/Practical%20GitHub%20Project%20Management%20and%20Collaboration%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Practical%20GitHub%20Project%20Management%20and%20Collaboration%20(PMI).pdf) |
+  | 3 | **Practical GitHub Copilot** | [Certificate](Linkedin%20Learning/Practical%20GitHub%20Copilot.pdf) |
+  | 4 | **Practical GitHub Code Search** | [Certificate](Linkedin%20Learning/Practical%20GitHub%20Code%20Search.pdf) |
+
+### Grammarly
+#### Business Writing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Business%20Writing%20Professional%20Certificate%20by%20Grammarly.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Grammar Foundations** | [Certificate](Linkedin%20Learning/Grammar%20Foundations.pdf) |
+  | 2 | **Business Writing Principles** | [LinkedIn Learning](Linkedin%20Learning/Business%20Writing%20Principles%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Business%20Writing%20Principles%20(PMI).pdf) |
+  | 3 | **What's the So What: Writing Clearly for a Business Audience** | [Certificate](Linkedin%20Learning/What's%20the%20So%20What_%20Writing%20Clearly%20for%20a%20Business%20Audience.pdf) |
+  | 4 | **Writing Formal Business Letters and Emails** | [LinkedIn Learning](Linkedin%20Learning/Writing%20Formal%20Business%20Letters%20and%20Emails%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Writing%20Formal%20Business%20Letters%20and%20Emails%20(PMI).pdf) |
+  | 5 | **Writing Emails People Want to Read** | [Certificate](Linkedin%20Learning/Writing%20Emails%20People%20Want%20to%20Read.pdf) |
+  | 6 | **How to Create Executive-Level Data Visualizations** | [LinkedIn Learning](Linkedin%20Learning/How%20to%20Create%20Executive-Level%20Data%20Visualizations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/How%20to%20Create%20Executive-Level%20Data%20Visualizations%20(PMI).pdf) |
+  | 7 | **Grammarly: Your AI Writing Partner** | [LinkedIn Learning](Linkedin%20Learning/Grammarly_%20Your%20AI%20Writing%20Partner%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Grammarly_%20Your%20AI%20Writing%20Partner%20(PMI).pdf) |
+
+### Intuit Mailchimp
+#### Email Marketing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Email%20Marketing%20Professional%20Certificate%20by%20Intuit%20Mailchimp.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Email Marketing: Strategy and Optimization** | [Certificate](Linkedin%20Learning/Email%20Marketing_%20Strategy%20and%20Optimization.pdf) |
+  | 2 | **Email and Newsletter Marketing Foundations** | [LinkedIn Learning](Linkedin%20Learning/Email%20and%20Newsletter%20Marketing%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Email%20and%20Newsletter%20Marketing%20Foundations%20(PMI).pdf) |
+  | 3 | **Email Marketing Strategy: Warm Up a Cold List** | [LinkedIn Learning](Linkedin%20Learning/Email%20Marketing%20Strategy_%20Warm%20Up%20a%20Cold%20List%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Email%20Marketing%20Strategy_%20Warm%20Up%20a%20Cold%20List%20(PMI).pdf) |
+
+### KNIME
+#### Data Science Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Science%20Professional%20Certificate%20by%20KNIME.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Data Science Foundations: Fundamentals** | [Certificate](Linkedin%20Learning/Data%20Science%20Foundations_%20Fundamentals.pdf) |
+  | 2 | **Low Code/No-Code Data Literacy with KNIME: From Basic to Advanced** | [Certificate](Linkedin%20Learning/Low%20Code_No-Code%20Data%20Literacy%20with%20KNIME_%20From%20Basic%20to%20Advanced.pdf) |
+  | 3 | **Introduction to Artificial Intelligence** | [Certificate](Linkedin%20Learning/Introduction%20to%20Artificial%20Intelligence.pdf) |
+  | 4 | **Machine Learning and AI Foundations: Classification Modeling** | [Certificate](Linkedin%20Learning/Machine%20Learning%20and%20AI%20Foundations_%20Classification%20Modeling.pdf) |
+  | 5 | **Generative AI: Introduction to Large Language Models** | [Certificate](Linkedin%20Learning/Generative%20AI_%20Introduction%20to%20Large%20Language%20Models.pdf) |
+  | 6 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
+
+### LinkedIn
+#### Become a Data Analyst Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Become%20a%20Data%20Analyst.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Complete Guide to R: Wrangling, Visualizing, and Modeling Data** | [LinkedIn Learning](Linkedin%20Learning/Complete%20Guide%20to%20R_%20Wrangling,%20Visualizing,%20and%20Modeling%20Data%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Complete%20Guide%20to%20R_%20Wrangling,%20Visualizing,%20and%20Modeling%20Data%20(PMI).pdf) |
+  | 2 | **Data Cleaning in Python Essential Training** | [Certificate](Linkedin%20Learning/Data%20Cleaning%20in%20Python%20Essential%20Training.pdf) |
+  | 3 | **Data Literacy: Exploring and Describing Data in an AI World** | [Certificate](Linkedin%20Learning/Data%20Literacy_%20Exploring%20and%20Describing%20Data%20in%20an%20AI%20World.pdf) |
+  | 4 | **Learning Data Analytics: 1 Foundations** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics_%201%20Foundations.pdf) |
+  | 5 | **Learning Data Analytics Part 2: Extending and Applying Core Knowledge** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics%20Part%202_%20Extending%20and%20Applying%20Core%20Knowledge.pdf) |
+  | 6 | **Learning Data Visualization** | [Certificate](Linkedin%20Learning/Learning%20Data%20Visualization.pdf) |
+  | 7 | **Learning Excel: Data Analysis** | [Certificate](Linkedin%20Learning/Learning%20Excel_%20Data%20Analysis.pdf) |
+  | 8 | **Power BI Essential Training** | [Certificate](Linkedin%20Learning/Power%20BI%20Essential%20Training.pdf) |
+  | 9 | **Predictive Analytics Essential Training: Data Mining** | [LinkedIn Learning](Linkedin%20Learning/Predictive%20Analytics%20Essential%20Training_%20Data%20Mining%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Predictive%20Analytics%20Essential%20Training_%20Data%20Mining%20(IIBA).pdf) |
+  | 10 | **SQL: Data Reporting and Analysis** | [Certificate](Linkedin%20Learning/SQL_%20Data%20Reporting%20and%20Analysis.pdf) |
+  | 11 | **Tableau 2024.1: Essential Training** | [Certificate](Linkedin%20Learning/Tableau%202024.1_%20Essential%20Training.pdf) |
+  | 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
+
+### Microsoft
+#### Career Essentials in Data Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Introduction to Career Skills in Data Analytics** | [Certificate](Linkedin%20Learning/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20(2022).pdf) |
+  | 2 | **Learning Data Analytics: 1 Foundations** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics_%201%20Foundations.pdf) |
+  | 3 | **Learning Data Analytics Part 2: Extending and Applying Core Knowledge** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics%20Part%202_%20Extending%20and%20Applying%20Core%20Knowledge.pdf) |
+  | 4 | **Data Analytics for Business Professionals** | [LinkedIn Learning](Linkedin%20Learning/Data%20Analytics%20for%20Business%20Professionals%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Data%20Analytics%20for%20Business%20Professionals%20(IIBA).pdf) |
+  | 5 | **Data Visualization for Data Analysts and Analytics** | [LinkedIn Learning](Linkedin%20Learning/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics%20(IIBA).pdf) |
+
+#### Career Essentials in Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Project%20Management%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Project Management Foundations** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations%20(PMI).pdf) |
+  | 2 | **Project Management Foundations: Ethics** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Ethics%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Ethics%20(PMI).pdf) |
+  | 3 | **Project Management Foundations: Requirements** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Requirements%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Requirements%20(PMI).pdf) |
+  | 4 | **Project Management Foundations: Schedules** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Schedules%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Schedules%20(PMI).pdf) |
+  | 5 | **Project Management Foundations: Budgets** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Budgets%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Budgets%20(PMI).pdf) |
+  | 6 | **Project Management Foundations: Teams** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Teams%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Teams%20(PMI).pdf) |
+  | 7 | **Project Management Foundations: Communication** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Communication%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Communication%20(PMI).pdf) |
+  | 8 | **Project Management Foundations: Risk** | [LinkedIn Learning](Linkedin%20Learning/Project%20Management%20Foundations_%20Risk%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Project%20Management%20Foundations_%20Risk%20(PMI).pdf) |
+  | 9 | **Managing Project Stakeholders** | [LinkedIn Learning](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(PMI).pdf) |
+  | 10 | **Modern Project Management in Microsoft 365** | [LinkedIn Learning](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(PMI).pdf) |
+
+#### Microsoft Azure AI Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20AI%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** | [Certificate](Linkedin%20Learning/Microsoft%20Azure%20AI%20Essentials_%20Workloads%20and%20Machine%20Learning%20on%20Azure.pdf) |
+
+
+#### Microsoft Azure Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Microsoft Azure Essentials by Microsoft Press** | [Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20by%20Microsoft%20Press.pdf) |
+
 
 ---
 
@@ -1253,7 +1449,6 @@
 > 
 > [arXiv](https://arxiv.org/a/thakur_a_3.html) | [Google Scholar](https://scholar.google.com/citations?user=0inooPgAAAAJ) | [ORCID](https://orcid.org/0000-0001-5644-1575) | [ResearchGate](https://www.researchgate.net/profile/Amey-Thakur) | [viXra](https://vixra.org/author/amey_thakur)
 
-
 #### 1. Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
 
 | Feature | Scholarly Asset |
@@ -1264,7 +1459,6 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353158066_Adversarial_Open_Domain_Adaption_Framework_AODA_Sketch-to-Photo_Synthesis) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
-
 #### 2. A Comparative Study on Distributed File Systems
 
 | Feature | Scholarly Asset |
@@ -1273,7 +1467,6 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354322981_A_Comparative_Study_on_Distributed_File_Systems) |
 | **Project Portal** | [ResearchGate Project](https://www.researchgate.net/project/A-Comparative-Study-on-Distributed-File-Systems) |
 | **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
-
 
 #### 3. Bangalore House Price Prediction
 
@@ -1287,7 +1480,6 @@
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Bangalore%20House%20Price%20Prediction/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
-
 #### 4. QuadTree Visualizer
 
 | Feature | Scholarly Asset |
@@ -1298,7 +1490,6 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 | **Demonstration** | [YouTube Video](https://youtu.be/8un0Qu8ibNk) |
 | **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
-
 
 #### 5. Text Summarizer
 
@@ -1312,7 +1503,6 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/2drrqsSB1Bc) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
-
 #### 6. Optimizing Stock Trading Strategy With Reinforcement Learning
 
 | Feature | Scholarly Asset |
@@ -1322,7 +1512,6 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
 | **Demonstration** | [YouTube Video](https://youtu.be/Q82a93hjxJE) |
 | **Authors** | **Amey Thakur** |
-
 
 #### 7. White-Box Cartoonization Using An Extended GAN Framework
 
@@ -1336,7 +1525,6 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/8VNc8p6AKmw) |
 | **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
 
-
 #### 8. Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
 
 | Feature | Scholarly Asset |
@@ -1347,7 +1535,6 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
 | **Authors** | **Amey Thakur**, Karan Dhiman & Mayuresh Phansikar |
 
-
 #### 9. Generative Adversarial Networks
 
 | Feature | Scholarly Asset |
@@ -1357,7 +1544,6 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
-
 #### 10. Fundamentals of Neural Networks
 
 | Feature | Scholarly Asset |
@@ -1366,7 +1552,6 @@
 | **Published Article** | [DOI: 10.22214/ijraset.2021.37362](http://dx.doi.org/10.22214/ijraset.2021.37362) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) |
 | **Authors** | **Amey Thakur**, Archit Konde |
-
 
 #### 11. Pizza Ordering Chatbot Using Amazon Lex
 
@@ -1379,7 +1564,6 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) |
 | **Authors** | **Amey Thakur**, Mega Satish |
 
-
 #### 12. Digital Bookstore
 
 | Feature | Scholarly Asset |
@@ -1389,7 +1573,6 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
 | **Demonstration** | [YouTube Video](https://youtu.be/JuUix8olOC8) |
 | **Authors** | **Amey Thakur**, Mega Satish |
-
 
 #### 13. Chat Room using HTML, PHP, CSS, JS, AJAX
 
@@ -1402,7 +1585,6 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/Aem0k2Dl9fU) |
 | **Authors** | **Amey Thakur**, Karan Dhiman |
 
-
 #### 14. Car Rental Database System
 
 | Feature | Scholarly Asset |
@@ -1412,7 +1594,6 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
 | **Authors** | **Amey Thakur** |
 
-
 #### 15. Hangman Word Game
 
 | Feature | Scholarly Asset |
@@ -1421,7 +1602,6 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 | **Demonstration** | [YouTube Video](https://youtu.be/JsT9KYKPUgs) |
 | **Authors** | **Amey Thakur**, Mega Satish & Saakshi Deokar |
-
 
 #### 16. Clock Synchronization in Distributed Systems
 
@@ -1433,7 +1613,6 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.31450.82887](http://dx.doi.org/10.13140/RG.2.2.31450.82887) |
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg) |
 | **Authors** | **Amey Thakur**, Mega Satish |
-
 
 #### 17. Online Chess Game
 
@@ -1463,7 +1642,6 @@
 | :---: | :--- | :---: | :---: |
 | 1 | **Badminton Summer Camp** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Badminton/2010%20Badminton%20Camp.pdf) |
 
-
 #### 🏀 Basketball
 
 > [!IMPORTANT]
@@ -1479,7 +1657,6 @@
 | 6 | **Rink Football** | TEAM SKS | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Eureka/2014%20Eureka%20Rink%20Football.pdf) |
 | 7 | **SFA Mumbai 2015** | 3rd Place | [Bronze Medal](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Basketball/2015%20SFA.pdf) |
 
-
 #### 📺 Tournament Coverage (SFA Mumbai)
 | # | Matchup | Coverage | Portal |
 | :---: | :--- | :---: | :---: |
@@ -1488,7 +1665,6 @@
 | 3 | **P.G Garodia vs Saraswati** | Semi-Final | [YouTube Video](https://www.youtube.com/watch?v=MzYH0ijp_2o) |
 | 4 | **Saraswati vs Amolakh Amichand** | 3rd Place | [YouTube Video](https://www.youtube.com/watch?v=J8T7OOXbEY4) |
 
-
 #### 🛼 Skating
 | # | Event | Achievement | Certification |
 | :---: | :--- | :---: | :---: |
@@ -1496,7 +1672,6 @@
 | 2 | **Aryan Roller Skating** | Rank 1 & 2 | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2012%20Aryan%20Roller%20Skating%20Competition.pdf) |
 | 3 | **District Skating (2014)** | 2nd Place | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2014%20District%20Level%20Skating%20Competition.pdf) |
 | 4 | **SKATE INDIA (2013)** | Finisher | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Sports/Skating/2013%20District%20Level%20Skating%20Competition.pdf) |
-
 
 #### 🧠 Technical Sports
 | # | Event | Achievement | Certification |
@@ -1582,4 +1757,56 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
