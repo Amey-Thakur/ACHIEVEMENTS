@@ -1320,6 +1320,12 @@
   | 6 | **Introduction to ESG: Environmental, Social, and Governance** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(PMI).pdf) |
   | 7 | **Performing a Sustainability Audit with Microsoft Sustainability Manager** | [Certificate](Linkedin%20Learning/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.pdf) |
 
+#### Career Essentials in System Administration Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Career Essentials in System Administration by Microsoft and LinkedIn** | [Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf) |
+
 #### Human Skills in the Age of AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Human%20Skills%20in%20the%20Age%20of%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
