@@ -1204,6 +1204,16 @@
   | 4 | **Data Analytics for Business Professionals** | [LinkedIn Learning](Linkedin%20Learning/Data%20Analytics%20for%20Business%20Professionals%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Data%20Analytics%20for%20Business%20Professionals%20(IIBA).pdf) |
   | 5 | **Data Visualization for Data Analysts and Analytics** | [LinkedIn Learning](Linkedin%20Learning/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics%20(IIBA).pdf) |
 
+#### Career Essentials in Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **What Is Generative AI?** | [Certificate](Linkedin%20Learning/What%20Is%20Generative%20AI_.pdf) |
+  | 2 | **Your Top AI Questions Answered: AI Literacy for Everyone** | [Certificate](Linkedin%20Learning/Your%20Top%20AI%20Questions%20Answered_%20AI%20Literacy%20for%20Everyone.pdf) |
+  | 3 | **Learning Microsoft 365 Copilot for Work (2025)** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2025).pdf) |
+  | 4 | **Ethics in the Age of Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Ethics%20in%20the%20Age%20of%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Ethics%20in%20the%20Age%20of%20Generative%20AI%20(PMI).pdf) |
+  | 5 | **Everyday AI Concepts** | [Certificate](Linkedin%20Learning/Everyday%20AI%20Concepts.pdf) |
+
 #### Career Essentials in Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Project%20Management%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
