@@ -1210,6 +1210,16 @@
   | :---: | :--- | :---: |
   | 1 | **Leveraging AI in Your Nonprofit Role by Microsoft and NetHope** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Your%20Nonprofit%20Role%20by%20Microsoft%20and%20NetHope.pdf) |
   | 2 | **Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.pdf) |
+#### AI for Organizational Leaders Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Organizational%20Leaders%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Generative AI for Business Leaders (2025)** | [Certificate](Linkedin%20Learning/Generative%20AI%20for%20Business%20Leaders%20(2025).pdf) |
+  | 2 | **How to Keep Your Team on the Bleeding Edge of AI Innovation** | [Certificate](Linkedin%20Learning/How%20to%20Keep%20Your%20Team%20on%20the%20Bleeding%20Edge%20of%20AI%20Innovation.pdf) |
+  | 3 | **AI Challenges and Opportunities for Leadership** | [LinkedIn Learning](Linkedin%20Learning/AI%20Challenges%20and%20Opportunities%20for%20Leadership%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/AI%20Challenges%20and%20Opportunities%20for%20Leadership%20(PMI).pdf) |
+  | 4 | **Integrating Generative AI into Business Strategy** | [LinkedIn Learning](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(PMI).pdf) <br> [HRCI](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(HRCI).pdf) <br> [SHRM](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(SHRM).pdf) |
+  | 5 | **AI Literacy for Business Leaders** | [Certificate](Linkedin%20Learning/AI%20Literacy%20for%20Business%20Leaders.pdf) |
+  | 6 | **Leading Responsible AI in Organizations** | [LinkedIn Learning](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(PMI).pdf) <br> [HRCI](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(HRCI).pdf) <br> [SHRM](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(SHRM).pdf) |
 #### Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1847,6 +1857,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
