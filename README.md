@@ -1485,6 +1485,16 @@
   | 3 | **Building Generative AI Apps to Talk to Your Data** | [Certificate](Linkedin%20Learning/Building%20Generative%20AI%20Apps%20to%20Talk%20to%20Your%20Data.pdf) |
   | 4 | **Building AI Agents with Snowflake** | [Certificate](Linkedin%20Learning/Building%20AI%20Agents%20with%20Snowflake.pdf) |
 
+### TestMu AI
+#### TestMu AI Software Testing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Software%20Testing%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Programming Foundations: Software Testing/QA** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Software%20Testing_QA.pdf) |
+  | 2 | **Software Testing Tips Weekly** | [Certificate](Linkedin%20Learning/Software%20Testing%20Tips%20Weekly.pdf) |
+  | 3 | **Agile Testing** | [Certificate](Linkedin%20Learning/Agile%20Testing.pdf) |
+  | 4 | **Succeeding in Software Testing** | [Certificate](Linkedin%20Learning/Succeeding%20in%20Software%20Testing.pdf) |
+
 ---
 
 ### LTCE Webinar
