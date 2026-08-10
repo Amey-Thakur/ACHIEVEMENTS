@@ -1515,6 +1515,19 @@
   | 6 | **Presenting Technical Information with Stories** | [Certificate](Linkedin%20Learning/Presenting%20Technical%20Information%20with%20Stories.pdf) |
   | 7 | **Impromptu Speaking** | [Certificate](Linkedin%20Learning/Impromptu%20Speaking.pdf) |
 
+### Wolfram Research
+#### Statistics Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Statistics Foundations 1: The Basics** | [Certificate](Linkedin%20Learning/Statistics%20Foundations%201_%20The%20Basics.pdf) |
+  | 2 | **Statistics Foundations 2: Probability** | [Certificate](Linkedin%20Learning/Statistics%20Foundations%202_%20Probability.pdf) |
+  | 3 | **Statistics Foundations 3: Using Data Sets** | [Certificate](Linkedin%20Learning/Statistics%20Foundations%203_%20Using%20Data%20Sets.pdf) |
+  | 4 | **Statistics Foundations 4: Advanced Topics** | [Certificate](Linkedin%20Learning/Statistics%20Foundations%204_%20Advanced%20Topics.pdf) |
+  | 5 | **Excel Statistics Essential Training: 1** | [Certificate](Linkedin%20Learning/Excel%20Statistics%20Essential%20Training_%201.pdf) |
+  | 6 | **Excel Statistics Essential Training: 2** | [Certificate](Linkedin%20Learning/Excel%20Statistics%20Essential%20Training_%202.pdf) |
+  | 7 | **Statistical Analysis with Wolfram Language** | [Certificate](Linkedin%20Learning/Statistical%20Analysis%20with%20Wolfram%20Language.pdf) |
+
 ---
 
 ### LTCE Webinar
