@@ -990,6 +990,7 @@
 > **Accreditation Key:**
 > - **HRCI**: HR Certification Institute
 > - **IIBA**: International Institute of Business Analysis
+> - **NASBA**: National Association of State Boards of Accountancy
 > - **PMI**: Project Management Institute
 > - **SHRM**: Society for Human Resource Management
 
@@ -1299,6 +1300,14 @@
   | 9 | **Managing Project Stakeholders** | [LinkedIn Learning](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(PMI).pdf) |
   | 10 | **Modern Project Management in Microsoft 365** | [LinkedIn Learning](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(PMI).pdf) |
 
+#### Career Essentials in Software Development Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Software%20Development%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Introduction to Career Skills in Software Development** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20Career%20Skills%20in%20Software%20Development%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Introduction%20to%20Career%20Skills%20in%20Software%20Development%20(PMI).pdf) <br> [HRCI](Linkedin%20Learning/Introduction%20to%20Career%20Skills%20in%20Software%20Development%20(HRCI).pdf) <br> [SHRM](Linkedin%20Learning/Introduction%20to%20Career%20Skills%20in%20Software%20Development%20(SHRM).pdf) <br> [NASBA](Linkedin%20Learning/Introduction%20to%20Career%20Skills%20in%20Software%20Development%20(NASBA).pdf) |
+  | 2 | **Programming Foundations: Fundamentals** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Fundamentals.pdf) |
+  | 3 | **Programming Foundations: Beyond the Fundamentals** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Beyond%20the%20Fundamentals.pdf) |
+  | 4 | **Programming Foundations: Object-Oriented Design** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Object-Oriented%20Design.pdf) |
 #### Career Essentials in Sustainable Tech Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Sustainable%20Tech%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
