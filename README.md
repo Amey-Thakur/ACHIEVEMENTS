@@ -988,6 +988,7 @@
 
 > [!NOTE]
 > **Accreditation Key:**
+> - **CompTIA**: Computing Technology Industry Association
 > - **HRCI**: HR Certification Institute
 > - **IIBA**: International Institute of Business Analysis
 > - **NASBA**: National Association of State Boards of Accountancy
@@ -1435,6 +1436,15 @@
   | :---: | :--- | :---: |
   | 1 | **Learning the JavaScript Language** | [Certificate](Linkedin%20Learning/Learning%20the%20JavaScript%20Language.pdf) |
   | 2 | **JavaScript Essential Training** | [Certificate](Linkedin%20Learning/JavaScript%20Essential%20Training.pdf) |
+
+### PagerDuty
+#### DevOps Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **DevOps Foundations** | [CompTIA](Linkedin%20Learning/DevOps%20Foundations%20(CompTIA).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/DevOps%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/DevOps%20Foundations%20(PMI).pdf) |
+  | 2 | **DevOps Foundations: Infrastructure as Code** | [Certificate](Linkedin%20Learning/DevOps%20Foundations_%20Infrastructure%20as%20Code.pdf) |
+  | 3 | **DevOps Foundations: Continuous Delivery/Continuous Integration** | [CompTIA](Linkedin%20Learning/DevOps%20Foundations_%20Continuous%20Delivery_Continuous%20Integration%20(CompTIA).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/DevOps%20Foundations_%20Continuous%20Delivery_Continuous%20Integration%20(LinkedIn%20Learning).pdf) |
 
 ---
 
