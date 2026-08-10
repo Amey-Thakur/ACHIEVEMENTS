@@ -1262,6 +1262,11 @@
   | 9 | **Managing Project Stakeholders** | [LinkedIn Learning](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(PMI).pdf) |
   | 10 | **Modern Project Management in Microsoft 365** | [LinkedIn Learning](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(PMI).pdf) |
 
+#### Microsoft 365 Copilot Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Microsoft Copilot Essentials by Microsoft Press** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot%20Essentials%20by%20Microsoft%20Press.pdf) |
 #### Microsoft Azure AI Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20AI%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1817,6 +1822,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
