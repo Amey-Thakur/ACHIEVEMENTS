@@ -1446,6 +1446,16 @@
   | 2 | **DevOps Foundations: Infrastructure as Code** | [Certificate](Linkedin%20Learning/DevOps%20Foundations_%20Infrastructure%20as%20Code.pdf) |
   | 3 | **DevOps Foundations: Continuous Delivery/Continuous Integration** | [CompTIA](Linkedin%20Learning/DevOps%20Foundations_%20Continuous%20Delivery_Continuous%20Integration%20(CompTIA).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/DevOps%20Foundations_%20Continuous%20Delivery_Continuous%20Integration%20(LinkedIn%20Learning).pdf) |
 
+### SS&C Blue Prism
+#### SS&C Blue Prism Robotic Process Automation Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/SS&C%20Blue%20Prism%20Robotic%20Process%20Automation%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Introducing Robotic Process Automation** | [Certificate](Linkedin%20Learning/Introducing%20Robotic%20Process%20Automation.pdf) |
+  | 2 | **Process Mining for Robotic Process Automation** | [Certificate](Linkedin%20Learning/Process%20Mining%20for%20Robotic%20Process%20Automation.pdf) |
+  | 3 | **Process Discovery for Robotic Process Automation** | [Certificate](Linkedin%20Learning/Process%20Discovery%20for%20Robotic%20Process%20Automation.pdf) |
+  | 4 | **Intelligent Automation Foundations** | [Certificate](Linkedin%20Learning/Intelligent%20Automation%20Foundations.pdf) |
+
 ---
 
 ### LTCE Webinar
