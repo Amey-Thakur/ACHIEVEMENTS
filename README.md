@@ -53,6 +53,7 @@
  - **[Intel](#intel)**
  - **[Julia Academy](#julia-academy)**
  - **[Kaggle](#kaggle)**
+ - **[Linkedin Learning](#linkedin-learning)**
  - **[LTCE Webinar](#ltce-webinar)**
  - **[MathWorks](#mathworks)**
  - **[Microsoft](#microsoft)**
@@ -1011,6 +1012,33 @@
 
 ---
 
+### Linkedin Learning
+
+#### Professional Certificates
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Become a Data Analyst** | [Certificate](Linkedin%20Learning/Become%20a%20Data%20Analyst.pdf) |
+
+#### Courses
+
+| # | Topic | Certification |
+| :---: | :--- | :---: |
+| 1 | **Complete Guide to R: Wrangling, Visualizing, and Modeling Data** | [Certificate](Linkedin%20Learning/Complete%20Guide%20to%20R_%20Wrangling,%20Visualizing,%20and%20Modeling%20Data.pdf) |
+| 2 | **Data Cleaning in Python Essential Training** | [Certificate](Linkedin%20Learning/Data%20Cleaning%20in%20Python%20Essential%20Training.pdf) |
+| 3 | **Data Literacy: Exploring and Describing Data in an AI World** | [Certificate](Linkedin%20Learning/Data%20Literacy_%20Exploring%20and%20Describing%20Data%20in%20an%20AI%20World.pdf) |
+| 4 | **Learning Data Analytics: 1 Foundations** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics_%201%20Foundations.pdf) |
+| 5 | **Learning Data Analytics Part 2: Extending and Applying Core Knowledge** | [Certificate](Linkedin%20Learning/Learning%20Data%20Analytics%20Part%202_%20Extending%20and%20Applying%20Core%20Knowledge.pdf) |
+| 6 | **Learning Data Visualization** | [Certificate](Linkedin%20Learning/Learning%20Data%20Visualization.pdf) |
+| 7 | **Learning Excel: Data Analysis** | [Certificate](Linkedin%20Learning/Learning%20Excel_%20Data%20Analysis.pdf) |
+| 8 | **Power BI Essential Training** | [Certificate](Linkedin%20Learning/Power%20BI%20Essential%20Training.pdf) |
+| 9 | **Predictive Analytics Essential Training: Data Mining** | [Certificate](Linkedin%20Learning/Predictive%20Analytics%20Essential%20Training_%20Data%20Mining.pdf) |
+| 10 | **SQL: Data Reporting and Analysis** | [Certificate](Linkedin%20Learning/SQL_%20Data%20Reporting%20and%20Analysis.pdf) |
+| 11 | **Tableau 2024.1: Essential Training** | [Certificate](Linkedin%20Learning/Tableau%202024.1_%20Essential%20Training.pdf) |
+| 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
+
+---
+
 ### LTCE Webinar
 
 #### Technical Seminars
@@ -1554,3 +1582,4 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
