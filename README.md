@@ -1326,6 +1326,18 @@
   | :---: | :--- | :---: |
   | 1 | **Career Essentials in System Administration by Microsoft and LinkedIn** | [Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf) |
 
+#### Generative AI for Marketing with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Generative AI for Digital Marketers** | [LinkedIn Learning](Linkedin%20Learning/Generative%20AI%20for%20Digital%20Marketers%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Generative%20AI%20for%20Digital%20Marketers%20(PMI).pdf) |
+  | 2 | **The Communicator's Guide to AI: Tools and Mindsets for Modern PR and Media** | [Certificate](Linkedin%20Learning/The%20Communicator's%20Guide%20to%20AI_%20Tools%20and%20Mindsets%20for%20Modern%20PR%20and%20Media.pdf) |
+  | 3 | **Learning Microsoft 365 Copilot for Work (2025)** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2025).pdf) |
+  | 4 | **Microsoft Copilot: The Art of Prompt Writing** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot_%20The%20Art%20of%20Prompt%20Writing.pdf) |
+  | 5 | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
+  | 6 | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
+  | 7 | **Microsoft 365 Copilot: Helpful Tips for Marketers** | [Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot_%20Helpful%20Tips%20for%20Marketers.pdf) |
+
 #### Human Skills in the Age of AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Human%20Skills%20in%20the%20Age%20of%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
