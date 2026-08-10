@@ -1194,6 +1194,19 @@
   | 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
 
 ### Microsoft
+#### Career Essentials in Business Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Business%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Business Benefits Realization Foundations** | [LinkedIn Learning](Linkedin%20Learning/Business%20Benefits%20Realization%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Business%20Benefits%20Realization%20Foundations%20(PMI).pdf) |
+  | 2 | **Business Analysis Foundations: Business Process Modeling** | [LinkedIn Learning](Linkedin%20Learning/Business%20Analysis%20Foundations_%20Business%20Process%20Modeling%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Business%20Analysis%20Foundations_%20Business%20Process%20Modeling%20(PMI).pdf) <br> [IIBA](Linkedin%20Learning/Business%20Analysis%20Foundations_%20Business%20Process%20Modeling%20(IIBA).pdf) |
+  | 3 | **Modern Project Management in Microsoft 365** | [LinkedIn Learning](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(PMI).pdf) |
+  | 4 | **Managing Data with Microsoft 365** | [Certificate](Linkedin%20Learning/Managing%20Data%20with%20Microsoft%20365.pdf) |
+  | 5 | **Business Analysis: Essential Tools and Techniques** | [LinkedIn Learning](Linkedin%20Learning/Business%20Analysis_%20Essential%20Tools%20and%20Techniques%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Business%20Analysis_%20Essential%20Tools%20and%20Techniques%20(IIBA).pdf) |
+  | 6 | **Introduction to Business Analysis** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20Business%20Analysis%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Introduction%20to%20Business%20Analysis%20(IIBA).pdf) |
+  | 7 | **Generative AI for Business Analysts** | [LinkedIn Learning](Linkedin%20Learning/Generative%20AI%20for%20Business%20Analysts%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Generative%20AI%20for%20Business%20Analysts%20(PMI).pdf) <br> [IIBA](Linkedin%20Learning/Generative%20AI%20for%20Business%20Analysts%20(IIBA).pdf) |
+  | 8 | **Agentic AI for Business Analysis** | [LinkedIn Learning](Linkedin%20Learning/Agentic%20AI%20for%20Business%20Analysis%20(LinkedIn%20Learning).pdf) <br> [IIBA](Linkedin%20Learning/Agentic%20AI%20for%20Business%20Analysis%20(IIBA).pdf) |
+  | 9 | **The Role of Business Analysis in Data Analytics** | [Certificate](Linkedin%20Learning/The%20Role%20of%20Business%20Analysis%20in%20Data%20Analytics.pdf) |
 #### Career Essentials in Data Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1773,6 +1786,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
