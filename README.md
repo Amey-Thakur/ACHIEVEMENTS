@@ -1232,6 +1232,12 @@
   | :---: | :--- | :---: |
   | 1 | **Microsoft Azure Essentials by Microsoft Press** | [Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20by%20Microsoft%20Press.pdf) |
 
+#### Microsoft Security Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Microsoft Security Essentials: Concepts, Solutions, and AI-Powered Protection** | [Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials_%20Concepts,%20Solutions,%20and%20AI-Powered%20Protection.pdf) |
+
 
 ---
 
