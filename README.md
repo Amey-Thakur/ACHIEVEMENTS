@@ -988,8 +988,10 @@
 
 > [!NOTE]
 > **Accreditation Key:**
+> - **HRCI**: HR Certification Institute
 > - **IIBA**: International Institute of Business Analysis
 > - **PMI**: Project Management Institute
+> - **SHRM**: Society for Human Resource Management
 
 ### Adobe
 #### Essential Skills in Generative AI for Creatives &ndash; [Professional Certificate](Linkedin%20Learning/Essential%20Skills%20in%20Generative%20AI%20for%20Creatives%20by%20Adobe.pdf)
@@ -1297,6 +1299,17 @@
   | 9 | **Managing Project Stakeholders** | [LinkedIn Learning](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(PMI).pdf) |
   | 10 | **Modern Project Management in Microsoft 365** | [LinkedIn Learning](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(PMI).pdf) |
 
+#### Career Essentials in Sustainable Tech Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Sustainable%20Tech%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Sustainability Foundations: Core Concepts** | [LinkedIn Learning](Linkedin%20Learning/Sustainability%20Foundations_%20Core%20Concepts%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Sustainability%20Foundations_%20Core%20Concepts%20(PMI).pdf) |
+  | 2 | **Sustainability as an Innovation Opportunity** | [LinkedIn Learning](Linkedin%20Learning/Sustainability%20as%20an%20Innovation%20Opportunity%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Sustainability%20as%20an%20Innovation%20Opportunity%20(PMI).pdf) |
+  | 3 | **Including Sustainability in Your Cloud Strategy** | [Certificate](Linkedin%20Learning/Including%20Sustainability%20in%20Your%20Cloud%20Strategy.pdf) |
+  | 4 | **Microsoft Cloud for Sustainability: ESG and the Future of Business** | [Certificate](Linkedin%20Learning/Microsoft%20Cloud%20for%20Sustainability_%20ESG%20and%20the%20Future%20of%20Business.pdf) |
+  | 5 | **An Introduction to AI and Sustainability** | [Certificate](Linkedin%20Learning/An%20Introduction%20to%20AI%20and%20Sustainability.pdf) |
+  | 6 | **Introduction to ESG: Environmental, Social, and Governance** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(PMI).pdf) |
+  | 7 | **Performing a Sustainability Audit with Microsoft Sustainability Manager** | [Certificate](Linkedin%20Learning/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.pdf) |
 #### Microsoft 365 Copilot Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
