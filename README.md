@@ -1194,6 +1194,18 @@
   | 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
 
 ### Microsoft
+#### Career Essentials in Administrative Assistance Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Administrative%20Assistance%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Communication Foundations** | [LinkedIn Learning](Linkedin%20Learning/Communication%20Foundations%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Communication%20Foundations%20(PMI).pdf) |
+  | 2 | **Learning Microsoft 365 Copilot for Work (2025)** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2025).pdf) |
+  | 3 | **Tips for Writing Business Emails** | [Certificate](Linkedin%20Learning/Tips%20for%20Writing%20Business%20Emails.pdf) |
+  | 4 | **Building a Time Management Mindset** | [Certificate](Linkedin%20Learning/Building%20a%20Time%20Management%20Mindset.pdf) |
+  | 5 | **Learning Microsoft 365** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365.pdf) |
+  | 6 | **Administrative Professional Foundations** | [Certificate](Linkedin%20Learning/Administrative%20Professional%20Foundations.pdf) |
+  | 7 | **Business Etiquette: Phone, Email, and Text** | [LinkedIn Learning](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(PMI).pdf) <br> [HRCI](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(HRCI).pdf) <br> [SHRM](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(SHRM).pdf) |
+
 #### Career Essentials in Business Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Business%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1786,6 +1798,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
