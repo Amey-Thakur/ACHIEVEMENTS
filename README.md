@@ -1194,6 +1194,16 @@
   | 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
 
 ### Microsoft
+#### AI for Managers Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Managers%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Become an AI-Powered People Manager** | [Certificate](Linkedin%20Learning/Become%20an%20AI-Powered%20People%20Manager.pdf) |
+  | 2 | **The Manager's Guide to Career Conversations in the Age of AI** | [Certificate](Linkedin%20Learning/The%20Manager's%20Guide%20to%20Career%20Conversations%20in%20the%20Age%20of%20AI.pdf) |
+  | 3 | **Enhance Your Coaching Impact with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Enhance%20Your%20Coaching%20Impact%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Enhance%20Your%20Coaching%20Impact%20with%20Generative%20AI%20(PMI).pdf) |
+  | 4 | **Building a Collaborative Team Culture with AI** | [Certificate](Linkedin%20Learning/Building%20a%20Collaborative%20Team%20Culture%20with%20AI.pdf) |
+  | 5 | **Amplify Your Critical Thinking with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(PMI).pdf) |
+  | 6 | **Responsible AI for Managers** | [Certificate](Linkedin%20Learning/Responsible%20AI%20for%20Managers.pdf) |
 #### Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1831,6 +1841,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
