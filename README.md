@@ -1338,6 +1338,17 @@
   | 6 | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
   | 7 | **Microsoft 365 Copilot: Helpful Tips for Marketers** | [Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot_%20Helpful%20Tips%20for%20Marketers.pdf) |
 
+#### Generative AI for Sales with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Sales%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Sales Strategy: Using AI and Automation to Sell More** | [Certificate](Linkedin%20Learning/Sales%20Strategy_%20Using%20AI%20and%20Automation%20to%20Sell%20More.pdf) |
+  | 2 | **How to Generate Marketing Leads with AI** | [Certificate](Linkedin%20Learning/How%20to%20Generate%20Marketing%20Leads%20with%20AI.pdf) |
+  | 3 | **Learning Microsoft 365 Copilot for Work** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365%20Copilot%20for%20Work.pdf) |
+  | 4 | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
+  | 5 | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
+  | 6 | **Microsoft 365 Copilot: Helpful Tips for Sales Professionals** | [Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot_%20Helpful%20Tips%20for%20Sales%20Professionals.pdf) |
+
 #### Human Skills in the Age of AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Human%20Skills%20in%20the%20Age%20of%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
