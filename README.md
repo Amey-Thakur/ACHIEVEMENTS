@@ -1467,6 +1467,16 @@
   | 3 | **Introduction to IT Architecture** | [CompTIA](Linkedin%20Learning/Introduction%20to%20IT%20Architecture%20(CompTIA).pdf) <br> [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20IT%20Architecture%20(LinkedIn%20Learning).pdf) |
   | 4 | **Creating Your IT Strategy** | [Certificate](Linkedin%20Learning/Creating%20Your%20IT%20Strategy.pdf) |
 
+### Snowflake
+#### Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20Professional%20Certificate%20by%20Snowflake.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Intro to Snowflake for Devs, Data Scientists, Data Engineers** | [Certificate](Linkedin%20Learning/Intro%20to%20Snowflake%20for%20Devs,%20Data%20Scientists,%20Data%20Engineers.pdf) |
+  | 2 | **Introduction to Gen AI with Snowflake** | [Certificate](Linkedin%20Learning/Introduction%20to%20Gen%20AI%20with%20Snowflake.pdf) |
+  | 3 | **Building Generative AI Apps to Talk to Your Data** | [Certificate](Linkedin%20Learning/Building%20Generative%20AI%20Apps%20to%20Talk%20to%20Your%20Data.pdf) |
+  | 4 | **Building AI Agents with Snowflake** | [Certificate](Linkedin%20Learning/Building%20AI%20Agents%20with%20Snowflake.pdf) |
+
 ---
 
 ### LTCE Webinar
