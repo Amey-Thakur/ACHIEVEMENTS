@@ -1204,6 +1204,12 @@
   | 4 | **Building a Collaborative Team Culture with AI** | [Certificate](Linkedin%20Learning/Building%20a%20Collaborative%20Team%20Culture%20with%20AI.pdf) |
   | 5 | **Amplify Your Critical Thinking with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(PMI).pdf) |
   | 6 | **Responsible AI for Managers** | [Certificate](Linkedin%20Learning/Responsible%20AI%20for%20Managers.pdf) |
+#### AI for Nonprofits Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Nonprofits%20Professional%20Certificate%20by%20Microsoft%20Elevate,%20LinkedIn,%20and%20NetHope.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Leveraging AI in Your Nonprofit Role by Microsoft and NetHope** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Your%20Nonprofit%20Role%20by%20Microsoft%20and%20NetHope.pdf) |
+  | 2 | **Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.pdf) |
 #### Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1841,6 +1847,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
