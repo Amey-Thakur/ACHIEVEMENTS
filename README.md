@@ -1468,6 +1468,14 @@
   | 4 | **Creating Your IT Strategy** | [Certificate](Linkedin%20Learning/Creating%20Your%20IT%20Strategy.pdf) |
 
 ### Snowflake
+#### Data Engineering Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Engineering%20Professional%20Certificate%20by%20Snowflake.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Intro to Snowflake for Devs, Data Scientists, Data Engineers** | [Certificate](Linkedin%20Learning/Intro%20to%20Snowflake%20for%20Devs,%20Data%20Scientists,%20Data%20Engineers.pdf) |
+  | 2 | **Introduction to Modern Data Engineering with Snowflake** | [Certificate](Linkedin%20Learning/Introduction%20to%20Modern%20Data%20Engineering%20with%20Snowflake.pdf) |
+  | 3 | **Advanced Data Engineering with Snowflake** | [Certificate](Linkedin%20Learning/Advanced%20Data%20Engineering%20with%20Snowflake.pdf) |
+
 #### Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20Professional%20Certificate%20by%20Snowflake.pdf)
 
   | # | Topic | Certification |
