@@ -1408,6 +1408,14 @@
   | :---: | :--- | :---: |
   | 1 | **Microsoft Security Essentials: Concepts, Solutions, and AI-Powered Protection** | [Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials_%20Concepts,%20Solutions,%20and%20AI-Powered%20Protection.pdf) |
 
+#### Responsible AI in a Global Context Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Responsible%20AI%20in%20a%20Global%20Context%20Professional%20Certificate%20by%20the%20United%20Nations%20University.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Understanding AI's Global Impact: Governance, Equity, and Responsibility** | [Certificate](Linkedin%20Learning/Understanding%20AI's%20Global%20Impact_%20Governance,%20Equity,%20and%20Responsibility.pdf) |
+  | 2 | **Responsible AI: Global Risks, Governance, and Human Oversight** | [Certificate](Linkedin%20Learning/Responsible%20AI_%20Global%20Risks,%20Governance,%20and%20Human%20Oversight.pdf) |
+  | 3 | **AI in Action: Global Case Studies from Public Institutions** | [Certificate](Linkedin%20Learning/AI%20in%20Action_%20Global%20Case%20Studies%20from%20Public%20Institutions.pdf) |
+
 
 ---
 
