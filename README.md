@@ -1267,6 +1267,17 @@
   | :---: | :--- | :---: |
   | 1 | **Microsoft Azure Essentials by Microsoft Press** | [Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20by%20Microsoft%20Press.pdf) |
 
+#### Microsoft Copilot for Productivity Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Copilot%20for%20Productivity%20by%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Learning Microsoft 365 Copilot for Work (2025)** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2025).pdf) |
+  | 2 | **Microsoft Copilot: The Art of Prompt Writing** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot_%20The%20Art%20of%20Prompt%20Writing.pdf) |
+  | 3 | **Copilot in Teams: AI-Powered Collaboration (2024)** | [LinkedIn Learning](Linkedin%20Learning/Copilot%20in%20Teams_%20AI-Powered%20Collaboration%20(2024)%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Copilot%20in%20Teams_%20AI-Powered%20Collaboration%20(2024)%20(PMI).pdf) |
+  | 4 | **Copilot in Outlook: Maximize Your Workday Efficiency** | [Certificate](Linkedin%20Learning/Copilot%20in%20Outlook_%20Maximize%20Your%20Workday%20Efficiency.pdf) |
+  | 5 | **Copilot in Word: Create and Refine Documents with AI** | [Certificate](Linkedin%20Learning/Copilot%20in%20Word_%20Create%20and%20Refine%20Documents%20with%20AI.pdf) |
+  | 6 | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
+  | 7 | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
 #### Microsoft Security Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1798,6 +1809,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
