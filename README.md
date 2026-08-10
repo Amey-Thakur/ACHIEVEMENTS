@@ -1486,6 +1486,13 @@
   | 4 | **Building AI Agents with Snowflake** | [Certificate](Linkedin%20Learning/Building%20AI%20Agents%20with%20Snowflake.pdf) |
 
 ### TestMu AI
+#### TestMu AI Test Automation Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Test%20Automation%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Test Automation Foundations** | [Certificate](Linkedin%20Learning/Test%20Automation%20Foundations.pdf) |
+  | 2 | **Selenium Essential Training** | [Certificate](Linkedin%20Learning/Selenium%20Essential%20Training.pdf) |
+
 #### TestMu AI Software Testing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Software%20Testing%20Professional%20Certificate.pdf)
 
   | # | Topic | Certification |
