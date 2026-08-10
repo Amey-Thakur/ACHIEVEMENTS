@@ -1417,6 +1417,17 @@
   | 3 | **AI in Action: Global Case Studies from Public Institutions** | [Certificate](Linkedin%20Learning/AI%20in%20Action_%20Global%20Case%20Studies%20from%20Public%20Institutions.pdf) |
 
 
+### Moz
+#### Search Engine Optimization Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Search%20Engine%20Optimization%20Professional%20Certificate%20by%20Moz.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **SEO Foundations** | [Certificate](Linkedin%20Learning/SEO%20Foundations.pdf) |
+  | 2 | **Marketing Strategy: SEO Content Writing** | [Certificate](Linkedin%20Learning/Marketing%20Strategy_%20SEO%20Content%20Writing.pdf) |
+  | 3 | **Technical SEO** | [Certificate](Linkedin%20Learning/Technical%20SEO.pdf) |
+  | 4 | **Learning YouTube SEO** | [Certificate](Linkedin%20Learning/Learning%20YouTube%20SEO.pdf) |
+  | 5 | **Using AI as Your SEO Assistant** | [Certificate](Linkedin%20Learning/Using%20AI%20as%20Your%20SEO%20Assistant.pdf) |
+
 ---
 
 ### LTCE Webinar
