@@ -1428,6 +1428,14 @@
   | 4 | **Learning YouTube SEO** | [Certificate](Linkedin%20Learning/Learning%20YouTube%20SEO.pdf) |
   | 5 | **Using AI as Your SEO Assistant** | [Certificate](Linkedin%20Learning/Using%20AI%20as%20Your%20SEO%20Assistant.pdf) |
 
+### Mozilla
+#### JavaScript Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/JavaScript%20Foundations%20Professional%20Certificate%20by%20Mozilla.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Learning the JavaScript Language** | [Certificate](Linkedin%20Learning/Learning%20the%20JavaScript%20Language.pdf) |
+  | 2 | **JavaScript Essential Training** | [Certificate](Linkedin%20Learning/JavaScript%20Essential%20Training.pdf) |
+
 ---
 
 ### LTCE Webinar
