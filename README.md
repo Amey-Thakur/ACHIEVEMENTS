@@ -1516,6 +1516,17 @@
   | 7 | **Impromptu Speaking** | [Certificate](Linkedin%20Learning/Impromptu%20Speaking.pdf) |
 
 ### Wolfram Research
+#### Machine Learning Statistical Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Machine%20Learning%20Statistical%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Artificial Intelligence Foundations: Machine Learning** | [Certificate](Linkedin%20Learning/Artificial%20Intelligence%20Foundations_%20Machine%20Learning.pdf) |
+  | 2 | **Machine Learning Foundations: Linear Algebra** | [Certificate](Linkedin%20Learning/Machine%20Learning%20Foundations_%20Linear%20Algebra.pdf) |
+  | 3 | **Machine Learning Foundations: Calculus** | [Certificate](Linkedin%20Learning/Machine%20Learning%20Foundations_%20Calculus.pdf) |
+  | 4 | **Machine Learning Foundations: Probability** | [Certificate](Linkedin%20Learning/Machine%20Learning%20Foundations_%20Probability.pdf) |
+  | 5 | **Machine Learning Foundations: Statistics** | [Certificate](Linkedin%20Learning/Machine%20Learning%20Foundations_%20Statistics.pdf) |
+  | 6 | **Built-in Machine Learning in the Wolfram Language** | [Certificate](Linkedin%20Learning/Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.pdf) |
+
 #### Statistics Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
 
   | # | Topic | Certification |
