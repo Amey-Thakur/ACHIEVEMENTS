@@ -1194,6 +1194,15 @@
   | 12 | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
 
 ### Microsoft
+#### Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Microsoft Copilot: The Art of Prompt Writing** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot_%20The%20Art%20of%20Prompt%20Writing.pdf) |
+  | 2 | **AI Productivity Hacks to Reimagine Your Workday and Career** | [LinkedIn Learning](Linkedin%20Learning/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career%20(PMI).pdf) <br> [HRCI](Linkedin%20Learning/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career%20(HRCI).pdf) <br> [SHRM](Linkedin%20Learning/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career%20(SHRM).pdf) |
+  | 3 | **Integrating Generative AI into the Creative Process** | [Certificate](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.pdf) |
+  | 4 | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
+  | 5 | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
 #### Career Essentials in Administrative Assistance Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Administrative%20Assistance%20by%20Microsoft%20and%20LinkedIn.pdf)
 
   | # | Topic | Certification |
@@ -1822,6 +1831,7 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
+
 
 
 
