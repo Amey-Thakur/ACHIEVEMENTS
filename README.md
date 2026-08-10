@@ -1326,6 +1326,18 @@
   | :---: | :--- | :---: |
   | 1 | **Career Essentials in System Administration by Microsoft and LinkedIn** | [Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf) |
 
+#### Generative AI for Customer Service with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Customer%20Service%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
+
+  | # | Topic | Certification |
+  | :---: | :--- | :---: |
+  | 1 | **Using AI for Customer Service Managers** | [LinkedIn Learning](Linkedin%20Learning/Using%20AI%20for%20Customer%20Service%20Managers%20(LinkedIn%20Learning).pdf) <br> [PMI](Linkedin%20Learning/Using%20AI%20for%20Customer%20Service%20Managers%20(PMI).pdf) |
+  | 2 | **Generative AI for Sales and Services Professionals** | [Certificate](Linkedin%20Learning/Generative%20AI%20for%20Sales%20and%20Services%20Professionals.pdf) |
+  | 3 | **Customer Journey Mapping with Generative AI** | [Certificate](Linkedin%20Learning/Customer%20Journey%20Mapping%20with%20Generative%20AI.pdf) |
+  | 4 | **What Is Copilot? An Overview of Microsoft's AI Tools** | [Certificate](Linkedin%20Learning/What%20Is%20Copilot_%20An%20Overview%20of%20Microsoft's%20AI%20Tools.pdf) |
+  | 5 | **Learning Microsoft 365 Copilot for Work** | [Certificate](Linkedin%20Learning/Learning%20Microsoft%20365%20Copilot%20for%20Work.pdf) |
+  | 6 | **Microsoft Copilot: The Art of Prompting** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot_%20The%20Art%20of%20Prompting.pdf) |
+  | 7 | **Copilot for Service: Helpful Tips for Customer Service Agents** | [Certificate](Linkedin%20Learning/Copilot%20for%20Service_%20Helpful%20Tips%20for%20Customer%20Service%20Agents.pdf) |
+
 #### Generative AI for Marketing with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
 
   | # | Topic | Certification |
