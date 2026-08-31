@@ -91,37 +91,6 @@ VECTOR = {
 }
 
 
-def vector(slug, path):
-    """Rasterise a simple-icons mark, white, on nothing.
-
-    Pillow cannot read SVG, so the drawing is done by the browser that is
-    already on this machine for the other build steps.
-    """
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        return None
-    url = f"https://cdn.simpleicons.org/{slug}/white"
-    try:
-        data, final = fetch(url)
-    except Exception:  # noqa: BLE001
-        return None
-    svg = data.decode("utf-8", "replace")
-    chrome = next((c for c in (
-        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
-        "/usr/bin/google-chrome", "/usr/bin/chromium") if Path(c).exists()), None)
-    launch = {"executable_path": chrome} if chrome else {}
-    with sync_playwright() as p:
-        browser = p.chromium.launch(**launch)
-        page = browser.new_page(viewport={"width": SIZE, "height": SIZE},
-                                device_scale_factor=2)
-        page.set_content(
-            f"<style>html,body{{margin:0;background:transparent}}"
-            f"svg{{width:{SIZE}px;height:{SIZE}px;display:block}}</style>{svg}")
-        page.screenshot(path=str(path), omit_background=True)
-        browser.close()
-    return final
-
 ICON = re.compile(
     r'<link[^>]+rel=["\'][^"\']*(?:apple-touch-icon|icon)[^"\']*["\'][^>]*>',
     re.I)
@@ -156,6 +125,23 @@ def candidates(domain):
     urls = [u for _s, u in found]
     urls.append(f"https://www.google.com/s2/favicons?domain={domain}&sz={SIZE}")
     return urls
+
+
+def vector(slug, path):
+    """Save a simple-icons mark as SVG, white.
+
+    The badge inlines this path rather than a picture of it, so the mark is as
+    sharp as the type beside it at any size.
+    """
+    try:
+        data, final = fetch(f"https://cdn.simpleicons.org/{slug}/white")
+    except Exception:  # noqa: BLE001
+        return None
+    text = data.decode("utf-8", "replace")
+    if "<svg" not in text:
+        return None
+    path.with_suffix(".svg").write_text(text, encoding="utf-8")
+    return final
 
 
 def measure(data):
@@ -215,7 +201,9 @@ def main():
         if target.exists() and not again:
             kept += 1
             continue
-        # The published vector mark first, where there is one.
+        # The published vector mark first, where there is one. A raster is
+        # still fetched beside it, so anything that cannot inline an SVG has
+        # something to fall back to.
         if name in VECTOR:
             final = vector(VECTOR[name], target)
             if final:
@@ -224,6 +212,7 @@ def main():
                 print(f"  {name:40} vector   {final[:62]}")
                 got += 1
                 continue
+        target.with_suffix(".svg").unlink(missing_ok=True)
 
         # Try every candidate and keep the largest. Taking the first that
         # answers gave sixteen pixel marks for Cambridge and IIT Bombay, which

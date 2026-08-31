@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="20" viewBox="0 0 140.0 20" role="img" aria-label="Julia Academy: 10">
+<title>Julia Academy: 10</title>
+<clipPath id="c"><rect width="140.0" height="20" rx="3"/></clipPath>
+<g clip-path="url(#c)">
+<rect width="112.0" height="20" fill="#9558B2"/>
+<rect x="112.0" width="28.0" height="20" fill="#30363d"/>
+</g>
+<svg x="7" y="3.0" width="14" height="14" viewBox="0 0 24 24" fill="#ffffff"><path d="M11.138 17.569a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0zm6.431-11.138a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0zM24 17.569a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0z"/></svg>
+<g fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold">
+<text x="26" y="13.8" textLength="79.0" lengthAdjust="spacingAndGlyphs">Julia Academy</text>
+<text x="119.0" y="13.8" textLength="14.0" lengthAdjust="spacingAndGlyphs">10</text>
+</g>
+</svg>

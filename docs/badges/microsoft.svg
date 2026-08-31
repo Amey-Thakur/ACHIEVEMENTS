@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.0" height="20" viewBox="0 0 104.0 20" role="img" aria-label="Microsoft: 1">
+<title>Microsoft: 1</title>
+<clipPath id="c"><rect width="104.0" height="20" rx="3"/></clipPath>
+<g clip-path="url(#c)">
+<rect width="83.0" height="20" fill="#0067B8"/>
+<rect x="83.0" width="21.0" height="20" fill="#30363d"/>
+</g>
+<image x="7" y="3.0" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAABEElEQVR42u3YMQ2AQAxA0RYBJFhAEQLwghkEsIIYLJBgoBi4jfHeG7u1+VPzXeaKzozHna35dkV3txiCrglAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAAAgJ8y9qe623qdsjWuM8ofAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEwB8ftvMM4hqNrVwAAAAASUVORK5CYII="/>
+<g fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold">
+<text x="26" y="13.8" textLength="50.0" lengthAdjust="spacingAndGlyphs">Microsoft</text>
+<text x="90.0" y="13.8" textLength="7.0" lengthAdjust="spacingAndGlyphs">1</text>
+</g>
+</svg>

@@ -148,9 +148,11 @@ def main():
     # 8. The issuer index.
     badges = ROOT / "docs" / "badges"
     logos = ROOT / "docs" / "logos"
-    marks = len(list(logos.glob("*.png")))
-    notes.append(f"{len(list(badges.glob('*.png')))} issuer badges, "
-                 f"{marks} carrying the issuer's own mark")
+    vectors = len(list(logos.glob("*.svg")))
+    notes.append(f"{len(list(badges.glob('*.svg')))} issuer badges, all SVG, "
+                 f"{vectors} of them drawing a vector mark")
+    for stray in badges.glob("*.png"):
+        problems.append(f"a raster badge is left behind: {stray.name}")
 
     for note in notes:
         print(f"  {note}")

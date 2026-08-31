@@ -203,11 +203,11 @@ def badge(name, note):
     Shields.io cannot render half of these: simple-icons has dropped Microsoft,
     IBM, LinkedIn, MathWorks and OpenAI, and never carried the universities. The
     badges are built by build_issuer_badges.py from each issuer's own mark and
-    colour, so every one carries a logo and nothing depends on an outside
-    service to draw the index.
+    colour, as SVG, so they stay sharp at any size and nothing depends on an
+    outside service to draw the index.
     """
     key = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
-    src = f"{BADGES}/{key}.png"
+    src = f"{BADGES}/{key}.svg"
     text = f"{name}, {note}"
     if not (ROOT / src).exists():
         return f"<b>{name}</b>"
