@@ -10,9 +10,14 @@
 
 </div>
 
+<br>
+
 💭 **[Amey's Arc](https://amey-thakur.github.io/)** ⟶ Advancing Ideas & Projects
 
+<br>
+
 ### 🔗 Connect with me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/amey-thakur"><img src="docs/LinkedIn.png" alt="LinkedIn" title="Connect with Amey Thakur on LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Amey-Thakur"><img src="docs/GitHub.png" alt="GitHub" title="Explore Amey-Thakur's Repositories on GitHub" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
