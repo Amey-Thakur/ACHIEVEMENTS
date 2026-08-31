@@ -9,9 +9,14 @@ Shields.io was tried first and cannot do it. Simple-icons has dropped Microsoft,
 IBM, LinkedIn, MathWorks and OpenAI after trademark requests, and it never had
 the universities, so half the row would have carried no mark at all.
 
-Each mark is the icon the issuer serves from its own domain: the touch icon
-where there is one, because it is the largest, and the favicon otherwise. The
-source URL is recorded beside it so the provenance of every file is checkable.
+Where simple-icons carries the brand, its vector mark is used, drawn in white:
+it is the mark the brand publishes for exactly this purpose, and it reads
+cleanly at twenty pixels in a way a favicon cropped for a browser tab does not.
+Nine of these issuers have one. For the rest, the mark is the icon the issuer
+serves from its own domain: the touch icon where there is one, because it is
+the largest, and the favicon otherwise.
+
+The source URL is recorded beside every file, so the provenance is checkable.
 
     python .github/scripts/build_logos.py            # fetch what is missing
     python .github/scripts/build_logos.py --all      # fetch everything again
@@ -69,6 +74,53 @@ DOMAINS = {
 # Two sections are not issuers and have no mark to fetch: the quiz records come
 # from many small organisers, and the sports awards from schools and clubs.
 NO_MARK = {"Quizzes", "Sports"}
+
+# The brands simple-icons carries, by the name they are listed under here.
+# Microsoft, IBM, LinkedIn, MathWorks and OpenAI were all removed from that set
+# after trademark requests, so those fall back to the site icon.
+VECTOR = {
+    "Anthropic courses": "anthropic",
+    "Apple": "apple",
+    "Coursera": "coursera",
+    "Google": "google",
+    "Intel": "intel",
+    "Julia Academy": "julia",
+    "Kaggle": "kaggle",
+    "Nvidia Deep Learning Institute": "nvidia",
+    "Udemy": "udemy",
+}
+
+
+def vector(slug, path):
+    """Rasterise a simple-icons mark, white, on nothing.
+
+    Pillow cannot read SVG, so the drawing is done by the browser that is
+    already on this machine for the other build steps.
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        return None
+    url = f"https://cdn.simpleicons.org/{slug}/white"
+    try:
+        data, final = fetch(url)
+    except Exception:  # noqa: BLE001
+        return None
+    svg = data.decode("utf-8", "replace")
+    chrome = next((c for c in (
+        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+        "/usr/bin/google-chrome", "/usr/bin/chromium") if Path(c).exists()), None)
+    launch = {"executable_path": chrome} if chrome else {}
+    with sync_playwright() as p:
+        browser = p.chromium.launch(**launch)
+        page = browser.new_page(viewport={"width": SIZE, "height": SIZE},
+                                device_scale_factor=2)
+        page.set_content(
+            f"<style>html,body{{margin:0;background:transparent}}"
+            f"svg{{width:{SIZE}px;height:{SIZE}px;display:block}}</style>{svg}")
+        page.screenshot(path=str(path), omit_background=True)
+        browser.close()
+    return final
 
 ICON = re.compile(
     r'<link[^>]+rel=["\'][^"\']*(?:apple-touch-icon|icon)[^"\']*["\'][^>]*>',
@@ -163,6 +215,16 @@ def main():
         if target.exists() and not again:
             kept += 1
             continue
+        # The published vector mark first, where there is one.
+        if name in VECTOR:
+            final = vector(VECTOR[name], target)
+            if final:
+                sources[slug(name)] = {"issuer": name, "domain": domain,
+                                       "source": final}
+                print(f"  {name:40} vector   {final[:62]}")
+                got += 1
+                continue
+
         # Try every candidate and keep the largest. Taking the first that
         # answers gave sixteen pixel marks for Cambridge and IIT Bombay, which
         # are specks beside a hundred and twenty eight pixel one.

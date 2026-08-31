@@ -2,12 +2,12 @@
   "anthropic-courses": {
     "issuer": "Anthropic courses",
     "domain": "anthropic.com",
-    "source": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/67d31dd7aa394792257596c5_webclip.png"
+    "source": "https://cdn.simpleicons.org/anthropic/white"
   },
   "apple": {
     "issuer": "Apple",
     "domain": "apple.com",
-    "source": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://apple.com&size=128"
+    "source": "https://cdn.simpleicons.org/apple/white"
   },
   "coe-pune": {
     "issuer": "COE Pune",
@@ -22,7 +22,7 @@
   "coursera": {
     "issuer": "Coursera",
     "domain": "coursera.org",
-    "source": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/favicon-v2-194x194.png"
+    "source": "https://cdn.simpleicons.org/coursera/white"
   },
   "eduonix": {
     "issuer": "Eduonix",
@@ -32,12 +32,12 @@
   "google": {
     "issuer": "Google",
     "domain": "google.com",
-    "source": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://google.com&size=128"
+    "source": "https://cdn.simpleicons.org/google/white"
   },
   "harvard-medical-school": {
     "issuer": "Harvard Medical School",
     "domain": "hms.harvard.edu",
-    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hms.harvard.edu&size=128"
+    "source": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hms.harvard.edu&size=128"
   },
   "ibm": {
     "issuer": "IBM",
@@ -52,17 +52,17 @@
   "intel": {
     "issuer": "Intel",
     "domain": "intel.com",
-    "source": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://intel.com&size=128"
+    "source": "https://cdn.simpleicons.org/intel/white"
   },
   "julia-academy": {
     "issuer": "Julia Academy",
     "domain": "julialang.org",
-    "source": "https://www.julialang.org/assets/infra/julia.ico"
+    "source": "https://cdn.simpleicons.org/julia/white"
   },
   "kaggle": {
     "issuer": "Kaggle",
     "domain": "kaggle.com",
-    "source": "https://www.kaggle.com/static/images/favicon.ico"
+    "source": "https://cdn.simpleicons.org/kaggle/white"
   },
   "ltce-webinar": {
     "issuer": "LTCE Webinar",
@@ -87,12 +87,12 @@
   "nvidia-deep-learning-institute": {
     "issuer": "Nvidia Deep Learning Institute",
     "domain": "nvidia.com",
-    "source": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nvidia.com&size=128"
+    "source": "https://cdn.simpleicons.org/nvidia/white"
   },
   "openai-academy": {
     "issuer": "OpenAI Academy",
     "domain": "openai.com",
-    "source": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openai.com&size=128"
+    "source": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png"
   },
   "simplilearn": {
     "issuer": "Simplilearn",
@@ -107,7 +107,7 @@
   "stanford-university-school-of-medicine": {
     "issuer": "Stanford University School of Medicine",
     "domain": "medicine.stanford.edu",
-    "source": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://medicine.stanford.edu&size=128"
+    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://medicine.stanford.edu&size=128"
   },
   "terna-engineering-college": {
     "issuer": "Terna Engineering College",
@@ -117,7 +117,7 @@
   "udemy": {
     "issuer": "Udemy",
     "domain": "udemy.com",
-    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://udemy.com&size=128"
+    "source": "https://cdn.simpleicons.org/udemy/white"
   },
   "university-of-cambridge": {
     "issuer": "University of Cambridge",

@@ -191,7 +191,7 @@ ISSUERS = {
                                    "via-institute-on-character"),
 }
 
-COLUMNS = 4
+COLUMNS = 3
 
 
 BADGES = "docs/badges"
@@ -242,11 +242,11 @@ def summary_block(creds):
             # the longest of them, which made that whole row taller than the
             # rest and was the only thing stopping the grid being even.
             rows.append(
-                f'<td align="center" width="25%">'
+                f'<td align="center" width="33%">'
                 f'<a href="#{anchor}" title="{name}, {note}">'
                 f'{badge(name, note)}</a></td>')
         for _ in range(COLUMNS - len(known[i:i + COLUMNS])):
-            rows.append('<td align="center" width="25%"></td>')
+            rows.append('<td align="center" width="33%"></td>')
         rows.append("</tr>")
     rows.append("</table>")
 
@@ -358,11 +358,31 @@ def main():
         # cells to show one thing, which reads as five things missing.
         rows_with_assets = sum(1 for c in creds if c)
         if not rows_with_assets or rows_with_assets * 2 < len(creds):
-            # If an earlier run gave this table a column, take it back off
-            # rather than leaving it there with nothing in it.
-            out.extend([join(re.match(r"^(\s*)\|", line).group(1), without(split(line)))
-                        if had and line.strip().startswith("|") else line
-                        for line in block])
+            # A table that is mostly not about documents does not get a column
+            # of its own: the research paper tables list a journal, a preprint
+            # link and the authors, and one publication certificate. The
+            # certificate is still shown, inline in the cell that links it, so
+            # nothing goes unseen and five empty cells are not introduced to
+            # show one thing.
+            rebuilt = []
+            for line, cred in zip(block, [None, None] + list(creds)):
+                if had and line.strip().startswith("|"):
+                    line = join(re.match(r"^(\s*)\|", line).group(1),
+                                without(split(line)))
+                if cred:
+                    cells = split(line)
+                    for k, cell in enumerate(cells):
+                        # Take off anything an earlier run appended before
+                        # appending again, or the preview doubles every build.
+                        bare = re.sub(r'<br><a href="[^"]*"[^>]*><img .*$', "", cell)
+                        if "](" in bare and any(a["path"].split("/")[-1] in
+                                                urllib.parse.unquote(bare)
+                                                for a in cred["assets"]):
+                            cells[k] = f"{bare}<br>{preview_cell(cred)}"
+                            line = join(re.match(r"^(\s*)\|", line).group(1), cells)
+                            break
+                rebuilt.append(line)
+            out.extend(rebuilt)
             i = j
             continue
 
