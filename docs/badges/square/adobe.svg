@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Adobe">
+<title>Adobe</title>
+<linearGradient id="g" x2="0" y2="100%">
+<stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+<stop offset="1" stop-opacity=".12"/>
+</linearGradient>
+<rect width="20" height="20" rx="3" fill="#FF0000"/>
+<rect width="20" height="20" rx="3" fill="url(#g)"/>
+<svg x="3.5" y="3.5" width="13" height="13" viewBox="0 0 24 24" fill="#ffffff"><path d="M13.966 22.624l-1.69-4.281H8.122l3.892-9.144 5.662 13.425zM8.884 1.376H0v21.248zm15.116 0h-8.884L24 22.624Z"/></svg>
+</svg>

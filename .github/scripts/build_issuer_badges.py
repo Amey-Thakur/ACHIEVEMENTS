@@ -341,9 +341,27 @@ def main():
         raster += kind == "raster"
         plain += kind is None
 
+    # The organisations named inside an issuer's section get the square mark
+    # only. They have no count of their own to put on a badge: their
+    # credentials are counted under the issuer that awarded them.
+    partners = 0
+    for key, meta in sorted(index.items()):
+        if not meta.get("colour"):
+            continue
+        vector_path = LOGOS / f"{key}.svg"
+        raster_path = LOGOS / f"{key}.png"
+        kind, path = (("vector", vector_path) if vector_path.exists()
+                      else ("raster", raster_path) if raster_path.exists()
+                      else (None, None))
+        (SQUARES / f"{key}.svg").write_text(
+            square(meta["issuer"], meta["colour"], kind, path), encoding="utf-8")
+        partners += 1
+
     print(f"  {vector + raster + plain} badges written to "
           f"{OUT.relative_to(ROOT).as_posix()}, every one an SVG, "
           f"each with a square twin for its section heading")
+    print(f"  {partners} more square marks, for the organisations named inside "
+          f"an issuer's section")
     print(f"  {vector} carry a vector mark, {raster} an embedded icon, "
           f"{plain} are colour only")
     return 0

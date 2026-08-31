@@ -101,9 +101,17 @@ def preview_keys(creds):
 
 
 def label_of(cred, asset):
-    """What the thumbnail is, in a few words: the alt a screen reader reads."""
-    kind = "badge" if "badge" in asset["label"].lower() else "certificate"
-    return f"{cred['title']} {kind}".replace('"', "'").replace("|", "-")
+    """What the thumbnail is, in a few words: the alt a screen reader reads.
+
+    The word "badge" earns its place, because a row that carries both shows two
+    pictures and they have to be told apart. The word "certificate" does not:
+    it is what every other thumbnail here is, and 800 copies of it is a page of
+    the README.
+    """
+    label = cred["title"]
+    if "badge" in asset["label"].lower():
+        label += " badge"
+    return label.replace('"', "'").replace("|", "-")
 
 
 def describe(cred, asset):
@@ -283,15 +291,29 @@ def issuer_anchors(text):
     return out
 
 
-def heading_mark(platform, note):
-    """The issuer's square mark, to sit in front of its section heading."""
-    name = ISSUERS[platform][0]
-    key = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+def mark(name, key, text):
+    """One square mark, to sit in front of a heading."""
     src = f"{SQUARES}/{key}.svg"
     if not (ROOT / src).exists():
         return ""
-    text = f"{name}, {note}"
     return f'<img src="{quote(src)}" alt="{text}" title="{text}" height="20">&nbsp;'
+
+
+def heading_mark(platform, note):
+    """The issuer's square mark, and how many credentials it awarded."""
+    name = ISSUERS[platform][0]
+    return mark(name, slugify(name), f"{name}, {note}")
+
+
+def partner_mark(title):
+    """The mark of an organisation named inside an issuer's section.
+
+    The universities whose courses Coursera hosts and the companies whose
+    courses LinkedIn Learning hosts have their own headings, and their own
+    marks. There is no count beside the name: those credentials are counted
+    under the issuer that awarded them, not twice.
+    """
+    return mark(title, slugify(title), title)
 
 
 def decorate_headings(text, notes):
@@ -305,8 +327,9 @@ def decorate_headings(text, notes):
     lines = text.splitlines()
     for i, level, title, anchor, _rule in headings(text):
         platform = wanted.get(anchor)
-        mark = heading_mark(platform, notes[platform]) if platform else ""
-        lines[i] = f"{level} {mark}{title}"
+        badge = (heading_mark(platform, notes[platform]) if platform
+                 else partner_mark(title))
+        lines[i] = f"{level} {badge}{title}"
     return "\n".join(lines) + "\n"
 
 

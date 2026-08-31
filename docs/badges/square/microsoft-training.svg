@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Microsoft Training">
+<title>Microsoft Training</title>
+<linearGradient id="g" x2="0" y2="100%">
+<stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+<stop offset="1" stop-opacity=".12"/>
+</linearGradient>
+<rect width="20" height="20" rx="3" fill="#0067B8"/>
+<rect width="20" height="20" rx="3" fill="url(#g)"/>
+<svg x="3.5" y="3.5" width="13" height="13" viewBox="0 0 24 24" fill="#ffffff"><path d="M0 0v11.408h11.408V0zm12.594 0v11.408H24V0zM0 12.594V24h11.408V12.594zm12.594 0V24H24V12.594z"/></svg>
+</svg>

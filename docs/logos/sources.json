@@ -143,5 +143,389 @@
     "issuer": "Ankur Warikoo",
     "source": "https://ankurwarikoo.com/wp-content/uploads/2020/06/cropped-Copy-of-aw-1.png",
     "kind": "png"
+  },
+  "amazon-web-services-aws": {
+    "issuer": "Amazon Web Services (AWS)",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/amazonaws.svg",
+    "kind": "svg",
+    "colour": "#232F3E"
+  },
+  "case-western-reserve-university-est-1826": {
+    "issuer": "Case Western Reserve University EST.1826",
+    "source": "https://www.case.edu/static/favicon-2297e1596b47e40263c06f7592352e69.ico",
+    "kind": "png",
+    "colour": "#0A304E"
+  },
+  "coursera-project-network": {
+    "issuer": "Coursera Project Network",
+    "source": "https://cdn.simpleicons.org/coursera/white",
+    "kind": "svg",
+    "colour": "#0056D2"
+  },
+  "deeplearning-ai": {
+    "issuer": "DeepLearning.AI",
+    "source": "https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=128",
+    "kind": "png",
+    "colour": "#0B5FA5"
+  },
+  "duke-university": {
+    "issuer": "Duke University",
+    "source": "https://www.duke.edu/wp-content/uploads/2025/12/cropped-dfavicon-1-192x192.png",
+    "kind": "png",
+    "colour": "#00539B"
+  },
+  "georgia-institute-of-technology": {
+    "issuer": "Georgia Institute of Technology",
+    "source": "https://www.gatech.edu/themes/custom/gatech/favicon.ico",
+    "kind": "png",
+    "colour": "#003057"
+  },
+  "imperial-college-london": {
+    "issuer": "Imperial College London",
+    "source": "https://www.imperial.ac.uk/assets/website/images/favicon/favicon-228.png",
+    "kind": "png",
+    "colour": "#003E74"
+  },
+  "indian-school-of-business-isb": {
+    "issuer": "Indian School of Business (ISB)",
+    "source": "https://www.isb.edu/apple-touch-icon.png",
+    "kind": "png",
+    "colour": "#8A1538"
+  },
+  "insead-the-business-school-for-the-world-fontainebleau-france": {
+    "issuer": "INSEAD - The Business School for the World, Fontainebleau, France",
+    "source": "https://www.google.com/s2/favicons?domain=insead.edu&sz=128",
+    "kind": "png",
+    "colour": "#0033A0"
+  },
+  "johns-hopkins-university": {
+    "issuer": "Johns Hopkins University",
+    "source": "https://jhu.edu/assets/themes/shared/src/assets/images/favicons/apple-touch-icon-57x57.png",
+    "kind": "png",
+    "colour": "#002D72"
+  },
+  "osmosis-org": {
+    "issuer": "Osmosis.org",
+    "source": "https://www.google.com/s2/favicons?domain=osmosis.org&sz=128",
+    "kind": "png",
+    "colour": "#00A5B5"
+  },
+  "suny-the-state-university-of-new-york": {
+    "issuer": "SUNY - The State University of New York",
+    "source": "https://www.google.com/s2/favicons?domain=suny.edu&sz=128",
+    "kind": "png",
+    "colour": "#00539B"
+  },
+  "the-linux-foundation": {
+    "issuer": "The Linux Foundation",
+    "source": "https://cdn.simpleicons.org/linuxfoundation/white",
+    "kind": "svg",
+    "colour": "#003778"
+  },
+  "the-university-of-edinburgh": {
+    "issuer": "The University of Edinburgh",
+    "source": "https://www.ed.ac.uk/themes/upstream/wpp_theme/images/favicon.ico",
+    "kind": "png",
+    "colour": "#00325F"
+  },
+  "university-of-alberta": {
+    "issuer": "University of Alberta",
+    "source": "https://www.ualberta.ca/apple-touch-icon.png",
+    "kind": "png",
+    "colour": "#007C41"
+  },
+  "university-of-california-irvine": {
+    "issuer": "University of California Irvine",
+    "source": "https://uci.edu/favicon.ico",
+    "kind": "png",
+    "colour": "#0064A4"
+  },
+  "university-of-california-san-diego": {
+    "issuer": "University of California San Diego",
+    "source": "https://www.ucsd.edu/favicon.ico",
+    "kind": "png",
+    "colour": "#182B49"
+  },
+  "university-of-california-irvine-division-of-continuing-education": {
+    "issuer": "University of California, Irvine Division of Continuing Education",
+    "source": "https://www.ce.uci.edu/favicon/apple-touch-icon.png",
+    "kind": "png",
+    "colour": "#0064A4"
+  },
+  "university-of-cape-town": {
+    "issuer": "University of Cape Town",
+    "source": "https://www.uct.ac.za/themes/custom/blip_uct/favicon.ico",
+    "kind": "png",
+    "colour": "#003B5C"
+  },
+  "university-of-colorado-boulder": {
+    "issuer": "University of Colorado Boulder",
+    "source": "https://www.colorado.edu/themes/custom/boulder_base/favicon.png",
+    "kind": "png",
+    "colour": "#565A5C"
+  },
+  "university-of-florida": {
+    "issuer": "University of Florida",
+    "source": "https://www.ufl.edu/wp-content/uploads/sites/5/2022/02/favicon-blue_1.png",
+    "kind": "png",
+    "colour": "#0021A5"
+  },
+  "university-of-london": {
+    "issuer": "University of London",
+    "source": "https://www.google.com/s2/favicons?domain=london.ac.uk&sz=128",
+    "kind": "png",
+    "colour": "#00263A"
+  },
+  "university-of-michigan": {
+    "issuer": "University of Michigan",
+    "source": "https://www.google.com/s2/favicons?domain=umich.edu&sz=128",
+    "kind": "png",
+    "colour": "#00274C"
+  },
+  "university-of-minnesota": {
+    "issuer": "University of Minnesota",
+    "source": "https://www.google.com/s2/favicons?domain=umn.edu&sz=128",
+    "kind": "png",
+    "colour": "#7A0019"
+  },
+  "university-of-north-carolina-at-chapel-hill": {
+    "issuer": "University of North Carolina at Chapel Hill",
+    "source": "https://www.unc.edu/wp-content/uploads/2025/11/cropped-CB_Background-Favicon-300x300.jpg",
+    "kind": "png",
+    "colour": "#13294B"
+  },
+  "university-of-toronto": {
+    "issuer": "University of Toronto",
+    "source": "https://www.utoronto.ca/themes/custom/bootstrap_uoft/images/favicons/favicon.ico",
+    "kind": "png",
+    "colour": "#002A5C"
+  },
+  "university-of-virginia": {
+    "issuer": "University of Virginia",
+    "source": "https://www.virginia.edu/assets/images/favicon.ico",
+    "kind": "png",
+    "colour": "#232D4B"
+  },
+  "yale-university": {
+    "issuer": "Yale University",
+    "source": "https://cdn.simpleicons.org/yale/white",
+    "kind": "svg",
+    "colour": "#00356B"
+  },
+  "google-digital-unlocked": {
+    "issuer": "Google Digital Unlocked",
+    "source": "https://cdn.simpleicons.org/google/white",
+    "kind": "svg",
+    "colour": "#4285F4"
+  },
+  "google-play-academy": {
+    "issuer": "Google Play Academy",
+    "source": "https://cdn.simpleicons.org/googleplay/white",
+    "kind": "svg",
+    "colour": "#414141"
+  },
+  "google-skillshop": {
+    "issuer": "Google Skillshop",
+    "source": "https://cdn.simpleicons.org/google/white",
+    "kind": "svg",
+    "colour": "#4285F4"
+  },
+  "ibm-training": {
+    "issuer": "IBM Training",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/ibm.svg",
+    "kind": "svg",
+    "colour": "#0F62FE"
+  },
+  "iit-bombay-training": {
+    "issuer": "IIT Bombay Training",
+    "source": "https://www.iitb.ac.in/themes/custom/iitb_bootstrap/favicon.ico",
+    "kind": "png",
+    "colour": "#003366"
+  },
+  "intel-ai-academy": {
+    "issuer": "Intel® AI Academy",
+    "source": "https://cdn.simpleicons.org/intel/white",
+    "kind": "svg",
+    "colour": "#0071C5"
+  },
+  "kaggle-academy": {
+    "issuer": "Kaggle Academy",
+    "source": "https://www.kaggle.com/static/images/favicon.ico",
+    "kind": "png",
+    "colour": "#20BEFF"
+  },
+  "matlab-academy": {
+    "issuer": "MATLAB Academy",
+    "source": "https://www.google.com/s2/favicons?domain=in.mathworks.com&sz=128",
+    "kind": "png",
+    "colour": "#0076A8"
+  },
+  "microsoft-training": {
+    "issuer": "Microsoft Training",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/microsoft.svg",
+    "kind": "svg",
+    "colour": "#0067B8"
+  },
+  "nvidia-training": {
+    "issuer": "NVIDIA Training",
+    "source": "https://cdn.simpleicons.org/nvidia/white",
+    "kind": "svg",
+    "colour": "#76B900"
+  },
+  "adobe": {
+    "issuer": "Adobe",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/adobe.svg",
+    "kind": "svg",
+    "colour": "#FF0000"
+  },
+  "aha": {
+    "issuer": "Aha!",
+    "source": "https://www.aha.io/favicon.png",
+    "kind": "png",
+    "colour": "#0089FF"
+  },
+  "all-tech-is-human": {
+    "issuer": "All Tech Is Human",
+    "source": "https://images.squarespace-cdn.com/content/v1/60355084905d134a93c099a8/cc2248ab-19e7-4af2-b1cb-b47f486447bd/favicon.ico?format=100w",
+    "kind": "png",
+    "colour": "#1F3A5F"
+  },
+  "american-marketing-association": {
+    "issuer": "American Marketing Association",
+    "source": "https://www.ama.org/wp-content/uploads/2019/04/cropped-android-chrome-256x256.png?fit=192%2C192",
+    "kind": "png",
+    "colour": "#005EB8"
+  },
+  "anaconda": {
+    "issuer": "Anaconda",
+    "source": "https://cdn.simpleicons.org/anaconda/white",
+    "kind": "svg",
+    "colour": "#44A833"
+  },
+  "atlassian": {
+    "issuer": "Atlassian",
+    "source": "https://cdn.simpleicons.org/atlassian/white",
+    "kind": "svg",
+    "colour": "#0052CC"
+  },
+  "canonical": {
+    "issuer": "Canonical",
+    "source": "https://cdn.simpleicons.org/canonical/white",
+    "kind": "svg",
+    "colour": "#E95420"
+  },
+  "churnzero": {
+    "issuer": "ChurnZero",
+    "source": "https://www.google.com/s2/favicons?domain=churnzero.com&sz=128",
+    "kind": "png",
+    "colour": "#00B2A9"
+  },
+  "docker": {
+    "issuer": "Docker",
+    "source": "https://cdn.simpleicons.org/docker/white",
+    "kind": "svg",
+    "colour": "#2496ED"
+  },
+  "github": {
+    "issuer": "GitHub",
+    "source": "https://cdn.simpleicons.org/github/white",
+    "kind": "svg",
+    "colour": "#24292F"
+  },
+  "grammarly": {
+    "issuer": "Grammarly",
+    "source": "https://cdn.simpleicons.org/grammarly/white",
+    "kind": "svg",
+    "colour": "#027E6F"
+  },
+  "intuit-mailchimp": {
+    "issuer": "Intuit Mailchimp",
+    "source": "https://cdn.simpleicons.org/mailchimp/white",
+    "kind": "svg",
+    "colour": "#241C15"
+  },
+  "knime": {
+    "issuer": "KNIME",
+    "source": "https://cdn.simpleicons.org/knime/white",
+    "kind": "svg",
+    "colour": "#3E4E58"
+  },
+  "linkedin": {
+    "issuer": "LinkedIn",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/linkedin.svg",
+    "kind": "svg",
+    "colour": "#0A66C2"
+  },
+  "moz": {
+    "issuer": "Moz",
+    "source": "https://www.google.com/s2/favicons?domain=moz.com&sz=128",
+    "kind": "png",
+    "colour": "#00A4BD"
+  },
+  "mozilla": {
+    "issuer": "Mozilla",
+    "source": "https://cdn.simpleicons.org/mozilla/white",
+    "kind": "svg",
+    "colour": "#161616"
+  },
+  "pagerduty": {
+    "issuer": "PagerDuty",
+    "source": "https://cdn.simpleicons.org/pagerduty/white",
+    "kind": "svg",
+    "colour": "#06AC38"
+  },
+  "ss-c-blue-prism": {
+    "issuer": "SS&C Blue Prism",
+    "source": "https://www.blueprism.com/assets/favicons/apple-touch-icon.png?v=3.0",
+    "kind": "png",
+    "colour": "#0C2340"
+  },
+  "servicenow": {
+    "issuer": "ServiceNow",
+    "source": "https://www.google.com/s2/favicons?domain=servicenow.com&sz=128",
+    "kind": "png",
+    "colour": "#062D30"
+  },
+  "snowflake": {
+    "issuer": "Snowflake",
+    "source": "https://cdn.simpleicons.org/snowflake/white",
+    "kind": "svg",
+    "colour": "#29B5E8"
+  },
+  "testmu-ai": {
+    "issuer": "TestMu AI",
+    "source": "https://www.google.com/s2/favicons?domain=lambdatest.com&sz=128",
+    "kind": "png",
+    "colour": "#FF6112"
+  },
+  "toastmasters-international": {
+    "issuer": "Toastmasters International",
+    "source": "https://www.toastmasters.org/Content/images/ToastmastersLogo192.png",
+    "kind": "png",
+    "colour": "#772432"
+  },
+  "wolfram-research": {
+    "issuer": "Wolfram Research",
+    "source": "https://cdn.simpleicons.org/wolfram/white",
+    "kind": "svg",
+    "colour": "#DD1100"
+  },
+  "zendesk": {
+    "issuer": "Zendesk",
+    "source": "https://cdn.simpleicons.org/zendesk/white",
+    "kind": "svg",
+    "colour": "#03363D"
+  },
+  "mcmaster-university": {
+    "issuer": "McMaster University",
+    "source": "https://brand.mcmaster.ca/app/themes/macsites-theme/favicons/apple-touch-icon.png",
+    "kind": "png",
+    "colour": "#7A003C"
+  },
+  "astronomer": {
+    "issuer": "Astronomer",
+    "source": "https://www.astronomer.io/favicon.svg",
+    "kind": "svg",
+    "colour": "#2B6CB0"
   }
 }

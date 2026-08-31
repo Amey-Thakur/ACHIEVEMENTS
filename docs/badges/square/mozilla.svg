@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Mozilla">
+<title>Mozilla</title>
+<linearGradient id="g" x2="0" y2="100%">
+<stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+<stop offset="1" stop-opacity=".12"/>
+</linearGradient>
+<rect width="20" height="20" rx="3" fill="#161616"/>
+<rect width="20" height="20" rx="3" fill="url(#g)"/>
+<svg x="3.5" y="3.5" width="13" height="13" viewBox="0 0 24 24" fill="#ffffff"><path d="M4.819 24H1.75V0H4.82zM7.33 12.242H19.48v-.69L11.562 8.67V6.25l7.918-2.872v-.7H10.1V0h12.149v4.89l-6.445 2.224v.69l6.445 2.224v4.89H7.33zm0-9.565h2.77v2.77H7.33z"/></svg>
+</svg>

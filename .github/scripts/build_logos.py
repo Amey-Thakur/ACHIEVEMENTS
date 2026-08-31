@@ -129,6 +129,94 @@ MARKS = {
         "kind": "png"},
 }
 
+# The organisations named inside an issuer's section: the universities whose
+# courses Coursera hosts, the companies whose courses LinkedIn Learning hosts,
+# and the training arms of issuers already listed above. Their headings carry a
+# mark too, so a reader scrolling the Coursera section can see at a glance
+# which institution taught what.
+#
+# Each entry names where the mark comes from and the colour it sits on:
+#   ("si", slug)    simple-icons, current release
+#   ("si9", slug)   simple-icons 9.21.0, for the brands withdrawn since
+#   ("site", host)  the institution's own icon, discovered from its home page
+#
+# The colours are each brand's or institution's published one. A crest read off
+# a favicon cannot be trusted to give it: half of these render on white.
+PARTNERS = {
+    # Coursera's partner institutions
+    "Amazon Web Services (AWS)": (("si9", "amazonaws"), "#232F3E"),
+    "Case Western Reserve University EST.1826": (("site", "case.edu"), "#0A304E"),
+    "Coursera Project Network": (("si", "coursera"), "#0056D2"),
+    "DeepLearning.AI": (("site", "deeplearning.ai"), "#0B5FA5"),
+    "Duke University": (("site", "duke.edu"), "#00539B"),
+    "Georgia Institute of Technology": (("site", "gatech.edu"), "#003057"),
+    "Imperial College London": (("site", "imperial.ac.uk"), "#003E74"),
+    "Indian School of Business (ISB)": (("site", "isb.edu"), "#8A1538"),
+    "INSEAD - The Business School for the World, Fontainebleau, France":
+        (("site", "insead.edu"), "#0033A0"),
+    "Johns Hopkins University": (("site", "jhu.edu"), "#002D72"),
+    "McMaster University": (("site", "brand.mcmaster.ca"), "#7A003C"),
+    "Osmosis.org": (("site", "osmosis.org"), "#00A5B5"),
+    "SUNY - The State University of New York": (("site", "suny.edu"), "#00539B"),
+    "The Linux Foundation": (("si", "linuxfoundation"), "#003778"),
+    "The University of Edinburgh": (("site", "ed.ac.uk"), "#00325F"),
+    "University of Alberta": (("site", "ualberta.ca"), "#007C41"),
+    "University of California Irvine": (("site", "uci.edu"), "#0064A4"),
+    "University of California San Diego": (("site", "ucsd.edu"), "#182B49"),
+    "University of California, Irvine Division of Continuing Education":
+        (("site", "ce.uci.edu"), "#0064A4"),
+    "University of Cape Town": (("site", "uct.ac.za"), "#003B5C"),
+    "University of Colorado Boulder": (("site", "colorado.edu"), "#565A5C"),
+    "University of Florida": (("site", "ufl.edu"), "#0021A5"),
+    "University of London": (("site", "london.ac.uk"), "#00263A"),
+    "University of Michigan": (("site", "umich.edu"), "#00274C"),
+    "University of Minnesota": (("site", "umn.edu"), "#7A0019"),
+    "University of North Carolina at Chapel Hill": (("site", "unc.edu"), "#13294B"),
+    "University of Toronto": (("site", "utoronto.ca"), "#002A5C"),
+    "University of Virginia": (("site", "virginia.edu"), "#232D4B"),
+    "Yale University": (("si", "yale"), "#00356B"),
+    # Google's own academies
+    "Google Digital Unlocked": (("si", "google"), "#4285F4"),
+    "Google Play Academy": (("si", "googleplay"), "#414141"),
+    "Google Skillshop": (("si", "google"), "#4285F4"),
+    # the training arms of issuers already listed
+    "IBM Training": (("si9", "ibm"), "#0F62FE"),
+    "IIT Bombay Training": (("site", "iitb.ac.in"), "#003366"),
+    "Intel® AI Academy": (("si", "intel"), "#0071C5"),
+    "Julia Academy": (("si", "julia"), "#4063D8"),
+    "Kaggle Academy": (("site", "kaggle.com"), "#20BEFF"),
+    "MATLAB Academy": (("site", "in.mathworks.com"), "#0076A8"),
+    "Microsoft Training": (("si9", "microsoft"), "#0067B8"),
+    "NVIDIA Training": (("si", "nvidia"), "#76B900"),
+    # LinkedIn Learning's course providers
+    "Adobe": (("si9", "adobe"), "#FF0000"),
+    "Aha!": (("site", "aha.io"), "#0089FF"),
+    "All Tech Is Human": (("site", "alltechishuman.org"), "#1F3A5F"),
+    "American Marketing Association": (("site", "ama.org"), "#005EB8"),
+    "Anaconda": (("si", "anaconda"), "#44A833"),
+    "Astronomer": (("site", "astronomer.io"), "#2B6CB0"),
+    "Atlassian": (("si", "atlassian"), "#0052CC"),
+    "Canonical": (("si", "canonical"), "#E95420"),
+    "ChurnZero": (("site", "churnzero.com"), "#00B2A9"),
+    "Docker": (("si", "docker"), "#2496ED"),
+    "GitHub": (("si", "github"), "#24292F"),
+    "Grammarly": (("si", "grammarly"), "#027E6F"),
+    "Intuit Mailchimp": (("si", "mailchimp"), "#241C15"),
+    "KNIME": (("si", "knime"), "#3E4E58"),
+    "LinkedIn": (("si9", "linkedin"), "#0A66C2"),
+    "Moz": (("site", "moz.com"), "#00A4BD"),
+    "Mozilla": (("si", "mozilla"), "#161616"),
+    "PagerDuty": (("si", "pagerduty"), "#06AC38"),
+    "SS&C Blue Prism": (("site", "blueprism.com"), "#0C2340"),
+    "ServiceNow": (("site", "servicenow.com"), "#062D30"),
+    "Snowflake": (("si", "snowflake"), "#29B5E8"),
+    "TestMu AI": (("site", "lambdatest.com"), "#FF6112"),
+    "Toastmasters International": (("site", "toastmasters.org"), "#772432"),
+    "Wolfram Research": (("si", "wolfram"), "#DD1100"),
+    "Zendesk": (("si", "zendesk"), "#03363D"),
+}
+
+
 # Julia's three dots are its logo only in its own colours. Flattened to one
 # they are three circles that say nothing, which is what was wrong with them.
 # Simple-icons draws all three as a single path, so they cannot be coloured
@@ -277,6 +365,51 @@ def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
+ICON = re.compile(
+    r'<link[^>]+rel=["\'][^"\']*(?:apple-touch-icon|icon)[^"\']*["\'][^>]*>', re.I)
+HREF = re.compile(r'href=["\']([^"\']+)["\']', re.I)
+SIZES = re.compile(r'sizes=["\'](\d+)x\d+["\']', re.I)
+
+
+def site_icon(domain):
+    """The largest icon a site declares, or the search engine's copy of it.
+
+    An institution that publishes no SVG still publishes a touch icon, which is
+    the biggest picture of its crest it has. The declared sizes are read rather
+    than guessed at, because a sixteen pixel favicon scaled up to a badge is a
+    smudge and there is usually a 180 pixel one beside it.
+    """
+    found = []
+    for scheme in ("https://www.", "https://"):
+        try:
+            page = fetch(scheme + domain, timeout=20).decode("utf-8", "replace")
+        except Exception:  # noqa: BLE001
+            continue
+        for tag in ICON.findall(page):
+            href = HREF.search(tag)
+            if not href:
+                continue
+            size = SIZES.search(tag)
+            found.append((int(size.group(1)) if size else 0,
+                          urllib.parse.urljoin(scheme + domain, href.group(1))))
+        break
+    found.sort(reverse=True)
+    urls = [u for _s, u in found if not u.lower().endswith(".svg")]
+    urls += [u for _s, u in found if u.lower().endswith(".svg")]
+    urls.append(f"https://www.google.com/s2/favicons?domain={domain}&sz=128")
+    return urls
+
+
+def partner_spec(source):
+    """A partner's source, in the same shape as an issuer's."""
+    where, what = source
+    if where == "si":
+        return {"url": SI + what + "/white", "kind": "svg"}
+    if where == "si9":
+        return {"url": SI9 + what + ".svg", "kind": "svg"}
+    return {"urls": site_icon(what), "kind": "png", "domain": what}
+
+
 def main():
     try:
         from PIL import Image  # noqa: F401
@@ -289,32 +422,47 @@ def main():
     sources = json.loads(SOURCES.read_text(encoding="utf-8")) if SOURCES.exists() else {}
 
     got = kept = failed = 0
-    for name, spec in MARKS.items():
+
+    def save(name, spec, colour=None):
+        """Fetch one mark and record where it came from. True if it landed."""
+        nonlocal got, kept, failed
         key = slug(name)
         target = OUT / f"{key}.{spec['kind']}"
         if target.exists() and not again:
             kept += 1
-            continue
-        try:
-            data = fetch(spec["url"])
-        except Exception as error:  # noqa: BLE001
+            return True
+        urls = spec.get("urls") or [spec["url"]]
+        data = error = None
+        for url in urls:
+            try:
+                data = fetch(url)
+                spec = {**spec, "url": url}
+                break
+            except Exception as bad:  # noqa: BLE001
+                error = bad
+        if data is None:
             print(f"  {name}: {str(error)[:80]}")
             failed += 1
-            continue
+            return False
+        # A site can answer a request for its icon with an SVG, and Astronomer
+        # does. What arrived decides how it is stored, not what was expected.
+        if b"<svg" in data[:600]:
+            spec = {**spec, "kind": "svg"}
+            target = OUT / f"{key}.svg"
         if spec["kind"] == "svg":
             text = as_svg(data, spec)
             if not text:
                 print(f"  {name}: the address did not answer with an SVG")
                 failed += 1
-                continue
+                return False
             target.write_text(text, encoding="utf-8")
         else:
             try:
                 as_png(data, spec, target)
-            except Exception as error:  # noqa: BLE001
-                print(f"  {name}: {str(error)[:80]}")
+            except Exception as bad:  # noqa: BLE001
+                print(f"  {name}: {str(bad)[:80]}")
                 failed += 1
-                continue
+                return False
         # Only one file per issuer: a leftover from an earlier run in the other
         # format would still be found by the badge builder and quietly used.
         other = OUT / f"{key}.{'png' if spec['kind'] == 'svg' else 'svg'}"
@@ -322,19 +470,27 @@ def main():
             other.unlink()
         sources[key] = {"issuer": name, "source": spec["url"],
                         "kind": spec["kind"]}
+        if colour:
+            sources[key]["colour"] = colour
         got += 1
+        return True
+
+    for name, spec in MARKS.items():
+        save(name, spec)
+    for name, (source, colour) in PARTNERS.items():
+        save(name, partner_spec(source), colour)
 
     for stale in list(OUT.glob("*.png")) + list(OUT.glob("*.svg")):
-        if stale.stem not in {slug(n) for n in MARKS}:
+        if stale.stem not in {slug(n) for n in list(MARKS) + list(PARTNERS)}:
             stale.unlink()
             print(f"  removed a mark for an issuer no longer listed: {stale.name}")
 
     SOURCES.write_text(json.dumps(sources, indent=2, ensure_ascii=False) + "\n",
                        encoding="utf-8")
-    vectors = sum(1 for s in MARKS.values() if s["kind"] == "svg")
+    vectors = sum(1 for s in sources.values() if s["kind"] == "svg")
     print(f"  {got} fetched, {kept} already held, {failed} that did not answer")
-    print(f"  {len(MARKS)} issuers carry a mark, {vectors} of them vector; "
-          f"{len(NO_MARK)} carry none by choice")
+    print(f"  {len(MARKS)} issuers and {len(PARTNERS)} named organisations "
+          f"inside them carry a mark, {vectors} of them vector")
     return 0
 
 
