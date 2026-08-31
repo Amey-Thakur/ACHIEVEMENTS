@@ -1,132 +1,147 @@
 {
   "anthropic-courses": {
     "issuer": "Anthropic courses",
-    "domain": "anthropic.com",
-    "source": "https://cdn.simpleicons.org/anthropic/white"
+    "source": "https://cdn.simpleicons.org/anthropic/white",
+    "kind": "svg"
   },
   "apple": {
     "issuer": "Apple",
-    "domain": "apple.com",
-    "source": "https://cdn.simpleicons.org/apple/white"
+    "source": "https://cdn.simpleicons.org/apple/white",
+    "kind": "svg"
   },
   "coe-pune": {
     "issuer": "COE Pune",
-    "domain": "coep.org.in",
-    "source": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://coep.org.in&size=128"
+    "source": "https://www.coeptech.ac.in/wp-content/uploads/2023/10/brand-white.svg",
+    "kind": "svg"
   },
   "colgate-oral-health-network": {
     "issuer": "Colgate Oral Health Network",
-    "domain": "colgateoralhealthnetwork.com",
-    "source": "https://cdn.dental-tribune.com/cohn/wp-content/themes/cohn/images/favicon/android-icon-192x192.png"
+    "source": "https://cdn.dental-tribune.com/cohn/wp-content/themes/cohn/images/favicon/android-icon-192x192.png",
+    "kind": "png"
   },
   "coursera": {
     "issuer": "Coursera",
-    "domain": "coursera.org",
-    "source": "https://cdn.simpleicons.org/coursera/white"
+    "source": "https://cdn.simpleicons.org/coursera/white",
+    "kind": "svg"
   },
   "eduonix": {
     "issuer": "Eduonix",
-    "domain": "eduonix.com",
-    "source": "https://www.eduonix.com/favicon.ico"
+    "source": "https://cdn.eduonix.com/assets/images/logo_wht.png",
+    "kind": "png"
   },
   "google": {
     "issuer": "Google",
-    "domain": "google.com",
-    "source": "https://cdn.simpleicons.org/google/white"
+    "source": "https://cdn.simpleicons.org/google/white",
+    "kind": "svg"
   },
   "harvard-medical-school": {
     "issuer": "Harvard Medical School",
-    "domain": "hms.harvard.edu",
-    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hms.harvard.edu&size=128"
+    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hms.harvard.edu&size=128",
+    "kind": "png"
   },
   "ibm": {
     "issuer": "IBM",
-    "domain": "ibm.com",
-    "source": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png"
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/ibm.svg",
+    "kind": "svg"
   },
   "iit-bombay": {
     "issuer": "IIT Bombay",
-    "domain": "iitb.ac.in",
-    "source": "https://www.iitb.ac.in/themes/custom/iitb_bootstrap/favicon.ico"
+    "source": "https://www.iitb.ac.in/themes/custom/iitb_bootstrap/logo.png",
+    "kind": "png"
   },
   "intel": {
     "issuer": "Intel",
-    "domain": "intel.com",
-    "source": "https://cdn.simpleicons.org/intel/white"
+    "source": "https://cdn.simpleicons.org/intel/white",
+    "kind": "svg"
   },
   "julia-academy": {
     "issuer": "Julia Academy",
-    "domain": "julialang.org",
-    "source": "https://cdn.simpleicons.org/julia/white"
+    "source": "https://cdn.simpleicons.org/julia",
+    "kind": "svg"
   },
   "kaggle": {
     "issuer": "Kaggle",
-    "domain": "kaggle.com",
-    "source": "https://cdn.simpleicons.org/kaggle/white"
+    "source": "https://www.kaggle.com/static/images/favicon.ico",
+    "kind": "png"
   },
   "ltce-webinar": {
     "issuer": "LTCE Webinar",
-    "domain": "ltce.in",
-    "source": "https://ltce.in/images/favicon.ico"
+    "source": "https://ltce.in/images/ltce-logo-tr.png",
+    "kind": "png"
   },
   "linkedin-learning": {
     "issuer": "Linkedin Learning",
-    "domain": "linkedin.com",
-    "source": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca"
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/linkedin.svg",
+    "kind": "svg"
   },
   "mathworks": {
     "issuer": "MathWorks",
-    "domain": "mathworks.com",
-    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mathworks.com&size=128"
+    "source": "https://in.mathworks.com/favicon.ico",
+    "kind": "png"
   },
   "microsoft": {
     "issuer": "Microsoft",
-    "domain": "microsoft.com",
-    "source": "https://www.microsoft.com/favicon.ico?v2"
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/microsoft.svg",
+    "kind": "svg"
   },
   "nvidia-deep-learning-institute": {
     "issuer": "Nvidia Deep Learning Institute",
-    "domain": "nvidia.com",
-    "source": "https://cdn.simpleicons.org/nvidia/white"
+    "source": "https://cdn.simpleicons.org/nvidia/white",
+    "kind": "svg"
   },
   "openai-academy": {
     "issuer": "OpenAI Academy",
-    "domain": "openai.com",
-    "source": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png"
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/openai.svg",
+    "kind": "svg"
   },
   "simplilearn": {
     "issuer": "Simplilearn",
-    "domain": "simplilearn.com",
-    "source": "https://www.simplilearn.com/static/frontend/images/favicon/apple-touch-icon-152x152_v2.png"
+    "source": "https://www.simplilearn.com/static/frontend/images/favicon/apple-touch-icon-152x152_v2.png",
+    "kind": "png"
   },
   "stanford-university": {
     "issuer": "Stanford University",
-    "domain": "stanford.edu",
-    "source": "https://www.stanford.edu/icon1.png?icon1.2k3tekyi17a_q.png?dpl=880891ca7cda2f96b4ccc0fa13edb1c9ccd26adb08e46184543ef2a98d38979c366139306137623038366162396130303038363138306437"
+    "source": "https://www.stanford.edu/icon1.png",
+    "kind": "png"
   },
   "stanford-university-school-of-medicine": {
     "issuer": "Stanford University School of Medicine",
-    "domain": "medicine.stanford.edu",
-    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://medicine.stanford.edu&size=128"
+    "source": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://medicine.stanford.edu&size=128",
+    "kind": "png"
   },
   "terna-engineering-college": {
     "issuer": "Terna Engineering College",
-    "domain": "ternaengg.ac.in",
-    "source": "https://ternaengg.ac.in/wp-content/uploads/site-icon-300x300.png"
+    "source": "https://ternaengg.ac.in/wp-content/uploads/site-icon-300x300.png",
+    "kind": "png"
   },
   "udemy": {
     "issuer": "Udemy",
-    "domain": "udemy.com",
-    "source": "https://cdn.simpleicons.org/udemy/white"
+    "source": "https://cdn.simpleicons.org/udemy/white",
+    "kind": "svg"
   },
   "university-of-cambridge": {
     "issuer": "University of Cambridge",
-    "domain": "cam.ac.uk",
-    "source": "https://www.cam.ac.uk/themes/upstream/cambridge_theme/favicon.ico"
+    "source": "https://www.cam.ac.uk/themes/custom/fresh/images/interface/university_logo_white-01.svg",
+    "kind": "svg"
   },
   "via-institute-on-character": {
     "issuer": "VIA Institute on Character",
-    "domain": "viacharacter.org",
-    "source": "https://static.viacharacter.org/web/favicon-512x512.png"
+    "source": "https://static.viacharacter.org/web/via_brandmark_white.png",
+    "kind": "png"
+  },
+  "quizzes": {
+    "issuer": "Quizzes",
+    "source": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/question-circle-fill.svg",
+    "kind": "svg"
+  },
+  "sports": {
+    "issuer": "Sports",
+    "source": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/trophy-fill.svg",
+    "kind": "svg"
+  },
+  "ankur-warikoo": {
+    "issuer": "Ankur Warikoo",
+    "source": "https://ankurwarikoo.com/wp-content/uploads/2020/06/cropped-Copy-of-aw-1.png",
+    "kind": "png"
   }
 }

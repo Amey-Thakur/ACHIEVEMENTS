@@ -62,6 +62,11 @@ def local(href):
 def clean(text):
     """Heading text without its markdown link, emoji or trailing rule."""
     text = re.sub(r"<[^>]+>", "", text)
+    # A heading carrying an issuer's mark separates it from the title with a
+    # non-breaking space, which is the one thing GitHub drops when it works out
+    # the anchor. Taking the tag off leaves that behind, and the section was
+    # then recorded as "&nbsp;Coursera".
+    text = text.replace("&nbsp;", " ").replace(" ", " ")
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"&ndash;|&mdash;", "-", text)
     return re.sub(r"[\U0001F000-\U0001FAFF☀-➿]", "", text).strip()

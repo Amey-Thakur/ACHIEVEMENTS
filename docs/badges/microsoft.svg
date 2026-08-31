@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="219.8" height="20" viewBox="0 0 219.8 20" role="img" aria-label="Microsoft: 1">
+<svg xmlns="http://www.w3.org/2000/svg" width="109.0" height="20" viewBox="0 0 109.0 20" role="img" aria-label="Microsoft: 1">
 <title>Microsoft: 1</title>
 <linearGradient id="g" x2="0" y2="100%">
 <stop offset="0" stop-color="#fff" stop-opacity=".12"/>
 <stop offset="1" stop-opacity=".12"/>
 </linearGradient>
-<clipPath id="c"><rect width="219.8" height="20" rx="3"/></clipPath>
+<clipPath id="c"><rect width="109.0" height="20" rx="3"/></clipPath>
 <g clip-path="url(#c)">
-<rect width="181.8" height="20" fill="#0067B8"/>
-<rect x="181.8" width="38" height="20" fill="#30363d"/>
-<rect width="219.8" height="20" fill="url(#g)"/>
+<rect width="86.0" height="20" fill="#0067B8"/>
+<rect x="86.0" width="23.0" height="20" fill="#30363d"/>
+<rect width="109.0" height="20" fill="url(#g)"/>
 </g>
-<image x="8" y="3.0" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAABEElEQVR42u3YMQ2AQAxA0RYBJFhAEQLwghkEsIIYLJBgoBi4jfHeG7u1+VPzXeaKzozHna35dkV3txiCrglAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAAAgJ8y9qe623qdsjWuM8ofAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEwB8ftvMM4hqNrVwAAAAASUVORK5CYII="/>
+<svg x="8" y="3.0" width="14" height="14" viewBox="0 0 24 24" fill="#ffffff"><path d="M0 0v11.408h11.408V0zm12.594 0v11.408H24V0zM0 12.594V24h11.408V12.594zm12.594 0V24H24V12.594z"/></svg>
 <g fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold">
 <text x="28" y="13.8" textLength="50.0" lengthAdjust="spacingAndGlyphs">Microsoft</text>
-<text x="200.8" y="13.8" text-anchor="middle" textLength="7.0" lengthAdjust="spacingAndGlyphs">1</text>
+<text x="97.5" y="13.8" text-anchor="middle" textLength="7.0" lengthAdjust="spacingAndGlyphs">1</text>
 </g>
 </svg>

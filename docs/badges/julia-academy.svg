@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="219.8" height="20" viewBox="0 0 219.8 20" role="img" aria-label="Julia Academy: 10">
+<svg xmlns="http://www.w3.org/2000/svg" width="145.0" height="20" viewBox="0 0 145.0 20" role="img" aria-label="Julia Academy: 10">
 <title>Julia Academy: 10</title>
 <linearGradient id="g" x2="0" y2="100%">
 <stop offset="0" stop-color="#fff" stop-opacity=".12"/>
 <stop offset="1" stop-opacity=".12"/>
 </linearGradient>
-<clipPath id="c"><rect width="219.8" height="20" rx="3"/></clipPath>
+<clipPath id="c"><rect width="145.0" height="20" rx="3"/></clipPath>
 <g clip-path="url(#c)">
-<rect width="181.8" height="20" fill="#9558B2"/>
-<rect x="181.8" width="38" height="20" fill="#30363d"/>
-<rect width="219.8" height="20" fill="url(#g)"/>
+<rect width="115.0" height="20" fill="#4063D8"/>
+<rect x="115.0" width="30.0" height="20" fill="#30363d"/>
+<rect width="145.0" height="20" fill="url(#g)"/>
 </g>
-<svg x="8" y="3.0" width="14" height="14" viewBox="0 0 24 24" fill="#ffffff"><path d="M11.138 17.569a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0zm6.431-11.138a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0zM24 17.569a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0z"/></svg>
+<svg x="8" y="3.0" width="14" height="14" viewBox="0 0 24 24" fill="#ffffff"><circle cx="5.569" cy="17.569" r="5.569" fill="#CB3C33"/><circle cx="12" cy="6.431" r="5.569" fill="#9558B2"/><circle cx="18.431" cy="17.569" r="5.569" fill="#389826"/></svg>
 <g fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="bold">
 <text x="28" y="13.8" textLength="79.0" lengthAdjust="spacingAndGlyphs">Julia Academy</text>
-<text x="200.8" y="13.8" text-anchor="middle" textLength="14.0" lengthAdjust="spacingAndGlyphs">10</text>
+<text x="130.0" y="13.8" text-anchor="middle" textLength="14.0" lengthAdjust="spacingAndGlyphs">10</text>
 </g>
 </svg>

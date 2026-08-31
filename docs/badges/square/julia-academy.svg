@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Julia Academy">
+<title>Julia Academy</title>
+<linearGradient id="g" x2="0" y2="100%">
+<stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+<stop offset="1" stop-opacity=".12"/>
+</linearGradient>
+<rect width="20" height="20" rx="3" fill="#4063D8"/>
+<rect width="20" height="20" rx="3" fill="url(#g)"/>
+<svg x="3.5" y="3.5" width="13" height="13" viewBox="0 0 24 24" fill="#ffffff"><circle cx="5.569" cy="17.569" r="5.569" fill="#CB3C33"/><circle cx="12" cy="6.431" r="5.569" fill="#9558B2"/><circle cx="18.431" cy="17.569" r="5.569" fill="#389826"/></svg>
+</svg>

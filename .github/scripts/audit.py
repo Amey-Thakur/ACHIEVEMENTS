@@ -21,7 +21,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from build_readme import RULE, split  # noqa: E402
+from build_readme import RULE, headings, split  # noqa: E402
 
 README = ROOT / "README.md"
 INDEX = ROOT / "docs" / "credentials.json"
@@ -35,16 +35,6 @@ def local(href):
     if href.startswith(("http", "#", "mailto")):
         return None
     return urllib.parse.unquote(href.split("#")[0])
-
-
-def anchor(heading):
-    """GitHub's rule: strip markup, lowercase, drop punctuation, spaces to
-    hyphens. Dropping the punctuation before the spaces merges the two hyphens
-    that "Sports & Athletic" is supposed to have."""
-    heading = re.sub(r"<[^>]+>", "", heading)
-    heading = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", heading)
-    heading = re.sub(r"[^\w\s-]", "", heading.lower().strip(), flags=re.U)
-    return heading.replace(" ", "-")
 
 
 def main():
@@ -95,8 +85,11 @@ def main():
     for p in broken:
         problems.append(f"markdown link target not found: {p}")
 
-    # 4. Every in-page anchor points at a heading that exists.
-    heads = {anchor(h) for h in re.findall(r"^#{1,6} (.+)$", text, re.M)}
+    # 4. Every in-page anchor points at a heading that exists. The anchors are
+    # the ones GitHub will generate, repeats numbered as it numbers them, so a
+    # link to the second section of a given name is checked against that
+    # section and not against the first.
+    heads = {a for _i, _lvl, _t, a, _rule in headings(text)}
     jumps = re.findall(r"\]\(#([\w-]+)\)", text) + re.findall(r'href="#([\w-]+)"', text)
     for j in jumps:
         if j not in heads:

@@ -150,51 +150,136 @@ def join(indent, cells):
 SUMMARY_START = "<!-- summary:start -->"
 SUMMARY_END = "<!-- summary:end -->"
 
-# Each issuer's own mark and brand colour, so the index reads as a row of
-# credentials from named institutions rather than a list of words. The slug is
-# simple-icons; where an issuer has no mark the badge still renders at the same
-# height, which is what keeps the grid even.
+# Each issuer, by the folder its credentials sit in: the name on its badge, and
+# the heading of its section. The anchor is not recorded here. It is read off
+# the document, because two sections are called Microsoft - the issuer, and the
+# LinkedIn Learning course provider - and GitHub gives the second one of any
+# repeated name a numbered anchor. Typing the anchor out sent the Microsoft
+# badge to the wrong section for as long as it was typed out.
 ISSUERS = {
-    "Anthropic courses": ("Anthropic", "D97757", "anthropic", "anthropic-courses"),
-    "Ankur Warikoo": ("Ankur Warikoo", "6E4AFF", "", "ankur-warikoo"),
-    "Apple": ("Apple", "000000", "apple", "apple"),
-    "COE Pune": ("COE Pune", "1F6FEB", "", "coe-pune"),
-    "Colgate Oral Health Network": ("Colgate", "C8102E", "", "colgate-oral-health-network"),
-    "Coursera": ("Coursera", "0056D2", "coursera", "coursera"),
-    "Eduonix": ("Eduonix", "F26522", "", "eduonix"),
-    "Google": ("Google", "4285F4", "google", "google"),
-    "Harvard Medical School": ("Harvard Medical School", "A51C30", "", "harvard-medical-school"),
-    "IBM": ("IBM", "052FAD", "ibm", "ibm"),
-    "IIT Bombay": ("IIT Bombay", "003366", "", "iit-bombay"),
-    "Intel": ("Intel", "0071C5", "intel", "intel"),
-    "Julia Academy": ("Julia Academy", "9558B2", "julia", "julia-academy"),
-    "Kaggle": ("Kaggle", "20BEFF", "kaggle", "kaggle"),
-    "LTCE Webinar": ("LTCE Webinar", "1F6FEB", "", "ltce-webinar"),
-    "Linkedin Learning": ("LinkedIn Learning", "0A66C2", "linkedin", "linkedin-learning"),
-    "MathWorks": ("MathWorks", "0076A8", "mathworks", "mathworks"),
-    "Microsoft": ("Microsoft", "5E5E5E", "microsoft", "microsoft"),
-    "Nvidia Deep Learning Institute": ("NVIDIA DLI", "76B900", "nvidia",
-                                       "nvidia-deep-learning-institute"),
-    "OpenAI Academy": ("OpenAI Academy", "412991", "openai", "openai-academy"),
-    "Quizzes": ("Quizzes", "6E7781", "", "quizzes"),
-    "Simplilearn": ("Simplilearn", "F58220", "", "simplilearn"),
-    "Sports": ("Sports", "2DA44E", "", "sports--athletic-achievements"),
-    "Stanford University": ("Stanford University", "8C1515", "", "stanford-university"),
-    "Stanford University School of Medicine": ("Stanford Medicine", "8C1515", "",
-                                             "stanford-university-school-of-medicine"),
-    "Terna Engineering College": ("Terna Engineering College", "1F6FEB", "",
-                                  "terna-engineering-college"),
-    "Udemy": ("Udemy", "A435F0", "udemy", "udemy"),
-    "University of Cambridge": ("University of Cambridge", "A3C1AD", "",
-                                "university-of-cambridge"),
-    "VIA Institute on Character": ("VIA Institute on Character", "5B2C6F", "",
-                                   "via-institute-on-character"),
+    "Anthropic courses": ("Anthropic", "Anthropic courses"),
+    "Ankur Warikoo": ("Ankur Warikoo", "Ankur Warikoo"),
+    "Apple": ("Apple", "Apple"),
+    "COE Pune": ("COE Pune", "COE Pune"),
+    "Colgate Oral Health Network": ("Colgate", "Colgate Oral Health Network"),
+    "Coursera": ("Coursera", "Coursera"),
+    "Eduonix": ("Eduonix", "Eduonix"),
+    "Google": ("Google", "Google"),
+    "Harvard Medical School": ("Harvard Medical School", "Harvard Medical School"),
+    "IBM": ("IBM", "IBM"),
+    "IIT Bombay": ("IIT Bombay", "IIT Bombay"),
+    "Intel": ("Intel", "Intel"),
+    "Julia Academy": ("Julia Academy", "Julia"),
+    "Kaggle": ("Kaggle", "Kaggle"),
+    "LTCE Webinar": ("LTCE Webinar", "LTCE Webinar"),
+    "Linkedin Learning": ("LinkedIn Learning", "Linkedin Learning"),
+    "MathWorks": ("MathWorks", "MathWorks"),
+    "Microsoft": ("Microsoft", "Microsoft"),
+    "Nvidia Deep Learning Institute": ("NVIDIA DLI",
+                                       "NVIDIA Deep Learning Institute"),
+    "OpenAI Academy": ("OpenAI Academy", "OpenAI Academy"),
+    "Quizzes": ("Quizzes", "Quizzes"),
+    "Simplilearn": ("Simplilearn", "Simplilearn"),
+    "Sports": ("Sports", "Sports & Athletic Achievements"),
+    "Stanford University": ("Stanford University", "Stanford University"),
+    "Stanford University School of Medicine":
+        ("Stanford Medicine", "Stanford University School of Medicine"),
+    "Terna Engineering College": ("Terna Engineering College",
+                                  "Terna Engineering College"),
+    "Udemy": ("Udemy", "Udemy"),
+    "University of Cambridge": ("University of Cambridge",
+                                "University of Cambridge"),
+    "VIA Institute on Character": ("VIA Institute on Character",
+                                   "VIA Institute on Character"),
 }
 
 COLUMNS = 3
 
 
 BADGES = "docs/badges"
+SQUARES = f"{BADGES}/square"
+
+# A heading carrying a mark keeps the anchor it had, but only if nothing that
+# counts as text comes between the image and the title. A plain space becomes a
+# leading hyphen in the anchor and breaks every link into the section; a
+# non-breaking space is dropped entirely and the anchor does not move. GitHub
+# was asked which it does, on a branch made for the question.
+MARKED = re.compile(r'^<img src="' + SQUARES + r'/[^"]+"[^>]*>&nbsp;')
+HEADING = re.compile(r"^(#{2,4})\s+(.*?)\s*$")
+
+
+def anchor_for(heading):
+    """GitHub's rule: strip markup, lowercase, drop punctuation, spaces to
+    hyphens. Punctuation goes before the spaces do, which is why "Sports &
+    Athletic" ends up with two hyphens in the middle of it."""
+    heading = MARKED.sub("", heading)
+    heading = re.sub(r"<[^>]+>", "", heading)
+    heading = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", heading)
+    heading = re.sub(r"[^\w\s-]", "", heading.lower().strip(), flags=re.U)
+    return heading.replace(" ", "-")
+
+
+def headings(text):
+    """Every heading, with the anchor GitHub will give it and whether a rule
+    sets it off. Repeats are numbered the way GitHub numbers them, so the
+    second section called Microsoft is microsoft-1."""
+    lines = text.splitlines()
+    seen = {}
+    for i, line in enumerate(lines):
+        m = HEADING.match(line)
+        if not m:
+            continue
+        title = MARKED.sub("", m.group(2))
+        base = anchor_for(title)
+        n = seen.get(base, 0)
+        seen[base] = n + 1
+        anchor = base if not n else f"{base}-{n}"
+        rule = (i >= 2 and not lines[i - 1].strip()
+                and lines[i - 2].strip() == "---")
+        yield i, m.group(1), title, anchor, rule
+
+
+def issuer_anchors(text):
+    """The anchor of each issuer's own section.
+
+    Only a heading set off by a rule counts. Without that the Microsoft badge
+    matched the LinkedIn Learning course provider of the same name, which comes
+    first in the document and therefore owns the plain anchor.
+    """
+    by_title = {title: platform for platform, (_n, title) in ISSUERS.items()}
+    out = {}
+    for _i, _level, title, anchor, rule in headings(text):
+        platform = by_title.get(title)
+        if platform and rule and platform not in out:
+            out[platform] = anchor
+    return out
+
+
+def heading_mark(platform, note):
+    """The issuer's square mark, to sit in front of its section heading."""
+    name = ISSUERS[platform][0]
+    key = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    src = f"{SQUARES}/{key}.svg"
+    if not (ROOT / src).exists():
+        return ""
+    text = f"{name}, {note}"
+    return f'<img src="{quote(src)}" alt="{text}" title="{text}" height="20">&nbsp;'
+
+
+def decorate_headings(text, notes):
+    """Put each issuer's mark in front of its own section heading.
+
+    The mark is the square twin of the badge in the index above, so a reader
+    scrolling past a heading sees the same thing they clicked.
+    """
+    wanted = {anchor: platform
+              for platform, anchor in issuer_anchors(text).items()}
+    lines = text.splitlines()
+    for i, level, title, anchor, _rule in headings(text):
+        platform = wanted.get(anchor)
+        mark = heading_mark(platform, notes[platform]) if platform else ""
+        lines[i] = f"{level} {mark}{title}"
+    return "\n".join(lines) + "\n"
 
 
 def badge(name, note):
@@ -214,17 +299,28 @@ def badge(name, note):
     return (f'<img src="{quote(src)}" alt="{text}" title="{text}" height="20">')
 
 
-def summary_block(creds):
-    """The opening figures and the issuer index, both counted rather than typed."""
-    pdfs = sum(1 for c in creds if c["pdf"])
-    badges = sum(1 for c in creds if c["badge"])
-    verified = sum(1 for c in creds if c["verify"])
-
+def issuer_notes(creds):
+    """What each issuer's badge and heading say about it, counted not typed."""
     counts, checked = {}, {}
     for c in creds:
         counts[c["platform"]] = counts.get(c["platform"], 0) + 1
         if c["verify"]:
             checked[c["platform"]] = checked.get(c["platform"], 0) + 1
+    notes = {}
+    for platform, n in counts.items():
+        note = f"{n} credential{'s' if n != 1 else ''}"
+        if checked.get(platform):
+            note += f", {checked[platform]} verifiable"
+        notes[platform] = note
+    return counts, notes
+
+
+def summary_block(creds, anchors):
+    """The opening figures and the issuer index, both counted rather than typed."""
+    pdfs = sum(1 for c in creds if c["pdf"])
+    badges = sum(1 for c in creds if c["badge"])
+    verified = sum(1 for c in creds if c["verify"])
+    counts, notes = issuer_notes(creds)
 
     known = sorted((p for p in counts if p in ISSUERS),
                    key=lambda p: ISSUERS[p][0].lower())
@@ -232,11 +328,9 @@ def summary_block(creds):
     for i in range(0, len(known), COLUMNS):
         rows.append("<tr>")
         for platform in known[i:i + COLUMNS]:
-            name, _colour, _logo, anchor = ISSUERS[platform]
-            n, v = counts[platform], checked.get(platform, 0)
-            note = f"{n} credential{'s' if n != 1 else ''}"
-            if v:
-                note += f", {v} verifiable"
+            name = ISSUERS[platform][0]
+            anchor = anchors.get(platform, anchor_for(ISSUERS[platform][1]))
+            note = notes[platform]
             # The badge carries its own counts, so the cell holds one image and
             # nothing else. A caption underneath wrapped to a second line on
             # the longest of them, which made that whole row taller than the
@@ -279,7 +373,7 @@ def summary_block(creds):
 
 def write_summary(text, creds):
     """Put the block under the certifications heading, once."""
-    block = summary_block(creds)
+    block = summary_block(creds, issuer_anchors(text))
     if SUMMARY_START in text:
         head, rest = text.split(SUMMARY_START, 1)
         _, tail = rest.split(SUMMARY_END, 1)
@@ -301,8 +395,9 @@ def main():
             if key:
                 by_target[key] = cred
 
-    lines = write_summary(README.read_text(encoding="utf-8"),
-                          data["credentials"]).splitlines()
+    _counts, notes = issuer_notes(data["credentials"])
+    source = decorate_headings(README.read_text(encoding="utf-8"), notes)
+    lines = write_summary(source, data["credentials"]).splitlines()
     out, i, changed = [], 0, 0
 
     while i < len(lines):
