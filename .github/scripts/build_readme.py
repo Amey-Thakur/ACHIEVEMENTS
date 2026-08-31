@@ -263,8 +263,7 @@ def summary_block(creds):
         "",
         "\n".join(rows),
         "",
-        "<sub>Each badge names the issuer, how many credentials it awarded, and "
-        "after the slash how many of those can be verified on its own site.</sub>",
+        "<sub>Each badge names the issuer and how many credentials it awarded. Hover any of them for the number that can be verified at the source.</sub>",
         "",
         "</div>",
         "",

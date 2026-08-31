@@ -33,10 +33,16 @@ OUT = ROOT / "docs" / "badges"
 # whatever size the page asks for.
 HEIGHT = 20
 RADIUS = 3
-PAD_X = 7
-GAP = 5
+PAD_X = 8
+GAP = 6
 LOGO = 14
 FONT_SIZE = 11
+
+# Every badge is the same width, and the count segment starts at the same
+# place in all of them. Sized to the longest issuer name and the largest
+# count, they line up down the column and across the row; sized to their own
+# contents they cannot, however the cells around them are aligned.
+COUNT_W = 38
 
 # The count segment, dark enough for white text over any brand colour.
 COUNT_BG = "#30363d"
@@ -168,33 +174,42 @@ def logo_markup(kind, path, x, y, size):
             f'href="data:image/png;base64,{data}"/>')
 
 
-def build(display, colour, tally, kind, path):
+def build(display, colour, tally, kind, path, left):
+    """One badge, at the width every badge shares.
+
+    `left` is where the count segment begins and is the same for all of them,
+    so the colours break on one line down the whole grid. Sized to its own
+    contents, a badge cannot line up with its neighbours however the cells
+    around it are aligned, which is what made the index look ragged.
+    """
     name_w = measure(display, FONT_SIZE)
     tally_w = measure(tally, FONT_SIZE)
-    logo_w = LOGO if path else 0
-    gap = GAP if path else 0
-
-    left = round(PAD_X + logo_w + gap + name_w + PAD_X, 1)
-    width = round(left + PAD_X + tally_w + PAD_X, 1)
+    width = round(left + COUNT_W, 1)
     baseline = round(HEIGHT / 2 + FONT_SIZE * 0.35, 1)
 
     logo = logo_markup(kind, path, PAD_X, (HEIGHT - LOGO) / 2, LOGO) if path else ""
+    name_x = PAD_X + (LOGO + GAP if path else 0)
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" \
 height="{HEIGHT}" viewBox="0 0 {width} {HEIGHT}" role="img" \
 aria-label="{escape(display)}: {escape(tally)}">
 <title>{escape(display)}: {escape(tally)}</title>
+<linearGradient id="g" x2="0" y2="100%">
+<stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+<stop offset="1" stop-opacity=".12"/>
+</linearGradient>
 <clipPath id="c"><rect width="{width}" height="{HEIGHT}" rx="{RADIUS}"/></clipPath>
 <g clip-path="url(#c)">
 <rect width="{left}" height="{HEIGHT}" fill="{colour}"/>
-<rect x="{left}" width="{round(width - left, 1)}" height="{HEIGHT}" fill="{COUNT_BG}"/>
+<rect x="{left}" width="{COUNT_W}" height="{HEIGHT}" fill="{COUNT_BG}"/>
+<rect width="{width}" height="{HEIGHT}" fill="url(#g)"/>
 </g>
 {logo}
 <g fill="#ffffff" font-family="{FONT_STACK}" font-size="{FONT_SIZE}" font-weight="bold">
-<text x="{PAD_X + logo_w + gap}" y="{baseline}" textLength="{round(name_w, 1)}" \
+<text x="{name_x}" y="{baseline}" textLength="{round(name_w, 1)}" \
 lengthAdjust="spacingAndGlyphs">{escape(display)}</text>
-<text x="{round(left + PAD_X, 1)}" y="{baseline}" textLength="{round(tally_w, 1)}" \
-lengthAdjust="spacingAndGlyphs">{escape(tally)}</text>
+<text x="{round(left + COUNT_W / 2, 1)}" y="{baseline}" text-anchor="middle" \
+textLength="{round(tally_w, 1)}" lengthAdjust="spacingAndGlyphs">{escape(tally)}</text>
 </g>
 </svg>
 '''
@@ -220,15 +235,21 @@ def main():
     for stale in OUT.glob("*.png"):
         stale.unlink()
 
+    # The shared split point: the longest name, with room for a mark, so no
+    # badge has to be wider than any other.
+    marks = {d: mark_for(d, index) for d in BRAND}
+    left = round(max(PAD_X + (LOGO + GAP if marks[d][1] else 0)
+                     + measure(d, FONT_SIZE) + PAD_X for d in BRAND), 1)
+
     vector = raster = plain = 0
     for display, colour in sorted(BRAND.items()):
-        kind, path = mark_for(display, index)
+        kind, path = marks[display]
         # One number, always the same number: how many credentials this
         # issuer awarded. Showing the verifiable count beside it on some
         # badges and not others made the row read unevenly.
         tally = str(counts.get(display, 0))
         (OUT / f"{slug(display)}.svg").write_text(
-            build(display, colour, tally, kind, path), encoding="utf-8")
+            build(display, colour, tally, kind, path, left), encoding="utf-8")
         vector += kind == "vector"
         raster += kind == "raster"
         plain += kind is None
