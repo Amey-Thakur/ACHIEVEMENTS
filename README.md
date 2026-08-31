@@ -46,49 +46,49 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="#ankur-warikoo" title="Ankur Warikoo - 1 credential"><img src="docs/badges/ankur-warikoo.png" alt="Ankur Warikoo - 1 credential" title="Ankur Warikoo - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
-<td align="center" width="25%"><a href="#anthropic-courses" title="Anthropic - 23 credentials, 23 verifiable"><img src="docs/badges/anthropic.png" alt="Anthropic - 23 credentials, 23 verifiable" title="Anthropic - 23 credentials, 23 verifiable" height="20"></a><br><sub>23 credentials, 23 verifiable</sub></td>
-<td align="center" width="25%"><a href="#apple" title="Apple - 2 credentials, 1 verifiable"><img src="docs/badges/apple.png" alt="Apple - 2 credentials, 1 verifiable" title="Apple - 2 credentials, 1 verifiable" height="20"></a><br><sub>2 credentials, 1 verifiable</sub></td>
-<td align="center" width="25%"><a href="#coe-pune" title="COE Pune - 1 credential"><img src="docs/badges/coe-pune.png" alt="COE Pune - 1 credential" title="COE Pune - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
+<td align="center" width="25%"><a href="#ankur-warikoo" title="Ankur Warikoo, 1 credential"><img src="docs/badges/ankur-warikoo.png" alt="Ankur Warikoo, 1 credential" title="Ankur Warikoo, 1 credential" height="20"></a></td>
+<td align="center" width="25%"><a href="#anthropic-courses" title="Anthropic, 23 credentials, 23 verifiable"><img src="docs/badges/anthropic.png" alt="Anthropic, 23 credentials, 23 verifiable" title="Anthropic, 23 credentials, 23 verifiable" height="20"></a></td>
+<td align="center" width="25%"><a href="#apple" title="Apple, 2 credentials, 1 verifiable"><img src="docs/badges/apple.png" alt="Apple, 2 credentials, 1 verifiable" title="Apple, 2 credentials, 1 verifiable" height="20"></a></td>
+<td align="center" width="25%"><a href="#coe-pune" title="COE Pune, 1 credential"><img src="docs/badges/coe-pune.png" alt="COE Pune, 1 credential" title="COE Pune, 1 credential" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#colgate-oral-health-network" title="Colgate - 18 credentials"><img src="docs/badges/colgate.png" alt="Colgate - 18 credentials" title="Colgate - 18 credentials" height="20"></a><br><sub>18 credentials</sub></td>
-<td align="center" width="25%"><a href="#coursera" title="Coursera - 132 credentials, 132 verifiable"><img src="docs/badges/coursera.png" alt="Coursera - 132 credentials, 132 verifiable" title="Coursera - 132 credentials, 132 verifiable" height="20"></a><br><sub>132 credentials, 132 verifiable</sub></td>
-<td align="center" width="25%"><a href="#eduonix" title="Eduonix - 84 credentials, 84 verifiable"><img src="docs/badges/eduonix.png" alt="Eduonix - 84 credentials, 84 verifiable" title="Eduonix - 84 credentials, 84 verifiable" height="20"></a><br><sub>84 credentials, 84 verifiable</sub></td>
-<td align="center" width="25%"><a href="#google" title="Google - 49 credentials"><img src="docs/badges/google.png" alt="Google - 49 credentials" title="Google - 49 credentials" height="20"></a><br><sub>49 credentials</sub></td>
+<td align="center" width="25%"><a href="#colgate-oral-health-network" title="Colgate, 18 credentials"><img src="docs/badges/colgate.png" alt="Colgate, 18 credentials" title="Colgate, 18 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#coursera" title="Coursera, 132 credentials, 132 verifiable"><img src="docs/badges/coursera.png" alt="Coursera, 132 credentials, 132 verifiable" title="Coursera, 132 credentials, 132 verifiable" height="20"></a></td>
+<td align="center" width="25%"><a href="#eduonix" title="Eduonix, 84 credentials, 84 verifiable"><img src="docs/badges/eduonix.png" alt="Eduonix, 84 credentials, 84 verifiable" title="Eduonix, 84 credentials, 84 verifiable" height="20"></a></td>
+<td align="center" width="25%"><a href="#google" title="Google, 49 credentials"><img src="docs/badges/google.png" alt="Google, 49 credentials" title="Google, 49 credentials" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#harvard-medical-school" title="Harvard Medical School - 1 credential"><img src="docs/badges/harvard-medical-school.png" alt="Harvard Medical School - 1 credential" title="Harvard Medical School - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
-<td align="center" width="25%"><a href="#ibm" title="IBM - 1 credential"><img src="docs/badges/ibm.png" alt="IBM - 1 credential" title="IBM - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
-<td align="center" width="25%"><a href="#iit-bombay" title="IIT Bombay - 5 credentials"><img src="docs/badges/iit-bombay.png" alt="IIT Bombay - 5 credentials" title="IIT Bombay - 5 credentials" height="20"></a><br><sub>5 credentials</sub></td>
-<td align="center" width="25%"><a href="#intel" title="Intel - 1 credential"><img src="docs/badges/intel.png" alt="Intel - 1 credential" title="Intel - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
+<td align="center" width="25%"><a href="#harvard-medical-school" title="Harvard Medical School, 1 credential"><img src="docs/badges/harvard-medical-school.png" alt="Harvard Medical School, 1 credential" title="Harvard Medical School, 1 credential" height="20"></a></td>
+<td align="center" width="25%"><a href="#ibm" title="IBM, 1 credential"><img src="docs/badges/ibm.png" alt="IBM, 1 credential" title="IBM, 1 credential" height="20"></a></td>
+<td align="center" width="25%"><a href="#iit-bombay" title="IIT Bombay, 5 credentials"><img src="docs/badges/iit-bombay.png" alt="IIT Bombay, 5 credentials" title="IIT Bombay, 5 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#intel" title="Intel, 1 credential"><img src="docs/badges/intel.png" alt="Intel, 1 credential" title="Intel, 1 credential" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#julia-academy" title="Julia Academy - 10 credentials"><img src="docs/badges/julia-academy.png" alt="Julia Academy - 10 credentials" title="Julia Academy - 10 credentials" height="20"></a><br><sub>10 credentials</sub></td>
-<td align="center" width="25%"><a href="#kaggle" title="Kaggle - 17 credentials"><img src="docs/badges/kaggle.png" alt="Kaggle - 17 credentials" title="Kaggle - 17 credentials" height="20"></a><br><sub>17 credentials</sub></td>
-<td align="center" width="25%"><a href="#linkedin-learning" title="LinkedIn Learning - 266 credentials"><img src="docs/badges/linkedin-learning.png" alt="LinkedIn Learning - 266 credentials" title="LinkedIn Learning - 266 credentials" height="20"></a><br><sub>266 credentials</sub></td>
-<td align="center" width="25%"><a href="#ltce-webinar" title="LTCE Webinar - 3 credentials"><img src="docs/badges/ltce-webinar.png" alt="LTCE Webinar - 3 credentials" title="LTCE Webinar - 3 credentials" height="20"></a><br><sub>3 credentials</sub></td>
+<td align="center" width="25%"><a href="#julia-academy" title="Julia Academy, 10 credentials"><img src="docs/badges/julia-academy.png" alt="Julia Academy, 10 credentials" title="Julia Academy, 10 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#kaggle" title="Kaggle, 17 credentials"><img src="docs/badges/kaggle.png" alt="Kaggle, 17 credentials" title="Kaggle, 17 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#linkedin-learning" title="LinkedIn Learning, 266 credentials"><img src="docs/badges/linkedin-learning.png" alt="LinkedIn Learning, 266 credentials" title="LinkedIn Learning, 266 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#ltce-webinar" title="LTCE Webinar, 3 credentials"><img src="docs/badges/ltce-webinar.png" alt="LTCE Webinar, 3 credentials" title="LTCE Webinar, 3 credentials" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#mathworks" title="MathWorks - 3 credentials"><img src="docs/badges/mathworks.png" alt="MathWorks - 3 credentials" title="MathWorks - 3 credentials" height="20"></a><br><sub>3 credentials</sub></td>
-<td align="center" width="25%"><a href="#microsoft" title="Microsoft - 1 credential"><img src="docs/badges/microsoft.png" alt="Microsoft - 1 credential" title="Microsoft - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
-<td align="center" width="25%"><a href="#nvidia-deep-learning-institute" title="NVIDIA DLI - 2 credentials"><img src="docs/badges/nvidia-dli.png" alt="NVIDIA DLI - 2 credentials" title="NVIDIA DLI - 2 credentials" height="20"></a><br><sub>2 credentials</sub></td>
-<td align="center" width="25%"><a href="#openai-academy" title="OpenAI Academy - 3 credentials, 3 verifiable"><img src="docs/badges/openai-academy.png" alt="OpenAI Academy - 3 credentials, 3 verifiable" title="OpenAI Academy - 3 credentials, 3 verifiable" height="20"></a><br><sub>3 credentials, 3 verifiable</sub></td>
+<td align="center" width="25%"><a href="#mathworks" title="MathWorks, 3 credentials"><img src="docs/badges/mathworks.png" alt="MathWorks, 3 credentials" title="MathWorks, 3 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#microsoft" title="Microsoft, 1 credential"><img src="docs/badges/microsoft.png" alt="Microsoft, 1 credential" title="Microsoft, 1 credential" height="20"></a></td>
+<td align="center" width="25%"><a href="#nvidia-deep-learning-institute" title="NVIDIA DLI, 2 credentials"><img src="docs/badges/nvidia-dli.png" alt="NVIDIA DLI, 2 credentials" title="NVIDIA DLI, 2 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#openai-academy" title="OpenAI Academy, 3 credentials, 3 verifiable"><img src="docs/badges/openai-academy.png" alt="OpenAI Academy, 3 credentials, 3 verifiable" title="OpenAI Academy, 3 credentials, 3 verifiable" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#quizzes" title="Quizzes - 54 credentials"><img src="docs/badges/quizzes.png" alt="Quizzes - 54 credentials" title="Quizzes - 54 credentials" height="20"></a><br><sub>54 credentials</sub></td>
-<td align="center" width="25%"><a href="#simplilearn" title="Simplilearn - 2 credentials"><img src="docs/badges/simplilearn.png" alt="Simplilearn - 2 credentials" title="Simplilearn - 2 credentials" height="20"></a><br><sub>2 credentials</sub></td>
-<td align="center" width="25%"><a href="#sports--athletic-achievements" title="Sports - 13 credentials"><img src="docs/badges/sports.png" alt="Sports - 13 credentials" title="Sports - 13 credentials" height="20"></a><br><sub>13 credentials</sub></td>
-<td align="center" width="25%"><a href="#stanford-university-school-of-medicine" title="Stanford Medicine - 2 credentials"><img src="docs/badges/stanford-medicine.png" alt="Stanford Medicine - 2 credentials" title="Stanford Medicine - 2 credentials" height="20"></a><br><sub>2 credentials</sub></td>
+<td align="center" width="25%"><a href="#quizzes" title="Quizzes, 54 credentials"><img src="docs/badges/quizzes.png" alt="Quizzes, 54 credentials" title="Quizzes, 54 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#simplilearn" title="Simplilearn, 2 credentials"><img src="docs/badges/simplilearn.png" alt="Simplilearn, 2 credentials" title="Simplilearn, 2 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#sports--athletic-achievements" title="Sports, 13 credentials"><img src="docs/badges/sports.png" alt="Sports, 13 credentials" title="Sports, 13 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#stanford-university-school-of-medicine" title="Stanford Medicine, 2 credentials"><img src="docs/badges/stanford-medicine.png" alt="Stanford Medicine, 2 credentials" title="Stanford Medicine, 2 credentials" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#stanford-university" title="Stanford University - 1 credential"><img src="docs/badges/stanford-university.png" alt="Stanford University - 1 credential" title="Stanford University - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
-<td align="center" width="25%"><a href="#terna-engineering-college" title="Terna Engineering College - 4 credentials"><img src="docs/badges/terna-engineering-college.png" alt="Terna Engineering College - 4 credentials" title="Terna Engineering College - 4 credentials" height="20"></a><br><sub>4 credentials</sub></td>
-<td align="center" width="25%"><a href="#udemy" title="Udemy - 1 credential"><img src="docs/badges/udemy.png" alt="Udemy - 1 credential" title="Udemy - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
-<td align="center" width="25%"><a href="#university-of-cambridge" title="University of Cambridge - 1 credential"><img src="docs/badges/university-of-cambridge.png" alt="University of Cambridge - 1 credential" title="University of Cambridge - 1 credential" height="20"></a><br><sub>1 credential</sub></td>
+<td align="center" width="25%"><a href="#stanford-university" title="Stanford University, 1 credential"><img src="docs/badges/stanford-university.png" alt="Stanford University, 1 credential" title="Stanford University, 1 credential" height="20"></a></td>
+<td align="center" width="25%"><a href="#terna-engineering-college" title="Terna Engineering College, 4 credentials"><img src="docs/badges/terna-engineering-college.png" alt="Terna Engineering College, 4 credentials" title="Terna Engineering College, 4 credentials" height="20"></a></td>
+<td align="center" width="25%"><a href="#udemy" title="Udemy, 1 credential"><img src="docs/badges/udemy.png" alt="Udemy, 1 credential" title="Udemy, 1 credential" height="20"></a></td>
+<td align="center" width="25%"><a href="#university-of-cambridge" title="University of Cambridge, 1 credential"><img src="docs/badges/university-of-cambridge.png" alt="University of Cambridge, 1 credential" title="University of Cambridge, 1 credential" height="20"></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="#via-institute-on-character" title="VIA Institute on Character - 3 credentials"><img src="docs/badges/via-institute-on-character.png" alt="VIA Institute on Character - 3 credentials" title="VIA Institute on Character - 3 credentials" height="20"></a><br><sub>3 credentials</sub></td>
+<td align="center" width="25%"><a href="#via-institute-on-character" title="VIA Institute on Character, 3 credentials"><img src="docs/badges/via-institute-on-character.png" alt="VIA Institute on Character, 3 credentials" title="VIA Institute on Character, 3 credentials" height="20"></a></td>
 <td align="center" width="25%"></td>
 <td align="center" width="25%"></td>
 <td align="center" width="25%"></td>

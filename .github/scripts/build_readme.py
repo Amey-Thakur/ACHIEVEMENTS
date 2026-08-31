@@ -208,7 +208,7 @@ def badge(name, note):
     """
     key = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     src = f"{BADGES}/{key}.png"
-    text = f"{name} - {note}"
+    text = f"{name}, {note}"
     if not (ROOT / src).exists():
         return f"<b>{name}</b>"
     return (f'<img src="{quote(src)}" alt="{text}" title="{text}" height="20">')
@@ -237,11 +237,14 @@ def summary_block(creds):
             note = f"{n} credential{'s' if n != 1 else ''}"
             if v:
                 note += f", {v} verifiable"
+            # The badge carries its own counts, so the cell holds one image and
+            # nothing else. A caption underneath wrapped to a second line on
+            # the longest of them, which made that whole row taller than the
+            # rest and was the only thing stopping the grid being even.
             rows.append(
                 f'<td align="center" width="25%">'
-                f'<a href="#{anchor}" title="{name} - {note}">'
-                f'{badge(name, note)}</a><br>'
-                f'<sub>{note}</sub></td>')
+                f'<a href="#{anchor}" title="{name}, {note}">'
+                f'{badge(name, note)}</a></td>')
         for _ in range(COLUMNS - len(known[i:i + COLUMNS])):
             rows.append('<td align="center" width="25%"></td>')
         rows.append("</tr>")
