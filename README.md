@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Amey Thakur: AI/ML Engineer | Research Scholar | Open Source Contributor" src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+I'm+Amey+Thakur!;" title="Amey Thakur: AI/ML Engineer | Research Scholar | Open Source Contributor" />
+    <img alt="Amey Thakur: AI/ML Engineer | Research Scholar | Kaggle Expert | Open Source Contributor" src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+I'm+Amey+Thakur!;" title="Amey Thakur: AI/ML Engineer | Research Scholar | Kaggle Expert | Open Source Contributor" />
 </h1>
 
 <img alt="Amey Thakur: Advancing ideas through research, code, and engineering" align="right" width="400" src="docs/Programmer.gif" title="Amey Thakur: Advancing ideas through research, code, and engineering" />
@@ -1068,7 +1068,7 @@
 > - **SHRM**: Society for Human Resource Management
 
 ### <img src="docs/badges/square/adobe.svg" alt="Adobe" title="Adobe" height="20">&nbsp;Adobe
-#### Essential Skills in Generative AI for Creatives &ndash; [Professional Certificate](Linkedin%20Learning/Essential%20Skills%20in%20Generative%20AI%20for%20Creatives%20by%20Adobe.pdf)
+#### <img src="docs/badges/square/adobe.svg" alt="Adobe" title="Adobe" height="20">&nbsp;Essential Skills in Generative AI for Creatives &ndash; [Professional Certificate](Linkedin%20Learning/Essential%20Skills%20in%20Generative%20AI%20for%20Creatives%20by%20Adobe.pdf)
 
 <p align="center"><img src="docs/previews/essential-skills-in-generative-ai-for-creatives-by-adobe.jpg" width="108" alt="Essential Skills in Generative AI for Creatives" title="Essential Skills in Generative AI for Creatives, professional certificate, Amey Thakur"></p>
 
@@ -1080,7 +1080,7 @@
   | 4 | <img src="docs/previews/generative-ai-business-and-legal-concerns-for-creatives.jpg" width="108" alt="Generative AI: Business and Legal Concerns for Creatives" title="Generative AI: Business and Legal Concerns for Creatives, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Generative AI: Business and Legal Concerns for Creatives** | [Certificate](Linkedin%20Learning/Generative%20AI_%20Business%20and%20Legal%20Concerns%20for%20Creatives.pdf) |
 
 ### <img src="docs/badges/square/aha.svg" alt="Aha!" title="Aha!" height="20">&nbsp;Aha!
-#### Product Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Aha!%20Product%20Management%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/aha.svg" alt="Aha!" title="Aha!" height="20">&nbsp;Product Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Aha!%20Product%20Management%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/aha-product-management-professional-certificate.jpg" width="108" alt="Product Management Professional Certificate" title="Product Management Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1093,7 +1093,7 @@
   | 5 | <img src="docs/previews/product-management-customer-development-linkedin-learning.jpg" width="108" alt="Product Management: Customer Development" title="Product Management: Customer Development, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/product-management-customer-development-iiba.jpg" width="108" alt="Product Management: Customer Development" title="Product Management: Customer Development, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/product-management-customer-development-pmi.jpg" width="108" alt="Product Management: Customer Development" title="Product Management: Customer Development, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Product Management: Customer Development** | [LinkedIn Learning](Linkedin%20Learning/Product%20Management_%20Customer%20Development%20(LinkedIn%20Learning).pdf) <br><br> [IIBA](Linkedin%20Learning/Product%20Management_%20Customer%20Development%20(IIBA).pdf) <br><br> [PMI](Linkedin%20Learning/Product%20Management_%20Customer%20Development%20(PMI).pdf) |
 
 ### <img src="docs/badges/square/all-tech-is-human.svg" alt="All Tech Is Human" title="All Tech Is Human" height="20">&nbsp;All Tech Is Human
-#### Responsible AI Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.pdf)
+#### <img src="docs/badges/square/all-tech-is-human.svg" alt="All Tech Is Human" title="All Tech Is Human" height="20">&nbsp;Responsible AI Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.pdf)
 
 <p align="center"><img src="docs/previews/responsible-ai-foundations-professional-certificate-by-all-tech-is-human.jpg" width="108" alt="Responsible AI Foundations Professional Certificate" title="Responsible AI Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1105,7 +1105,7 @@
   | 4 | <img src="docs/previews/principles-of-responsible-ai-identifying-understanding-and-mitigating-risks-by-all-tech-is-human.jpg" width="108" alt="Principles of Responsible AI: Identifying, Understanding, and Mitigating Risks by All Tech Is Human" title="Principles of Responsible AI: Identifying, Understanding, and Mitigating Risks by All Tech Is Human, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Principles of Responsible AI: Identifying, Understanding, and Mitigating Risks by All Tech Is Human** | [Certificate](Linkedin%20Learning/Principles%20of%20Responsible%20AI_%20Identifying,%20Understanding,%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.pdf) |
 
 ### <img src="docs/badges/square/american-marketing-association.svg" alt="American Marketing Association" title="American Marketing Association" height="20">&nbsp;American Marketing Association
-#### Generative AI for Marketing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20Professional%20Certificate%20by%20the%20American%20Marketing%20Association.pdf)
+#### <img src="docs/badges/square/american-marketing-association.svg" alt="American Marketing Association" title="American Marketing Association" height="20">&nbsp;Generative AI for Marketing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20Professional%20Certificate%20by%20the%20American%20Marketing%20Association.pdf)
 
 <p align="center"><img src="docs/previews/generative-ai-for-marketing-professional-certificate-by-the-american-marketing-association.jpg" width="108" alt="Generative AI for Marketing Professional Certificate" title="Generative AI for Marketing Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1119,7 +1119,7 @@
   | 6 | <img src="docs/previews/build-your-generative-ai-plan-for-marketing-success.jpg" width="108" alt="Build Your Generative AI Plan for Marketing Success" title="Build Your Generative AI Plan for Marketing Success, LinkedIn Learning certificate, 4 August 2026, Amey Thakur"> | **Build Your Generative AI Plan for Marketing Success** | [Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.pdf) |
 
 ### <img src="docs/badges/square/anaconda.svg" alt="Anaconda" title="Anaconda" height="20">&nbsp;Anaconda
-#### Anaconda Python for Data Science Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/anaconda.svg" alt="Anaconda" title="Anaconda" height="20">&nbsp;Anaconda Python for Data Science Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/anaconda-python-for-data-science-professional-certificate.jpg" width="108" alt="Anaconda Python for Data Science Professional Certificate" title="Anaconda Python for Data Science Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1131,7 +1131,7 @@
   | 4 | <img src="docs/previews/learning-python-2021.jpg" width="108" alt="Learning Python (2021)" title="Learning Python (2021), LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Learning Python (2021)** | [Certificate](Linkedin%20Learning/Learning%20Python%20(2021).pdf) |
   | 5 | <img src="docs/previews/python-data-analysis-2020.jpg" width="108" alt="Python Data Analysis (2020)" title="Python Data Analysis (2020), LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Python Data Analysis (2020)** | [Certificate](Linkedin%20Learning/Python%20Data%20Analysis%20(2020).pdf) |
 
-#### Machine Learning with Python Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python%20Professional%20Certificate%20by%20Anaconda.pdf)
+#### <img src="docs/badges/square/anaconda.svg" alt="Anaconda" title="Anaconda" height="20">&nbsp;Machine Learning with Python Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Machine%20Learning%20with%20Python%20Professional%20Certificate%20by%20Anaconda.pdf)
 
 <p align="center"><img src="docs/previews/machine-learning-with-python-professional-certificate-by-anaconda.jpg" width="108" alt="Machine Learning with Python Professional Certificate" title="Machine Learning with Python Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1145,7 +1145,7 @@
   | 6 | <img src="docs/previews/processing-text-with-python-essential-training.jpg" width="108" alt="Processing Text with Python Essential Training" title="Processing Text with Python Essential Training, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Processing Text with Python Essential Training** | [Certificate](Linkedin%20Learning/Processing%20Text%20with%20Python%20Essential%20Training.pdf) |
 
 ### <img src="docs/badges/square/astronomer.svg" alt="Astronomer" title="Astronomer" height="20">&nbsp;Astronomer
-#### Data Engineering Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Engineering%20Foundations%20Professional%20Certificate%20by%20Astronomer.pdf)
+#### <img src="docs/badges/square/astronomer.svg" alt="Astronomer" title="Astronomer" height="20">&nbsp;Data Engineering Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Engineering%20Foundations%20Professional%20Certificate%20by%20Astronomer.pdf)
 
 <p align="center"><img src="docs/previews/data-engineering-foundations-professional-certificate-by-astronomer.jpg" width="108" alt="Data Engineering Foundations Professional Certificate" title="Data Engineering Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1159,7 +1159,7 @@
   | 6 | <img src="docs/previews/learning-data-governance.jpg" width="108" alt="Learning Data Governance" title="Learning Data Governance, LinkedIn Learning certificate, 3 August 2026, Amey Thakur"> | **Learning Data Governance** | [Certificate](Linkedin%20Learning/Learning%20Data%20Governance.pdf) |
 
 ### <img src="docs/badges/square/atlassian.svg" alt="Atlassian" title="Atlassian" height="20">&nbsp;Atlassian
-#### Atlassian Agile Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Atlassian%20Agile%20Project%20Management%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/atlassian.svg" alt="Atlassian" title="Atlassian" height="20">&nbsp;Atlassian Agile Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Atlassian%20Agile%20Project%20Management%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/atlassian-agile-project-management-professional-certificate.jpg" width="108" alt="Atlassian Agile Project Management Professional Certificate" title="Atlassian Agile Project Management Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1182,7 +1182,7 @@
   | 4 | <img src="docs/previews/it-service-desk-monitoring-and-metrics-fundamentals.jpg" width="108" alt="IT Service Desk: Monitoring and Metrics Fundamentals" title="IT Service Desk: Monitoring and Metrics Fundamentals, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **IT Service Desk: Monitoring and Metrics Fundamentals** | [Certificate](Linkedin%20Learning/IT%20Service%20Desk_%20Monitoring%20and%20Metrics%20Fundamentals.pdf) |
 
 ### <img src="docs/badges/square/canonical.svg" alt="Canonical" title="Canonical" height="20">&nbsp;Canonical
-#### Ubuntu Linux Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Ubuntu%20Linux%20Professional%20Certificate%20by%20Canonical.pdf)
+#### <img src="docs/badges/square/canonical.svg" alt="Canonical" title="Canonical" height="20">&nbsp;Ubuntu Linux Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Ubuntu%20Linux%20Professional%20Certificate%20by%20Canonical.pdf)
 
 <p align="center"><img src="docs/previews/ubuntu-linux-professional-certificate-by-canonical.jpg" width="108" alt="Ubuntu Linux Professional Certificate" title="Ubuntu Linux Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1194,7 +1194,7 @@
   | 4 | <img src="docs/previews/ubuntu-linux-user-and-group-management.jpg" width="108" alt="Ubuntu Linux: User and Group Management" title="Ubuntu Linux: User and Group Management, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Ubuntu Linux: User and Group Management** | [Certificate](Linkedin%20Learning/Ubuntu%20Linux_%20User%20and%20Group%20Management.pdf) |
 
 ### <img src="docs/badges/square/churnzero.svg" alt="ChurnZero" title="ChurnZero" height="20">&nbsp;ChurnZero
-#### Customer Success Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Customer%20Success%20Foundations%20Professional%20Certificate%20by%20ChurnZero.pdf)
+#### <img src="docs/badges/square/churnzero.svg" alt="ChurnZero" title="ChurnZero" height="20">&nbsp;Customer Success Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Customer%20Success%20Foundations%20Professional%20Certificate%20by%20ChurnZero.pdf)
 
 <p align="center"><img src="docs/previews/customer-success-foundations-professional-certificate-by-churnzero.jpg" width="108" alt="Customer Success Foundations Professional Certificate" title="Customer Success Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1210,7 +1210,7 @@
   | 8 | <img src="docs/previews/customer-experience-leadership.jpg" width="108" alt="Customer Experience Leadership" title="Customer Experience Leadership, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Customer Experience Leadership** | [Certificate](Linkedin%20Learning/Customer%20Experience%20Leadership.pdf) |
 
 ### <img src="docs/badges/square/docker.svg" alt="Docker" title="Docker" height="20">&nbsp;Docker
-#### Docker Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Docker%20Foundations%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/docker.svg" alt="Docker" title="Docker" height="20">&nbsp;Docker Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Docker%20Foundations%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/docker-foundations-professional-certificate.jpg" width="108" alt="Docker Foundations Professional Certificate" title="Docker Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1221,7 +1221,7 @@
   | 3 | <img src="docs/previews/learning-docker-compose.jpg" width="108" alt="Learning Docker Compose" title="Learning Docker Compose, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Learning Docker Compose** | [Certificate](Linkedin%20Learning/Learning%20Docker%20Compose.pdf) |
 
 ### <img src="docs/badges/square/github.svg" alt="GitHub" title="GitHub" height="20">&nbsp;GitHub
-#### Career Essentials in GitHub Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20GitHub%20Copilot%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/github.svg" alt="GitHub" title="GitHub" height="20">&nbsp;Career Essentials in GitHub Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20GitHub%20Copilot%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-github-copilot-professional-certificate.jpg" width="108" alt="Career Essentials in GitHub Copilot Professional Certificate" title="Career Essentials in GitHub Copilot Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1232,7 +1232,7 @@
   | 3 | <img src="docs/previews/refactoring-with-github-copilot.jpg" width="108" alt="Refactoring with GitHub Copilot" title="Refactoring with GitHub Copilot, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Refactoring with GitHub Copilot** | [Certificate](Linkedin%20Learning/Refactoring%20with%20GitHub%20Copilot.pdf) |
   | 4 | <img src="docs/previews/responsible-github-copilot-creating-reliable-code-ethically.jpg" width="108" alt="Responsible GitHub Copilot: Creating Reliable Code Ethically" title="Responsible GitHub Copilot: Creating Reliable Code Ethically, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Responsible GitHub Copilot: Creating Reliable Code Ethically** | [Certificate](Linkedin%20Learning/Responsible%20GitHub%20Copilot_%20Creating%20Reliable%20Code%20Ethically.pdf) |
 
-#### Career Essentials in GitHub Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20GitHub%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/github.svg" alt="GitHub" title="GitHub" height="20">&nbsp;Career Essentials in GitHub Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20GitHub%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-github-professional-certificate.jpg" width="108" alt="Career Essentials in GitHub Professional Certificate" title="Career Essentials in GitHub Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1244,7 +1244,7 @@
   | 4 | <img src="docs/previews/practical-github-code-search.jpg" width="108" alt="Practical GitHub Code Search" title="Practical GitHub Code Search, LinkedIn Learning certificate, 25 June 2026, Amey Thakur"> | **Practical GitHub Code Search** | [Certificate](Linkedin%20Learning/Practical%20GitHub%20Code%20Search.pdf) |
 
 ### <img src="docs/badges/square/grammarly.svg" alt="Grammarly" title="Grammarly" height="20">&nbsp;Grammarly
-#### Business Writing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Business%20Writing%20Professional%20Certificate%20by%20Grammarly.pdf)
+#### <img src="docs/badges/square/grammarly.svg" alt="Grammarly" title="Grammarly" height="20">&nbsp;Business Writing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Business%20Writing%20Professional%20Certificate%20by%20Grammarly.pdf)
 
 <p align="center"><img src="docs/previews/business-writing-professional-certificate-by-grammarly.jpg" width="108" alt="Business Writing Professional Certificate" title="Business Writing Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1259,7 +1259,7 @@
   | 7 | <img src="docs/previews/grammarly-your-ai-writing-partner-linkedin-learning.jpg" width="108" alt="Grammarly: Your AI Writing Partner" title="Grammarly: Your AI Writing Partner, LinkedIn Learning certificate, 11 July 2026, Amey Thakur"><br><img src="docs/previews/grammarly-your-ai-writing-partner-pmi.jpg" width="108" alt="Grammarly: Your AI Writing Partner" title="Grammarly: Your AI Writing Partner, LinkedIn Learning certificate, 11 July 2026, Amey Thakur"> | **Grammarly: Your AI Writing Partner** | [LinkedIn Learning](Linkedin%20Learning/Grammarly_%20Your%20AI%20Writing%20Partner%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Grammarly_%20Your%20AI%20Writing%20Partner%20(PMI).pdf) |
 
 ### <img src="docs/badges/square/intuit-mailchimp.svg" alt="Intuit Mailchimp" title="Intuit Mailchimp" height="20">&nbsp;Intuit Mailchimp
-#### Email Marketing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Email%20Marketing%20Professional%20Certificate%20by%20Intuit%20Mailchimp.pdf)
+#### <img src="docs/badges/square/intuit-mailchimp.svg" alt="Intuit Mailchimp" title="Intuit Mailchimp" height="20">&nbsp;Email Marketing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Email%20Marketing%20Professional%20Certificate%20by%20Intuit%20Mailchimp.pdf)
 
 <p align="center"><img src="docs/previews/email-marketing-professional-certificate-by-intuit-mailchimp.jpg" width="108" alt="Email Marketing Professional Certificate" title="Email Marketing Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1270,7 +1270,7 @@
   | 3 | <img src="docs/previews/email-marketing-strategy-warm-up-a-cold-list-linkedin-learning.jpg" width="108" alt="Email Marketing Strategy: Warm Up a Cold List" title="Email Marketing Strategy: Warm Up a Cold List, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"><br><img src="docs/previews/email-marketing-strategy-warm-up-a-cold-list-pmi.jpg" width="108" alt="Email Marketing Strategy: Warm Up a Cold List" title="Email Marketing Strategy: Warm Up a Cold List, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Email Marketing Strategy: Warm Up a Cold List** | [LinkedIn Learning](Linkedin%20Learning/Email%20Marketing%20Strategy_%20Warm%20Up%20a%20Cold%20List%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Email%20Marketing%20Strategy_%20Warm%20Up%20a%20Cold%20List%20(PMI).pdf) |
 
 ### <img src="docs/badges/square/knime.svg" alt="KNIME" title="KNIME" height="20">&nbsp;KNIME
-#### Data Science Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Science%20Professional%20Certificate%20by%20KNIME.pdf)
+#### <img src="docs/badges/square/knime.svg" alt="KNIME" title="KNIME" height="20">&nbsp;Data Science Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Science%20Professional%20Certificate%20by%20KNIME.pdf)
 
 <p align="center"><img src="docs/previews/data-science-professional-certificate-by-knime.jpg" width="108" alt="Data Science Professional Certificate" title="Data Science Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1284,7 +1284,7 @@
   | 6 | <img src="docs/previews/the-non-technical-skills-of-effective-data-scientists.jpg" width="108" alt="The Non-Technical Skills of Effective Data Scientists" title="The Non-Technical Skills of Effective Data Scientists, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
 
 ### <img src="docs/badges/square/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="20">&nbsp;LinkedIn
-#### Become a Data Analyst Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Become%20a%20Data%20Analyst.pdf)
+#### <img src="docs/badges/square/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="20">&nbsp;Become a Data Analyst Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Become%20a%20Data%20Analyst.pdf)
 
 <p align="center"><img src="docs/previews/become-a-data-analyst.jpg" width="108" alt="Become a Data Analyst Professional Certificate" title="Become a Data Analyst Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1304,7 +1304,7 @@
   | 12 | <img src="docs/previews/the-non-technical-skills-of-effective-data-scientists.jpg" width="108" alt="The Non-Technical Skills of Effective Data Scientists" title="The Non-Technical Skills of Effective Data Scientists, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **The Non-Technical Skills of Effective Data Scientists** | [Certificate](Linkedin%20Learning/The%20Non-Technical%20Skills%20of%20Effective%20Data%20Scientists.pdf) |
 
 ### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Microsoft
-#### AI for Managers Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Managers%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;AI for Managers Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Managers%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/ai-for-managers-by-microsoft-and-linkedin.jpg" width="108" alt="AI for Managers Professional Certificate" title="AI for Managers Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1316,7 +1316,7 @@
   | 4 | <img src="docs/previews/building-a-collaborative-team-culture-with-ai.jpg" width="108" alt="Building a Collaborative Team Culture with AI" title="Building a Collaborative Team Culture with AI, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Building a Collaborative Team Culture with AI** | [Certificate](Linkedin%20Learning/Building%20a%20Collaborative%20Team%20Culture%20with%20AI.pdf) |
   | 5 | <img src="docs/previews/amplify-your-critical-thinking-with-generative-ai-linkedin-learning.jpg" width="108" alt="Amplify Your Critical Thinking with Generative AI" title="Amplify Your Critical Thinking with Generative AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/amplify-your-critical-thinking-with-generative-ai-pmi.jpg" width="108" alt="Amplify Your Critical Thinking with Generative AI" title="Amplify Your Critical Thinking with Generative AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Amplify Your Critical Thinking with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI%20(PMI).pdf) |
   | 6 | <img src="docs/previews/responsible-ai-for-managers.jpg" width="108" alt="Responsible AI for Managers" title="Responsible AI for Managers, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Responsible AI for Managers** | [Certificate](Linkedin%20Learning/Responsible%20AI%20for%20Managers.pdf) |
-#### AI for Nonprofits Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Nonprofits%20Professional%20Certificate%20by%20Microsoft%20Elevate,%20LinkedIn,%20and%20NetHope.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;AI for Nonprofits Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Nonprofits%20Professional%20Certificate%20by%20Microsoft%20Elevate,%20LinkedIn,%20and%20NetHope.pdf)
 
 <p align="center"><img src="docs/previews/ai-for-nonprofits-professional-certificate-by-microsoft-elevate-linkedin-and-nethope.jpg" width="108" alt="AI for Nonprofits Professional Certificate" title="AI for Nonprofits Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1324,7 +1324,7 @@
   | :---: | :---: | :--- | :---: |
   | 1 | <img src="docs/previews/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope.jpg" width="108" alt="Leveraging AI in Your Nonprofit Role by Microsoft and NetHope" title="Leveraging AI in Your Nonprofit Role by Microsoft and NetHope, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Leveraging AI in Your Nonprofit Role by Microsoft and NetHope** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Your%20Nonprofit%20Role%20by%20Microsoft%20and%20NetHope.pdf) |
   | 2 | <img src="docs/previews/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope.jpg" width="108" alt="Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope" title="Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope** | [Certificate](Linkedin%20Learning/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.pdf) |
-#### AI for Organizational Leaders Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Organizational%20Leaders%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;AI for Organizational Leaders Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/AI%20for%20Organizational%20Leaders%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/ai-for-organizational-leaders-by-microsoft-and-linkedin.jpg" width="108" alt="AI for Organizational Leaders Professional Certificate" title="AI for Organizational Leaders Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1336,7 +1336,7 @@
   | 4 | <img src="docs/previews/integrating-generative-ai-into-business-strategy-linkedin-learning.jpg" width="108" alt="Integrating Generative AI into Business Strategy" title="Integrating Generative AI into Business Strategy, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/integrating-generative-ai-into-business-strategy-pmi.jpg" width="108" alt="Integrating Generative AI into Business Strategy" title="Integrating Generative AI into Business Strategy, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/integrating-generative-ai-into-business-strategy-hrci.jpg" width="108" alt="Integrating Generative AI into Business Strategy" title="Integrating Generative AI into Business Strategy, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/integrating-generative-ai-into-business-strategy-shrm.jpg" width="108" alt="Integrating Generative AI into Business Strategy" title="Integrating Generative AI into Business Strategy, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Integrating Generative AI into Business Strategy** | [LinkedIn Learning](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(PMI).pdf) <br><br> [HRCI](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(HRCI).pdf) <br><br> [SHRM](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20Business%20Strategy%20(SHRM).pdf) |
   | 5 | <img src="docs/previews/ai-literacy-for-business-leaders.jpg" width="108" alt="AI Literacy for Business Leaders" title="AI Literacy for Business Leaders, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **AI Literacy for Business Leaders** | [Certificate](Linkedin%20Learning/AI%20Literacy%20for%20Business%20Leaders.pdf) |
   | 6 | <img src="docs/previews/leading-responsible-ai-in-organizations-linkedin-learning.jpg" width="108" alt="Leading Responsible AI in Organizations" title="Leading Responsible AI in Organizations, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/leading-responsible-ai-in-organizations-pmi.jpg" width="108" alt="Leading Responsible AI in Organizations" title="Leading Responsible AI in Organizations, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/leading-responsible-ai-in-organizations-hrci.jpg" width="108" alt="Leading Responsible AI in Organizations" title="Leading Responsible AI in Organizations, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/leading-responsible-ai-in-organizations-shrm.jpg" width="108" alt="Leading Responsible AI in Organizations" title="Leading Responsible AI in Organizations, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Leading Responsible AI in Organizations** | [LinkedIn Learning](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(PMI).pdf) <br><br> [HRCI](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(HRCI).pdf) <br><br> [SHRM](Linkedin%20Learning/Leading%20Responsible%20AI%20in%20Organizations%20(SHRM).pdf) |
-#### Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Build%20Your%20Generative%20AI%20Productivity%20Skills%20with%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/build-your-generative-ai-productivity-skills-with-microsoft-and-linkedin.jpg" width="108" alt="Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate" title="Build Your Generative AI Productivity Skills with Microsoft and LinkedIn Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1347,7 +1347,7 @@
   | 3 | <img src="docs/previews/integrating-generative-ai-into-the-creative-process.jpg" width="108" alt="Integrating Generative AI into the Creative Process" title="Integrating Generative AI into the Creative Process, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Integrating Generative AI into the Creative Process** | [Certificate](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.pdf) |
   | 4 | <img src="docs/previews/copilot-in-powerpoint-from-prompt-to-presentation.jpg" width="108" alt="Copilot in PowerPoint: From Prompt to Presentation" title="Copilot in PowerPoint: From Prompt to Presentation, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
   | 5 | <img src="docs/previews/excel-with-copilot-ai-driven-data-analysis-linkedin-learning.jpg" width="108" alt="Excel with Copilot: AI-Driven Data Analysis" title="Excel with Copilot: AI-Driven Data Analysis, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/excel-with-copilot-ai-driven-data-analysis-pmi.jpg" width="108" alt="Excel with Copilot: AI-Driven Data Analysis" title="Excel with Copilot: AI-Driven Data Analysis, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
-#### Career Essentials in Administrative Assistance Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Administrative%20Assistance%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Administrative Assistance Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Administrative%20Assistance%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-administrative-assistance-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Administrative Assistance Professional Certificate" title="Career Essentials in Administrative Assistance Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1361,7 +1361,7 @@
   | 6 | <img src="docs/previews/administrative-professional-foundations.jpg" width="108" alt="Administrative Professional Foundations" title="Administrative Professional Foundations, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Administrative Professional Foundations** | [Certificate](Linkedin%20Learning/Administrative%20Professional%20Foundations.pdf) |
   | 7 | <img src="docs/previews/business-etiquette-phone-email-and-text-linkedin-learning.jpg" width="108" alt="Business Etiquette: Phone, Email, and Text" title="Business Etiquette: Phone, Email, and Text, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/business-etiquette-phone-email-and-text-pmi.jpg" width="108" alt="Business Etiquette: Phone, Email, and Text" title="Business Etiquette: Phone, Email, and Text, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/business-etiquette-phone-email-and-text-hrci.jpg" width="108" alt="Business Etiquette: Phone, Email, and Text" title="Business Etiquette: Phone, Email, and Text, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/business-etiquette-phone-email-and-text-shrm.jpg" width="108" alt="Business Etiquette: Phone, Email, and Text" title="Business Etiquette: Phone, Email, and Text, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Business Etiquette: Phone, Email, and Text** | [LinkedIn Learning](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(PMI).pdf) <br><br> [HRCI](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(HRCI).pdf) <br><br> [SHRM](Linkedin%20Learning/Business%20Etiquette_%20Phone,%20Email,%20and%20Text%20(SHRM).pdf) |
 
-#### Career Essentials in Business Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Business%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Business Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Business%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-business-analysis-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Business Analysis Professional Certificate" title="Career Essentials in Business Analysis Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1376,7 +1376,7 @@
   | 7 | <img src="docs/previews/generative-ai-for-business-analysts-linkedin-learning.jpg" width="108" alt="Generative AI for Business Analysts" title="Generative AI for Business Analysts, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/generative-ai-for-business-analysts-pmi.jpg" width="108" alt="Generative AI for Business Analysts" title="Generative AI for Business Analysts, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/generative-ai-for-business-analysts-iiba.jpg" width="108" alt="Generative AI for Business Analysts" title="Generative AI for Business Analysts, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Generative AI for Business Analysts** | [LinkedIn Learning](Linkedin%20Learning/Generative%20AI%20for%20Business%20Analysts%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Generative%20AI%20for%20Business%20Analysts%20(PMI).pdf) <br><br> [IIBA](Linkedin%20Learning/Generative%20AI%20for%20Business%20Analysts%20(IIBA).pdf) |
   | 8 | <img src="docs/previews/agentic-ai-for-business-analysis-linkedin-learning.jpg" width="108" alt="Agentic AI for Business Analysis" title="Agentic AI for Business Analysis, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/agentic-ai-for-business-analysis-iiba.jpg" width="108" alt="Agentic AI for Business Analysis" title="Agentic AI for Business Analysis, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Agentic AI for Business Analysis** | [LinkedIn Learning](Linkedin%20Learning/Agentic%20AI%20for%20Business%20Analysis%20(LinkedIn%20Learning).pdf) <br><br> [IIBA](Linkedin%20Learning/Agentic%20AI%20for%20Business%20Analysis%20(IIBA).pdf) |
   | 9 | <img src="docs/previews/the-role-of-business-analysis-in-data-analytics.jpg" width="108" alt="The Role of Business Analysis in Data Analytics" title="The Role of Business Analysis in Data Analytics, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **The Role of Business Analysis in Data Analytics** | [Certificate](Linkedin%20Learning/The%20Role%20of%20Business%20Analysis%20in%20Data%20Analytics.pdf) |
-#### Career Essentials in Cybersecurity Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Cybersecurity Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-cybersecurity-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Cybersecurity Professional Certificate" title="Career Essentials in Cybersecurity Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1386,7 +1386,7 @@
   | 2 | <img src="docs/previews/cybersecurity-awareness-cybersecurity-terminology-linkedin-learning.jpg" width="108" alt="Cybersecurity Awareness: Cybersecurity Terminology" title="Cybersecurity Awareness: Cybersecurity Terminology, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"><br><img src="docs/previews/cybersecurity-awareness-cybersecurity-terminology-pmi.jpg" width="108" alt="Cybersecurity Awareness: Cybersecurity Terminology" title="Cybersecurity Awareness: Cybersecurity Terminology, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Cybersecurity Awareness: Cybersecurity Terminology** | [LinkedIn Learning](Linkedin%20Learning/Cybersecurity%20Awareness_%20Cybersecurity%20Terminology%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Cybersecurity%20Awareness_%20Cybersecurity%20Terminology%20(PMI).pdf) |
   | 3 | <img src="docs/previews/cybersecurity-foundations-linkedin-learning.jpg" width="108" alt="Cybersecurity Foundations" title="Cybersecurity Foundations, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"><br><img src="docs/previews/cybersecurity-foundations-pmi.jpg" width="108" alt="Cybersecurity Foundations" title="Cybersecurity Foundations, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Cybersecurity Foundations** | [LinkedIn Learning](Linkedin%20Learning/Cybersecurity%20Foundations%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Cybersecurity%20Foundations%20(PMI).pdf) |
   | 4 | <img src="docs/previews/microsoft-security-copilot.jpg" width="108" alt="Microsoft Security Copilot" title="Microsoft Security Copilot, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Microsoft Security Copilot** | [Certificate](Linkedin%20Learning/Microsoft%20Security%20Copilot.pdf) |
-#### Career Essentials in Data Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Data Analysis Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-data-analysis-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Data Analysis Professional Certificate" title="Career Essentials in Data Analysis Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1398,7 +1398,7 @@
   | 4 | <img src="docs/previews/data-analytics-for-business-professionals-linkedin-learning.jpg" width="108" alt="Data Analytics for Business Professionals" title="Data Analytics for Business Professionals, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/data-analytics-for-business-professionals-iiba.jpg" width="108" alt="Data Analytics for Business Professionals" title="Data Analytics for Business Professionals, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Data Analytics for Business Professionals** | [LinkedIn Learning](Linkedin%20Learning/Data%20Analytics%20for%20Business%20Professionals%20(LinkedIn%20Learning).pdf) <br><br> [IIBA](Linkedin%20Learning/Data%20Analytics%20for%20Business%20Professionals%20(IIBA).pdf) |
   | 5 | <img src="docs/previews/data-visualization-for-data-analysts-and-analytics-linkedin-learning.jpg" width="108" alt="Data Visualization for Data Analysts and Analytics" title="Data Visualization for Data Analysts and Analytics, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"><br><img src="docs/previews/data-visualization-for-data-analysts-and-analytics-iiba.jpg" width="108" alt="Data Visualization for Data Analysts and Analytics" title="Data Visualization for Data Analysts and Analytics, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Data Visualization for Data Analysts and Analytics** | [LinkedIn Learning](Linkedin%20Learning/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics%20(LinkedIn%20Learning).pdf) <br><br> [IIBA](Linkedin%20Learning/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics%20(IIBA).pdf) |
 
-#### Career Essentials in Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-generative-ai-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Generative AI Professional Certificate" title="Career Essentials in Generative AI Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1410,7 +1410,7 @@
   | 4 | <img src="docs/previews/ethics-in-the-age-of-generative-ai-linkedin-learning.jpg" width="108" alt="Ethics in the Age of Generative AI" title="Ethics in the Age of Generative AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/ethics-in-the-age-of-generative-ai-pmi.jpg" width="108" alt="Ethics in the Age of Generative AI" title="Ethics in the Age of Generative AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Ethics in the Age of Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Ethics%20in%20the%20Age%20of%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Ethics%20in%20the%20Age%20of%20Generative%20AI%20(PMI).pdf) |
   | 5 | <img src="docs/previews/everyday-ai-concepts.jpg" width="108" alt="Everyday AI Concepts" title="Everyday AI Concepts, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Everyday AI Concepts** | [Certificate](Linkedin%20Learning/Everyday%20AI%20Concepts.pdf) |
 
-#### Career Essentials in Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Project%20Management%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Project Management Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Project%20Management%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-project-management-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Project Management Professional Certificate" title="Career Essentials in Project Management Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1427,7 +1427,7 @@
   | 9 | <img src="docs/previews/managing-project-stakeholders-linkedin-learning.jpg" width="108" alt="Managing Project Stakeholders" title="Managing Project Stakeholders, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/managing-project-stakeholders-pmi.jpg" width="108" alt="Managing Project Stakeholders" title="Managing Project Stakeholders, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Managing Project Stakeholders** | [LinkedIn Learning](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Managing%20Project%20Stakeholders%20(PMI).pdf) |
   | 10 | <img src="docs/previews/modern-project-management-in-microsoft-365-linkedin-learning.jpg" width="108" alt="Modern Project Management in Microsoft 365" title="Modern Project Management in Microsoft 365, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"><br><img src="docs/previews/modern-project-management-in-microsoft-365-pmi.jpg" width="108" alt="Modern Project Management in Microsoft 365" title="Modern Project Management in Microsoft 365, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Modern Project Management in Microsoft 365** | [LinkedIn Learning](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Modern%20Project%20Management%20in%20Microsoft%20365%20(PMI).pdf) |
 
-#### Career Essentials in Software Development Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Software%20Development%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Software Development Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Software%20Development%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-software-development-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Software Development Professional Certificate" title="Career Essentials in Software Development Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1437,7 +1437,7 @@
   | 2 | <img src="docs/previews/programming-foundations-fundamentals.jpg" width="108" alt="Programming Foundations: Fundamentals" title="Programming Foundations: Fundamentals, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Programming Foundations: Fundamentals** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Fundamentals.pdf) |
   | 3 | <img src="docs/previews/programming-foundations-beyond-the-fundamentals.jpg" width="108" alt="Programming Foundations: Beyond the Fundamentals" title="Programming Foundations: Beyond the Fundamentals, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Programming Foundations: Beyond the Fundamentals** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Beyond%20the%20Fundamentals.pdf) |
   | 4 | <img src="docs/previews/programming-foundations-object-oriented-design.jpg" width="108" alt="Programming Foundations: Object-Oriented Design" title="Programming Foundations: Object-Oriented Design, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Programming Foundations: Object-Oriented Design** | [Certificate](Linkedin%20Learning/Programming%20Foundations_%20Object-Oriented%20Design.pdf) |
-#### Career Essentials in Sustainable Tech Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Sustainable%20Tech%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in Sustainable Tech Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20Sustainable%20Tech%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in Sustainable Tech Professional Certificate" title="Career Essentials in Sustainable Tech Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1451,7 +1451,7 @@
   | 6 | <img src="docs/previews/introduction-to-esg-environmental-social-and-governance-linkedin-learning.jpg" width="108" alt="Introduction to ESG: Environmental, Social, and Governance" title="Introduction to ESG: Environmental, Social, and Governance, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"><br><img src="docs/previews/introduction-to-esg-environmental-social-and-governance-pmi.jpg" width="108" alt="Introduction to ESG: Environmental, Social, and Governance" title="Introduction to ESG: Environmental, Social, and Governance, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Introduction to ESG: Environmental, Social, and Governance** | [LinkedIn Learning](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Introduction%20to%20ESG_%20Environmental,%20Social,%20and%20Governance%20(PMI).pdf) |
   | 7 | <img src="docs/previews/performing-a-sustainability-audit-with-microsoft-sustainability-manager.jpg" width="108" alt="Performing a Sustainability Audit with Microsoft Sustainability Manager" title="Performing a Sustainability Audit with Microsoft Sustainability Manager, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Performing a Sustainability Audit with Microsoft Sustainability Manager** | [Certificate](Linkedin%20Learning/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.pdf) |
 
-#### Career Essentials in System Administration Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Career Essentials in System Administration Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/career-essentials-in-system-administration-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in System Administration Professional Certificate" title="Career Essentials in System Administration Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1460,7 +1460,7 @@
   | :---: | :---: | :--- | :---: |
   | 1 | <img src="docs/previews/career-essentials-in-system-administration-by-microsoft-and-linkedin.jpg" width="108" alt="Career Essentials in System Administration by Microsoft and LinkedIn" title="Career Essentials in System Administration by Microsoft and LinkedIn, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Career Essentials in System Administration by Microsoft and LinkedIn** | [Certificate](Linkedin%20Learning/Career%20Essentials%20in%20System%20Administration%20by%20Microsoft%20and%20LinkedIn.pdf) |
 
-#### Generative AI for Customer Service with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Customer%20Service%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Generative AI for Customer Service with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Customer%20Service%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/generative-ai-for-customer-service-with-microsoft-365-copilot-professional-certificate.jpg" width="108" alt="Generative AI for Customer Service with Microsoft 365 Copilot Professional Certificate" title="Generative AI for Customer Service with Microsoft 365 Copilot Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1474,7 +1474,7 @@
   | 6 | <img src="docs/previews/microsoft-copilot-the-art-of-prompting.jpg" width="108" alt="Microsoft Copilot: The Art of Prompting" title="Microsoft Copilot: The Art of Prompting, LinkedIn Learning certificate, 3 August 2026, Amey Thakur"> | **Microsoft Copilot: The Art of Prompting** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot_%20The%20Art%20of%20Prompting.pdf) |
   | 7 | <img src="docs/previews/copilot-for-service-helpful-tips-for-customer-service-agents.jpg" width="108" alt="Copilot for Service: Helpful Tips for Customer Service Agents" title="Copilot for Service: Helpful Tips for Customer Service Agents, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Copilot for Service: Helpful Tips for Customer Service Agents** | [Certificate](Linkedin%20Learning/Copilot%20for%20Service_%20Helpful%20Tips%20for%20Customer%20Service%20Agents.pdf) |
 
-#### Generative AI for Marketing with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Generative AI for Marketing with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Marketing%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/generative-ai-for-marketing-with-microsoft-365-copilot-professional-certificate.jpg" width="108" alt="Generative AI for Marketing with Microsoft 365 Copilot Professional Certificate" title="Generative AI for Marketing with Microsoft 365 Copilot Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1488,7 +1488,7 @@
   | 6 | <img src="docs/previews/excel-with-copilot-ai-driven-data-analysis-linkedin-learning.jpg" width="108" alt="Excel with Copilot: AI-Driven Data Analysis" title="Excel with Copilot: AI-Driven Data Analysis, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/excel-with-copilot-ai-driven-data-analysis-pmi.jpg" width="108" alt="Excel with Copilot: AI-Driven Data Analysis" title="Excel with Copilot: AI-Driven Data Analysis, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
   | 7 | <img src="docs/previews/microsoft-365-copilot-helpful-tips-for-marketers.jpg" width="108" alt="Microsoft 365 Copilot: Helpful Tips for Marketers" title="Microsoft 365 Copilot: Helpful Tips for Marketers, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Microsoft 365 Copilot: Helpful Tips for Marketers** | [Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot_%20Helpful%20Tips%20for%20Marketers.pdf) |
 
-#### Generative AI for Sales with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Sales%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Generative AI for Sales with Microsoft 365 Copilot Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20for%20Sales%20with%20Microsoft%20365%20Copilot%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/generative-ai-for-sales-with-microsoft-365-copilot-professional-certificate.jpg" width="108" alt="Generative AI for Sales with Microsoft 365 Copilot Professional Certificate" title="Generative AI for Sales with Microsoft 365 Copilot Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1501,7 +1501,7 @@
   | 5 | <img src="docs/previews/copilot-in-powerpoint-from-prompt-to-presentation.jpg" width="108" alt="Copilot in PowerPoint: From Prompt to Presentation" title="Copilot in PowerPoint: From Prompt to Presentation, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
   | 6 | <img src="docs/previews/microsoft-365-copilot-helpful-tips-for-sales-professionals.jpg" width="108" alt="Microsoft 365 Copilot: Helpful Tips for Sales Professionals" title="Microsoft 365 Copilot: Helpful Tips for Sales Professionals, LinkedIn Learning certificate, 1 August 2026, Amey Thakur"> | **Microsoft 365 Copilot: Helpful Tips for Sales Professionals** | [Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot_%20Helpful%20Tips%20for%20Sales%20Professionals.pdf) |
 
-#### Human Skills in the Age of AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Human%20Skills%20in%20the%20Age%20of%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Human Skills in the Age of AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Human%20Skills%20in%20the%20Age%20of%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/human-skills-in-the-age-of-ai-by-microsoft-and-linkedin.jpg" width="108" alt="Human Skills in the Age of AI Professional Certificate" title="Human Skills in the Age of AI Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1515,14 +1515,14 @@
   | 6 | <img src="docs/previews/strengthen-your-decision-making-with-generative-ai-linkedin-learning.jpg" width="108" alt="Strengthen Your Decision-Making with Generative AI" title="Strengthen Your Decision-Making with Generative AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/strengthen-your-decision-making-with-generative-ai-pmi.jpg" width="108" alt="Strengthen Your Decision-Making with Generative AI" title="Strengthen Your Decision-Making with Generative AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Strengthen Your Decision-Making with Generative AI** | [LinkedIn Learning](Linkedin%20Learning/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI%20(PMI).pdf) |
   | 7 | <img src="docs/previews/integrating-generative-ai-into-the-creative-process.jpg" width="108" alt="Integrating Generative AI into the Creative Process" title="Integrating Generative AI into the Creative Process, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Integrating Generative AI into the Creative Process** | [Certificate](Linkedin%20Learning/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.pdf) |
 
-#### Microsoft 365 Copilot Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Microsoft 365 Copilot Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20365%20Copilot%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/microsoft-365-copilot-essentials-professional-certificate-by-microsoft-and-linkedin.jpg" width="108" alt="Microsoft 365 Copilot Essentials Professional Certificate" title="Microsoft 365 Copilot Essentials Professional Certificate, professional certificate, Amey Thakur"></p>
 
   | # | Preview | Topic | Certification |
   | :---: | :---: | :--- | :---: |
   | 1 | <img src="docs/previews/microsoft-copilot-essentials-by-microsoft-press.jpg" width="108" alt="Microsoft Copilot Essentials by Microsoft Press" title="Microsoft Copilot Essentials by Microsoft Press, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Microsoft Copilot Essentials by Microsoft Press** | [Certificate](Linkedin%20Learning/Microsoft%20Copilot%20Essentials%20by%20Microsoft%20Press.pdf) |
-#### Microsoft Azure AI Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20AI%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Microsoft Azure AI Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20AI%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/microsoft-azure-ai-essentials-professional-certificate-by-microsoft-and-linkedin.jpg" width="108" alt="Microsoft Azure AI Essentials Professional Certificate" title="Microsoft Azure AI Essentials Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1531,7 +1531,7 @@
   | 1 | <img src="docs/previews/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure.jpg" width="108" alt="Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure" title="Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure** | [Certificate](Linkedin%20Learning/Microsoft%20Azure%20AI%20Essentials_%20Workloads%20and%20Machine%20Learning%20on%20Azure.pdf) |
 
 
-#### Microsoft Azure Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Microsoft Azure Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/microsoft-azure-essentials-professional-certificate-by-microsoft-and-linkedin.jpg" width="108" alt="Microsoft Azure Essentials Professional Certificate" title="Microsoft Azure Essentials Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1539,7 +1539,7 @@
   | :---: | :---: | :--- | :---: |
   | 1 | <img src="docs/previews/microsoft-azure-essentials-by-microsoft-press.jpg" width="108" alt="Microsoft Azure Essentials by Microsoft Press" title="Microsoft Azure Essentials by Microsoft Press, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Microsoft Azure Essentials by Microsoft Press** | [Certificate](Linkedin%20Learning/Microsoft%20Azure%20Essentials%20by%20Microsoft%20Press.pdf) |
 
-#### Microsoft Copilot for Productivity Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Copilot%20for%20Productivity%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Microsoft Copilot for Productivity Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Copilot%20for%20Productivity%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/microsoft-copilot-for-productivity-by-microsoft-and-linkedin.jpg" width="108" alt="Microsoft Copilot for Productivity Professional Certificate" title="Microsoft Copilot for Productivity Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1552,7 +1552,7 @@
   | 5 | <img src="docs/previews/copilot-in-word-create-and-refine-documents-with-ai.jpg" width="108" alt="Copilot in Word: Create and Refine Documents with AI" title="Copilot in Word: Create and Refine Documents with AI, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Copilot in Word: Create and Refine Documents with AI** | [Certificate](Linkedin%20Learning/Copilot%20in%20Word_%20Create%20and%20Refine%20Documents%20with%20AI.pdf) |
   | 6 | <img src="docs/previews/excel-with-copilot-ai-driven-data-analysis-linkedin-learning.jpg" width="108" alt="Excel with Copilot: AI-Driven Data Analysis" title="Excel with Copilot: AI-Driven Data Analysis, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"><br><img src="docs/previews/excel-with-copilot-ai-driven-data-analysis-pmi.jpg" width="108" alt="Excel with Copilot: AI-Driven Data Analysis" title="Excel with Copilot: AI-Driven Data Analysis, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Excel with Copilot: AI-Driven Data Analysis** | [LinkedIn Learning](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(LinkedIn%20Learning).pdf) <br><br> [PMI](Linkedin%20Learning/Excel%20with%20Copilot_%20AI-Driven%20Data%20Analysis%20(PMI).pdf) |
   | 7 | <img src="docs/previews/copilot-in-powerpoint-from-prompt-to-presentation.jpg" width="108" alt="Copilot in PowerPoint: From Prompt to Presentation" title="Copilot in PowerPoint: From Prompt to Presentation, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Copilot in PowerPoint: From Prompt to Presentation** | [Certificate](Linkedin%20Learning/Copilot%20in%20PowerPoint_%20From%20Prompt%20to%20Presentation.pdf) |
-#### Microsoft Security Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Microsoft Security Essentials Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/microsoft-security-essentials-professional-certificate-by-microsoft-and-linkedin.jpg" width="108" alt="Microsoft Security Essentials Professional Certificate" title="Microsoft Security Essentials Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1560,7 +1560,7 @@
   | :---: | :---: | :--- | :---: |
   | 1 | <img src="docs/previews/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection.jpg" width="108" alt="Microsoft Security Essentials: Concepts, Solutions, and AI-Powered Protection" title="Microsoft Security Essentials: Concepts, Solutions, and AI-Powered Protection, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Microsoft Security Essentials: Concepts, Solutions, and AI-Powered Protection** | [Certificate](Linkedin%20Learning/Microsoft%20Security%20Essentials_%20Concepts,%20Solutions,%20and%20AI-Powered%20Protection.pdf) |
 
-#### Responsible AI in a Global Context Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Responsible%20AI%20in%20a%20Global%20Context%20Professional%20Certificate%20by%20the%20United%20Nations%20University.pdf)
+#### <img src="docs/badges/square/microsoft.svg" alt="Microsoft" title="Microsoft" height="20">&nbsp;Responsible AI in a Global Context Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Responsible%20AI%20in%20a%20Global%20Context%20Professional%20Certificate%20by%20the%20United%20Nations%20University.pdf)
 
 <p align="center"><img src="docs/previews/responsible-ai-in-a-global-context-professional-certificate-by-the-united-nations-university.jpg" width="108" alt="Responsible AI in a Global Context Professional Certificate" title="Responsible AI in a Global Context Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1572,7 +1572,7 @@
 
 
 ### <img src="docs/badges/square/moz.svg" alt="Moz" title="Moz" height="20">&nbsp;Moz
-#### Search Engine Optimization Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Search%20Engine%20Optimization%20Professional%20Certificate%20by%20Moz.pdf)
+#### <img src="docs/badges/square/moz.svg" alt="Moz" title="Moz" height="20">&nbsp;Search Engine Optimization Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Search%20Engine%20Optimization%20Professional%20Certificate%20by%20Moz.pdf)
 
 <p align="center"><img src="docs/previews/search-engine-optimization-professional-certificate-by-moz.jpg" width="108" alt="Search Engine Optimization Professional Certificate" title="Search Engine Optimization Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1585,7 +1585,7 @@
   | 5 | <img src="docs/previews/using-ai-as-your-seo-assistant.jpg" width="108" alt="Using AI as Your SEO Assistant" title="Using AI as Your SEO Assistant, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Using AI as Your SEO Assistant** | [Certificate](Linkedin%20Learning/Using%20AI%20as%20Your%20SEO%20Assistant.pdf) |
 
 ### <img src="docs/badges/square/mozilla.svg" alt="Mozilla" title="Mozilla" height="20">&nbsp;Mozilla
-#### JavaScript Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/JavaScript%20Foundations%20Professional%20Certificate%20by%20Mozilla.pdf)
+#### <img src="docs/badges/square/mozilla.svg" alt="Mozilla" title="Mozilla" height="20">&nbsp;JavaScript Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/JavaScript%20Foundations%20Professional%20Certificate%20by%20Mozilla.pdf)
 
 <p align="center"><img src="docs/previews/javascript-foundations-professional-certificate-by-mozilla.jpg" width="108" alt="JavaScript Foundations Professional Certificate" title="JavaScript Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1595,7 +1595,7 @@
   | 2 | <img src="docs/previews/javascript-essential-training.jpg" width="108" alt="JavaScript Essential Training" title="JavaScript Essential Training, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **JavaScript Essential Training** | [Certificate](Linkedin%20Learning/JavaScript%20Essential%20Training.pdf) |
 
 ### <img src="docs/badges/square/pagerduty.svg" alt="PagerDuty" title="PagerDuty" height="20">&nbsp;PagerDuty
-#### DevOps Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.pdf)
+#### <img src="docs/badges/square/pagerduty.svg" alt="PagerDuty" title="PagerDuty" height="20">&nbsp;DevOps Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.pdf)
 
 <p align="center"><img src="docs/previews/devops-professional-certificate-by-pagerduty-and-linkedin.jpg" width="108" alt="DevOps Professional Certificate" title="DevOps Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1606,7 +1606,7 @@
   | 3 | <img src="docs/previews/devops-foundations-continuous-delivery-continuous-integration-comptia.jpg" width="108" alt="DevOps Foundations: Continuous Delivery/Continuous Integration" title="DevOps Foundations: Continuous Delivery/Continuous Integration, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"><br><img src="docs/previews/devops-foundations-continuous-delivery-continuous-integration-linkedin-learning.jpg" width="108" alt="DevOps Foundations: Continuous Delivery/Continuous Integration" title="DevOps Foundations: Continuous Delivery/Continuous Integration, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **DevOps Foundations: Continuous Delivery/Continuous Integration** | [CompTIA](Linkedin%20Learning/DevOps%20Foundations_%20Continuous%20Delivery_Continuous%20Integration%20(CompTIA).pdf) <br><br> [LinkedIn Learning](Linkedin%20Learning/DevOps%20Foundations_%20Continuous%20Delivery_Continuous%20Integration%20(LinkedIn%20Learning).pdf) |
 
 ### <img src="docs/badges/square/ss-c-blue-prism.svg" alt="SS&C Blue Prism" title="SS&C Blue Prism" height="20">&nbsp;SS&C Blue Prism
-#### SS&C Blue Prism Robotic Process Automation Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/SS&C%20Blue%20Prism%20Robotic%20Process%20Automation%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/ss-c-blue-prism.svg" alt="SS&C Blue Prism" title="SS&C Blue Prism" height="20">&nbsp;SS&C Blue Prism Robotic Process Automation Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/SS&C%20Blue%20Prism%20Robotic%20Process%20Automation%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/ss-c-blue-prism-robotic-process-automation-professional-certificate.jpg" width="108" alt="SS&C Blue Prism Robotic Process Automation Professional Certificate" title="SS&C Blue Prism Robotic Process Automation Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1618,7 +1618,7 @@
   | 4 | <img src="docs/previews/intelligent-automation-foundations.jpg" width="108" alt="Intelligent Automation Foundations" title="Intelligent Automation Foundations, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Intelligent Automation Foundations** | [Certificate](Linkedin%20Learning/Intelligent%20Automation%20Foundations.pdf) |
 
 ### <img src="docs/badges/square/servicenow.svg" alt="ServiceNow" title="ServiceNow" height="20">&nbsp;ServiceNow
-#### ServiceNow IT Leadership Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/ServiceNow%20IT%20Leadership%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/servicenow.svg" alt="ServiceNow" title="ServiceNow" height="20">&nbsp;ServiceNow IT Leadership Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/ServiceNow%20IT%20Leadership%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/servicenow-it-leadership-professional-certificate.jpg" width="108" alt="ServiceNow IT Leadership Professional Certificate" title="ServiceNow IT Leadership Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1630,7 +1630,7 @@
   | 4 | <img src="docs/previews/creating-your-it-strategy.jpg" width="108" alt="Creating Your IT Strategy" title="Creating Your IT Strategy, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Creating Your IT Strategy** | [Certificate](Linkedin%20Learning/Creating%20Your%20IT%20Strategy.pdf) |
 
 ### <img src="docs/badges/square/snowflake.svg" alt="Snowflake" title="Snowflake" height="20">&nbsp;Snowflake
-#### Data Engineering Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Engineering%20Professional%20Certificate%20by%20Snowflake.pdf)
+#### <img src="docs/badges/square/snowflake.svg" alt="Snowflake" title="Snowflake" height="20">&nbsp;Data Engineering Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Data%20Engineering%20Professional%20Certificate%20by%20Snowflake.pdf)
 
 <p align="center"><img src="docs/previews/data-engineering-professional-certificate-by-snowflake.jpg" width="108" alt="Data Engineering Professional Certificate" title="Data Engineering Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1640,7 +1640,7 @@
   | 2 | <img src="docs/previews/introduction-to-modern-data-engineering-with-snowflake.jpg" width="108" alt="Introduction to Modern Data Engineering with Snowflake" title="Introduction to Modern Data Engineering with Snowflake, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Introduction to Modern Data Engineering with Snowflake** | [Certificate](Linkedin%20Learning/Introduction%20to%20Modern%20Data%20Engineering%20with%20Snowflake.pdf) |
   | 3 | <img src="docs/previews/advanced-data-engineering-with-snowflake.jpg" width="108" alt="Advanced Data Engineering with Snowflake" title="Advanced Data Engineering with Snowflake, LinkedIn Learning certificate, 30 July 2026, Amey Thakur"> | **Advanced Data Engineering with Snowflake** | [Certificate](Linkedin%20Learning/Advanced%20Data%20Engineering%20with%20Snowflake.pdf) |
 
-#### Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20Professional%20Certificate%20by%20Snowflake.pdf)
+#### <img src="docs/badges/square/snowflake.svg" alt="Snowflake" title="Snowflake" height="20">&nbsp;Generative AI Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Generative%20AI%20Professional%20Certificate%20by%20Snowflake.pdf)
 
 <p align="center"><img src="docs/previews/generative-ai-professional-certificate-by-snowflake.jpg" width="108" alt="Generative AI Professional Certificate" title="Generative AI Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1652,7 +1652,7 @@
   | 4 | <img src="docs/previews/building-ai-agents-with-snowflake.jpg" width="108" alt="Building AI Agents with Snowflake" title="Building AI Agents with Snowflake, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Building AI Agents with Snowflake** | [Certificate](Linkedin%20Learning/Building%20AI%20Agents%20with%20Snowflake.pdf) |
 
 ### <img src="docs/badges/square/testmu-ai.svg" alt="TestMu AI" title="TestMu AI" height="20">&nbsp;TestMu AI
-#### TestMu AI Test Automation Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Test%20Automation%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/testmu-ai.svg" alt="TestMu AI" title="TestMu AI" height="20">&nbsp;TestMu AI Test Automation Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Test%20Automation%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/testmu-ai-test-automation-professional-certificate.jpg" width="108" alt="TestMu AI Test Automation Professional Certificate" title="TestMu AI Test Automation Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1661,7 +1661,7 @@
   | 1 | <img src="docs/previews/test-automation-foundations.jpg" width="108" alt="Test Automation Foundations" title="Test Automation Foundations, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Test Automation Foundations** | [Certificate](Linkedin%20Learning/Test%20Automation%20Foundations.pdf) |
   | 2 | <img src="docs/previews/selenium-essential-training.jpg" width="108" alt="Selenium Essential Training" title="Selenium Essential Training, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Selenium Essential Training** | [Certificate](Linkedin%20Learning/Selenium%20Essential%20Training.pdf) |
 
-#### TestMu AI Software Testing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Software%20Testing%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/testmu-ai.svg" alt="TestMu AI" title="TestMu AI" height="20">&nbsp;TestMu AI Software Testing Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/TestMu%20AI%20Software%20Testing%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/testmu-ai-software-testing-professional-certificate.jpg" width="108" alt="TestMu AI Software Testing Professional Certificate" title="TestMu AI Software Testing Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1673,7 +1673,7 @@
   | 4 | <img src="docs/previews/succeeding-in-software-testing.jpg" width="108" alt="Succeeding in Software Testing" title="Succeeding in Software Testing, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Succeeding in Software Testing** | [Certificate](Linkedin%20Learning/Succeeding%20in%20Software%20Testing.pdf) |
 
 ### <img src="docs/badges/square/toastmasters-international.svg" alt="Toastmasters International" title="Toastmasters International" height="20">&nbsp;Toastmasters International
-#### Public Speaking Skills Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Public%20Speaking%20Skills%20Professional%20Certificate%20by%20Toastmasters%20International.pdf)
+#### <img src="docs/badges/square/toastmasters-international.svg" alt="Toastmasters International" title="Toastmasters International" height="20">&nbsp;Public Speaking Skills Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Public%20Speaking%20Skills%20Professional%20Certificate%20by%20Toastmasters%20International.pdf)
 
 <p align="center"><img src="docs/previews/public-speaking-skills-professional-certificate-by-toastmasters-international.jpg" width="108" alt="Public Speaking Skills Professional Certificate" title="Public Speaking Skills Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1688,7 +1688,7 @@
   | 7 | <img src="docs/previews/impromptu-speaking.jpg" width="108" alt="Impromptu Speaking" title="Impromptu Speaking, LinkedIn Learning certificate, 6 August 2026, Amey Thakur"> | **Impromptu Speaking** | [Certificate](Linkedin%20Learning/Impromptu%20Speaking.pdf) |
 
 ### <img src="docs/badges/square/wolfram-research.svg" alt="Wolfram Research" title="Wolfram Research" height="20">&nbsp;Wolfram Research
-#### Machine Learning Statistical Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Machine%20Learning%20Statistical%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
+#### <img src="docs/badges/square/wolfram-research.svg" alt="Wolfram Research" title="Wolfram Research" height="20">&nbsp;Machine Learning Statistical Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Machine%20Learning%20Statistical%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
 
 <p align="center"><img src="docs/previews/machine-learning-statistical-foundations-professional-certificate-by-wolfram-research.jpg" width="108" alt="Machine Learning Statistical Foundations Professional Certificate" title="Machine Learning Statistical Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1701,7 +1701,7 @@
   | 5 | <img src="docs/previews/machine-learning-foundations-statistics.jpg" width="108" alt="Machine Learning Foundations: Statistics" title="Machine Learning Foundations: Statistics, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Machine Learning Foundations: Statistics** | [Certificate](Linkedin%20Learning/Machine%20Learning%20Foundations_%20Statistics.pdf) |
   | 6 | <img src="docs/previews/built-in-machine-learning-in-the-wolfram-language.jpg" width="108" alt="Built-in Machine Learning in the Wolfram Language" title="Built-in Machine Learning in the Wolfram Language, LinkedIn Learning certificate, 31 July 2026, Amey Thakur"> | **Built-in Machine Learning in the Wolfram Language** | [Certificate](Linkedin%20Learning/Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.pdf) |
 
-#### Statistics Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
+#### <img src="docs/badges/square/wolfram-research.svg" alt="Wolfram Research" title="Wolfram Research" height="20">&nbsp;Statistics Foundations Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.pdf)
 
 <p align="center"><img src="docs/previews/statistics-foundations-professional-certificate-by-wolfram-research.jpg" width="108" alt="Statistics Foundations Professional Certificate" title="Statistics Foundations Professional Certificate, professional certificate, Amey Thakur"></p>
 
@@ -1716,7 +1716,7 @@
   | 7 | <img src="docs/previews/statistical-analysis-with-wolfram-language.jpg" width="108" alt="Statistical Analysis with Wolfram Language" title="Statistical Analysis with Wolfram Language, LinkedIn Learning certificate, 2 August 2026, Amey Thakur"> | **Statistical Analysis with Wolfram Language** | [Certificate](Linkedin%20Learning/Statistical%20Analysis%20with%20Wolfram%20Language.pdf) |
 
 ### <img src="docs/badges/square/zendesk.svg" alt="Zendesk" title="Zendesk" height="20">&nbsp;Zendesk
-#### Zendesk Customer Service Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Zendesk%20Customer%20Service%20Professional%20Certificate.pdf)
+#### <img src="docs/badges/square/zendesk.svg" alt="Zendesk" title="Zendesk" height="20">&nbsp;Zendesk Customer Service Professional Certificate &ndash; [Professional Certificate](Linkedin%20Learning/Zendesk%20Customer%20Service%20Professional%20Certificate.pdf)
 
 <p align="center"><img src="docs/previews/zendesk-customer-service-professional-certificate.jpg" width="108" alt="Zendesk Customer Service Professional Certificate" title="Zendesk Customer Service Professional Certificate, professional certificate, Amey Thakur"></p>
 

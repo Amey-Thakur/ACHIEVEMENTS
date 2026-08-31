@@ -397,10 +397,18 @@ def decorate_headings(text, notes):
     wanted = {anchor: platform
               for platform, anchor in issuer_anchors(text).items()}
     lines = text.splitlines()
+    above = ""
     for i, level, title, anchor, _rule in headings(text):
         platform = wanted.get(anchor)
         badge = (heading_mark(platform, notes[platform]) if platform
                  else partner_mark(title))
+        if badge:
+            above = badge
+        elif awarded_by(title):
+            # A heading that awards a professional certificate names the
+            # course, not the organisation. It takes the mark of the provider
+            # it sits under, which is the heading immediately above it.
+            badge = above
         lines[i] = f"{level} {badge}{title}"
     return "\n".join(lines) + "\n"
 
