@@ -527,5 +527,40 @@
     "source": "https://www.astronomer.io/favicon.svg",
     "kind": "svg",
     "colour": "#2B6CB0"
+  },
+  "arxiv": {
+    "issuer": "arXiv",
+    "source": "https://cdn.simpleicons.org/arxiv/white",
+    "kind": "svg",
+    "colour": "#B31B1B",
+    "role": "profile"
+  },
+  "google-scholar": {
+    "issuer": "Google Scholar",
+    "source": "https://cdn.simpleicons.org/googlescholar/white",
+    "kind": "svg",
+    "colour": "#4285F4",
+    "role": "profile"
+  },
+  "orcid": {
+    "issuer": "ORCID",
+    "source": "https://cdn.simpleicons.org/orcid/white",
+    "kind": "svg",
+    "colour": "#A6CE39",
+    "role": "profile"
+  },
+  "researchgate": {
+    "issuer": "ResearchGate",
+    "source": "https://cdn.simpleicons.org/researchgate/white",
+    "kind": "svg",
+    "colour": "#00CCBB",
+    "role": "profile"
+  },
+  "vixra": {
+    "issuer": "viXra",
+    "source": "https://www.google.com/s2/favicons?domain=vixra.org&sz=128",
+    "kind": "png",
+    "colour": "#4A4A4A",
+    "role": "profile"
   }
 }

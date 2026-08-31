@@ -100,6 +100,31 @@ def preview_keys(creds):
     return keys
 
 
+# A heading that awards a certificate of its own: the professional certificate
+# for the courses in the table beneath it. Fifty-three of them, and every one
+# was linked and none was ever shown.
+AWARDED = re.compile(r"^(.*?) &ndash; \[([^\]]+)\]\(([^)]+)\)$")
+
+
+def awarded_by(title):
+    """The certificate a heading awards, or None."""
+    m = AWARDED.match(title)
+    if not m:
+        return None
+    path = urllib.parse.unquote(m.group(3))
+    return (m.group(1), path) if path.lower().endswith(".pdf") else None
+
+
+def heading_certificates(text):
+    """Every certificate awarded by a heading rather than by a row."""
+    found = []
+    for _i, _level, title, _anchor, _rule in headings(text):
+        awarded = awarded_by(title)
+        if awarded:
+            found.append(awarded)
+    return found
+
+
 def label_of(cred, asset):
     """What the thumbnail is, in a few words: the alt a screen reader reads.
 
@@ -316,6 +341,53 @@ def partner_mark(title):
     return mark(title, slugify(title), title)
 
 
+AWARD_LINE = re.compile(r'^<p align="center"><img src="docs/previews/[^>]*></p>$')
+
+
+def award_line(title, path, keys):
+    """The professional certificate a heading awards, shown under it.
+
+    Fifty-three headings award a certificate of their own for the courses
+    listed beneath them. Every one of them was linked in the heading and none
+    of them was ever shown, which made them the only certificates in the
+    repository a reader could not see.
+    """
+    key = keys.get(path)
+    if not key or not (ROOT / f"{PREVIEWS}/{key}.jpg").exists():
+        return None
+    name = title.replace('"', "'")
+    return (f'<p align="center">'
+            f'<img src="{quote(f"{PREVIEWS}/{key}.jpg")}" width="{WIDTH}" '
+            f'alt="{name}" title="{name}, professional certificate, '
+            f'Amey Thakur"></p>')
+
+
+def show_awards(text, keys):
+    """Put each of those certificates under the heading that awards it."""
+    # Take off what an earlier run put there, the blank line above it as well
+    # as the line itself, or the page grows a blank line per build.
+    lines = []
+    for line in text.splitlines():
+        if AWARD_LINE.match(line):
+            if lines and not lines[-1].strip():
+                lines.pop()
+            continue
+        lines.append(line)
+    out = []
+    for line in lines:
+        out.append(line)
+        m = HEADING.match(line)
+        if not m:
+            continue
+        awarded = awarded_by(MARKED.sub("", m.group(2)))
+        if not awarded:
+            continue
+        shown = award_line(*awarded, keys)
+        if shown:
+            out.extend(["", shown])
+    return "\n".join(out) + "\n"
+
+
 def decorate_headings(text, notes):
     """Put each issuer's mark in front of its own section heading.
 
@@ -446,9 +518,14 @@ def main():
             if key:
                 by_target[key] = cred
 
-    keys = preview_keys(data["credentials"])
+    # The professional certificates a heading awards are not in the index, and
+    # they need a preview name of their own before either can be written.
+    awarded = heading_certificates(README.read_text(encoding="utf-8"))
+    keys = preview_keys(data["credentials"] + [
+        {"assets": [{"path": path}]} for _title, path in awarded])
     _counts, notes = issuer_notes(data["credentials"])
     source = decorate_headings(README.read_text(encoding="utf-8"), notes)
+    source = show_awards(source, keys)
     lines = write_summary(source, data["credentials"]).splitlines()
     out, i, changed = [], 0, 0
 

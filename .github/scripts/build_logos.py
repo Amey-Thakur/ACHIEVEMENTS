@@ -217,6 +217,19 @@ PARTNERS = {
 }
 
 
+# Where Amey's research can be followed. These are not issuers and award
+# nothing; they are the profiles the Research Papers section points at, and
+# they carry a badge each so that row reads as five services rather than five
+# words.
+PROFILES = {
+    "arXiv": (("si", "arxiv"), "#B31B1B"),
+    "Google Scholar": (("si", "googlescholar"), "#4285F4"),
+    "ORCID": (("si", "orcid"), "#A6CE39"),
+    "ResearchGate": (("si", "researchgate"), "#00CCBB"),
+    "viXra": (("site", "vixra.org"), "#4A4A4A"),
+}
+
+
 # Julia's three dots are its logo only in its own colours. Flattened to one
 # they are three circles that say nothing, which is what was wrong with them.
 # Simple-icons draws all three as a single path, so they cannot be coloured
@@ -479,9 +492,13 @@ def main():
         save(name, spec)
     for name, (source, colour) in PARTNERS.items():
         save(name, partner_spec(source), colour)
+    for name, (source, colour) in PROFILES.items():
+        if save(name, partner_spec(source), colour):
+            sources.setdefault(slug(name), {})["role"] = "profile"
 
     for stale in list(OUT.glob("*.png")) + list(OUT.glob("*.svg")):
-        if stale.stem not in {slug(n) for n in list(MARKS) + list(PARTNERS)}:
+        known = {slug(n) for n in list(MARKS) + list(PARTNERS) + list(PROFILES)}
+        if stale.stem not in known:
             stale.unlink()
             print(f"  removed a mark for an issuer no longer listed: {stale.name}")
 

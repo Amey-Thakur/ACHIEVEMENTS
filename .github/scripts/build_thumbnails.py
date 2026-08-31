@@ -41,7 +41,7 @@ MAX_PAGES = 1
 # The names come from build_readme.py, so the two cannot disagree about what a
 # preview is called.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build_readme import preview_keys  # noqa: E402
+from build_readme import heading_certificates, preview_keys  # noqa: E402
 
 
 def main():
@@ -53,12 +53,17 @@ def main():
         return 1
 
     data = json.loads(INDEX.read_text(encoding="utf-8"))
-    keys = preview_keys(data["credentials"])
+    # The professional certificates are awarded by a heading rather than by a
+    # row, so they are not in the index; they still need a preview.
+    awarded = heading_certificates((ROOT / "README.md").read_text(encoding="utf-8"))
+    creds = data["credentials"] + [
+        {"assets": [{"path": path, "kind": "pdf"}]} for _title, path in awarded]
+    keys = preview_keys(creds)
     OUT.mkdir(parents=True, exist_ok=True)
 
     made = skipped = failed = 0
     wanted = set()
-    for cred in data["credentials"]:
+    for cred in creds:
         for asset in cred["assets"]:
             if asset["kind"] != "pdf":
                 continue

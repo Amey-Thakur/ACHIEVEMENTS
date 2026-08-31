@@ -31,6 +31,7 @@ LOGOS = ROOT / "docs" / "logos"
 INDEX = ROOT / "docs" / "credentials.json"
 OUT = ROOT / "docs" / "badges"
 SQUARES = OUT / "square"
+PROFILES = OUT / "profile"
 
 # Proportions rather than pixels: the badge is drawn once and rendered at
 # whatever size the page asks for.
@@ -270,6 +271,47 @@ fill="#ffffff">{escape(tally)}</text>
 '''
 
 
+def plain(display, colour, kind, path):
+    """A badge with a mark and a name and no count: a place, not a tally.
+
+    The research profiles are these. They award nothing, so a number beside
+    them would be a number of what.
+    """
+    name_w = measure(display, FONT_SIZE)
+    width = round(PAD_X + (LOGO + GAP if path else 0) + name_w + PAD_X, 1)
+    baseline = round(HEIGHT / 2 + FONT_SIZE * 0.35, 1)
+    shadow = round(baseline + 1, 1)
+
+    logo = logo_markup(kind, path, PAD_X, (HEIGHT - LOGO) / 2, LOGO) if path else ""
+    if path and needs_chip(kind, path, colour):
+        pad, top = 1.5, (HEIGHT - LOGO) / 2 - 1.5
+        logo = (f'<rect x="{PAD_X - pad}" y="{top}" width="{LOGO + pad * 2}" '
+                f'height="{LOGO + pad * 2}" rx="3" fill="#ffffff"/>{logo}')
+    name_x = PAD_X + (LOGO + GAP if path else 0)
+
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" \
+height="{HEIGHT}" viewBox="0 0 {width} {HEIGHT}" role="img" \
+aria-label="{escape(display)}">
+<title>{escape(display)}</title>
+<linearGradient id="g" x2="0" y2="100%">
+<stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+<stop offset="1" stop-opacity=".12"/>
+</linearGradient>
+<rect width="{width}" height="{HEIGHT}" rx="{RADIUS}" fill="{colour}"/>
+<rect width="{width}" height="{HEIGHT}" rx="{RADIUS}" fill="url(#g)"/>
+{logo}
+<g font-family="{FONT_STACK}" font-size="{FONT_SIZE}" \
+text-rendering="geometricPrecision">
+<text x="{name_x}" y="{shadow}" textLength="{round(name_w, 1)}" \
+lengthAdjust="spacingAndGlyphs" fill="#010101" fill-opacity=".3">\
+{escape(display)}</text>
+<text x="{name_x}" y="{baseline}" textLength="{round(name_w, 1)}" \
+lengthAdjust="spacingAndGlyphs" fill="#ffffff">{escape(display)}</text>
+</g>
+</svg>
+'''
+
+
 def square(display, colour, kind, path):
     """The same mark again, as a small square, for the section headings.
 
@@ -322,11 +364,12 @@ def main():
 
     OUT.mkdir(parents=True, exist_ok=True)
     SQUARES.mkdir(parents=True, exist_ok=True)
+    PROFILES.mkdir(parents=True, exist_ok=True)
     for stale in list(OUT.glob("*.png")) + list(SQUARES.glob("*.png")):
         stale.unlink()
 
     marks = {d: mark_for(d, index) for d in BRAND}
-    vector = raster = plain = 0
+    vector = raster = colour_only = 0
     for display, colour in sorted(BRAND.items()):
         kind, path = marks[display]
         # One number, always the same number: how many credentials this
@@ -339,14 +382,25 @@ def main():
             square(display, colour, kind, path), encoding="utf-8")
         vector += kind == "vector"
         raster += kind == "raster"
-        plain += kind is None
+        colour_only += kind is None
 
     # The organisations named inside an issuer's section get the square mark
     # only. They have no count of their own to put on a badge: their
     # credentials are counted under the issuer that awarded them.
-    partners = 0
+    partners = profiles = 0
     for key, meta in sorted(index.items()):
         if not meta.get("colour"):
+            continue
+        if meta.get("role") == "profile":
+            vector_path = LOGOS / f"{key}.svg"
+            raster_path = LOGOS / f"{key}.png"
+            kind, path = (("vector", vector_path) if vector_path.exists()
+                          else ("raster", raster_path) if raster_path.exists()
+                          else (None, None))
+            (PROFILES / f"{key}.svg").write_text(
+                plain(meta["issuer"], meta["colour"], kind, path),
+                encoding="utf-8")
+            profiles += 1
             continue
         vector_path = LOGOS / f"{key}.svg"
         raster_path = LOGOS / f"{key}.png"
@@ -357,13 +411,13 @@ def main():
             square(meta["issuer"], meta["colour"], kind, path), encoding="utf-8")
         partners += 1
 
-    print(f"  {vector + raster + plain} badges written to "
+    print(f"  {vector + raster + colour_only} badges written to "
           f"{OUT.relative_to(ROOT).as_posix()}, every one an SVG, "
           f"each with a square twin for its section heading")
     print(f"  {partners} more square marks, for the organisations named inside "
-          f"an issuer's section")
+          f"an issuer's section, and {profiles} badges for the research profiles")
     print(f"  {vector} carry a vector mark, {raster} an embedded icon, "
-          f"{plain} are colour only")
+          f"{colour_only} are colour only")
     return 0
 
 
