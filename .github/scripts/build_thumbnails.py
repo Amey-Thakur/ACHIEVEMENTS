@@ -29,6 +29,10 @@ OUT = ROOT / "docs" / "previews"
 WIDTH = 480
 QUALITY = 74
 
+# Four pages is enough to show what a certificate contains; the longest here
+# is a ten page quiz record whose remaining pages are the same form repeated.
+MAX_PAGES = 4
+
 
 def main():
     rebuild = "--all" in sys.argv
@@ -51,15 +55,21 @@ def main():
             print(f"  MISSING  {cred['pdf']}")
             failed += 1
             continue
-        if target.exists() and not rebuild:
-            skipped += 1
-            continue
         try:
             with pymupdf.open(source) as doc:
-                page = doc[0]
-                zoom = WIDTH / page.rect.width
-                pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
-                pix.pil_save(target, format="JPEG", quality=QUALITY, optimize=True)
+                # Ten certificates run to more than one page, and a preview of
+                # only the first hides half of what they say. Every page is
+                # rendered; the README stacks them in one column so the table
+                # keeps a single width.
+                for number in range(min(doc.page_count, MAX_PAGES)):
+                    out = target if number == 0 else \
+                        OUT / f"{cred['id']}-{number + 1}.jpg"
+                    if out.exists() and not rebuild:
+                        continue
+                    page = doc[number]
+                    zoom = WIDTH / page.rect.width
+                    pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
+                    pix.pil_save(out, format="JPEG", quality=QUALITY, optimize=True)
             made += 1
         except Exception as exc:  # noqa: BLE001  (one bad PDF must not stop the rest)
             print(f"  FAILED   {cred['pdf']}: {exc}")

@@ -51,14 +51,25 @@ def alt(title, kind):
 
 
 def preview_cell(cred):
-    """The image for one credential, linked to the file it came from."""
+    """The image for one credential, linked to the file it came from.
+
+    A certificate that runs to several pages shows all of them, stacked in the
+    one cell. Stacking rather than placing them side by side is what keeps the
+    column a single width down the whole table.
+    """
     if cred["pdf"]:
-        image = f"{PREVIEWS}/{cred['id']}.jpg"
-        if not (ROOT / image).exists():
+        pages = [f"{PREVIEWS}/{cred['id']}.jpg"]
+        n = 2
+        while (ROOT / f"{PREVIEWS}/{cred['id']}-{n}.jpg").exists():
+            pages.append(f"{PREVIEWS}/{cred['id']}-{n}.jpg")
+            n += 1
+        if not (ROOT / pages[0]).exists():
             return "&nbsp;"
-        return (f'<a href="{quote(cred["pdf"])}">'
-                f'<img src="{quote(image)}" width="{WIDTH}" '
-                f'alt="{alt(cred["title"], "certificate")}"></a>')
+        images = "".join(
+            f'<img src="{quote(page)}" width="{WIDTH}" '
+            f'alt="{alt(cred["title"], "certificate" if i == 0 else f"certificate page {i + 1}")}">'
+            for i, page in enumerate(pages))
+        return f'<a href="{quote(cred["pdf"])}">{images}</a>'
     if cred["badge"]:
         return (f'<a href="{quote(cred["badge"])}">'
                 f'<img src="{quote(cred["badge"])}" width="{WIDTH}" '
@@ -116,6 +127,8 @@ ISSUERS = {
     "Simplilearn": ("Simplilearn", "F58220", "", "simplilearn"),
     "Sports": ("Sports", "2DA44E", "", "sports--athletic-achievements"),
     "Stanford University": ("Stanford University", "8C1515", "", "stanford-university"),
+    "Stanford University School of Medicine": ("Stanford Medicine", "8C1515", "",
+                                             "stanford-university-school-of-medicine"),
     "Terna Engineering College": ("Terna Engineering College", "1F6FEB", "",
                                   "terna-engineering-college"),
     "Udemy": ("Udemy", "A435F0", "udemy", "udemy"),
@@ -130,10 +143,10 @@ COLUMNS = 3
 
 def badge(name, colour, logo):
     label = urllib.parse.quote(name.replace("-", "--"))
-    src = f"https://img.shields.io/badge/{label}-{colour}?style=for-the-badge"
+    src = f"https://img.shields.io/badge/{label}-{colour}?style=flat"
     if logo:
         src += f"&logo={logo}&logoColor=white"
-    return f'<img src="{src}" alt="{name}" height="26">'
+    return f'<img src="{src}" alt="{name}" height="20">'
 
 
 def summary_block(creds):
@@ -148,7 +161,8 @@ def summary_block(creds):
         if c["verify"]:
             checked[c["platform"]] = checked.get(c["platform"], 0) + 1
 
-    known = [p for p in sorted(counts, key=lambda p: (-counts[p], p)) if p in ISSUERS]
+    known = sorted((p for p in counts if p in ISSUERS),
+                   key=lambda p: ISSUERS[p][0].lower())
     rows = ["<table>"]
     for i in range(0, len(known), COLUMNS):
         rows.append("<tr>")

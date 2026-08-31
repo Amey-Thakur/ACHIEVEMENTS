@@ -26,14 +26,21 @@ OUT = ROOT / "docs" / "credentials.json"
 REPO = "https://github.com/Amey-Thakur/ACHIEVEMENTS"
 BLOB = f"{REPO}/blob/main/"
 
-# A numbered row in any of the certificate tables. The trailing cells vary by
-# section, so they are captured whole and read for links afterwards.
-# A numbered row, with or without the preview column build_readme.py adds.
-# Without the optional group this reads the README it has already written and
-# finds nothing, because the second cell is then the image rather than the
-# title.
-ROW = re.compile(r"^\s*\| ([\d-]+) \| (?:<a href=\"[^\"]*\"><img [^>]*></a> \| "
-                 r"|&nbsp; \| )?\*\*(.+?)\*\* \| (.+?) \|\s*$")
+# A numbered row in any of the certificate tables. Rows are read cell by cell
+# rather than with one regex over the whole line: a single pattern could not
+# survive the preview column, a title cell that carries an accreditation note
+# after the bold text, or a cell containing an escaped pipe, and every one of
+# those silently dropped credentials from the index.
+CELL_START = re.compile(r"^\s*\| [\d-]+ \|")
+
+
+def split_cells(line):
+    """The cells of a row, treating an escaped pipe as content.
+
+    One Harvard row reads "1.00 AMA PRA Category 1 Credit" after an escaped
+    pipe, and splitting on that would tear the row in half.
+    """
+    return [c.strip() for c in re.split(r"(?<!\\)\|", line.strip().strip("|"))]
 HEADING = re.compile(r"^(#{2,4}) (.+?)\s*$", re.M)
 # Many certificate filenames carry brackets of their own, as in
 # "Coursera/Amazon Web Services (AWS)/...". A target of "not a close bracket"
@@ -69,7 +76,6 @@ def main():
     marks = [(m.start(), len(m.group(1)), clean(m.group(2))) for m in HEADING.finditer(text)]
     entries, seen = [], set()
     section = subsection = None
-    cursor = 0
     lines = text.splitlines(keepends=True)
     offset = 0
 
@@ -84,17 +90,32 @@ def main():
                 subsection = title
             continue
 
-        m = ROW.match(line.rstrip("\n"))
-        if not m or not section:
+        row = line.rstrip("\n")
+        if not section or not CELL_START.match(row):
             continue
-        rest = m.group(3)
+        cells = split_cells(row)
+        # The title is the first bold cell, and everything after it holds the
+        # links.
+        bold = next((k for k, c in enumerate(cells) if k and c.startswith("**")), None)
+        if bold is None:
+            continue
+        title = re.sub(r"^\*\*(.+?)\*\*.*$", r"\1", cells[bold], flags=re.S).strip()
+        rest = " | ".join(cells[bold + 1:])
         links = {label: href for label, href in LINK.findall(rest)}
 
-        pdf = next((local(h) for label, h in links.items()
-                    if label.lower() in ("certificate", "professional certificate")
-                    and h.lower().endswith(".pdf")), None)
+        # Some issuers hand out an image rather than a PDF, Kaggle above all.
+        # Treating "certificate" as a synonym for "PDF" left every one of those
+        # out of the index and out of the gallery.
+        certificate = next((local(h) for label, h in links.items()
+                            if label.lower() in ("certificate", "professional certificate")
+                            and h.lower().endswith((".pdf", ".png", ".jpg", ".jpeg"))), None)
+        pdf = certificate if certificate and certificate.lower().endswith(".pdf") else None
         badge = next((local(h) for label, h in links.items()
                       if label == "Badge" and h.lower().endswith(".png")), None)
+        # An image certificate is already its own preview, so it is carried in
+        # the same field the badges use and shown directly.
+        if certificate and not pdf:
+            badge = badge or certificate
         verify = next((h for label, h in links.items()
                        if label != "Certificate" and h.startswith("http")
                        and not h.startswith(BLOB)), None)
@@ -108,14 +129,14 @@ def main():
         platform = source.split("/")[0] if "/" in source else section
 
         cred_id = re.sub(r"[^a-z0-9]+", "-",
-                         (source or m.group(2)).lower().rsplit(".", 1)[0]).strip("-")
+                         (source or title).lower().rsplit(".", 1)[0]).strip("-")
         if cred_id in seen:
             cred_id = f"{cred_id}-{len(entries)}"
         seen.add(cred_id)
 
         entries.append({
             "id": cred_id,
-            "title": m.group(2),
+            "title": title,
             "platform": platform,
             "section": section,
             "subsection": subsection,
