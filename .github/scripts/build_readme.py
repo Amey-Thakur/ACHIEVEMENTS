@@ -101,9 +101,16 @@ def preview_keys(creds):
 
 
 # A heading that awards a certificate of its own: the professional certificate
-# for the courses in the table beneath it. Fifty-three of them, and every one
-# was linked and none was ever shown.
-AWARDED = re.compile(r"^(.*?) &ndash; \[([^\]]+)\]\(([^)]+)\)$")
+# for the courses in the table beneath it. Every one of them was linked and
+# none was ever shown.
+#
+# The target allows one level of brackets, as LINK does above. Certificates are
+# filed under names like "Atlassian IT Service Management (ITSM) Professional
+# Certificate.pdf", and a target of "not a close bracket" stops inside the name
+# and matches nothing: those headings were the ones still showing no
+# certificate after the rest had been fixed.
+AWARDED = re.compile(
+    r"^(.*?) &ndash; \[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)$")
 
 
 def awarded_by(title):

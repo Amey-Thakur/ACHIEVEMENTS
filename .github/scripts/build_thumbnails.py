@@ -25,10 +25,12 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 INDEX = ROOT / "docs" / "credentials.json"
 OUT = ROOT / "docs" / "previews"
 
-# Wide enough to read the holder's name and the issuer on a retina screen at
-# card size, small enough that six hundred of them stay under ten megabytes.
-WIDTH = 480
-QUALITY = 74
+# The README shows these at 108 pixels, so 240 is still better than twice the
+# density a retina screen asks for. It was 480, which is four times the pixels
+# for no visible gain and made the page seventeen megabytes: a thousand images
+# at once, and the browser gave up on some of them and drew them broken.
+WIDTH = 240
+QUALITY = 78
 
 # Page one only. Every certificate is still shown; what is not shown is the
 # second and third page of the same certificate, which the reader can open for
