@@ -103,19 +103,32 @@ def main():
         rest = " | ".join(cells[bold + 1:])
         links = {label: href for label, href in LINK.findall(rest)}
 
-        # Some issuers hand out an image rather than a PDF, Kaggle above all.
-        # Treating "certificate" as a synonym for "PDF" left every one of those
-        # out of the index and out of the gallery.
-        certificate = next((local(h) for label, h in links.items()
-                            if label.lower() in ("certificate", "professional certificate")
-                            and h.lower().endswith((".pdf", ".png", ".jpg", ".jpeg"))), None)
-        pdf = certificate if certificate and certificate.lower().endswith(".pdf") else None
-        badge = next((local(h) for label, h in links.items()
-                      if label == "Badge" and h.lower().endswith(".png")), None)
-        # An image certificate is already its own preview, so it is carried in
-        # the same field the badges use and shown directly.
-        if certificate and not pdf:
-            badge = badge or certificate
+        # Every file the row links, in the order it was written, rather than
+        # only the first. A row commonly carries a certificate and its badge,
+        # and a few carry two certificates; showing one of them and hiding the
+        # rest was arbitrary.
+        assets, seen_here = [], set()
+        for label, href in LINK.findall(rest):
+            path = local(href)
+            if not path or path in seen_here:
+                continue
+            if not path.lower().endswith((".pdf", ".png", ".jpg", ".jpeg")):
+                continue
+            seen_here.add(path)
+            assets.append({
+                "path": path,
+                "label": label,
+                # A PDF needs a page rendered before it can be shown; an image
+                # is already its own preview.
+                "kind": "pdf" if path.lower().endswith(".pdf") else "image",
+            })
+        if not assets:
+            continue
+
+        # Kept for anything reading the index by these names. The first PDF is
+        # the certificate; the first image is the badge or an image certificate.
+        pdf = next((a["path"] for a in assets if a["kind"] == "pdf"), None)
+        badge = next((a["path"] for a in assets if a["kind"] == "image"), None)
         verify = next((h for label, h in links.items()
                        if label != "Certificate" and h.startswith("http")
                        and not h.startswith(BLOB)), None)
@@ -125,7 +138,7 @@ def main():
         # The folder a file sits in is the platform that issued it, which is a
         # steadier grouping than the heading: the LinkedIn Learning partner
         # sections are headed by the partner, not by LinkedIn.
-        source = pdf or badge
+        source = assets[0]["path"]
         platform = source.split("/")[0] if "/" in source else section
 
         cred_id = re.sub(r"[^a-z0-9]+", "-",
@@ -142,13 +155,14 @@ def main():
             "subsection": subsection,
             "pdf": pdf,
             "badge": badge,
+            "assets": assets,
             "verify": verify,
         })
 
-    missing = [e for e in entries
-               if e["pdf"] and not (ROOT / e["pdf"]).exists()]
-    for e in missing:
-        print(f"  MISSING FILE  {e['pdf']}")
+    missing = [a["path"] for e in entries for a in e["assets"]
+               if not (ROOT / a["path"]).exists()]
+    for path in missing:
+        print(f"  MISSING FILE  {path}")
 
     payload = {
         "repository": REPO,
@@ -172,6 +186,8 @@ def main():
     print(f"  {len(entries)} credentials across {len(payload['platforms'])} platforms")
     print(f"  {sum(1 for e in entries if e['verify'])} carry a verification link")
     print(f"  {sum(1 for e in entries if e['badge'])} carry a badge image")
+    print(f"  {sum(len(e['assets']) for e in entries)} files to show in all, "
+          f"{sum(1 for e in entries if len(e['assets']) > 1)} rows carrying more than one")
     print(f"  wrote {OUT.relative_to(ROOT).as_posix()}")
     return 1 if missing else 0
 

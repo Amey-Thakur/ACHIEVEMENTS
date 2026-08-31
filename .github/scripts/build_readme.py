@@ -50,31 +50,65 @@ def alt(title, kind):
             .replace('"', "'").replace("|", "-"))
 
 
-def preview_cell(cred):
-    """The image for one credential, linked to the file it came from.
+def preview_key(path):
+    """The preview image for a file, named after the file rather than the row."""
+    return re.sub(r"[^a-z0-9]+", "-", path.lower().rsplit(".", 1)[0]).strip("-")
 
-    A certificate that runs to several pages shows all of them, stacked in the
-    one cell. Stacking rather than placing them side by side is what keeps the
-    column a single width down the whole table.
+
+def describe(title, asset, page=None, pages=1):
+    """What an image is, said precisely.
+
+    This is both the alt text a screen reader announces and the tooltip a
+    reader sees, so it names the document, what kind of document it is, who
+    holds it, and which page is being shown.
     """
-    if cred["pdf"]:
-        pages = [f"{PREVIEWS}/{cred['id']}.jpg"]
+    label = asset["label"].lower()
+    kind = "badge" if "badge" in label else (
+        "professional certificate" if "professional" in label else "certificate")
+    text = f"{title} - {kind} issued to Amey Thakur"
+    if pages > 1:
+        text += f", page {page} of {pages}"
+    return text.replace('"', "'").replace("|", "-")
+
+
+def preview_cell(cred):
+    """Every file the row links, shown, and linked to the original.
+
+    A row commonly carries a certificate and its badge, and some carry two
+    certificates; each of them is shown. Pages of a multi-page certificate are
+    shown too. Everything stacks in the one cell, because stacking is what
+    keeps the column a single width down the whole table however many files a
+    row happens to have.
+    """
+    parts = []
+    for asset in cred.get("assets") or []:
+        if asset["kind"] == "image":
+            if not (ROOT / asset["path"]).exists():
+                continue
+            text = describe(cred["title"], asset)
+            parts.append(
+                f'<a href="{quote(asset["path"])}" title="{text}">'
+                f'<img src="{quote(asset["path"])}" width="{WIDTH}" '
+                f'alt="{text}" title="{text}"></a>')
+            continue
+
+        key = preview_key(asset["path"])
+        pages = [f"{PREVIEWS}/{key}.jpg"]
         n = 2
-        while (ROOT / f"{PREVIEWS}/{cred['id']}-{n}.jpg").exists():
-            pages.append(f"{PREVIEWS}/{cred['id']}-{n}.jpg")
+        while (ROOT / f"{PREVIEWS}/{key}-{n}.jpg").exists():
+            pages.append(f"{PREVIEWS}/{key}-{n}.jpg")
             n += 1
         if not (ROOT / pages[0]).exists():
-            return "&nbsp;"
+            continue
         images = "".join(
             f'<img src="{quote(page)}" width="{WIDTH}" '
-            f'alt="{alt(cred["title"], "certificate" if i == 0 else f"certificate page {i + 1}")}">'
+            f'alt="{describe(cred["title"], asset, i + 1, len(pages))}" '
+            f'title="{describe(cred["title"], asset, i + 1, len(pages))}">'
             for i, page in enumerate(pages))
-        return f'<a href="{quote(cred["pdf"])}">{images}</a>'
-    if cred["badge"]:
-        return (f'<a href="{quote(cred["badge"])}">'
-                f'<img src="{quote(cred["badge"])}" width="{WIDTH}" '
-                f'alt="{alt(cred["title"], "badge")}"></a>')
-    return "&nbsp;"
+        first = describe(cred["title"], asset, 1, len(pages))
+        parts.append(f'<a href="{quote(asset["path"])}" title="{first}">{images}</a>')
+
+    return "".join(parts) or "&nbsp;"
 
 
 def split(line):
@@ -138,15 +172,27 @@ ISSUERS = {
                                    "via-institute-on-character"),
 }
 
-COLUMNS = 3
+COLUMNS = 4
 
 
-def badge(name, colour, logo):
-    label = urllib.parse.quote(name.replace("-", "--"))
-    src = f"https://img.shields.io/badge/{label}-{colour}?style=flat"
-    if logo:
-        src += f"&logo={logo}&logoColor=white"
-    return f'<img src="{src}" alt="{name}" height="20">'
+BADGES = "docs/badges"
+
+
+def badge(name, note):
+    """The issuer's badge, drawn in this repository rather than fetched.
+
+    Shields.io cannot render half of these: simple-icons has dropped Microsoft,
+    IBM, LinkedIn, MathWorks and OpenAI, and never carried the universities. The
+    badges are built by build_issuer_badges.py from each issuer's own mark and
+    colour, so every one carries a logo and nothing depends on an outside
+    service to draw the index.
+    """
+    key = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    src = f"{BADGES}/{key}.png"
+    text = f"{name} - {note}"
+    if not (ROOT / src).exists():
+        return f"<b>{name}</b>"
+    return (f'<img src="{quote(src)}" alt="{text}" title="{text}" height="20">')
 
 
 def summary_block(creds):
@@ -167,17 +213,18 @@ def summary_block(creds):
     for i in range(0, len(known), COLUMNS):
         rows.append("<tr>")
         for platform in known[i:i + COLUMNS]:
-            name, colour, logo, anchor = ISSUERS[platform]
+            name, _colour, _logo, anchor = ISSUERS[platform]
             n, v = counts[platform], checked.get(platform, 0)
             note = f"{n} credential{'s' if n != 1 else ''}"
             if v:
                 note += f", {v} verifiable"
             rows.append(
-                f'<td align="center" width="33%"><a href="#{anchor}">'
-                f'{badge(name, colour, logo)}</a><br>'
+                f'<td align="center" width="25%">'
+                f'<a href="#{anchor}" title="{name} - {note}">'
+                f'{badge(name, note)}</a><br>'
                 f'<sub>{note}</sub></td>')
         for _ in range(COLUMNS - len(known[i:i + COLUMNS])):
-            rows.append('<td align="center" width="33%"></td>')
+            rows.append('<td align="center" width="25%"></td>')
         rows.append("</tr>")
     rows.append("</table>")
 
@@ -195,6 +242,12 @@ def summary_block(creds):
         "\n".join(rows),
         "",
         "</div>",
+        "",
+        # A rule and a heading, so the hand-written list of sections underneath
+        # reads as its own section rather than as a caption to the badges.
+        "---",
+        "",
+        "### Index",
         "",
         SUMMARY_END,
     ])
