@@ -71,6 +71,16 @@ def main():
     check = "--check" in sys.argv
     text = README.read_text(encoding="utf-8")
 
+    # Issue dates are read off the certificates by build_dates.py and written
+    # into this same file. Rebuilding the index would drop them and leave the
+    # two scripts undoing each other, so what is already known is carried over.
+    known = {}
+    if OUT.exists():
+        for cred in json.loads(OUT.read_text(encoding="utf-8"))["credentials"]:
+            for asset in cred.get("assets", []):
+                if asset.get("issued"):
+                    known[asset["path"]] = asset["issued"]
+
     # Walk the document once, remembering the most recent heading at each
     # level, so a row knows the section and the sub-section it sits under.
     marks = [(m.start(), len(m.group(1)), clean(m.group(2))) for m in HEADING.finditer(text)]
@@ -91,12 +101,20 @@ def main():
             continue
 
         row = line.rstrip("\n")
-        if not section or not CELL_START.match(row):
+        if not section or not row.strip().startswith("|"):
             continue
         cells = split_cells(row)
+        # Any table row with a bold cell and a file after it, not only the
+        # numbered ones. Requiring a number in the first cell skipped the
+        # experience tables, which are headed "Role" and hold the internship
+        # completion and offer letters, and two of the research paper tables.
+        if len(cells) < 2 or cells[0].startswith((":--", "---")):
+            continue
         # The title is the first bold cell, and everything after it holds the
         # links.
-        bold = next((k for k, c in enumerate(cells) if k and c.startswith("**")), None)
+        # The title can be the very first cell: the experience tables open
+        # with the role rather than with a number.
+        bold = next((k for k, c in enumerate(cells) if c.startswith("**")), None)
         if bold is None:
             continue
         title = re.sub(r"^\*\*(.+?)\*\*.*$", r"\1", cells[bold], flags=re.S).strip()
@@ -115,13 +133,16 @@ def main():
             if not path.lower().endswith((".pdf", ".png", ".jpg", ".jpeg")):
                 continue
             seen_here.add(path)
-            assets.append({
+            entry = {
                 "path": path,
                 "label": label,
                 # A PDF needs a page rendered before it can be shown; an image
                 # is already its own preview.
                 "kind": "pdf" if path.lower().endswith(".pdf") else "image",
-            })
+            }
+            if path in known:
+                entry["issued"] = known[path]
+            assets.append(entry)
         if not assets:
             continue
 

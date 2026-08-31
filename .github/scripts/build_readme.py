@@ -50,24 +50,42 @@ def alt(title, kind):
             .replace('"', "'").replace("|", "-"))
 
 
+# The issuer as it should read in a tooltip, where the folder is named
+# differently from the institution.
+ISSUER_NAME = {
+    "Anthropic courses": "Claude Academy",
+    "Colgate Oral Health Network": "Colgate Oral Health Network",
+    "Linkedin Learning": "LinkedIn Learning",
+    "Nvidia Deep Learning Institute": "NVIDIA Deep Learning Institute",
+    "Experience": "internship",
+    "Quizzes": "quiz",
+    "Sports": "sporting",
+    "Stanford University School of Medicine": "Stanford Medicine",
+}
+
+
 def preview_key(path):
     """The preview image for a file, named after the file rather than the row."""
     return re.sub(r"[^a-z0-9]+", "-", path.lower().rsplit(".", 1)[0]).strip("-")
 
 
-def describe(title, asset, page=None, pages=1):
-    """What an image is, said precisely.
+def describe(cred, asset, page=None, pages=1):
+    """What an image is, in one sentence, for a reader and for a crawler.
 
     This is both the alt text a screen reader announces and the tooltip a
-    reader sees, so it names the document, what kind of document it is, who
-    holds it, and which page is being shown.
+    reader sees on hover, so it is written as a sentence rather than a label:
+    the document, who issued it, when, and who holds it. The name and the date
+    come last because that is the part a search result is matched on.
     """
     label = asset["label"].lower()
     kind = "badge" if "badge" in label else (
         "professional certificate" if "professional" in label else "certificate")
-    text = f"{title} - {kind} issued to Amey Thakur"
+    issuer = ISSUER_NAME.get(cred["platform"], cred["platform"])
+    text = f"{cred['title']}, {issuer} {kind}"
     if pages > 1:
         text += f", page {page} of {pages}"
+    issued = asset.get("issued")
+    text += f", issued {issued} to Amey Thakur" if issued else ", issued to Amey Thakur"
     return text.replace('"', "'").replace("|", "-")
 
 
@@ -76,16 +94,17 @@ def preview_cell(cred):
 
     A row commonly carries a certificate and its badge, and some carry two
     certificates; each of them is shown. Pages of a multi-page certificate are
-    shown too. Everything stacks in the one cell, because stacking is what
-    keeps the column a single width down the whole table however many files a
-    row happens to have.
+    shown too. They are separated by line breaks rather than run together,
+    which is what makes a cell holding three files read as three documents
+    stacked in one column instead of a strip of pictures wrapping wherever the
+    cell happens to end.
     """
     parts = []
     for asset in cred.get("assets") or []:
         if asset["kind"] == "image":
             if not (ROOT / asset["path"]).exists():
                 continue
-            text = describe(cred["title"], asset)
+            text = describe(cred, asset)
             parts.append(
                 f'<a href="{quote(asset["path"])}" title="{text}">'
                 f'<img src="{quote(asset["path"])}" width="{WIDTH}" '
@@ -100,15 +119,15 @@ def preview_cell(cred):
             n += 1
         if not (ROOT / pages[0]).exists():
             continue
-        images = "".join(
+        images = "<br>".join(
             f'<img src="{quote(page)}" width="{WIDTH}" '
-            f'alt="{describe(cred["title"], asset, i + 1, len(pages))}" '
-            f'title="{describe(cred["title"], asset, i + 1, len(pages))}">'
+            f'alt="{describe(cred, asset, i + 1, len(pages))}" '
+            f'title="{describe(cred, asset, i + 1, len(pages))}">'
             for i, page in enumerate(pages))
-        first = describe(cred["title"], asset, 1, len(pages))
+        first = describe(cred, asset, 1, len(pages))
         parts.append(f'<a href="{quote(asset["path"])}" title="{first}">{images}</a>')
 
-    return "".join(parts) or "&nbsp;"
+    return "<br>".join(parts) or "&nbsp;"
 
 
 def split(line):
@@ -241,6 +260,9 @@ def summary_block(creds):
         "",
         "\n".join(rows),
         "",
+        "<sub>Each badge names the issuer, how many credentials it awarded, and "
+        "after the slash how many of those can be verified on its own site.</sub>",
+        "",
         "</div>",
         "",
         # A rule and a heading, so the hand-written list of sections underneath
@@ -282,11 +304,16 @@ def main():
     out, i, changed = [], 0, 0
 
     while i < len(lines):
-        header = HEADER.match(lines[i])
-        if not header or i + 1 >= len(lines) or not RULE.match(lines[i + 1]):
+        # Any table, not only the numbered ones. The experience tables are
+        # headed "Role" and hold the internship letters, and two research paper
+        # tables are headed "Feature"; all of them link certificates and none
+        # of them showed one.
+        if (not lines[i].strip().startswith("|") or i + 1 >= len(lines)
+                or not RULE.match(lines[i + 1])):
             out.append(lines[i])
             i += 1
             continue
+        header = re.match(r"^(\s*)\|", lines[i])
 
         # Collect the whole table, then decide whether it holds credentials.
         block, j = [], i
@@ -299,17 +326,21 @@ def main():
         # The rule row reads ":---: | :---:" either way and cannot tell you
         # itself, so asking it was what made a second run add a second column.
         head_cells = split(block[0])
-        had = len(head_cells) > 1 and head_cells[1] == "Preview"
+        # The column goes after the number where there is one, and first
+        # otherwise, so it always sits at the left of the row it belongs to.
+        at = 1 if head_cells and head_cells[0] == "#" else 0
+        had = len(head_cells) > at and head_cells[at] == "Preview"
 
         def without(cells):
-            return [cells[0]] + cells[2:] if had and len(cells) > 1 else cells
+            if not had or len(cells) <= at:
+                return cells
+            return cells[:at] + cells[at + 1:]
 
         creds = []
         for line in block[2:]:
-            m = ROW.match(line)
             cred = None
-            if m:
-                rest = " | ".join(without(split(line))[1:])
+            if line.strip().startswith("|"):
+                rest = " | ".join(without(split(line)))
                 for _label, href in LINK.findall(rest):
                     target = href[len(BLOB):] if href.startswith(BLOB) else href
                     target = urllib.parse.unquote(target)
@@ -318,24 +349,33 @@ def main():
                         break
             creds.append(cred)
 
-        if not any(creds):
-            out.extend(block)
+        # A table earns the column when the documents are the point of it.
+        # Two of the research paper tables list a journal, a preprint link, the
+        # authors and one PDF; giving those a preview column means six empty
+        # cells to show one thing, which reads as five things missing.
+        rows_with_assets = sum(1 for c in creds if c)
+        if not rows_with_assets or rows_with_assets * 2 < len(creds):
+            # If an earlier run gave this table a column, take it back off
+            # rather than leaving it there with nothing in it.
+            out.extend([join(re.match(r"^(\s*)\|", line).group(1), without(split(line)))
+                        if had and line.strip().startswith("|") else line
+                        for line in block])
             i = j
             continue
 
         indent = header.group(1)
         head_cells = without(head_cells)
         rule_cells = without(split(block[1]))
-        new = [join(indent, [head_cells[0], "Preview"] + head_cells[1:]),
-               join(indent, [rule_cells[0], ":---:"] + rule_cells[1:])]
+        new = [join(indent, head_cells[:at] + ["Preview"] + head_cells[at:]),
+               join(indent, rule_cells[:at] + [":---:"] + rule_cells[at:])]
         for line, cred in zip(block[2:], creds):
-            m = ROW.match(line)
+            m = re.match(r"^(\s*)\|", line)
             if not m:
                 new.append(line)
                 continue
             cells = without(split(line))
             cell = preview_cell(cred) if cred else "&nbsp;"
-            new.append(join(m.group(1), [cells[0], cell] + cells[1:]))
+            new.append(join(m.group(1), cells[:at] + [cell] + cells[at:]))
 
         if new != block:
             changed += 1
