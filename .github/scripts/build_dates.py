@@ -176,9 +176,9 @@ def academy_badge_dates():
     A badge is not dated by the course behind it. Nineteen of these were issued
     together on the day Claude Academy started issuing badges, months after
     those courses were finished, so a badge that took its certificate's date
-    was stating something that is not true of it. The dates come from the
-    verification page for each badge, recorded next door by
-    read_badge_dates.py.
+    was stating something that is not true of it. Each date was read off that
+    badge's own verification page on academy.claude.com and recorded against
+    its verification code in badges.json next door.
     """
     if not SIBLING_BADGES.exists():
         return {}
