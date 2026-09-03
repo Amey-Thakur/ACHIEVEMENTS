@@ -186,6 +186,23 @@ def academy_badge_dates():
     return {key_of(b["title"]): b["issued"] for b in badges if b.get("issued")}
 
 
+# A badge file that names its own issue date, as
+# "Badge - AI Fluency for Creative Work (22 August 2026).png".
+FILE_DATE = re.compile(r"\((\d{1,2} [A-Z][a-z]+ \d{4})\)\s*\.\w+$")
+
+
+def date_in_name(path):
+    """The issue date written into a badge's filename, if it carries one.
+
+    One course was issued two badges, five days apart, and both are held here.
+    They share a title, so a lookup keyed on the title can only ever return one
+    date and would put it on both files. The filename is what tells them apart,
+    so the filename is what is read.
+    """
+    m = FILE_DATE.search(path)
+    return m.group(1) if m else None
+
+
 def main():
     try:
         import pymupdf
@@ -246,8 +263,9 @@ def main():
             title = key_of(cred["title"])
             # A digital badge carries the date it was issued, which is its own
             # fact and not the course's.
-            if asset["label"] == "Badge" and title in academy_badges:
-                issued = academy_badges[title]
+            if asset["label"] == "Badge":
+                issued = (date_in_name(path) or academy_badges.get(title)
+                          or cache[key] or academy.get(title))
             else:
                 issued = cache[key] or academy.get(title)
             if issued:
