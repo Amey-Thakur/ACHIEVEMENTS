@@ -83,10 +83,19 @@ body { margin: 0; background: #ffffff; color: #1f2328;
 .page:last-child { page-break-after: auto; }
 .rule { position: absolute; inset: 0 0 auto 0; height: 2.5mm; background: #0969da; }
 .foot { position: absolute; left: 15mm; right: 15mm; bottom: 10mm;
-        display: flex; align-items: baseline;
+        display: flex; align-items: baseline; gap: 2mm;
         border-top: 1px solid #d1d9e0; padding-top: 2.5mm;
         font-size: 7.5pt; color: #59636e; }
-.foot .no { margin-left: auto; font-weight: 600; color: #1f2328; }
+.foot .who { font-weight: 600; color: #1f2328; }
+.foot .sep { color: #b7bec6; }
+.foot .what { margin-left: auto; }
+.foot .no { margin-left: 5mm; font-weight: 600; color: #1f2328;
+            min-width: 6mm; text-align: right; }
+/* A section on a page it shares with another needs the gap to read as a
+   break, not as a wider row. */
+.block + .block { margin-top: 7mm; }
+.block .kicker { margin-bottom: 1.5mm; }
+.block h2 { margin-bottom: 4mm; }
 h1 { font-size: 26pt; margin: 0 0 2mm; font-weight: 600; letter-spacing: -0.3pt; }
 h2 { font-size: 13pt; margin: 0 0 5mm; font-weight: 600; }
 .kicker { font-size: 8pt; letter-spacing: 1.4pt; text-transform: uppercase;
@@ -109,9 +118,14 @@ h2 { font-size: 13pt; margin: 0 0 5mm; font-weight: 600; }
 /* Every certificate gets the same box and sits in the middle of it. They are
    not the same shape: a landscape certificate beside a portrait one leaves the
    captions on two different lines, and a page of that reads as a mistake. */
-.card .shot { height: 30mm; display: flex; align-items: center;
-              justify-content: center; }
-.card a { text-decoration: none; }
+.card .shot { height: 30mm; }
+/* The link is the flex item, not the picture. With the anchor left to size
+   itself the image had no definite height to measure a percentage against, so
+   max-height did nothing and every portrait certificate overflowed its box
+   into the captions below it. */
+.card .shot a { display: flex; height: 100%%; width: 100%%;
+                align-items: center; justify-content: center;
+                text-decoration: none; }
 .card img { max-width: 100%%; max-height: 100%%; width: auto; height: auto;
             border: 1px solid #d1d9e0; border-radius: 1mm; display: block; }
 .card .t { font-size: 7.2pt; font-weight: 600; line-height: 1.3;
@@ -172,8 +186,16 @@ def escape(text):
 
 
 def page(inner, label, number):
+    """One page, with the same rule above and the same credit below.
+
+    The holder's name and the repository are on every page, not only the
+    cover, because a page of this is as likely to be sent on by itself as the
+    whole document is.
+    """
     return (f'<section class="page"><div class="rule"></div>{inner}'
-            f'<div class="foot"><span>{escape(label)}</span>'
+            f'<div class="foot"><span class="who">{escape(AUTHOR)}</span>'
+            f'<span class="sep">&middot;</span><span>{escape(REPO)}</span>'
+            f'<span class="what">{escape(label)}</span>'
             f'<span class="no">{number}</span></div></section>')
 
 
@@ -195,15 +217,14 @@ def cover(counts, number):
             f'<span class="no">{number}</span></div></section>')
 
 
-def contents(sections, first_page, number):
-    rows, at = [], first_page
-    for name, cards in sections:
-        rows.append(f'<div>{escape(name)} <span class="n">'
-                    f'&middot; {len(cards)} &middot; page {at}</span></div>')
-        at += max(1, -(-len(cards) // (PER_ROW * 5)))
+def contents(sections, starts, number):
+    """One line per issuer, with the page its certificates begin on."""
+    rows = "".join(
+        f'<div>{escape(name)} <span class="n">&middot; {len(cards)} '
+        f'&middot; page {starts.get(name, "")}</span></div>'
+        for name, cards in sections)
     return page(f'<p class="kicker">Contents</p><h1>By issuer</h1>'
-                f'<div class="contents">{"".join(rows)}</div>',
-                "Contents", number)
+                f'<div class="contents">{rows}</div>', "Contents", number)
 
 
 def main():
@@ -247,12 +268,44 @@ def main():
     dated = sum(1 for _n, cards in sections for _t, note, _p, _s in cards
                 if "not printed" not in note)
 
-    pages = [cover((len(sections), total_files, dated), 1)]
-    body_pages, number = [], 3
+    # Sections flow onto pages rather than each taking one of its own. Apple
+    # has three certificates and Yale one; a page each left most of the paper
+    # empty and made the document look padded rather than full.
+    # Measured, not guessed: the content box is 259mm tall, a row of cards is
+    # about 46mm of it, a section's opening heading about 15mm and a continued
+    # one about 8mm. check_book_layout.py measures the result and fails if this
+    # is optimistic.
+    rows_per_page = 5.2
+    first_heading = 0.33
+    more_heading = 0.18
+
+    pages_of, current, left = [], [], float(rows_per_page)
+    starts = {}
     for name, cards in sections:
-        per_page = PER_ROW * 5
-        for start in range(0, len(cards), per_page):
-            chunk = cards[start:start + per_page]
+        first = True
+        at = 0
+        while at < len(cards) or first:
+            cost = first_heading if first else more_heading
+            if left - cost < 1:
+                pages_of.append(current)
+                current, left = [], float(rows_per_page)
+            room = int(left - cost)
+            take = cards[at:at + room * PER_ROW]
+            if first:
+                starts[name] = len(pages_of) + 3
+            current.append((name, take, first, len(cards)))
+            left -= cost + -(-len(take) // PER_ROW)
+            at += len(take)
+            first = False
+            if at >= len(cards):
+                break
+    if current:
+        pages_of.append(current)
+
+    body_pages = []
+    for number, blocks in enumerate(pages_of, 3):
+        inner = ""
+        for name, chunk, first, total in blocks:
             tiles = "".join(
                 f'<div class="card"><div class="shot">'
                 f'<a href="{BLOB}{quote(source)}">'
@@ -260,15 +313,16 @@ def main():
                 f'<div class="t">{escape(title)}</div>'
                 f'<div class="m">{note}</div></div>'
                 for title, note, path, source in chunk)
-            heading = (f'<p class="kicker">{escape(name)}</p>'
-                       f'<h2>{len(cards)} certificate'
-                       f'{"s" if len(cards) != 1 else ""}</h2>'
-                       if start == 0 else
-                       f'<p class="kicker">{escape(name)}, continued</p>')
-            body_pages.append(page(f'{heading}<div class="grid">{tiles}</div>',
-                                   name, number))
-            number += 1
-    pages.append(contents(sections, 3, 2))
+            inner += (f'<div class="block"><p class="kicker">{escape(name)}'
+                      f'{"" if first else ", continued"}</p>'
+                      + (f'<h2>{total} certificate{"s" if total != 1 else ""}</h2>'
+                         if first else "")
+                      + f'<div class="grid">{tiles}</div></div>')
+        label = blocks[0][0] if len(blocks) == 1 else "Certificates"
+        body_pages.append(page(inner, label, number))
+
+    pages = [cover((len(sections), total_files, dated), 1),
+             contents(sections, starts, 2)]
     pages.extend(body_pages)
 
     html = (f"<!doctype html><meta charset='utf-8'><style>{CSS % {'per_row': PER_ROW}}"
@@ -284,11 +338,10 @@ def main():
     # Chrome writes no outline, so the bookmarks are added afterwards. Without
     # them a two hundred page document can only be paged through.
     with pymupdf.open(OUT) as doc:
-        toc, at = [["Cover", 1], ["Contents", 2]], 3
-        for name, cards in sections:
-            toc.append([name, at])
-            at += max(1, -(-len(cards) // (PER_ROW * 5)))
-        doc.set_toc([[1, title, page_no] for title, page_no in toc])
+        toc = [[1, "Cover", 1], [1, "Contents", 2]]
+        toc += [[1, name, starts[name]] for name, _cards in sections
+                if name in starts]
+        doc.set_toc(toc)
         doc.saveIncr()
         count = doc.page_count
 
