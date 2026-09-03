@@ -147,12 +147,20 @@ h2 { font-size: 13pt; margin: 0 0 5mm; font-weight: 600; }
 .index .n { text-align: right; width: 12mm; color: #59636e; }
 .lead { font-size: 9.5pt; color: #59636e; margin: 0 0 5mm; }
 .grid { display: grid; grid-template-columns: repeat(%(per_row)d, 1fr);
-        gap: 6mm 6mm; align-content: start; }
-.card { display: flex; flex-direction: column; gap: 1.6mm; }
+        gap: 5mm 6mm; align-content: start; }
+/* Every card is the same height, so every row is the same height and five of
+   them always fit. Left to size themselves the cards varied with the length of
+   the title, the tallest row decided the page, and a section with long titles
+   overflowed while one with short titles left a band of white. */
+.card { display: flex; flex-direction: column; gap: 1.6mm; height: 42.5mm; }
 /* Every certificate gets the same box and sits in the middle of it. They are
    not the same shape: a landscape certificate beside a portrait one leaves the
    captions on two different lines, and a page of that reads as a mistake. */
-.card .shot { height: 30mm; }
+/* Neither the thumbnail nor the title may be squeezed to make the other fit:
+   they are flex items, and without this the title box shrank below the three
+   lines it was given and clipped the last of them. */
+.card .shot { height: 26mm; flex: 0 0 auto; }
+.card .t, .card .m { flex: 0 0 auto; }
 /* The link is the flex item, not the picture. With the anchor left to size
    itself the image had no definite height to measure a percentage against, so
    max-height did nothing and every portrait certificate overflowed its box
@@ -162,9 +170,18 @@ h2 { font-size: 13pt; margin: 0 0 5mm; font-weight: 600; }
                 text-decoration: none; }
 .card img { max-width: 100%%; max-height: 100%%; width: auto; height: auto;
             border: 1px solid #d1d9e0; border-radius: 1mm; display: block; }
+/* Three lines of title at most. A handful of course names run to five, and
+   the certificate itself is one click away for anyone who wants the rest. */
+/* The title is given the height of its three lines rather than left to take
+   what is spare, so a long name is cut between lines with an ellipsis instead
+   of through the middle of one, and every date in a row sits on the same
+   line. 3 x 7.2pt x 1.3 is 28.1pt, which is 9.9mm. */
 .card .t { font-size: 7.2pt; font-weight: 600; line-height: 1.3;
-           color: #1f2328; }
-.card .m { font-size: 6.6pt; color: #59636e; line-height: 1.28; }
+           color: #1f2328; height: 10mm; display: -webkit-box;
+           -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+           overflow: hidden; }
+.card .m { font-size: 6.6pt; color: #59636e; line-height: 1.28;
+           margin-top: auto; }
 .contents { columns: 2; column-gap: 10mm; font-size: 9pt; }
 .contents div { break-inside: avoid; margin-bottom: 1.8mm; }
 .contents .n { color: #59636e; }
@@ -333,39 +350,24 @@ def main():
 
     total_files = sum(len(c) for _n, c in sections)
 
-    # Sections flow onto pages rather than each taking one of its own. Apple
-    # has three certificates and Yale one; a page each left most of the paper
-    # empty and made the document look padded rather than full.
-    # Measured, not guessed: the content box is 259mm tall, a row of cards is
-    # about 46mm of it, a section's opening heading about 15mm and a continued
-    # one about 8mm. check_book_layout.py measures the result and fails if this
-    # is optimistic.
-    rows_per_page = 5.2
-    first_heading = 0.33
-    more_heading = 0.18
+    # Every issuer starts on a page of its own. Sections were flowed together
+    # for a while, which filled the paper, but it left one issuer's last row
+    # sitting above another's heading and the document read as a stream rather
+    # than as a set of records.
+    #
+    # Five rows to a page. The content box is 259mm, an opening heading is
+    # about 15mm and a row of cards about 47mm at its tallest, which is three
+    # lines of caption: 15 + 5 x 47 = 250mm. check_book_layout.py measures the
+    # result and fails if that is optimistic.
+    per_page = PER_ROW * 5
 
-    pages_of, current, left = [], [], float(rows_per_page)
-    starts = {}
+    pages_of, starts = [], {}
     for name, cards in sections:
-        first = True
-        at = 0
-        while at < len(cards) or first:
-            cost = first_heading if first else more_heading
-            if left - cost < 1:
-                pages_of.append(current)
-                current, left = [], float(rows_per_page)
-            room = int(left - cost)
-            take = cards[at:at + room * PER_ROW]
-            if first:
+        for at in range(0, max(len(cards), 1), per_page):
+            chunk = cards[at:at + per_page]
+            if at == 0:
                 starts[name] = len(pages_of) + 3
-            current.append((name, take, first, len(cards)))
-            left -= cost + -(-len(take) // PER_ROW)
-            at += len(take)
-            first = False
-            if at >= len(cards):
-                break
-    if current:
-        pages_of.append(current)
+            pages_of.append([(name, chunk, at == 0, len(cards))])
 
     body_pages = []
     for number, blocks in enumerate(pages_of, 3):
