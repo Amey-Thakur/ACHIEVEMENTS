@@ -25,9 +25,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent.parent
 README = ROOT / "README.md"
 INDEX = ROOT / "docs" / "credentials.json"
-PREVIEWS = "docs/previews"
-
-WIDTH = 108
 
 # The first cell is usually a number, but a specialization or a summary row
 # uses a dash. Both are rows and both need the column, or the table comes out
@@ -68,38 +65,6 @@ def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
-def short_key(path):
-    return slugify(path.rsplit("/", 1)[-1].rsplit(".", 1)[0])
-
-
-def long_key(path):
-    return slugify(path.rsplit(".", 1)[0])
-
-
-def preview_keys(creds):
-    """One preview name per file: short, and never ambiguous.
-
-    The name is the certificate's own filename rather than its whole path.
-    GitHub renders the first 512,000 bytes of a README and drops the rest of
-    the page on the floor, so a byte in a cell that repeats 859 times is worth
-    having: the folder is already the section the row sits in, and leaving it
-    out is twenty characters back each time.
-
-    Twenty-three filenames appear in more than one folder - two courses called
-    "What is Generative AI", from different issuers. Those keep the full path
-    in their name, because a shared preview would show the wrong certificate.
-    """
-    together = {}
-    for cred in creds:
-        for asset in cred["assets"]:
-            together.setdefault(short_key(asset["path"]), set()).add(asset["path"])
-    keys = {}
-    for name, paths in together.items():
-        for path in paths:
-            keys[path] = name if len(paths) == 1 else long_key(path)
-    return keys
-
-
 # A heading that awards a certificate of its own: the professional certificate
 # for the courses in the table beneath it. Every one of them was linked and
 # none was ever shown.
@@ -120,82 +85,6 @@ def awarded_by(title):
         return None
     path = urllib.parse.unquote(m.group(3))
     return (m.group(1), path) if path.lower().endswith(".pdf") else None
-
-
-def heading_certificates(text):
-    """Every certificate awarded by a heading rather than by a row."""
-    found = []
-    for _i, _level, title, _anchor, _rule in headings(text):
-        awarded = awarded_by(title)
-        if awarded:
-            found.append(awarded)
-    return found
-
-
-def label_of(cred, asset):
-    """What the thumbnail is, in a few words: the alt a screen reader reads.
-
-    The word "badge" earns its place, because a row that carries both shows two
-    pictures and they have to be told apart. The word "certificate" does not:
-    it is what every other thumbnail here is, and 800 copies of it is a page of
-    the README.
-    """
-    label = cred["title"]
-    if "badge" in asset["label"].lower():
-        label += " badge"
-    return label.replace('"', "'").replace("|", "-")
-
-
-def describe(cred, asset):
-    """What the thumbnail is, in full: the tooltip, and what a crawler indexes.
-
-    Four facts, in the order a search result is matched on: the document, who
-    issued it, when, and who holds it. It is deliberately terse. This string is
-    written 859 times into a file GitHub stops reading at 512,000 bytes, and
-    the sentence it replaced - "issued 1 August 2026 to Amey Thakur" rather
-    than "1 August 2026, Amey Thakur" - cost eighteen kilobytes of the page.
-    """
-    label = asset["label"].lower()
-    kind = "badge" if "badge" in label else (
-        "professional certificate" if "professional" in label else "certificate")
-    issuer = ISSUER_NAME.get(cred["platform"], cred["platform"])
-    issued = asset.get("issued")
-    text = f"{cred['title']}, {issuer} {kind}"
-    text += f", {issued}, Amey Thakur" if issued else ", Amey Thakur"
-    return text.replace('"', "'").replace("|", "-")
-
-
-def preview_cell(cred, keys):
-    """Every file the row holds, shown.
-
-    A row commonly carries a certificate and its badge, and some carry two
-    certificates; each of them is shown, separated by a line break, so a cell
-    holding three files reads as three documents stacked rather than a strip of
-    pictures wrapping wherever the cell happens to end.
-
-    The thumbnail is not itself a link. It was, and the address of the
-    certificate is ninety bytes that the row already carries in its
-    Certification column; repeated across every row it was seventy kilobytes of
-    a page GitHub had already stopped rendering.
-    """
-    parts = []
-    for asset in cred.get("assets") or []:
-        if asset["kind"] == "image":
-            if not (ROOT / asset["path"]).exists():
-                continue
-            parts.append(f'<img src="{quote(asset["path"])}" width="{WIDTH}" '
-                         f'alt="{label_of(cred, asset)}" '
-                         f'title="{describe(cred, asset)}">')
-            continue
-
-        page = f"{PREVIEWS}/{keys[asset['path']]}.jpg"
-        if not (ROOT / page).exists():
-            continue
-        parts.append(f'<img src="{quote(page)}" width="{WIDTH}" '
-                     f'alt="{label_of(cred, asset)}" '
-                     f'title="{describe(cred, asset)}">')
-
-    return "<br>".join(parts) or "&nbsp;"
 
 
 def split(line):
@@ -351,50 +240,6 @@ def partner_mark(title):
 AWARD_LINE = re.compile(r'^<p align="center"><img src="docs/previews/[^>]*></p>$')
 
 
-def award_line(title, path, keys):
-    """The professional certificate a heading awards, shown under it.
-
-    Fifty-three headings award a certificate of their own for the courses
-    listed beneath them. Every one of them was linked in the heading and none
-    of them was ever shown, which made them the only certificates in the
-    repository a reader could not see.
-    """
-    key = keys.get(path)
-    if not key or not (ROOT / f"{PREVIEWS}/{key}.jpg").exists():
-        return None
-    name = title.replace('"', "'")
-    return (f'<p align="center">'
-            f'<img src="{quote(f"{PREVIEWS}/{key}.jpg")}" width="{WIDTH}" '
-            f'alt="{name}" title="{name}, professional certificate, '
-            f'Amey Thakur"></p>')
-
-
-def show_awards(text, keys):
-    """Put each of those certificates under the heading that awards it."""
-    # Take off what an earlier run put there, the blank line above it as well
-    # as the line itself, or the page grows a blank line per build.
-    lines = []
-    for line in text.splitlines():
-        if AWARD_LINE.match(line):
-            if lines and not lines[-1].strip():
-                lines.pop()
-            continue
-        lines.append(line)
-    out = []
-    for line in lines:
-        out.append(line)
-        m = HEADING.match(line)
-        if not m:
-            continue
-        awarded = awarded_by(MARKED.sub("", m.group(2)))
-        if not awarded:
-            continue
-        shown = award_line(*awarded, keys)
-        if shown:
-            out.extend(["", shown])
-    return "\n".join(out) + "\n"
-
-
 def decorate_headings(text, notes):
     """Put each issuer's mark in front of its own section heading.
 
@@ -490,8 +335,9 @@ def summary_block(creds, anchors):
         f"**{len(creds)} credentials from {len(known)} issuers.** "
         f"{pdfs} carry the certificate itself, {badges} carry a digital badge, and "
         f"**{verified} can be verified independently** on the issuer's own site. "
-        "Every row below shows the certificate it describes and links to the "
-        "original file.",
+        "Every row below links the certificate it describes.",
+        "",
+        "**[See every certificate as it was issued (PDF)](certificates.pdf)**  ·  one document, by issuer, with the date on each",
         "",
         "\n".join(rows),
         "",
@@ -522,140 +368,78 @@ def write_summary(text, creds):
     return text[:end + 1] + "\n" + block + "\n" + text[end + 1:]
 
 
-def main():
-    check = "--check" in sys.argv
-    data = json.loads(INDEX.read_text(encoding="utf-8"))
-    # Rows are matched by the certificate they link, which is unique and does
-    # not move when a table is re-ordered or a title is edited.
-    by_target = {}
-    for cred in data["credentials"]:
-        for key in (cred["pdf"], cred["badge"]):
-            if key:
-                by_target[key] = cred
+def strip_previews(text):
+    """Take the certificate thumbnails back out of the tables.
 
-    # The professional certificates a heading awards are not in the index, and
-    # they need a preview name of their own before either can be written.
-    awarded = heading_certificates(README.read_text(encoding="utf-8"))
-    keys = preview_keys(data["credentials"] + [
-        {"assets": [{"path": path}]} for _title, path in awarded])
-    _counts, notes = issuer_notes(data["credentials"])
-    source = decorate_headings(README.read_text(encoding="utf-8"), notes)
-    source = show_awards(source, keys)
-    lines = write_summary(source, data["credentials"]).splitlines()
-    out, i, changed = [], 0, 0
-
+    They were added so a row showed the document it describes, and they did,
+    but a thousand of them made the page 26 MB and pushed the markup to within
+    23 KB of the 512,000 bytes GitHub renders. The certificates are shown in
+    certificates.pdf instead, built by build_certificate_book.py, and every row
+    still links its own file.
+    """
+    lines, out = text.splitlines(), []
+    dropped = tables = 0
+    i = 0
     while i < len(lines):
-        # Any table, not only the numbered ones. The experience tables are
-        # headed "Role" and hold the internship letters, and two research paper
-        # tables are headed "Feature"; all of them link certificates and none
-        # of them showed one.
-        if (not lines[i].strip().startswith("|") or i + 1 >= len(lines)
-                or not RULE.match(lines[i + 1])):
-            out.append(lines[i])
+        line = lines[i]
+        # A centred thumbnail under a heading that awards a certificate.
+        if AWARD_LINE.match(line):
+            if out and not out[-1].strip():
+                out.pop()
+            dropped += 1
             i += 1
             continue
-        header = re.match(r"^(\s*)\|", lines[i])
+        if (not line.strip().startswith("|") or i + 1 >= len(lines)
+                or not RULE.match(lines[i + 1])):
+            out.append(line)
+            i += 1
+            continue
 
-        # Collect the whole table, then decide whether it holds credentials.
         block, j = [], i
         while j < len(lines) and lines[j].strip().startswith("|"):
             block.append(lines[j])
             j += 1
 
-        # Whether this table already carries the column is decided once, from
-        # the header, and applied to every row including the alignment rule.
-        # The rule row reads ":---: | :---:" either way and cannot tell you
-        # itself, so asking it was what made a second run add a second column.
-        head_cells = split(block[0])
-        # The column goes after the number where there is one, and first
-        # otherwise, so it always sits at the left of the row it belongs to.
-        at = 1 if head_cells and head_cells[0] == "#" else 0
-        had = len(head_cells) > at and head_cells[at] == "Preview"
-
-        def without(cells):
-            if not had or len(cells) <= at:
-                return cells
-            return cells[:at] + cells[at + 1:]
-
-        creds = []
-        for line in block[2:]:
-            cred = None
-            if line.strip().startswith("|"):
-                rest = " | ".join(without(split(line)))
-                for _label, href in LINK.findall(rest):
-                    target = href[len(BLOB):] if href.startswith(BLOB) else href
-                    target = urllib.parse.unquote(target)
-                    if target in by_target:
-                        cred = by_target[target]
-                        break
-            creds.append(cred)
-
-        # A table earns the column when the documents are the point of it.
-        # Two of the research paper tables list a journal, a preprint link, the
-        # authors and one PDF; giving those a preview column means six empty
-        # cells to show one thing, which reads as five things missing.
-        rows_with_assets = sum(1 for c in creds if c)
-        if not rows_with_assets or rows_with_assets * 2 < len(creds):
-            # A table that is mostly not about documents does not get a column
-            # of its own: the research paper tables list a journal, a preprint
-            # link and the authors, and one publication certificate. The
-            # certificate is still shown, inline in the cell that links it, so
-            # nothing goes unseen and five empty cells are not introduced to
-            # show one thing.
-            rebuilt = []
-            for line, cred in zip(block, [None, None] + list(creds)):
-                if had and line.strip().startswith("|"):
-                    line = join(re.match(r"^(\s*)\|", line).group(1),
-                                without(split(line)))
-                if cred:
-                    cells = split(line)
-                    for k, cell in enumerate(cells):
-                        # Take off anything an earlier run appended before
-                        # appending again, or the preview doubles every build.
-                        bare = re.sub(r"<br><img .*$", "", cell)
-                        if "](" in bare and any(a["path"].split("/")[-1] in
-                                                urllib.parse.unquote(bare)
-                                                for a in cred["assets"]):
-                            cells[k] = f"{bare}<br>{preview_cell(cred, keys)}"
-                            line = join(re.match(r"^(\s*)\|", line).group(1), cells)
-                            break
-                rebuilt.append(line)
-            out.extend(rebuilt)
-            i = j
-            continue
-
-        indent = header.group(1)
-        head_cells = without(head_cells)
-        rule_cells = without(split(block[1]))
-        new = [join(indent, head_cells[:at] + ["Preview"] + head_cells[at:]),
-               join(indent, rule_cells[:at] + [":---:"] + rule_cells[at:])]
-        for line, cred in zip(block[2:], creds):
-            m = re.match(r"^(\s*)\|", line)
-            if not m:
-                new.append(line)
-                continue
-            cells = without(split(line))
-            cell = preview_cell(cred, keys) if cred else "&nbsp;"
-            new.append(join(m.group(1), cells[:at] + [cell] + cells[at:]))
-
-        if new != block:
-            changed += 1
-        out.extend(new)
+        head = split(block[0])
+        at = 1 if head and head[0] == "#" else 0
+        has_column = len(head) > at and head[at] == "Preview"
+        rebuilt = []
+        for row in block:
+            cells = split(row)
+            if has_column and len(cells) > at:
+                cells = cells[:at] + cells[at + 1:]
+                dropped += 1
+            # A thumbnail appended inside a cell, in the tables that never
+            # earned a column of their own.
+            cells = [re.sub(r"<br><img [^>]*>", "", c) for c in cells]
+            rebuilt.append(join(re.match(r"^(\s*)\|", row).group(1), cells))
+        if has_column:
+            tables += 1
+        out.extend(rebuilt)
         i = j
+    return "\n".join(out) + "\n", tables, dropped
 
-    body = "\n".join(out) + "\n"
+
+def main():
+    check = "--check" in sys.argv
+    data = json.loads(INDEX.read_text(encoding="utf-8"))
+
+    _counts, notes = issuer_notes(data["credentials"])
+    source = decorate_headings(README.read_text(encoding="utf-8"), notes)
+    body, tables, dropped = strip_previews(write_summary(source, data["credentials"]))
+
     if check:
         if body != README.read_text(encoding="utf-8"):
-            print("  README preview columns are stale. Run: "
-                  "python .github/scripts/build_readme.py")
+            print("  README is stale. Run: python .github/scripts/build_readme.py")
             return 1
-        print("  every certificate table shows its preview")
-        return 0
+        left = body.count("docs/previews")
+        print("  index and headings current, no preview column"
+              + ("" if not left else f", but {left} preview images remain"))
+        return 1 if left else 0
 
     README.write_text(body, encoding="utf-8")
-    shown = sum(1 for line in out if "docs/previews" in line or
-                (".png" in line and "<img" in line))
-    print(f"  {changed} table(s) rewritten, {shown} previews shown")
+    print(f"  {tables} table(s) lost their preview column, {dropped} cells cleared")
+    print(f"  README is {len(body.encode('utf-8')):,} bytes")
     return 0
 
 

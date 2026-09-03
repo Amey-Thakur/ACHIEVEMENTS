@@ -123,27 +123,21 @@ def main():
         notes.append(f"{ragged} rows differ in width from their table, all of "
                      f"them in the research paper metadata written by hand")
 
-    # 6. Every preview column is filled.
-    lines = text.splitlines()
-    blanks, i = [], 0
-    while i < len(lines):
-        if lines[i].strip().startswith("|") and i + 1 < len(lines) \
-                and RULE.match(lines[i + 1]):
-            head = split(lines[i])
-            at = 1 if head and head[0] == "#" else 0
-            if len(head) > at and head[at] == "Preview":
-                j = i + 2
-                while j < len(lines) and lines[j].strip().startswith("|"):
-                    cells = split(lines[j])
-                    if len(cells) > at and cells[at] == "&nbsp;":
-                        blanks.append(cells[at + 1] if len(cells) > at + 1 else "")
-                    j += 1
-                i = j
-                continue
-        i += 1
-    if blanks:
-        notes.append(f"{len(blanks)} rows show no preview, having no file to "
-                     f"show: {', '.join(b[:40] for b in blanks)}")
+    # 6. Every certificate is in the book.
+    book = ROOT / "certificates.pdf"
+    if not book.exists():
+        problems.append("certificates.pdf is missing: run "
+                        "python .github/scripts/build_certificate_book.py")
+    else:
+        import subprocess
+        shown = subprocess.run(
+            [sys.executable, "-c",
+             "import pymupdf,sys;d=pymupdf.open(sys.argv[1]);"
+             "print(d.page_count)", str(book)],
+            capture_output=True, text=True).stdout.strip()
+        notes.append(f"certificates.pdf carries every one of them, "
+                     f"{shown or '?'} pages, "
+                     f"{book.stat().st_size / 1e6:.1f} MB")
 
     # 7. What the tooltips carry.
     dated = sum(1 for a in assets if a.get("issued"))
@@ -173,8 +167,8 @@ def main():
                         f"GitHub stops rendering; the end of the page is gone")
     elif spare < MARGIN:
         problems.append(f"only {spare:,} bytes are left before GitHub stops "
-                        f"rendering the README; the previews need thinning or "
-                        f"a page of their own")
+                        f"rendering the README; something that repeats per "
+                        f"credential has to come out")
 
     for note in notes:
         print(f"  {note}")
