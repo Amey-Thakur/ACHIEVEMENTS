@@ -102,7 +102,7 @@
 </div>
 
 > [!TIP]
-> **Every certificate in one document.** All 862 of them, issuer by issuer, each with its date and a link to the original file. 52 pages, 17 MB.
+> **Every certificate in one document.** All 862 of them, issuer by issuer, each with its date and a link to the original file. 53 pages, 17 MB.
 >
 > [Preview it on GitHub](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/certificates.pdf)  ·  [Download the PDF](https://github.com/Amey-Thakur/ACHIEVEMENTS/raw/main/certificates.pdf)
 

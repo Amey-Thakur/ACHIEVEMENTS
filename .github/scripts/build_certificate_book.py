@@ -38,6 +38,7 @@ CACHE = Path(tempfile.gettempdir()) / "achievements-certificate-book"
 
 AUTHOR = "Amey Thakur"
 REPO = "github.com/Amey-Thakur/ACHIEVEMENTS"
+ORCID = "0000-0001-5644-1575"
 BLOB = f"https://{REPO}/blob/main/"
 
 # Rendered wide enough to read the holder's name on a printed page, which is
@@ -101,17 +102,50 @@ h2 { font-size: 13pt; margin: 0 0 5mm; font-weight: 600; }
 .kicker { font-size: 8pt; letter-spacing: 1.4pt; text-transform: uppercase;
           color: #59636e; font-weight: 700; margin: 0 0 2mm; }
 .small { font-size: 8.5pt; color: #59636e; }
-/* The cover carries a title block and nothing else, held at the optical
-   centre, with the credit at the foot. */
-.cover { justify-content: center; }
-.cover h1 { font-size: 30pt; margin-bottom: 3mm; }
-.cover .who { font-size: 16pt; color: #1f2328; margin: 0 0 8mm; }
-.stats { display: flex; gap: 12mm; padding-top: 5mm;
-         border-top: 1px solid #d1d9e0; }
-.stats .v { font-size: 17pt; font-weight: 600; }
-.stats .k { font-size: 8pt; color: #59636e; }
-.by { position: absolute; left: 15mm; bottom: 22mm; font-size: 9pt;
-      color: #59636e; }
+/* The cover borrows the social preview: navy ground, a gold rule with a
+   diamond at each corner, everything centred, the title in a serif. Nothing on
+   it is a number, because a cover that counts is out of date the next time a
+   certificate arrives. */
+.cover-page { background: #0d2340; color: #e8ecf1; padding: 0;
+              display: flex; align-items: center; justify-content: center; }
+.cover-page .rule { display: none; }
+.frame { position: absolute; inset: 12mm; border: 0.4mm solid #b08d3f; }
+.frame span { position: absolute; width: 3mm; height: 3mm;
+              background: #b08d3f; transform: rotate(45deg); }
+.frame .tl { top: -1.5mm; left: -1.5mm; }
+.frame .tr { top: -1.5mm; right: -1.5mm; }
+.frame .bl { bottom: -1.5mm; left: -1.5mm; }
+.frame .br { bottom: -1.5mm; right: -1.5mm; }
+.middle { text-align: center; padding: 0 28mm; }
+.middle .kicker { color: #c9a227; letter-spacing: 4pt; margin-bottom: 8mm;
+                  font-size: 8.5pt; }
+.middle h1 { font-family: Georgia, "Times New Roman", serif; color: #ffffff;
+             font-size: 27pt; font-weight: 400; letter-spacing: 2.5pt;
+             line-height: 1.32; margin: 0 0 9mm; text-transform: uppercase; }
+.diamond { display: flex; align-items: center; justify-content: center;
+           gap: 4mm; margin: 0 0 9mm; }
+.diamond i { display: block; width: 22mm; height: 0.25mm; background: #6a7f9c; }
+.diamond b { display: block; width: 2mm; height: 2mm; background: #b08d3f;
+             transform: rotate(45deg); }
+.middle .line { font-size: 11pt; color: #c3cdda; line-height: 1.62;
+                margin: 0 0 14mm; }
+.middle .sig { font-size: 8pt; letter-spacing: 2.6pt; color: #8b9bb0;
+               text-transform: uppercase; }
+.middle .said { font-family: Georgia, "Times New Roman", serif;
+                font-size: 13pt; font-style: italic; color: #e8ecf1;
+                line-height: 1.6; margin: 0 0 10mm; }
+.middle .namaskar { font-family: Georgia, "Times New Roman", serif;
+                    font-size: 10pt; font-style: italic; color: #b08d3f;
+                    margin: 6mm 0 0; }
+.index { display: flex; gap: 10mm; }
+.index table { flex: 1; border-collapse: collapse; font-size: 8.6pt; }
+.index th { text-align: left; font-size: 7pt; letter-spacing: 0.8pt;
+            text-transform: uppercase; color: #8a93a0; font-weight: 700;
+            padding: 0 0 1.5mm; border-bottom: 0.4mm solid #d1d9e0; }
+.index td { padding: 1.5mm 0; border-bottom: 0.2mm solid #eef1f4;
+            vertical-align: top; }
+.index .n { text-align: right; width: 12mm; color: #59636e; }
+.lead { font-size: 9.5pt; color: #59636e; margin: 0 0 5mm; }
 .grid { display: grid; grid-template-columns: repeat(%(per_row)d, 1fr);
         gap: 6mm 6mm; align-content: start; }
 .card { display: flex; flex-direction: column; gap: 1.6mm; }
@@ -199,32 +233,65 @@ def page(inner, label, number):
             f'<span class="no">{number}</span></div></section>')
 
 
-def cover(counts, number):
-    """Title, holder, three figures. A cover is not the place for a paragraph."""
-    issuers, files, dated = counts
-    stats = "".join(
-        f'<div><div class="v">{v}</div><div class="k">{k}</div></div>'
-        for v, k in ((f"{files}", "certificates"), (f"{issuers}", "issuers"),
-                     (f"{dated}", "dated")))
-    return (f'<section class="page cover"><div class="rule"></div>'
-            f'<p class="kicker">Certificates and achievements</p>'
-            f'<h1>The complete record</h1>'
-            f'<p class="who">{escape(AUTHOR)}</p>'
-            f'<div class="stats">{stats}</div>'
-            f'<div class="by">Every certificate as it was issued. '
-            f'Each one links to its original file.<br>{escape(REPO)}</div>'
-            f'<div class="foot"><span>Certificates and achievements</span>'
-            f'<span class="no">{number}</span></div></section>')
+def cover(number):
+    """Title, one sentence, and a name. No counts.
+
+    A cover that states how many certificates there are is wrong the next time
+    one is issued, and this document is rebuilt often enough for that to
+    happen. The figures live on the contents page, where they are read as a
+    listing rather than as a claim.
+    """
+    return (f'<section class="page cover-page">'
+            f'<div class="frame"><span class="tl"></span><span class="tr"></span>'
+            f'<span class="bl"></span><span class="br"></span></div>'
+            f'<div class="middle">'
+            f'<p class="kicker">Archive</p>'
+            f'<h1>Certifications<br>and Achievements</h1>'
+            f'<div class="diamond"><i></i><b></b><i></i></div>'
+            f'<p class="line">Every credential kept as the document that was '
+            f'issued, filed under the body that awarded it, and checkable at '
+            f'the source rather than taken on trust.</p>'
+            f'<p class="sig">{escape(AUTHOR)} &nbsp;&middot;&nbsp; '
+            f'ORCID {ORCID}</p>'
+            f'</div></section>')
+
+
+def closing():
+    """The last page, in his own words rather than a manufactured sign-off.
+
+    The same line the repository ends on, so the document closes the way the
+    page it came from does. It bookends the cover: same ground, same frame.
+    """
+    return ('<section class="page cover-page">'
+            '<div class="frame"><span class="tl"></span><span class="tr"></span>'
+            '<span class="bl"></span><span class="br"></span></div>'
+            '<div class="middle">'
+            '<div class="diamond"><i></i><b></b><i></i></div>'
+            '<p class="said">Every idea I open-source is a spark handed to '
+            'someone I may never meet. That is the whole point.</p>'
+            f'<p class="sig">{escape(AUTHOR)}</p>'
+            '<p class="namaskar">Namaskar</p>'
+            '</div></section>')
 
 
 def contents(sections, starts, number):
-    """One line per issuer, with the page its certificates begin on."""
-    rows = "".join(
-        f'<div>{escape(name)} <span class="n">&middot; {len(cards)} '
-        f'&middot; page {starts.get(name, "")}</span></div>'
-        for name, cards in sections)
+    """The issuers, as a table. Two columns of prose made the eye hunt."""
+    half = -(-len(sections) // 2)
+    columns = [sections[:half], sections[half:]]
+    tables = ""
+    for part in columns:
+        rows = "".join(
+            f'<tr><td>{escape(name)}</td><td class="n">{len(cards)}</td>'
+            f'<td class="n">{starts.get(name, "")}</td></tr>'
+            for name, cards in part)
+        tables += (f'<table><thead><tr><th>Issuer</th><th class="n">Held</th>'
+                   f'<th class="n">Page</th></tr></thead>'
+                   f'<tbody>{rows}</tbody></table>')
+    total = sum(len(c) for _n, c in sections)
     return page(f'<p class="kicker">Contents</p><h1>By issuer</h1>'
-                f'<div class="contents">{rows}</div>', "Contents", number)
+                f'<p class="lead">{total} certificates from {len(sections)} '
+                f'issuers, in the order they appear.</p>'
+                f'<div class="index">{tables}</div>', "Contents", number)
 
 
 def main():
@@ -265,8 +332,6 @@ def main():
             sections.append((ISSUER_NAME.get(platform, platform), cards))
 
     total_files = sum(len(c) for _n, c in sections)
-    dated = sum(1 for _n, cards in sections for _t, note, _p, _s in cards
-                if "not printed" not in note)
 
     # Sections flow onto pages rather than each taking one of its own. Apple
     # has three certificates and Yale one; a page each left most of the paper
@@ -321,9 +386,10 @@ def main():
         label = blocks[0][0] if len(blocks) == 1 else "Certificates"
         body_pages.append(page(inner, label, number))
 
-    pages = [cover((len(sections), total_files, dated), 1),
+    pages = [cover(1),
              contents(sections, starts, 2)]
     pages.extend(body_pages)
+    pages.append(closing())
 
     html = (f"<!doctype html><meta charset='utf-8'><style>{CSS % {'per_row': PER_ROW}}"
             f"</style>{''.join(pages)}")
