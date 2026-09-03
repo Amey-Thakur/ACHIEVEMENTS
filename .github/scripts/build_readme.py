@@ -104,6 +104,33 @@ def join(indent, cells):
     return f"{indent}| " + " | ".join(cells) + " |"
 
 
+BOOK = ROOT / "docs" / "book.json"
+BLOB = "https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/"
+RAW = "https://github.com/Amey-Thakur/ACHIEVEMENTS/raw/main/"
+
+
+def book_note():
+    """The alert offering the PDF, with the figures the PDF actually has.
+
+    build_certificate_book.py writes them to docs/book.json rather than this
+    reading a PDF, because nothing here needs a PDF library to build a README.
+    """
+    if not BOOK.exists():
+        return []
+    book = json.loads(BOOK.read_text(encoding="utf-8"))
+    size = f"{book['bytes'] / 1e6:.0f} MB"
+    return [
+        "> [!TIP]",
+        f"> **Every certificate in one document.** All {book['certificates']} of "
+        f"them, issuer by issuer, each with its date and a link to the original "
+        f"file. {book['pages']} pages, {size}.",
+        ">",
+        f"> [Preview it on GitHub]({BLOB}certificates.pdf)  ·  "
+        f"[Download the PDF]({RAW}certificates.pdf)",
+        "",
+    ]
+
+
 SUMMARY_START = "<!-- summary:start -->"
 SUMMARY_END = "<!-- summary:end -->"
 
@@ -337,14 +364,13 @@ def summary_block(creds, anchors):
         f"**{verified} can be verified independently** on the issuer's own site. "
         "Every row below links the certificate it describes.",
         "",
-        "**[See every certificate as it was issued (PDF)](certificates.pdf)**  ·  one document, by issuer, with the date on each",
-        "",
         "\n".join(rows),
         "",
         "<sub>Each badge names the issuer and how many credentials it awarded. Hover any of them for the number that can be verified at the source.</sub>",
         "",
         "</div>",
         "",
+        *book_note(),
         # A rule and a heading, so the hand-written list of sections underneath
         # reads as its own section rather than as a caption to the badges.
         "---",

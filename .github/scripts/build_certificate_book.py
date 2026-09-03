@@ -28,6 +28,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
@@ -37,13 +38,14 @@ CACHE = Path(tempfile.gettempdir()) / "achievements-certificate-book"
 
 AUTHOR = "Amey Thakur"
 REPO = "github.com/Amey-Thakur/ACHIEVEMENTS"
+BLOB = f"https://{REPO}/blob/main/"
 
 # Rendered wide enough to read the holder's name on a printed page, which is
-# what a certificate is for. Five to a row on A4 landscape leaves each about
-# 54mm across, and three rows fill the page without crowding it.
+# what a certificate is for. Four to a row on A4 portrait leaves each about
+# 42mm across, and five rows fill the page without crowding it.
 WIDTH = 420
 QUALITY = 78
-PER_ROW = 5
+PER_ROW = 4
 
 CHROME = [
     r"C:\Program Files\Google\Chrome\Application\chrome.exe",
@@ -68,51 +70,55 @@ ISSUER_NAME = {
 }
 
 CSS = """
-@page { size: A4 landscape; margin: 0; }
+@page { size: A4 portrait; margin: 0; }
 * { box-sizing: border-box; }
 body { margin: 0; background: #ffffff; color: #1f2328;
        font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
        -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-.page { position: relative; width: 297mm; height: 210mm; padding: 14mm 15mm 16mm;
+/* The footer sits 10mm from the foot and stands about 8mm tall, so the content
+   box stops 22mm short of the page rather than running underneath it. */
+.page { position: relative; width: 210mm; height: 297mm; padding: 16mm 15mm 22mm;
         page-break-after: always; overflow: hidden; display: flex;
         flex-direction: column; }
 .page:last-child { page-break-after: auto; }
-.rule { position: absolute; inset: 0 0 auto 0; height: 3mm; background: #0969da; }
-.foot { position: absolute; left: 15mm; right: 15mm; bottom: 7mm;
-        display: flex; border-top: 1px solid #d1d9e0; padding-top: 2.5mm;
-        font-size: 8pt; color: #59636e; }
+.rule { position: absolute; inset: 0 0 auto 0; height: 2.5mm; background: #0969da; }
+.foot { position: absolute; left: 15mm; right: 15mm; bottom: 10mm;
+        display: flex; align-items: baseline;
+        border-top: 1px solid #d1d9e0; padding-top: 2.5mm;
+        font-size: 7.5pt; color: #59636e; }
 .foot .no { margin-left: auto; font-weight: 600; color: #1f2328; }
-h1 { font-size: 34pt; margin: 0 0 4mm; font-weight: 600; letter-spacing: -0.4pt; }
-h2 { font-size: 15pt; margin: 0 0 1mm; font-weight: 600; }
-.kicker { font-size: 9pt; letter-spacing: 1.2pt; text-transform: uppercase;
-          color: #59636e; font-weight: 700; margin: 0 0 3mm; }
-.lead { font-size: 12pt; color: #424a53; margin: 0 0 3mm; max-width: 210mm;
-        line-height: 1.55; }
+h1 { font-size: 26pt; margin: 0 0 2mm; font-weight: 600; letter-spacing: -0.3pt; }
+h2 { font-size: 13pt; margin: 0 0 5mm; font-weight: 600; }
+.kicker { font-size: 8pt; letter-spacing: 1.4pt; text-transform: uppercase;
+          color: #59636e; font-weight: 700; margin: 0 0 2mm; }
 .small { font-size: 8.5pt; color: #59636e; }
-/* The cover holds its title block in the middle and its credit at the foot,
-   so the page carries one measured gap rather than two. */
+/* The cover carries a title block and nothing else, held at the optical
+   centre, with the credit at the foot. */
 .cover { justify-content: center; }
-.stats { display: flex; gap: 14mm; margin: 6mm 0 0; padding-top: 5mm;
+.cover h1 { font-size: 30pt; margin-bottom: 3mm; }
+.cover .who { font-size: 16pt; color: #1f2328; margin: 0 0 8mm; }
+.stats { display: flex; gap: 12mm; padding-top: 5mm;
          border-top: 1px solid #d1d9e0; }
-.stats .v { font-size: 19pt; font-weight: 600; }
-.stats .k { font-size: 8.5pt; color: #59636e; }
-.by { position: absolute; left: 15mm; bottom: 16mm; font-size: 10pt; }
-.by b { font-size: 12pt; }
+.stats .v { font-size: 17pt; font-weight: 600; }
+.stats .k { font-size: 8pt; color: #59636e; }
+.by { position: absolute; left: 15mm; bottom: 22mm; font-size: 9pt;
+      color: #59636e; }
 .grid { display: grid; grid-template-columns: repeat(%(per_row)d, 1fr);
-        gap: 7mm 6mm; align-content: start; }
+        gap: 6mm 6mm; align-content: start; }
 .card { display: flex; flex-direction: column; gap: 1.6mm; }
 /* Every certificate gets the same box and sits in the middle of it. They are
    not the same shape: a landscape certificate beside a portrait one leaves the
    captions on two different lines, and a page of that reads as a mistake. */
-.card .shot { height: 38mm; display: flex; align-items: center;
+.card .shot { height: 30mm; display: flex; align-items: center;
               justify-content: center; }
+.card a { text-decoration: none; }
 .card img { max-width: 100%%; max-height: 100%%; width: auto; height: auto;
             border: 1px solid #d1d9e0; border-radius: 1mm; display: block; }
-.card .t { font-size: 7.6pt; font-weight: 600; line-height: 1.32;
+.card .t { font-size: 7.2pt; font-weight: 600; line-height: 1.3;
            color: #1f2328; }
-.card .m { font-size: 6.9pt; color: #59636e; line-height: 1.3; }
-.contents { columns: 3; column-gap: 10mm; font-size: 9.5pt; }
-.contents div { break-inside: avoid; margin-bottom: 1.6mm; }
+.card .m { font-size: 6.6pt; color: #59636e; line-height: 1.28; }
+.contents { columns: 2; column-gap: 10mm; font-size: 9pt; }
+.contents div { break-inside: avoid; margin-bottom: 1.8mm; }
 .contents .n { color: #59636e; }
 """
 
@@ -125,6 +131,10 @@ def find_chrome():
     if not found:
         raise SystemExit("  Chrome is needed to render the PDF and was not found")
     return found
+
+
+def quote(path):
+    return urllib.parse.quote(path)
 
 
 def slug(text):
@@ -168,23 +178,19 @@ def page(inner, label, number):
 
 
 def cover(counts, number):
+    """Title, holder, three figures. A cover is not the place for a paragraph."""
     issuers, files, dated = counts
     stats = "".join(
         f'<div><div class="v">{v}</div><div class="k">{k}</div></div>'
         for v, k in ((f"{files}", "certificates"), (f"{issuers}", "issuers"),
-                     (f"{dated}", "carrying a date")))
+                     (f"{dated}", "dated")))
     return (f'<section class="page cover"><div class="rule"></div>'
             f'<p class="kicker">Certificates and achievements</p>'
-            f'<h1>Every certificate, in one place</h1>'
-            f'<p class="lead">The complete record behind '
-            f'{escape(REPO)}: every certificate, professional certificate and '
-            f'completion badge awarded to {escape(AUTHOR)}, shown as it was '
-            f'issued. Each one is filed in the repository under the issuer '
-            f'that awarded it, with its verification link where the issuer '
-            f'provides one.</p>'
+            f'<h1>The complete record</h1>'
+            f'<p class="who">{escape(AUTHOR)}</p>'
             f'<div class="stats">{stats}</div>'
-            f'<div class="by">Compiled by <b>{escape(AUTHOR)}</b><br>'
-            f'<span class="small">{escape(REPO)}</span></div>'
+            f'<div class="by">Every certificate as it was issued. '
+            f'Each one links to its original file.<br>{escape(REPO)}</div>'
             f'<div class="foot"><span>Certificates and achievements</span>'
             f'<span class="no">{number}</span></div></section>')
 
@@ -194,7 +200,7 @@ def contents(sections, first_page, number):
     for name, cards in sections:
         rows.append(f'<div>{escape(name)} <span class="n">'
                     f'&middot; {len(cards)} &middot; page {at}</span></div>')
-        at += max(1, -(-len(cards) // (PER_ROW * 3)))
+        at += max(1, -(-len(cards) // (PER_ROW * 5)))
     return page(f'<p class="kicker">Contents</p><h1>By issuer</h1>'
                 f'<div class="contents">{"".join(rows)}</div>',
                 "Contents", number)
@@ -233,26 +239,27 @@ def main():
             note = asset.get("issued") or "date not printed"
             if asset["label"] and asset["label"] != "Certificate":
                 note = f"{asset['label']} &middot; {note}"
-            cards.append((cred["title"], note, target))
+            cards.append((cred["title"], note, target, asset["path"]))
         if cards:
             sections.append((ISSUER_NAME.get(platform, platform), cards))
 
     total_files = sum(len(c) for _n, c in sections)
-    dated = sum(1 for _n, cards in sections for _t, note, _p in cards
+    dated = sum(1 for _n, cards in sections for _t, note, _p, _s in cards
                 if "not printed" not in note)
 
     pages = [cover((len(sections), total_files, dated), 1)]
     body_pages, number = [], 3
     for name, cards in sections:
-        per_page = PER_ROW * 3
+        per_page = PER_ROW * 5
         for start in range(0, len(cards), per_page):
             chunk = cards[start:start + per_page]
             tiles = "".join(
                 f'<div class="card"><div class="shot">'
-                f'<img src="{uri(path)}" alt=""></div>'
+                f'<a href="{BLOB}{quote(source)}">'
+                f'<img src="{uri(path)}" alt=""></a></div>'
                 f'<div class="t">{escape(title)}</div>'
                 f'<div class="m">{note}</div></div>'
-                for title, note, path in chunk)
+                for title, note, path, source in chunk)
             heading = (f'<p class="kicker">{escape(name)}</p>'
                        f'<h2>{len(cards)} certificate'
                        f'{"s" if len(cards) != 1 else ""}</h2>'
@@ -280,12 +287,20 @@ def main():
         toc, at = [["Cover", 1], ["Contents", 2]], 3
         for name, cards in sections:
             toc.append([name, at])
-            at += max(1, -(-len(cards) // (PER_ROW * 3)))
+            at += max(1, -(-len(cards) // (PER_ROW * 5)))
         doc.set_toc([[1, title, page_no] for title, page_no in toc])
         doc.saveIncr()
         count = doc.page_count
 
     size = OUT.stat().st_size
+    # The README states the size and the page count, and build_readme.py is
+    # standard library only, so the two facts are left here for it to read
+    # rather than opening a PDF to find them.
+    (ROOT / "docs" / "book.json").write_text(
+        json.dumps({"pages": count, "bytes": size, "certificates": total_files,
+                    "issuers": len(sections)}, indent=2) + "\n",
+        encoding="utf-8")
+
     print(f"  {made} pages rendered, {failed} that could not be read")
     print(f"  {total_files} certificates from {len(sections)} issuers")
     print(f"  {OUT.name}: {count} pages, {size / 1e6:.1f} MB")

@@ -44,8 +44,6 @@
 
 **711 credentials from 29 issuers.** 691 carry the certificate itself, 42 carry a digital badge, and **245 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
 
-**[See every certificate as it was issued (PDF)](certificates.pdf)**  ·  one document, by issuer, with the date on each
-
 <table>
 <tr>
 <td align="center" width="33%"><a href="#ankur-warikoo" title="Ankur Warikoo, 1 credential"><img src="docs/badges/ankur-warikoo.svg" alt="Ankur Warikoo, 1 credential" title="Ankur Warikoo, 1 credential" height="20"></a></td>
@@ -102,6 +100,11 @@
 <sub>Each badge names the issuer and how many credentials it awarded. Hover any of them for the number that can be verified at the source.</sub>
 
 </div>
+
+> [!TIP]
+> **Every certificate in one document.** All 862 of them, issuer by issuer, each with its date and a link to the original file. 68 pages, 17 MB.
+>
+> [Preview it on GitHub](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/certificates.pdf)  ·  [Download the PDF](https://github.com/Amey-Thakur/ACHIEVEMENTS/raw/main/certificates.pdf)
 
 ---
 
