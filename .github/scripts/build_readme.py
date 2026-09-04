@@ -118,12 +118,13 @@ def book_note():
     if not BOOK.exists():
         return []
     book = json.loads(BOOK.read_text(encoding="utf-8"))
-    size = f"{book['bytes'] / 1e6:.0f} MB"
+    # No page count and no file size. Both go stale the moment the book is
+    # rebuilt, and neither helps anyone decide whether to open it.
     return [
         "> [!TIP]",
         f"> **Every certificate in one file.** All {book['certificates']} "
         f"documents, issuer by issuer, each with its date and a link to the "
-        f"original. {book['pages']} pages, {size}.",
+        f"original.",
         ">",
         f"> [Preview it on GitHub]({BLOB}certificates.pdf)  ·  "
         f"[Download the PDF]({RAW}certificates.pdf)",
