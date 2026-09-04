@@ -337,6 +337,10 @@ def summary_block(creds, anchors):
     # note below reads as a contradiction.
     files = sum(len(c["assets"]) for c in creds)
     paired = sum(1 for c in creds if len(c["assets"]) > 1)
+    # 691 and 42 sum to more than 711 because 22 credentials have a badge as
+    # well as a certificate. Stating the overlap is what lets a reader add the
+    # figures up and arrive back at the total.
+    both = sum(1 for c in creds if c["pdf"] and c["badge"])
     counts, notes = issuer_notes(creds)
 
     known = sorted((p for p in counts if p in ISSUERS),
@@ -371,10 +375,9 @@ def summary_block(creds, anchors):
         "<div align=\"center\">",
         "",
         f"**{len(creds)} credentials from {len(known)} issuers, held as "
-        f"{files} documents.** {paired} of them carry a second file, either a "
-        f"digital badge or a certificate from the body that accredited the "
-        f"course, which is why the documents outnumber the credentials. "
-        f"{pdfs} carry the certificate itself, {badges} carry a digital badge, and "
+        f"{files} documents.** {pdfs} carry the certificate itself and {badges} "
+        f"carry a digital badge, {both} of them both, and {paired} carry more "
+        f"than one file, which is why the documents outnumber the credentials. "
         f"**{verified} can be verified independently** on the issuer's own site. "
         "Every row below links the certificate it describes.",
         "",
@@ -466,6 +469,10 @@ def main():
     _counts, notes = issuer_notes(data["credentials"])
     source = decorate_headings(README.read_text(encoding="utf-8"), notes)
     body, tables, dropped = strip_previews(write_summary(source, data["credentials"]))
+    # The file ends one line after the last thing in it. Sixty-three blank
+    # lines had collected at the foot; they render as nothing, but they are
+    # sixty-three lines of nothing to scroll past in the editor.
+    body = body.rstrip("\n") + "\n"
 
     if check:
         if body != README.read_text(encoding="utf-8"):

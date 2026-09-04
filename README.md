@@ -47,7 +47,7 @@
 
 <div align="center">
 
-**711 credentials from 29 issuers, held as 862 documents.** 122 of them carry a second file, either a digital badge or a certificate from the body that accredited the course, which is why the documents outnumber the credentials. 691 carry the certificate itself, 42 carry a digital badge, and **245 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
+**711 credentials from 29 issuers, held as 862 documents.** 691 carry the certificate itself and 42 carry a digital badge, 22 of them both, and 122 carry more than one file, which is why the documents outnumber the credentials. **245 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
 
 <table>
 <tr>
@@ -2164,66 +2164,3 @@
 <i>Namaskar</i> <span title="Amey Thakur: Honoring the Curiosity that Led You to My Work">🙏🏻</span>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
