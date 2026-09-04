@@ -42,7 +42,7 @@
 
 <div align="center">
 
-**711 credentials from 29 issuers.** 691 carry the certificate itself, 42 carry a digital badge, and **245 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
+**711 credentials from 29 issuers, held as 862 documents.** 122 of them carry a second file, either a digital badge or a certificate from the body that accredited the course, which is why the documents outnumber the credentials. 691 carry the certificate itself, 42 carry a digital badge, and **245 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
 
 <table>
 <tr>
@@ -102,7 +102,7 @@
 </div>
 
 > [!TIP]
-> **Every certificate in one document.** All 862 of them, issuer by issuer, each with its date and a link to the original file. 53 pages, 17 MB.
+> **Every certificate in one file.** All 862 documents, issuer by issuer, each with its date and a link to the original. 69 pages, 17 MB.
 >
 > [Preview it on GitHub](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/certificates.pdf)  ·  [Download the PDF](https://github.com/Amey-Thakur/ACHIEVEMENTS/raw/main/certificates.pdf)
 

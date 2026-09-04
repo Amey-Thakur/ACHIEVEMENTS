@@ -121,9 +121,9 @@ def book_note():
     size = f"{book['bytes'] / 1e6:.0f} MB"
     return [
         "> [!TIP]",
-        f"> **Every certificate in one document.** All {book['certificates']} of "
-        f"them, issuer by issuer, each with its date and a link to the original "
-        f"file. {book['pages']} pages, {size}.",
+        f"> **Every certificate in one file.** All {book['certificates']} "
+        f"documents, issuer by issuer, each with its date and a link to the "
+        f"original. {book['pages']} pages, {size}.",
         ">",
         f"> [Preview it on GitHub]({BLOB}certificates.pdf)  ·  "
         f"[Download the PDF]({RAW}certificates.pdf)",
@@ -330,6 +330,12 @@ def summary_block(creds, anchors):
     pdfs = sum(1 for c in creds if c["pdf"])
     badges = sum(1 for c in creds if c["badge"])
     verified = sum(1 for c in creds if c["verify"])
+    # A credential is one thing awarded; a document is one file in this
+    # repository. They are different numbers because 122 credentials came with
+    # two files, and the difference has to be stated here or the 862 in the PDF
+    # note below reads as a contradiction.
+    files = sum(len(c["assets"]) for c in creds)
+    paired = sum(1 for c in creds if len(c["assets"]) > 1)
     counts, notes = issuer_notes(creds)
 
     known = sorted((p for p in counts if p in ISSUERS),
@@ -359,7 +365,10 @@ def summary_block(creds, anchors):
         "",
         "<div align=\"center\">",
         "",
-        f"**{len(creds)} credentials from {len(known)} issuers.** "
+        f"**{len(creds)} credentials from {len(known)} issuers, held as "
+        f"{files} documents.** {paired} of them carry a second file, either a "
+        f"digital badge or a certificate from the body that accredited the "
+        f"course, which is why the documents outnumber the credentials. "
         f"{pdfs} carry the certificate itself, {badges} carry a digital badge, and "
         f"**{verified} can be verified independently** on the issuer's own site. "
         "Every row below links the certificate it describes.",
