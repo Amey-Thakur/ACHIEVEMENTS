@@ -37,6 +37,10 @@ OUT = ROOT / "certificates.pdf"
 CACHE = Path(tempfile.gettempdir()) / "achievements-certificate-book"
 
 AUTHOR = "Amey Thakur"
+# What a browser tab and a PDF reader's title bar show. Without it both
+# said "book.html", which is the name of a working file in a temporary
+# directory and not the name of anything Amey would want to hand over.
+TITLE = "Amey Thakur, Certifications and Achievements"
 REPO = "github.com/Amey-Thakur/ACHIEVEMENTS"
 ORCID = "0000-0001-5644-1575"
 BLOB = f"https://{REPO}/blob/main/"
@@ -393,7 +397,9 @@ def main():
     pages.extend(body_pages)
     pages.append(closing())
 
-    html = (f"<!doctype html><meta charset='utf-8'><style>{CSS % {'per_row': PER_ROW}}"
+    html = (f"<!doctype html><meta charset='utf-8'>"
+            f"<title>{escape(TITLE)}</title>"
+            f"<style>{CSS % {'per_row': PER_ROW}}"
             f"</style>{''.join(pages)}")
     work = CACHE / "book.html"
     work.write_text(html, encoding="utf-8")
@@ -410,13 +416,28 @@ def main():
         toc += [[1, name, starts[name]] for name, _cards in sections
                 if name in starts]
         doc.set_toc(toc)
+        # Chrome stamps the working file's name as the document title. Anyone
+        # who opens the PDF sees that in the title bar, and a search engine
+        # reads it before it reads the cover.
+        meta = dict(doc.metadata or {})
+        meta.update({
+            "title": TITLE,
+            "author": AUTHOR,
+            "subject": "Every certificate, course completion, badge and award "
+                       "earned by Amey Thakur, filed under the body that "
+                       "awarded it.",
+            "keywords": f"certifications, achievements, credentials, {AUTHOR}, "
+                        f"ORCID {ORCID}",
+            "creator": REPO,
+        })
+        doc.set_metadata(meta)
         doc.saveIncr()
         count = doc.page_count
 
     size = OUT.stat().st_size
-    # The README states the size and the page count, and build_readme.py is
-    # standard library only, so the two facts are left here for it to read
-    # rather than opening a PDF to find them.
+    # build_readme.py is standard library only, so the figures it needs are
+    # left here rather than it opening a PDF to find them. It prints the
+    # certificate count; the page count and size are kept for the audit.
     (ROOT / "docs" / "book.json").write_text(
         json.dumps({"pages": count, "bytes": size, "certificates": total_files,
                     "issuers": len(sections)}, indent=2) + "\n",
