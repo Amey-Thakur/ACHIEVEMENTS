@@ -301,13 +301,13 @@ def contents(sections, starts, number):
             f'<tr><td>{escape(name)}</td><td class="n">{len(cards)}</td>'
             f'<td class="n">{starts.get(name, "")}</td></tr>'
             for name, cards in part)
-        tables += (f'<table><thead><tr><th>Issuer</th><th class="n">Held</th>'
+        tables += (f'<table><thead><tr><th>Section</th><th class="n">Held</th>'
                    f'<th class="n">Page</th></tr></thead>'
                    f'<tbody>{rows}</tbody></table>')
     total = sum(len(c) for _n, c in sections)
-    return page(f'<p class="kicker">Contents</p><h1>By issuer</h1>'
-                f'<p class="lead">{total} certificates from {len(sections)} '
-                f'issuers, in the order they appear.</p>'
+    return page(f'<p class="kicker">Contents</p><h1>By section</h1>'
+                f'<p class="lead">{total} documents in {len(sections)} '
+                f'sections, in the order they appear.</p>'
                 f'<div class="index">{tables}</div>', "Contents", number)
 
 
@@ -382,7 +382,7 @@ def main():
                 for title, note, path, source in chunk)
             inner += (f'<div class="block"><p class="kicker">{escape(name)}'
                       f'{"" if first else ", continued"}</p>'
-                      + (f'<h2>{total} certificate{"s" if total != 1 else ""}</h2>'
+                      + (f'<h2>{total} document{"s" if total != 1 else ""}</h2>'
                          if first else "")
                       + f'<div class="grid">{tiles}</div></div>')
         label = blocks[0][0] if len(blocks) == 1 else "Certificates"
