@@ -364,6 +364,10 @@ def summary_block(creds, anchors):
     return "\n".join([
         SUMMARY_START,
         "",
+        # The alert goes above the badges, and outside the centring div: GitHub
+        # renders [!TIP] as an alert only at the top level, and inside an HTML
+        # block it falls back to a plain blockquote.
+        *book_note(),
         "<div align=\"center\">",
         "",
         f"**{len(creds)} credentials from {len(known)} issuers, held as "
@@ -380,7 +384,6 @@ def summary_block(creds, anchors):
         "",
         "</div>",
         "",
-        *book_note(),
         # A rule and a heading, so the hand-written list of sections underneath
         # reads as its own section rather than as a caption to the badges.
         "---",
