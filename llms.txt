@@ -1,0 +1,60 @@
+# Achievements
+
+> Every certification, course completion, badge and award earned by Amey
+> Thakur, each linked to its original file and collected in one PDF, with
+> issuer verification where it exists. Anthropic, Google, Microsoft, IBM,
+> Intel, NVIDIA, Apple, Kaggle, Coursera, LinkedIn Learning, Stanford,
+> Harvard and Cambridge, plus research and coursework.
+
+Licence: see the repository
+Repository created: 19 July 2021
+
+## What is in this repository
+
+- Ankur Warikoo, 2 files
+- Anthropic courses, 46 files
+- Apple, 3 files
+- COE Pune, 1 file
+- Colgate Oral Health Network, 34 files
+- Coursera, 135 files
+- Eduonix, 85 files
+- Engineering, 4 files
+- Experience, 20 files
+- Google, 51 files
+- Harvard Medical School, 1 file
+- IBM, 1 file
+- IIT Bombay, 6 files
+- Intel, 1 file
+- Julia Academy, 10 files
+- Kaggle, 17 files
+- LTCE Webinar, 3 files
+- Linkedin Learning, 391 files
+- MathWorks, 3 files
+- Microsoft, 1 file
+- Nvidia Deep Learning Institute, 2 files
+- OpenAI Academy, 3 files
+- Quizzes, 55 files
+- Research Papers, 270 files
+- Simplilearn, 2 files
+- Sports, 15 files
+- Stanford University, 1 file
+- Stanford University School of Medicine, 2 files
+- Terna Engineering College, 4 files
+- Udemy, 1 file
+- University of Cambridge, 1 file
+- VIA Institute on Character, 4 files
+- docs, 262 files
+- certificates.pdf
+
+## Subject terms
+
+achievements, anthropic, certificates, certification, coursera,
+credentials, education, google, harvard, linkedin-learning, microsoft,
+nvidia, portfolio, research, stanford
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/ACHIEVEMENTS
+- Project page: https://amey-thakur.github.io/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
