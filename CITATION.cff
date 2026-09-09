@@ -3,13 +3,13 @@
 # Description: GitHub reads this file to offer a "Cite this repository" button
 #   and to format the reference, so anyone can credit this collection correctly
 #   in papers, posts, and other work.
-# License: MIT
+# License: CC BY 4.0
 # Author: Amey Thakur (https://github.com/Amey-Thakur)
 # Date: 2026-09-08
 cff-version: 1.2.0
 title: "Achievements: the certifications, course completions, badges and awards of Amey Thakur"
 message: "If you refer to this collection, please cite it using the metadata below."
-abstract: "Every certification, course completion, badge and award earned by Amey Thakur, each linked to the document that was issued and collected in one PDF, with the issuer's own verification link where one exists. 712 credentials from 29 issuers, held as 863 documents, spanning Anthropic, Google, Microsoft, IBM, Intel, NVIDIA, Apple, Kaggle, Coursera, LinkedIn Learning, Stanford, Harvard and Cambridge, alongside research papers and university coursework. The documents remain the property of the organizations that issued them; the MIT licence covers only this repository's own text, scripts and artwork."
+abstract: "Every certification, course completion, badge and award earned by Amey Thakur, each linked to the document that was issued and collected in one PDF, with the issuer's own verification link where one exists. 712 credentials from 29 issuers, held as 863 documents, spanning Anthropic, Google, Microsoft, IBM, Intel, NVIDIA, Apple, Kaggle, Coursera, LinkedIn Learning, Stanford, Harvard and Cambridge, alongside research papers and university coursework. The documents remain the property of the organizations that issued them; the CC BY 4.0 licence covers only this repository's own text, scripts and artwork."
 type: dataset
 authors:
   - given-names: Amey
@@ -19,7 +19,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-5644-1575"
 repository-code: "https://github.com/Amey-Thakur/ACHIEVEMENTS"
 url: "https://github.com/Amey-Thakur/ACHIEVEMENTS"
-license: MIT
+license: CC-BY-4.0
 keywords:
   - achievements
   - certifications

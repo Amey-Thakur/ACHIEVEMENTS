@@ -6,9 +6,10 @@
 > Intel, NVIDIA, Apple, Kaggle, Coursera, LinkedIn Learning, Stanford,
 > Harvard and Cambridge, plus research and coursework.
 
-Licence: MIT, covering this repository's own text, scripts and artwork.
-The certificates themselves remain the property of the organizations
-that issued them and are reproduced here as evidence, not relicensed.
+Licence: CC BY 4.0, covering this repository's own text, scripts and
+artwork. Reuse it with credit to Amey Thakur and a link back. The
+certificates themselves remain the property of the organizations that
+issued them and are reproduced here as evidence, not relicensed.
 Repository created: 19 July 2021
 
 ## What is in this repository

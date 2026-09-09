@@ -4,7 +4,7 @@
     "name": "ACHIEVEMENTS",
     "description": "Every certification, course completion, badge and award earned by Amey Thakur, each linked to its original file and collected in one PDF, with issuer verification where it exists. Anthropic, Google, Microsoft, IBM, Intel, NVIDIA, Apple, Kaggle, Coursera, LinkedIn Learning, Stanford, Harvard and Cambridge, plus research and coursework.",
     "identifier": "ACHIEVEMENTS",
-    "license": "https://spdx.org/licenses/MIT",
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
     "programmingLanguage": [
         "Python"
     ],

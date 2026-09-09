@@ -2158,7 +2158,7 @@
 
 <div align="center">
 
-<sub><b>Licence.</b> The text, scripts and artwork in this repository are <a href="LICENSE" title="Amey Thakur: The Terms on Which This Work Is Shared">MIT licensed</a>. The certificates, badges and issuer marks are not: each remains the property of the organization that issued it, and is reproduced here as evidence that the credential is real. Verify any of them at the issuer's own link rather than taking this repository's word for it.</sub>
+<sub><b>Licence.</b> The text, scripts and artwork in this repository are released under <a href="LICENSE" title="Amey Thakur: The Terms on Which This Work Is Shared">Attribution 4.0 International</a>: reuse them for anything, including commercially, with credit to Amey Thakur and a link back. The certificates, badges and issuer marks are not covered: each remains the property of the organization that issued it, and is reproduced here as evidence that the credential is real. Verify any of them at the issuer's own link rather than taking this repository's word for it.</sub>
 
 </div>
 
