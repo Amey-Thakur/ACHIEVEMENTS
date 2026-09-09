@@ -2158,14 +2158,6 @@
 
 <div align="center">
 
-<sub><b>Licence.</b> The text, scripts and artwork in this repository are released under <a href="LICENSE" title="Amey Thakur: The Terms on Which This Work Is Shared">Attribution 4.0 International</a>: reuse them for anything, including commercially, with credit to Amey Thakur and a link back. The certificates, badges and issuer marks are not covered: each remains the property of the organization that issued it, and is reproduced here as evidence that the credential is real. Verify any of them at the issuer's own link rather than taking this repository's word for it.</sub>
-
-</div>
-
----
-
-<div align="center">
-
 <i>Every idea I open-source is a spark handed to someone I may never meet. That is the whole point.</i>
 
 <b>— Amey Thakur</b>
