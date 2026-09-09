@@ -1941,7 +1941,7 @@
 | **Published Article** | [DOI: 10.22214/ijraset.2021.37930](http://dx.doi.org/10.22214/ijraset.2021.37930) |
 | **Presentation** | [DOI: 10.13140/RG.2.2.14965.09444](http://dx.doi.org/10.13140/RG.2.2.14965.09444) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
-| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), Karan Dhiman & Mayuresh Phansikar |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Karan Dhiman](https://github.com/Karan-Dhiman) & Mayuresh Phansikar |
 
 #### 10. Generative Adversarial Networks
 
@@ -1991,7 +1991,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.16257.38248](http://dx.doi.org/10.13140/RG.2.2.16257.38248) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CHAT-ROOM) |
 | **Demonstration** | [YouTube Video](https://youtu.be/Aem0k2Dl9fU) |
-| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), Karan Dhiman |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Karan Dhiman](https://github.com/Karan-Dhiman) |
 
 #### 15. Car Rental Database System
 
