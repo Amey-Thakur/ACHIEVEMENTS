@@ -1853,7 +1853,7 @@
 | **Dated** | 5 April 2026 &ndash; 9 pages, 7 figures, 2 tables |
 | **Challenge** | [ACCIDENT @ CVPR 2026](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026) &ndash; public leaderboard 0.2523, zero-shot, no fine-tuning |
 | **Repository** | [ACCIDENT-CVPR-2026](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026) |
-| **Authors** | **Amey Thakur**, Sarvesh Talele |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Sarvesh Talele](https://github.com/sarveshtalele) |
 
 ---
 
@@ -1865,7 +1865,7 @@
 | **Published Article** | [DOI: 10.33564/IJEAST.2021.v06i02.037](http://dx.doi.org/10.33564/IJEAST.2021.v06i02.037) |
 | **Preprint (arXiv)** | [arXiv: 2108.04351](https://arxiv.org/abs/2108.04351) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353158066_Adversarial_Open_Domain_Adaption_Framework_AODA_Sketch-to-Photo_Synthesis) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 3. A Comparative Study on Distributed File Systems
 
@@ -1874,7 +1874,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.31450.82887](http://dx.doi.org/10.13140/RG.2.2.31450.82887) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354322981_A_Comparative_Study_on_Distributed_File_Systems) |
 | **Project Portal** | [ResearchGate Project](https://www.researchgate.net/project/A-Comparative-Study-on-Distributed-File-Systems) |
-| **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & [Hasan Rizvi](https://github.com/rizvihasan) |
 
 #### 4. Bangalore House Price Prediction
 
@@ -1886,7 +1886,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354403038_BANGALORE_HOUSE_PRICE_PREDICTION) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) |
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Bangalore%20House%20Price%20Prediction/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 5. QuadTree Visualizer
 
@@ -1897,7 +1897,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/360242672_QuadTree_Visualizer) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/QUADTREE-VISUALIZER) |
 | **Demonstration** | [YouTube Video](https://youtu.be/8un0Qu8ibNk) |
-| **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & [Hasan Rizvi](https://github.com/rizvihasan) |
 
 #### 6. Text Summarizer
 
@@ -1909,7 +1909,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/358130954_Text_Summarizer_Using_Julia) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/TEXT-SUMMARIZER) |
 | **Demonstration** | [YouTube Video](https://youtu.be/2drrqsSB1Bc) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 7. Optimizing Stock Trading Strategy With Reinforcement Learning
 
@@ -1919,7 +1919,7 @@
 | **Publication DOI** | [DOI: 10.13140/RG.2.2.13054.05440](http://dx.doi.org/10.13140/RG.2.2.13054.05440) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING) |
 | **Demonstration** | [YouTube Video](https://youtu.be/Q82a93hjxJE) |
-| **Authors** | **Amey Thakur** |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur) |
 
 #### 8. White-Box Cartoonization Using An Extended GAN Framework
 
@@ -1931,7 +1931,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.22496.40964](http://dx.doi.org/10.13140/RG.2.2.22496.40964) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION) |
 | **Demonstration** | [YouTube Video](https://youtu.be/8VNc8p6AKmw) |
-| **Authors** | **Amey Thakur**, Mega Satish & Hasan Rizvi |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & [Hasan Rizvi](https://github.com/rizvihasan) |
 
 #### 9. Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
 
@@ -1941,7 +1941,7 @@
 | **Published Article** | [DOI: 10.22214/ijraset.2021.37930](http://dx.doi.org/10.22214/ijraset.2021.37930) |
 | **Presentation** | [DOI: 10.13140/RG.2.2.14965.09444](http://dx.doi.org/10.13140/RG.2.2.14965.09444) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
-| **Authors** | **Amey Thakur**, Karan Dhiman & Mayuresh Phansikar |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), Karan Dhiman & Mayuresh Phansikar |
 
 #### 10. Generative Adversarial Networks
 
@@ -1950,7 +1950,7 @@
 | **Journal** | IJRASET | Volume 9 Issue IX |
 | **Published Article** | [DOI: 10.22214/ijraset.2021.37723](http://dx.doi.org/10.22214/ijraset.2021.37723) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 11. Fundamentals of Neural Networks
 
@@ -1959,7 +1959,7 @@
 | **Journal** | IJRASET | Volume 9 Issue VIII |
 | **Published Article** | [DOI: 10.22214/ijraset.2021.37362](http://dx.doi.org/10.22214/ijraset.2021.37362) |
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) |
-| **Authors** | **Amey Thakur**, Archit Konde |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Archit Konde](https://github.com/Archit-Konde) |
 
 #### 12. Pizza Ordering Chatbot Using Amazon Lex
 
@@ -1970,7 +1970,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.19606.01607](http://dx.doi.org/10.13140/RG.2.2.19606.01607) |
 | **ResearchGate** | [Project Portal](https://www.researchgate.net/project/Pizza-Ordering-Chatbot-Using-Amazon-Lex) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 13. Digital Bookstore
 
@@ -1980,7 +1980,7 @@
 | **Published Article** | [DOI: 10.22214/ijraset.2021.36609](http://dx.doi.org/10.22214/ijraset.2021.36609) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
 | **Demonstration** | [YouTube Video](https://youtu.be/JuUix8olOC8) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 14. Chat Room using HTML, PHP, CSS, JS, AJAX
 
@@ -1991,7 +1991,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.16257.38248](http://dx.doi.org/10.13140/RG.2.2.16257.38248) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CHAT-ROOM) |
 | **Demonstration** | [YouTube Video](https://youtu.be/Aem0k2Dl9fU) |
-| **Authors** | **Amey Thakur**, Karan Dhiman |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), Karan Dhiman |
 
 #### 15. Car Rental Database System
 
@@ -2000,7 +2000,7 @@
 | **Journal** | IJRASET | Volume 9 Issue VII |
 | **Published Article** | [DOI: 10.22214/ijraset.2021.36339](http://dx.doi.org/10.22214/ijraset.2021.36339) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
-| **Authors** | **Amey Thakur** |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur) |
 
 #### 16. Hangman Word Game
 
@@ -2009,7 +2009,7 @@
 | **Published Article** | [DOI: 10.13140/RG.2.2.26806.22082](http://dx.doi.org/10.13140/RG.2.2.26806.22082) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/HANGMAN-WORD-GAME) |
 | **Demonstration** | [YouTube Video](https://youtu.be/JsT9KYKPUgs) |
-| **Authors** | **Amey Thakur**, Mega Satish & Saakshi Deokar |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & Saakshi Deokar |
 
 #### 17. Clock Synchronization in Distributed Systems
 
@@ -2020,7 +2020,7 @@
 | **Preprint (viXra)** | [viXra: 2204.0094](http://viXra.org/abs/2204.0094) |
 | **Presentation** | [DOI: 10.13140/RG.2.2.31450.82887](http://dx.doi.org/10.13140/RG.2.2.31450.82887) |
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 #### 18. Online Chess Game
 
@@ -2030,7 +2030,7 @@
 | **Presentation** | [DOI: 10.13140/RG.2.2.21472.97284](http://dx.doi.org/10.13140/RG.2.2.21472.97284) |
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/ONLINE-CHESS-GAME) |
 | **Demonstration** | [YouTube Video](https://youtu.be/CCbrTQwYyE8) |
-| **Authors** | **Amey Thakur**, Mega Satish |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
 ---
 
