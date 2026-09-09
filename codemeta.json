@@ -4,9 +4,24 @@
     "name": "ACHIEVEMENTS",
     "description": "Every certification, course completion, badge and award earned by Amey Thakur, each linked to its original file and collected in one PDF, with issuer verification where it exists. Anthropic, Google, Microsoft, IBM, Intel, NVIDIA, Apple, Kaggle, Coursera, LinkedIn Learning, Stanford, Harvard and Cambridge, plus research and coursework.",
     "identifier": "ACHIEVEMENTS",
+    "license": "https://spdx.org/licenses/MIT",
+    "programmingLanguage": [
+        "Python"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "email": "ameythakur20@gmail.com",
+            "url": "https://github.com/Amey-Thakur",
+            "identifier": "https://orcid.org/0000-0001-5644-1575"
+        }
+    ],
     "dateCreated": "2021-07-19",
     "codeRepository": "https://github.com/Amey-Thakur/ACHIEVEMENTS",
     "developmentStatus": "complete",
+    "applicationCategory": "Education",
     "keywords": [
         "Achievements",
         "Anthropic",
@@ -147,5 +162,8 @@
         "ResearchGate",
         "viXra"
     ],
-    "url": "https://amey-thakur.github.io/"
+    "url": "https://amey-thakur.github.io/",
+    "dateModified": "2026-09-08",
+    "issueTracker": "https://github.com/Amey-Thakur/ACHIEVEMENTS/issues",
+    "readme": "https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/README.md"
 }
