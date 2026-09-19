@@ -1845,7 +1845,22 @@
 > 
 > [<img src="docs/badges/profile/arxiv.svg" alt="arXiv" title="Read Amey Thakur's preprints on arXiv" height="20">](https://arxiv.org/a/thakur_a_3.html) [<img src="docs/badges/profile/google-scholar.svg" alt="Google Scholar" title="Read Amey Thakur's publications on Google Scholar" height="20">](https://scholar.google.com/citations?user=0inooPgAAAAJ) [<img src="docs/badges/profile/orcid.svg" alt="ORCID" title="Verify Amey Thakur's researcher ID, 0000-0001-5644-1575, on ORCID" height="20">](https://orcid.org/0000-0001-5644-1575) [<img src="docs/badges/profile/researchgate.svg" alt="ResearchGate" title="Follow Amey Thakur's research on ResearchGate" height="20">](https://www.researchgate.net/profile/Amey-Thakur) [<img src="docs/badges/profile/vixra.svg" alt="viXra" title="Browse Amey Thakur's papers on viXra" height="20">](https://vixra.org/author/amey_thakur)
 
-#### 1. A Modular Zero-Shot Pipeline for Accident Detection, Localization, and Classification in Traffic Surveillance Video
+#### 1. Frame-Synchronous Hand Gesture Detection by Projected Winding Order
+
+| Feature | Scholarly Asset |
+| :--- | :--- |
+| **Preprint (arXiv)** | [arXiv: 2609.13269](https://arxiv.org/abs/2609.13269) &nbsp;&middot;&nbsp; [PDF](https://arxiv.org/pdf/2609.13269) &nbsp;&middot;&nbsp; [HTML](https://arxiv.org/html/2609.13269v1) |
+| **Published Article** | [DOI: 10.48550/arXiv.2609.13269](https://doi.org/10.48550/arXiv.2609.13269) |
+| **Dated** | 7 September 2026 &ndash; 17 pages, 3 figures, 2 tables |
+| **Subjects** | cs.CV &nbsp;&middot;&nbsp; cs.GR &nbsp;&middot;&nbsp; cs.HC &nbsp;&middot;&nbsp; cs.LG |
+| **Repository** | [GESTURE-FX](https://github.com/Amey-Thakur/GESTURE-FX) |
+| **Demonstration** | [Live Application](https://amey-thakur.github.io/GESTURE-FX/) |
+| **Reproduce It** | [Detector Evaluation](https://amey-thakur.github.io/GESTURE-FX/evaluation.html) &ndash; both tables, computed in the browser against the shipped modules |
+| **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur) |
+
+---
+
+#### 2. A Modular Zero-Shot Pipeline for Accident Detection, Localization, and Classification in Traffic Surveillance Video
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1857,7 +1872,7 @@
 
 ---
 
-#### 2. Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
+#### 3. Adversarial Open Domain Adaption Framework (AODA): Sketch-to-Photo Synthesis
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1867,7 +1882,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353158066_Adversarial_Open_Domain_Adaption_Framework_AODA_Sketch-to-Photo_Synthesis) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 3. A Comparative Study on Distributed File Systems
+#### 4. A Comparative Study on Distributed File Systems
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1876,7 +1891,7 @@
 | **Project Portal** | [ResearchGate Project](https://www.researchgate.net/project/A-Comparative-Study-on-Distributed-File-Systems) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & [Hasan Rizvi](https://github.com/rizvihasan) |
 
-#### 4. Bangalore House Price Prediction
+#### 5. Bangalore House Price Prediction
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1888,7 +1903,7 @@
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Bangalore%20House%20Price%20Prediction/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 5. QuadTree Visualizer
+#### 6. QuadTree Visualizer
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1899,7 +1914,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/8un0Qu8ibNk) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & [Hasan Rizvi](https://github.com/rizvihasan) |
 
-#### 6. Text Summarizer
+#### 7. Text Summarizer
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1911,7 +1926,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/2drrqsSB1Bc) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 7. Optimizing Stock Trading Strategy With Reinforcement Learning
+#### 8. Optimizing Stock Trading Strategy With Reinforcement Learning
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1921,7 +1936,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/Q82a93hjxJE) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur) |
 
-#### 8. White-Box Cartoonization Using An Extended GAN Framework
+#### 9. White-Box Cartoonization Using An Extended GAN Framework
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1933,7 +1948,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/8VNc8p6AKmw) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & [Hasan Rizvi](https://github.com/rizvihasan) |
 
-#### 9. Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
+#### 10. Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1943,7 +1958,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Karan Dhiman](https://github.com/Karan-Dhiman) & Mayuresh Phansikar |
 
-#### 10. Generative Adversarial Networks
+#### 11. Generative Adversarial Networks
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1952,7 +1967,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/354167462_Generative_Adversarial_Networks) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 11. Fundamentals of Neural Networks
+#### 12. Fundamentals of Neural Networks
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1961,7 +1976,7 @@
 | **ResearchGate** | [Publication Portal](https://www.researchgate.net/publication/353827517_Fundamentals_of_Neural_Networks) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Archit Konde](https://github.com/Archit-Konde) |
 
-#### 12. Pizza Ordering Chatbot Using Amazon Lex
+#### 13. Pizza Ordering Chatbot Using Amazon Lex
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1972,7 +1987,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CLOUD-COMPUTING-LAB) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 13. Digital Bookstore
+#### 14. Digital Bookstore
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1982,7 +1997,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/JuUix8olOC8) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 14. Chat Room using HTML, PHP, CSS, JS, AJAX
+#### 15. Chat Room using HTML, PHP, CSS, JS, AJAX
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -1993,7 +2008,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/Aem0k2Dl9fU) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Karan Dhiman](https://github.com/Karan-Dhiman) |
 
-#### 15. Car Rental Database System
+#### 16. Car Rental Database System
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -2002,7 +2017,7 @@
 | **Source Code** | [GitHub Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur) |
 
-#### 16. Hangman Word Game
+#### 17. Hangman Word Game
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -2011,7 +2026,7 @@
 | **Demonstration** | [YouTube Video](https://youtu.be/JsT9KYKPUgs) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) & Saakshi Deokar |
 
-#### 17. Clock Synchronization in Distributed Systems
+#### 18. Clock Synchronization in Distributed Systems
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
@@ -2022,7 +2037,7 @@
 | **Credential** | [IRJET Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Clock%20Synchronization%20in%20Distributed%20Systems/IRJET%20-%20Clock%20Synchronization%20in%20Distributed%20Systems.jpg) |
 | **Authors** | [**Amey Thakur**](https://github.com/Amey-Thakur), [Mega Satish](https://github.com/msatmod) |
 
-#### 18. Online Chess Game
+#### 19. Online Chess Game
 
 | Feature | Scholarly Asset |
 | :--- | :--- |
