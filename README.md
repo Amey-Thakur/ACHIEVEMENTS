@@ -47,12 +47,12 @@
 
 <div align="center">
 
-**712 credentials from 29 issuers, held as 863 documents.** 691 carry the certificate itself and 43 carry a digital badge, 22 of them both, and 122 carry more than one file, which is why the documents outnumber the credentials. **246 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
+**713 credentials from 29 issuers, held as 864 documents.** 691 carry the certificate itself and 44 carry a digital badge, 22 of them both, and 122 carry more than one file, which is why the documents outnumber the credentials. **247 can be verified independently** on the issuer's own site. Every row below links the certificate it describes.
 
 <table>
 <tr>
 <td align="center" width="33%"><a href="#ankur-warikoo" title="Ankur Warikoo, 1 credential"><img src="docs/badges/ankur-warikoo.svg" alt="Ankur Warikoo, 1 credential" title="Ankur Warikoo, 1 credential" height="20"></a></td>
-<td align="center" width="33%"><a href="#anthropic-courses" title="Anthropic, 24 credentials, 24 verifiable"><img src="docs/badges/anthropic.svg" alt="Anthropic, 24 credentials, 24 verifiable" title="Anthropic, 24 credentials, 24 verifiable" height="20"></a></td>
+<td align="center" width="33%"><a href="#anthropic-courses" title="Anthropic, 25 credentials, 25 verifiable"><img src="docs/badges/anthropic.svg" alt="Anthropic, 25 credentials, 25 verifiable" title="Anthropic, 25 credentials, 25 verifiable" height="20"></a></td>
 <td align="center" width="33%"><a href="#apple" title="Apple, 2 credentials, 1 verifiable"><img src="docs/badges/apple.svg" alt="Apple, 2 credentials, 1 verifiable" title="Apple, 2 credentials, 1 verifiable" height="20"></a></td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@
 
 ---
 
-### <img src="docs/badges/square/anthropic.svg" alt="Anthropic, 24 credentials, 24 verifiable" title="Anthropic, 24 credentials, 24 verifiable" height="20">&nbsp;Anthropic courses
+### <img src="docs/badges/square/anthropic.svg" alt="Anthropic, 25 credentials, 25 verifiable" title="Anthropic, 25 credentials, 25 verifiable" height="20">&nbsp;Anthropic courses
 
 | # | Topic | Certification | Verification | Academy badge |
 | :---: | :--- | :---: | :---: | :---: |
@@ -182,10 +182,11 @@
 | 18 | **Deploying Claude Enterprise with Confidence** | Not issued | Not issued | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Deploying%20Claude%20Enterprise%20with%20Confidence.png) · [Verify](https://academy.claude.com/verify/296e047c54c8ed404a99a7151c65ddf6) |
 | 19 | **Introduction to agent skills** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20agent%20skills.pdf) | [Verify](https://verify.skilljar.com/c/2jxpxwmqdcyp) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20agent%20skills.png) · [Verify](https://academy.claude.com/verify/f568ff531665f510978b957c865f2af4) |
 | 20 | **Introduction to Claude Cowork** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20Claude%20Cowork.pdf) | [Verify](https://verify.skilljar.com/c/n63skaqkpxs8) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20Claude%20Cowork.png) · [Verify](https://academy.claude.com/verify/7e0320325938630d9536a61078cc69a9) |
-| 21 | **Introduction to Model Context Protocol** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20Model%20Context%20Protocol.pdf) | [Verify](https://verify.skilljar.com/c/mbuap2cnv3pp) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20Model%20Context%20Protocol.png) · [Verify](https://academy.claude.com/verify/0377c528acb2ecff93695ef9a9b56369) |
-| 22 | **Introduction to subagents** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20subagents.pdf) | [Verify](https://verify.skilljar.com/c/yrz3errg7n2g) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20subagents.png) · [Verify](https://academy.claude.com/verify/7c8ad2d367ff550c18bfb458cfcf5bd5) |
-| 23 | **Model Context Protocol-Advanced Topics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Model%20Context%20Protocol-Advanced%20Topics.pdf) | [Verify](https://verify.skilljar.com/c/ktyatn8th58j) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Model%20Context%20Protocol-Advanced%20Topics.png) · [Verify](https://academy.claude.com/verify/f7904c762c678c6e136bc866545a47e4) |
-| 24 | **Teaching AI Fluency** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Teaching%20AI%20Fluency.pdf) | [Verify](https://verify.skilljar.com/c/qsd5j744a2pc) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Teaching%20AI%20Fluency.png) · [Verify](https://academy.claude.com/verify/59092b63e1969a2cb07ac14a57bd13ed) |
+| 21 | **Introduction to Claude Tag** | Not issued | Not issued | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20Claude%20Tag.png) · [Verify](https://academy.claude.com/verify/1457c145d13c12616f01f80a990a7fe7) |
+| 22 | **Introduction to Model Context Protocol** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20Model%20Context%20Protocol.pdf) | [Verify](https://verify.skilljar.com/c/mbuap2cnv3pp) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20Model%20Context%20Protocol.png) · [Verify](https://academy.claude.com/verify/0377c528acb2ecff93695ef9a9b56369) |
+| 23 | **Introduction to subagents** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Introduction%20to%20subagents.pdf) | [Verify](https://verify.skilljar.com/c/yrz3errg7n2g) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Introduction%20to%20subagents.png) · [Verify](https://academy.claude.com/verify/7c8ad2d367ff550c18bfb458cfcf5bd5) |
+| 24 | **Model Context Protocol-Advanced Topics** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Model%20Context%20Protocol-Advanced%20Topics.pdf) | [Verify](https://verify.skilljar.com/c/ktyatn8th58j) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Model%20Context%20Protocol-Advanced%20Topics.png) · [Verify](https://academy.claude.com/verify/f7904c762c678c6e136bc866545a47e4) |
+| 25 | **Teaching AI Fluency** | [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Certificate%20-%20Teaching%20AI%20Fluency.pdf) | [Verify](https://verify.skilljar.com/c/qsd5j744a2pc) | [Badge](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Anthropic%20courses/Badge%20-%20Teaching%20AI%20Fluency.png) · [Verify](https://academy.claude.com/verify/59092b63e1969a2cb07ac14a57bd13ed) |
 
 ---
 
